@@ -17,10 +17,10 @@ msgid "%d Minutes"
 msgstr "%d分钟"
 
 msgid "Add"
-msgstr ""
+msgstr "添加"
 
 msgid "Add Fav"
-msgstr ""
+msgstr "添加收藏夹"
 
 msgid "Cache data"
 msgstr "缓存数据"
@@ -32,25 +32,25 @@ msgid "Celsius"
 msgstr "摄氏度"
 
 msgid "Choose the icon set. You need to create an additional set here: /usr/share/enigma2/WeatherIconSets/NAME."
-msgstr ""
+msgstr "选择图标集。您需要在此处创建一个附加集：/usr/share/enigma2/WeatherIconSets/NAME。"
 
 msgid "Choose whether the 'night switch' should be activated or not. Some icons are then displayed as night icons with moon."
-msgstr ""
+msgstr "选择是否应激活“夜间开关”。然后，某些图标会显示为带有月亮的夜间图标。"
 
 msgid "Chose favorite"
-msgstr ""
+msgstr "选择最喜欢的"
 
 msgid "City name must be at least 3 characters"
-msgstr ""
+msgstr "城市名称必须至少 3 个字符"
 
 msgid "Coordinates not available for this location"
-msgstr ""
+msgstr "该位置没有可用的坐标"
 
 msgid "Current Weather"
 msgstr "当前天气"
 
 msgid "Day +/-"
-msgstr ""
+msgstr "日+/-"
 
 msgid "Default"
 msgstr "默认值"
@@ -59,19 +59,19 @@ msgid "Defaults"
 msgstr "默认值"
 
 msgid "Delete"
-msgstr ""
+msgstr "删除"
 
 msgid "Delete failed"
-msgstr ""
+msgstr "删除失败"
 
 msgid "Delete {}?"
-msgstr ""
+msgstr "删除 {}？"
 
 msgid "Detail level in detail view"
-msgstr ""
+msgstr "详细视图中的详细级别"
 
 msgid "Details +/-"
-msgstr ""
+msgstr "详情+/-"
 
 msgid "Disabled"
 msgstr "已禁用"
@@ -80,7 +80,7 @@ msgid "East"
 msgstr "东"
 
 msgid "Edit"
-msgstr ""
+msgstr "编辑"
 
 #, fuzzy
 msgid "Edit city name"
@@ -99,13 +99,13 @@ msgid "Enabled :"
 msgstr "已启用:"
 
 msgid "Enter a personalized API key v2.5 for use with OpenWeatherMap (https://openweathermap.org/)."
-msgstr ""
+msgstr "输入个性化 API 密钥 v2.5 以与 OpenWeatherMap (https://openweathermap.org/) 一起使用。"
 
 msgid "Enter city name (e.g. 'Rome, IT')"
-msgstr ""
+msgstr "输入城市名称（例如“意大利罗马”）"
 
 msgid "Enter the location for your weather forecasts. To include your location, expand your favorites list with 'Manage your favorites'."
-msgstr ""
+msgstr "输入天气预报的位置。要包含您的位置，请使用“管理您的收藏夹”展开您的收藏夹列表。"
 
 #, fuzzy
 msgid "Error adding location"
@@ -116,104 +116,104 @@ msgid "Error changing day"
 msgstr "获取城时出错"
 
 msgid "Error processing location data"
-msgstr ""
+msgstr "处理位置数据时出错"
 
 msgid "Error saving favorites"
-msgstr ""
+msgstr "保存收藏夹时出错"
 
 #, fuzzy
 msgid "Error saving location"
 msgstr "Weatherinfo错误"
 
 msgid "Error selecting location"
-msgstr ""
+msgstr "选择位置时出错"
 
 #, fuzzy
 msgid "Error updating list"
 msgstr "获取城时出错"
 
 msgid "Exit"
-msgstr ""
+msgstr "出口"
 
 msgid "Fahrenheit"
 msgstr "华氏的"
 
 msgid "Favorites saved successfully"
-msgstr ""
+msgstr "收藏夹保存成功"
 
 msgid "Feels like"
 msgstr "体感"
 
 msgid "GREEN: MANAGEMENT FAVORITES | MENU: SETUP | INFO: DETAILS | HOME"
-msgstr ""
+msgstr "绿色：管理层的最爱 |菜单：设置|信息：详细信息|家"
 
 msgid "Glass"
-msgstr ""
+msgstr "玻璃"
 
 msgid "Humidity"
 msgstr "湿度"
 
 msgid "Invalid location coordinates"
-msgstr ""
+msgstr "位置坐标无效"
 
 msgid "Invalid location format"
-msgstr ""
+msgstr "位置格式无效"
 
 #, fuzzy
 msgid "Invalid selection"
 msgstr "位置选择"
 
 msgid "Less details / Larger font"
-msgstr ""
+msgstr "更少的细节/更大的字体"
 
 msgid "Loading weather data..."
-msgstr ""
+msgstr "正在加载天气数据..."
 
 msgid "Location added successfully"
-msgstr ""
+msgstr "位置添加成功"
 
 msgid "Location added to favorites"
-msgstr ""
+msgstr "位置已添加至收藏夹"
 
 msgid "Location already exists"
-msgstr ""
+msgstr "位置已存在"
 
 msgid "Location already in favorites"
-msgstr ""
+msgstr "位置已在收藏夹中"
 
 #, fuzzy
 msgid "Location deleted"
 msgstr "位置选择"
 
 msgid "Location with similar coordinates already exists"
-msgstr ""
+msgstr "具有相似坐标的位置已存在"
 
 msgid "MSN weather"
 msgstr "MSN天气"
 
 msgid "Manage Favorites"
-msgstr ""
+msgstr "管理收藏夹"
 
 msgid "Menu"
-msgstr ""
+msgstr "菜单"
 
 msgid "Metric unit for wind speed"
-msgstr ""
+msgstr "风速的公制单位"
 
 msgid "More Details / Smaller font"
-msgstr ""
+msgstr "更多详细信息/较小的字体"
 
 msgid "N/A"
-msgstr ""
+msgstr "不适用"
 
 msgid "Next favorite"
-msgstr ""
+msgstr "下一个最爱"
 
 msgid "No data"
-msgstr ""
+msgstr "无数据"
 
 msgid "No locations found"
-msgstr ""
+msgstr "没有找到地点"
 
 msgid "North"
 msgstr "北"
@@ -235,13 +235,13 @@ msgid "Please enter a valid city name."
 msgstr "天气城市名称"
 
 msgid "Please enter at least 3 characters"
-msgstr ""
+msgstr "请输入至少3个字符"
 
 msgid "Precipitation"
 msgstr "降水"
 
 msgid "Previous favorite"
-msgstr ""
+msgstr "上一个最爱"
 
 msgid "Refresh interval"
 msgstr "刷新间隔"
@@ -250,7 +250,7 @@ msgid "Refresh interval :"
 msgstr "刷新间隔:"
 
 msgid "Save"
-msgstr ""
+msgstr "节省"
 
 msgid "Select 'Yes' to enable add debug output to log."
 msgstr "选择‘是’以启用将调试输出添加到日志."
@@ -266,10 +266,10 @@ msgid "Select the City and Press Ok"
 msgstr "选择城市,然后按OK"
 
 msgid "Select the detail level in the detail view. You have the choice between a comprehensive presentation in a smaller font and a reduced presentation with a larger font."
-msgstr ""
+msgstr "在详细视图中选择详细级别。您可以选择使用较小字体的综合演示和使用较大字体的简化演示。"
 
 msgid "Select the metric unit for wind speed to be used for wind displays. This has no effect on the imperial unit 'mph'."
-msgstr ""
+msgstr "选择用于风显示的风速公制单位。这对英制单位“mph”没有影响。"
 
 msgid "Select the preferred weather service to supply the weather information."
 msgstr "选择首选天气服务以提供天气信息."
@@ -278,22 +278,22 @@ msgid "Select the temperature unit to be used for temperature displays."
 msgstr "选择用于温度显示的温度单位."
 
 msgid "Select this option to save that last obtained weather data locally. This is used to initialize the data immediately after restart while updated data is being fetched."
-msgstr ""
+msgstr "选择此选项可将上次获取的天气数据保存在本地。这用于在重新启动后立即初始化数据，同时获取更新的数据。"
 
 msgid "Settings"
-msgstr ""
+msgstr "设置"
 
 msgid "Setup"
-msgstr ""
+msgstr "设置"
 
 msgid "Show Weather Forecast"
 msgstr "显示天气预报"
 
 msgid "Show trend arrows for moon data"
-msgstr ""
+msgstr "显示月球数据的趋势箭头"
 
 msgid "Show trend arrows for moon illumination and moon distance to see the current trend of the data."
-msgstr ""
+msgstr "显示月球光照度和月球距离的趋势箭头，以查看数据的当前趋势。"
 
 msgid "South"
 msgstr "南方"
@@ -305,7 +305,7 @@ msgid "Southwest"
 msgstr "西南"
 
 msgid "Specify how often Weather retrieves its data from the server. 'Once' means the data will loaded only once after a GUI or system start."
-msgstr ""
+msgstr "指定天气从服务器检索数据的频率。 “一次”意味着数据在 GUI 或系统启动后仅加载一次。"
 
 msgid "Standard fertig"
 msgstr "标准就绪"
@@ -320,13 +320,13 @@ msgid "Today"
 msgstr "今天"
 
 msgid "Try refreshing or check settings"
-msgstr ""
+msgstr "尝试刷新或检查设置"
 
 msgid "Update"
 msgstr "更新时间:"
 
 msgid "View details"
-msgstr ""
+msgstr "查看详情"
 
 msgid "Weather API key :"
 msgstr "天气API密钥:"
@@ -377,19 +377,19 @@ msgid "West"
 msgstr "西"
 
 msgid "Wind speed metric unit:"
-msgstr ""
+msgstr "风速公制单位："
 
 msgid "You have unsaved changes. Save before exiting?"
-msgstr ""
+msgstr "您有未保存的更改。退出前保存吗？"
 
 msgid "exit"
 msgstr "退出"
 
 msgid "km/h"
-msgstr ""
+msgstr "公里/小时"
 
 msgid "m/s"
-msgstr ""
+msgstr "多发性硬化症"
 
 msgid "n/a"
 msgstr "不适用"

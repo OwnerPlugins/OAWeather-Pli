@@ -15,7 +15,7 @@ msgstr ""
 # FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
 #
 msgid "%d Minutes"
-msgstr ""
+msgstr "Dakika %d"
 
 msgid "Add"
 msgstr ""
@@ -24,7 +24,7 @@ msgid "Add Fav"
 msgstr ""
 
 msgid "Cache data"
-msgstr ""
+msgstr "Data ya akiba"
 
 msgid "Cache data :"
 msgstr ""
@@ -39,340 +39,340 @@ msgid "Choose whether the 'night switch' should be activated or not. Some icons 
 msgstr ""
 
 msgid "Chose favorite"
-msgstr ""
+msgstr "Alichagua favorite"
 
 msgid "City name must be at least 3 characters"
-msgstr ""
+msgstr "Jina la jiji lazima liwe angalau vibambo 3"
 
 msgid "Coordinates not available for this location"
-msgstr ""
+msgstr "Kuratibu hazipatikani kwa eneo hili"
 
 msgid "Current Weather"
-msgstr ""
+msgstr "Hali ya hewa ya Sasa"
 
 msgid "Day +/-"
 msgstr ""
 
 msgid "Default"
-msgstr ""
+msgstr "Chaguomsingi"
 
 msgid "Defaults"
-msgstr ""
+msgstr "Chaguomsingi"
 
 msgid "Delete"
-msgstr ""
+msgstr "Futa"
 
 msgid "Delete failed"
 msgstr ""
 
 msgid "Delete {}?"
-msgstr ""
+msgstr "Ungependa kufuta {}?"
 
 msgid "Detail level in detail view"
-msgstr ""
+msgstr "Kiwango cha maelezo katika mtazamo wa kina"
 
 msgid "Details +/-"
-msgstr ""
+msgstr "Maelezo +/-"
 
 msgid "Disabled"
-msgstr ""
+msgstr "Imezimwa"
 
 msgid "East"
-msgstr ""
+msgstr "Mashariki"
 
 msgid "Edit"
-msgstr ""
+msgstr "Hariri"
 
 msgid "Edit city name"
-msgstr ""
+msgstr "Hariri jina la jiji"
 
 msgid "Enable Debug"
-msgstr ""
+msgstr "Washa Utatuzi"
 
 msgid "Enable Debug :"
-msgstr ""
+msgstr "Washa Utatuzi :"
 
 msgid "Enabled"
-msgstr ""
+msgstr "Imewashwa"
 
 msgid "Enabled :"
-msgstr ""
+msgstr "Imewezeshwa:"
 
 msgid "Enter a personalized API key v2.5 for use with OpenWeatherMap (https://openweathermap.org/)."
-msgstr ""
+msgstr "Weka ufunguo wa API uliobinafsishwa v2.5 ili utumie na OpenWeatherMap (https://openweathermap.org/)."
 
 msgid "Enter city name (e.g. 'Rome, IT')"
-msgstr ""
+msgstr "Weka jina la jiji (k.m. 'Roma, IT')"
 
 msgid "Enter the location for your weather forecasts. To include your location, expand your favorites list with 'Manage your favorites'."
-msgstr ""
+msgstr "Weka eneo la utabiri wako wa hali ya hewa. Ili kujumuisha eneo lako, panua orodha yako ya vipendwa kwa 'Dhibiti vipendwa vyako'."
 
 msgid "Error adding location"
-msgstr ""
+msgstr "Hitilafu katika kuongeza eneo"
 
 msgid "Error changing day"
-msgstr ""
+msgstr "Hitilafu katika kubadilisha siku"
 
 msgid "Error processing location data"
-msgstr ""
+msgstr "Hitilafu katika kuchakata data ya eneo"
 
 msgid "Error saving favorites"
 msgstr ""
 
 msgid "Error saving location"
-msgstr ""
+msgstr "Hitilafu katika kuhifadhi eneo"
 
 msgid "Error selecting location"
-msgstr ""
+msgstr "Hitilafu katika kuchagua eneo"
 
 msgid "Error updating list"
-msgstr ""
+msgstr "Hitilafu katika kusasisha orodha"
 
 msgid "Exit"
-msgstr ""
+msgstr "Utgång"
 
 msgid "Fahrenheit"
 msgstr ""
 
 msgid "Favorites saved successfully"
-msgstr ""
+msgstr "Vipendwa vimehifadhiwa"
 
 msgid "Feels like"
-msgstr ""
+msgstr "Anahisi kama"
 
 msgid "GREEN: MANAGEMENT FAVORITES | MENU: SETUP | INFO: DETAILS | HOME"
-msgstr ""
+msgstr "KIJANI: VIPENZI VYA USIMAMIZI | MENU: WENGI | MAELEZO: MAELEZO | NYUMBANI"
 
 msgid "Glass"
-msgstr ""
+msgstr "Kioo"
 
 msgid "Humidity"
-msgstr ""
+msgstr "Unyevu"
 
 msgid "Invalid location coordinates"
-msgstr ""
+msgstr "Viwianishi batili vya eneo"
 
 msgid "Invalid location format"
-msgstr ""
+msgstr "Umbizo la eneo si sahihi"
 
 msgid "Invalid selection"
-msgstr ""
+msgstr "Uchaguzi batili"
 
 msgid "Less details / Larger font"
-msgstr ""
+msgstr "Maelezo machache / Fonti kubwa zaidi"
 
 msgid "Loading weather data..."
-msgstr ""
+msgstr "Inapakia data ya hali ya hewa..."
 
 msgid "Location added successfully"
-msgstr ""
+msgstr "Mahali pameongezwa"
 
 msgid "Location added to favorites"
-msgstr ""
+msgstr "Eneo limeongezwa kwa vipendwa"
 
 msgid "Location already exists"
-msgstr ""
+msgstr "Eneo tayari lipo"
 
 msgid "Location already in favorites"
-msgstr ""
+msgstr "Mahali tayari katika vipendwa"
 
 msgid "Location deleted"
-msgstr ""
+msgstr "Mahali pamefutwa"
 
 msgid "Location with similar coordinates already exists"
-msgstr ""
+msgstr "Mahali palipo na viwianishi sawa tayari"
 
 msgid "MSN weather"
-msgstr ""
+msgstr "Hali ya hewa ya MSN"
 
 msgid "Manage Favorites"
-msgstr ""
+msgstr "Dhibiti Vipendwa"
 
 msgid "Menu"
-msgstr ""
+msgstr "Menyu"
 
 msgid "Metric unit for wind speed"
-msgstr ""
+msgstr "Kipimo cha kipimo cha kasi ya upepo"
 
 msgid "More Details / Smaller font"
-msgstr ""
+msgstr "Maelezo Zaidi / Fonti Ndogo"
 
 msgid "N/A"
 msgstr ""
 
 msgid "Next favorite"
-msgstr ""
+msgstr "Kipendwa kinachofuata"
 
 msgid "No data"
-msgstr ""
+msgstr "Hakuna data"
 
 msgid "No locations found"
-msgstr ""
+msgstr "Hakuna maeneo yaliyopatikana"
 
 msgid "North"
-msgstr ""
+msgstr "Kaskazini"
 
 msgid "Northeast"
-msgstr ""
+msgstr "Kaskazini mashariki"
 
 msgid "Northwest"
-msgstr ""
+msgstr "Kaskazini Magharibi"
 
 msgid "Open-Meteo Wetter"
-msgstr ""
+msgstr "Hali ya hewa ya Open-Meteo"
 
 msgid "OpenWeatherMap"
 msgstr ""
 
 msgid "Please enter a valid city name."
-msgstr ""
+msgstr "Tafadhali weka jina halali la jiji."
 
 msgid "Please enter at least 3 characters"
 msgstr ""
 
 msgid "Precipitation"
-msgstr ""
+msgstr "Mvua"
 
 msgid "Previous favorite"
-msgstr ""
+msgstr "Kipendwa kilichotangulia"
 
 msgid "Refresh interval"
-msgstr ""
+msgstr "Kipindi cha kuonyesha upya"
 
 msgid "Refresh interval :"
-msgstr ""
+msgstr "Kipindi cha kuonyesha upya :"
 
 msgid "Save"
-msgstr ""
+msgstr "Hifadhi"
 
 msgid "Select 'Yes' to enable add debug output to log."
-msgstr ""
+msgstr "Chagua 'Ndiyo' ili kuwezesha kuongeza pato la utatuzi ili kuingia."
 
 msgid "Select 'Yes' to enable the addition of Weather."
-msgstr ""
+msgstr "Chagua 'Ndiyo' ili kuwezesha uongezaji wa Hali ya Hewa."
 
 msgid "Select location"
-msgstr ""
+msgstr "Chagua eneo"
 
 msgid "Select the City and Press Ok"
-msgstr ""
+msgstr "Chagua Jiji na Bonyeza Sawa"
 
 msgid "Select the detail level in the detail view. You have the choice between a comprehensive presentation in a smaller font and a reduced presentation with a larger font."
-msgstr ""
+msgstr "Chagua kiwango cha maelezo katika mwonekano wa maelezo. Una chaguo kati ya wasilisho la kina katika fonti ndogo na wasilisho lililopunguzwa lenye fonti kubwa zaidi."
 
 msgid "Select the metric unit for wind speed to be used for wind displays. This has no effect on the imperial unit 'mph'."
-msgstr ""
+msgstr "Chagua kipimo cha kipimo cha kasi ya upepo itakayotumika kwa maonyesho ya upepo. Hii haina athari kwa kitengo cha kifalme 'mph'."
 
 msgid "Select the preferred weather service to supply the weather information."
-msgstr ""
+msgstr "Chagua huduma ya hali ya hewa unayopendelea ili kutoa taarifa ya hali ya hewa."
 
 msgid "Select the temperature unit to be used for temperature displays."
-msgstr ""
+msgstr "Chagua kitengo cha halijoto kitakachotumika kwa maonyesho ya halijoto."
 
 msgid "Select this option to save that last obtained weather data locally. This is used to initialize the data immediately after restart while updated data is being fetched."
-msgstr ""
+msgstr "Teua chaguo hili ili kuhifadhi data ya hali ya hewa iliyopatikana mara ya mwisho ndani ya nchi. Hii inatumika kuanzisha data mara baada ya kuwasha upya huku data iliyosasishwa inaletwa."
 
 msgid "Settings"
-msgstr ""
+msgstr "Mipangilio"
 
 msgid "Setup"
-msgstr ""
+msgstr "Sanidi"
 
 msgid "Show Weather Forecast"
-msgstr ""
+msgstr "Onyesha Utabiri wa Hali ya Hewa"
 
 msgid "Show trend arrows for moon data"
-msgstr ""
+msgstr "Onyesha vishale vinavyovuma kwa data ya mwezi"
 
 msgid "Show trend arrows for moon illumination and moon distance to see the current trend of the data."
-msgstr ""
+msgstr "Onyesha vishale vya mwelekeo kwa mwangaza wa mwezi na umbali wa mwezi ili kuona mwelekeo wa sasa wa data."
 
 msgid "South"
-msgstr ""
+msgstr "Kusini"
 
 msgid "Southeast"
-msgstr ""
+msgstr "Kusini-mashariki"
 
 msgid "Southwest"
-msgstr ""
+msgstr "Kusini Magharibi"
 
 msgid "Specify how often Weather retrieves its data from the server. 'Once' means the data will loaded only once after a GUI or system start."
-msgstr ""
+msgstr "Bainisha ni mara ngapi Hali ya Hewa hurejesha data yake kutoka kwa seva. 'Mara moja' inamaanisha kuwa data itapakiwa mara moja tu baada ya GUI au mfumo kuanza."
 
 msgid "Standard fertig"
-msgstr ""
+msgstr "Kawaida imekamilika"
 
 msgid "Temperature unit"
-msgstr ""
+msgstr "Kitengo cha joto"
 
 msgid "Temperature unit :"
-msgstr ""
+msgstr "Kitengo cha joto:"
 
 msgid "Today"
-msgstr ""
+msgstr "Leo"
 
 msgid "Try refreshing or check settings"
-msgstr ""
+msgstr "Jaribu kuonyesha upya au angalia mipangilio"
 
 msgid "Update"
-msgstr ""
+msgstr "Sasisha"
 
 msgid "View details"
-msgstr ""
+msgstr "Tazama maelezo"
 
 msgid "Weather API key :"
-msgstr ""
+msgstr "Ufunguo wa API ya hali ya hewa:"
 
 msgid "Weather API key v2.5"
-msgstr ""
+msgstr "Kitufe cha API ya hali ya hewa v2.5"
 
 msgid "Weather Plugin"
-msgstr ""
+msgstr "Programu-jalizi ya hali ya hewa"
 
 msgid "Weather Plugin Detailview"
-msgstr ""
+msgstr "Mtazamo wa kina wa programu-jalizi ya hali ya hewa"
 
 msgid "Weather city name"
-msgstr ""
+msgstr "Jina la jiji la hali ya hewa"
 
 msgid "Weather city name :"
-msgstr ""
+msgstr "Jina la jiji la hali ya hewa:"
 
 msgid "Weather data unavailable"
-msgstr ""
+msgstr "Data ya hali ya hewa haipatikani"
 
 msgid "Weather icon night switch"
-msgstr ""
+msgstr "Aikoni ya hali ya hewa ya kubadili usiku"
 
 msgid "Weather icon night switch :"
-msgstr ""
+msgstr "Mabadiliko ya usiku ya ikoni ya hali ya hewa:"
 
 msgid "Weather icon set"
-msgstr ""
+msgstr "Aikoni ya hali ya hewa imewekwa"
 
 msgid "Weather icon set :"
-msgstr ""
+msgstr "Seti ya ikoni ya hali ya hewa:"
 
 msgid "Weather service"
-msgstr ""
+msgstr "Huduma ya hali ya hewa"
 
 msgid "Weather service :"
-msgstr ""
+msgstr "Huduma ya hali ya hewa:"
 
 msgid "Weather settings"
-msgstr ""
+msgstr "Mipangilio ya hali ya hewa"
 
 msgid "West"
-msgstr ""
+msgstr "Magharibi"
 
 msgid "Wind speed metric unit:"
-msgstr ""
+msgstr "Kipimo cha kipimo cha kasi ya upepo:"
 
 msgid "You have unsaved changes. Save before exiting?"
-msgstr ""
+msgstr "Una mabadiliko ambayo hayajahifadhiwa. Ungependa kuhifadhi kabla ya kuondoka?"
 
 msgid "exit"
-msgstr ""
+msgstr "Utgång"
 
 msgid "km/h"
 msgstr ""

@@ -16,364 +16,364 @@ msgstr ""
 # FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
 #
 msgid "%d Minutes"
-msgstr ""
+msgstr "%d Minutoj"
 
 msgid "Add"
-msgstr ""
+msgstr "Aldoni"
 
 msgid "Add Fav"
-msgstr ""
+msgstr "Aldoni Fav"
 
 msgid "Cache data"
-msgstr ""
+msgstr "Cache datumoj"
 
 msgid "Cache data :"
-msgstr ""
+msgstr "Kaŝmemoraj datumoj:"
 
 msgid "Celsius"
 msgstr ""
 
 msgid "Choose the icon set. You need to create an additional set here: /usr/share/enigma2/WeatherIconSets/NAME."
-msgstr ""
+msgstr "Elektu la piktogramon. Vi devas krei plian aron ĉi tie: /usr/share/enigma2/WeatherIconSets/NAME."
 
 msgid "Choose whether the 'night switch' should be activated or not. Some icons are then displayed as night icons with moon."
-msgstr ""
+msgstr "Elektu ĉu la 'nokta ŝaltilo' estu aktivigita aŭ ne. Kelkaj ikonoj tiam estas montrataj kiel noktaj ikonoj kun luno."
 
 msgid "Chose favorite"
-msgstr ""
+msgstr "Elektu plej ŝatatan"
 
 msgid "City name must be at least 3 characters"
-msgstr ""
+msgstr "Urbonomo devas esti almenaŭ 3 signoj"
 
 msgid "Coordinates not available for this location"
-msgstr ""
+msgstr "Koordinatoj ne haveblaj por ĉi tiu loko"
 
 msgid "Current Weather"
-msgstr ""
+msgstr "Nuna Vetero"
 
 msgid "Day +/-"
-msgstr ""
+msgstr "Tago +/-"
 
 msgid "Default"
-msgstr ""
+msgstr "Defaŭlte"
 
 msgid "Defaults"
-msgstr ""
+msgstr "Defaŭltoj"
 
 msgid "Delete"
-msgstr ""
+msgstr "Forigi"
 
 msgid "Delete failed"
-msgstr ""
+msgstr "Forigo malsukcesis"
 
 msgid "Delete {}?"
-msgstr ""
+msgstr "Ĉu forigi {}?"
 
 msgid "Detail level in detail view"
-msgstr ""
+msgstr "Detala nivelo en detala vido"
 
 msgid "Details +/-"
-msgstr ""
+msgstr "Detaloj +/-"
 
 msgid "Disabled"
-msgstr ""
+msgstr "Malebligita"
 
 msgid "East"
-msgstr ""
+msgstr "Oriento"
 
 msgid "Edit"
-msgstr ""
+msgstr "Redakti"
 
 msgid "Edit city name"
-msgstr ""
+msgstr "Redaktu urbonomon"
 
 msgid "Enable Debug"
-msgstr ""
+msgstr "Ebligu Sencimigon"
 
 msgid "Enable Debug :"
-msgstr ""
+msgstr "Ebligi Sencimigon:"
 
 msgid "Enabled"
-msgstr ""
+msgstr "Ebligita"
 
 msgid "Enabled :"
-msgstr ""
+msgstr "Ebligita:"
 
 msgid "Enter a personalized API key v2.5 for use with OpenWeatherMap (https://openweathermap.org/)."
-msgstr ""
+msgstr "Enigu personigitan API-ŝlosilon v2.5 por uzi kun OpenWeatherMap (https://openweathermap.org/)."
 
 msgid "Enter city name (e.g. 'Rome, IT')"
-msgstr ""
+msgstr "Enigu urbonomon (ekz. 'Romo, IT')"
 
 msgid "Enter the location for your weather forecasts. To include your location, expand your favorites list with 'Manage your favorites'."
-msgstr ""
+msgstr "Enigu la lokon por viaj veterprognozoj. Por inkluzivi vian lokon, vastigu vian plej ŝatatajn liston per 'Administri viajn plej ŝatatajn'."
 
 msgid "Error adding location"
-msgstr ""
+msgstr "Eraro aldonante lokon"
 
 msgid "Error changing day"
-msgstr ""
+msgstr "Eraro dum ŝanĝo de tago"
 
 msgid "Error processing location data"
-msgstr ""
+msgstr "Eraro pri prilaborado de lokdatumoj"
 
 msgid "Error saving favorites"
-msgstr ""
+msgstr "Eraro dum konservado de plej ŝatataj"
 
 msgid "Error saving location"
-msgstr ""
+msgstr "Eraro dum konservado de loko"
 
 msgid "Error selecting location"
-msgstr ""
+msgstr "Eraro elektante lokon"
 
 msgid "Error updating list"
-msgstr ""
+msgstr "Eraro dum ĝisdatigo de listo"
 
 msgid "Exit"
-msgstr ""
+msgstr "Eliro"
 
 msgid "Fahrenheit"
 msgstr ""
 
 msgid "Favorites saved successfully"
-msgstr ""
+msgstr "Favoritoj konservitaj sukcese"
 
 msgid "Feels like"
-msgstr ""
+msgstr "Sentas kiel"
 
 msgid "GREEN: MANAGEMENT FAVORITES | MENU: SETUP | INFO: DETAILS | HOME"
-msgstr ""
+msgstr "VERDA: ADMINISTRAJ PREFERATOJ | MENUO: AJRO | INFO: DETALO | HEJMO"
 
 msgid "Glass"
-msgstr ""
+msgstr "Vitro"
 
 msgid "Humidity"
-msgstr ""
+msgstr "Humideco"
 
 msgid "Invalid location coordinates"
-msgstr ""
+msgstr "Nevalidaj lokkoordinatoj"
 
 msgid "Invalid location format"
-msgstr ""
+msgstr "Nevalida lokoformato"
 
 msgid "Invalid selection"
-msgstr ""
+msgstr "Nevalida elekto"
 
 msgid "Less details / Larger font"
-msgstr ""
+msgstr "Malpli da detaloj / Pli granda tiparo"
 
 msgid "Loading weather data..."
-msgstr ""
+msgstr "Ŝarĝante veterdatenojn..."
 
 msgid "Location added successfully"
-msgstr ""
+msgstr "Loko aldonita sukcese"
 
 msgid "Location added to favorites"
-msgstr ""
+msgstr "Loko aldonita al plej ŝatataj"
 
 msgid "Location already exists"
-msgstr ""
+msgstr "Loko jam ekzistas"
 
 msgid "Location already in favorites"
-msgstr ""
+msgstr "Loko jam en plej ŝatataj"
 
 msgid "Location deleted"
-msgstr ""
+msgstr "Loko forigita"
 
 msgid "Location with similar coordinates already exists"
-msgstr ""
+msgstr "Loko kun similaj koordinatoj jam ekzistas"
 
 msgid "MSN weather"
-msgstr ""
+msgstr "MSN-vetero"
 
 msgid "Manage Favorites"
-msgstr ""
+msgstr "Administri Favoritojn"
 
 msgid "Menu"
-msgstr ""
+msgstr "Menuo"
 
 msgid "Metric unit for wind speed"
-msgstr ""
+msgstr "Metrika unuo por ventorapideco"
 
 msgid "More Details / Smaller font"
-msgstr ""
+msgstr "Pli Detaloj / Pli malgranda tiparo"
 
 msgid "N/A"
 msgstr ""
 
 msgid "Next favorite"
-msgstr ""
+msgstr "Sekva plej ŝatata"
 
 msgid "No data"
-msgstr ""
+msgstr "Neniuj datumoj"
 
 msgid "No locations found"
-msgstr ""
+msgstr "Neniuj lokoj trovitaj"
 
 msgid "North"
-msgstr ""
+msgstr "Nordo"
 
 msgid "Northeast"
-msgstr ""
+msgstr "Nordoriente"
 
 msgid "Northwest"
-msgstr ""
+msgstr "Nordokcidento"
 
 msgid "Open-Meteo Wetter"
-msgstr ""
+msgstr "Malferma-Meteo Vetero"
 
 msgid "OpenWeatherMap"
 msgstr ""
 
 msgid "Please enter a valid city name."
-msgstr ""
+msgstr "Bonvolu enigi validan urbonomon."
 
 msgid "Please enter at least 3 characters"
-msgstr ""
+msgstr "Bonvolu enigi almenaŭ 3 signojn"
 
 msgid "Precipitation"
-msgstr ""
+msgstr "Precipitaĵo"
 
 msgid "Previous favorite"
-msgstr ""
+msgstr "Antaŭa ŝatata"
 
 msgid "Refresh interval"
-msgstr ""
+msgstr "Refreŝiga intervalo"
 
 msgid "Refresh interval :"
-msgstr ""
+msgstr "Refreŝiga intervalo:"
 
 msgid "Save"
-msgstr ""
+msgstr "Konservu"
 
 msgid "Select 'Yes' to enable add debug output to log."
-msgstr ""
+msgstr "Elektu 'Jes' por ebligi aldoni sencimigan eligon al ensaluti."
 
 msgid "Select 'Yes' to enable the addition of Weather."
-msgstr ""
+msgstr "Elektu 'Jes' por ebligi la aldonon de Vetero."
 
 msgid "Select location"
-msgstr ""
+msgstr "Elektu lokon"
 
 msgid "Select the City and Press Ok"
-msgstr ""
+msgstr "Elektu la Urbon kaj Premu Ok"
 
 msgid "Select the detail level in the detail view. You have the choice between a comprehensive presentation in a smaller font and a reduced presentation with a larger font."
-msgstr ""
+msgstr "Elektu la detalnivelon en la detala vido. Vi havas la elekton inter ampleksa prezento en pli malgranda tiparo kaj reduktita prezento kun pli granda tiparo."
 
 msgid "Select the metric unit for wind speed to be used for wind displays. This has no effect on the imperial unit 'mph'."
-msgstr ""
+msgstr "Elektu la metrikan unuon por ventorapideco por esti uzata por ventomontroj. Tio havas neniun efikon al la imperia unuo "mph"."
 
 msgid "Select the preferred weather service to supply the weather information."
-msgstr ""
+msgstr "Elektu la preferatan veterservon por provizi la veterinformojn."
 
 msgid "Select the temperature unit to be used for temperature displays."
-msgstr ""
+msgstr "Elektu la temperaturunuon por esti uzata por temperaturmontroj."
 
 msgid "Select this option to save that last obtained weather data locally. This is used to initialize the data immediately after restart while updated data is being fetched."
-msgstr ""
+msgstr "Elektu ĉi tiun opcion por konservi la lastajn akiritajn veterdatumojn loke. Ĉi tio estas uzata por pravalorigi la datumojn tuj post rekomenco dum ĝisdatigitaj datumoj estas prenitaj."
 
 msgid "Settings"
-msgstr ""
+msgstr "Agordoj"
 
 msgid "Setup"
-msgstr ""
+msgstr "Agordi"
 
 msgid "Show Weather Forecast"
-msgstr ""
+msgstr "Montru Veterprognozon"
 
 msgid "Show trend arrows for moon data"
-msgstr ""
+msgstr "Montru tendencajn sagojn por lunaj datumoj"
 
 msgid "Show trend arrows for moon illumination and moon distance to see the current trend of the data."
-msgstr ""
+msgstr "Montru tendencajn sagojn por lunlumigado kaj lundistanco por vidi la aktualan tendencon de la datumoj."
 
 msgid "South"
-msgstr ""
+msgstr "Suda"
 
 msgid "Southeast"
-msgstr ""
+msgstr "Sudoriente"
 
 msgid "Southwest"
-msgstr ""
+msgstr "Sudokcidento"
 
 msgid "Specify how often Weather retrieves its data from the server. 'Once' means the data will loaded only once after a GUI or system start."
-msgstr ""
+msgstr "Indiku kiom ofte Vetero prenas siajn datumojn de la servilo. "Unufoje" signifas, ke la datumoj ŝarĝos nur unufoje post kiam GUI aŭ sistemo komenciĝas."
 
 msgid "Standard fertig"
-msgstr ""
+msgstr "Normo finiĝis"
 
 msgid "Temperature unit"
-msgstr ""
+msgstr "Temperaturo unuo"
 
 msgid "Temperature unit :"
-msgstr ""
+msgstr "Temperaturo unuo:"
 
 msgid "Today"
-msgstr ""
+msgstr "Hodiaŭ"
 
 msgid "Try refreshing or check settings"
-msgstr ""
+msgstr "Provu refreŝigi aŭ kontroli agordojn"
 
 msgid "Update"
-msgstr ""
+msgstr "Ĝisdatigo"
 
 msgid "View details"
-msgstr ""
+msgstr "Rigardu detalojn"
 
 msgid "Weather API key :"
-msgstr ""
+msgstr "Vetera API-ŝlosilo:"
 
 msgid "Weather API key v2.5"
-msgstr ""
+msgstr "Vetera API-ŝlosilo v2.5"
 
 msgid "Weather Plugin"
-msgstr ""
+msgstr "Vetera Kromaĵo"
 
 msgid "Weather Plugin Detailview"
-msgstr ""
+msgstr "Detalo pri Vetera Kromaĵo"
 
 msgid "Weather city name"
-msgstr ""
+msgstr "Vetera urbonomo"
 
 msgid "Weather city name :"
-msgstr ""
+msgstr "Vetera urbonomo:"
 
 msgid "Weather data unavailable"
-msgstr ""
+msgstr "Veterdatenoj nedisponeblaj"
 
 msgid "Weather icon night switch"
-msgstr ""
+msgstr "Veterikono nokta ŝaltilo"
 
 msgid "Weather icon night switch :"
-msgstr ""
+msgstr "Veterikono nokta ŝaltilo:"
 
 msgid "Weather icon set"
-msgstr ""
+msgstr "Vetera piktogramo aro"
 
 msgid "Weather icon set :"
-msgstr ""
+msgstr "Vetera piktogramo aro:"
 
 msgid "Weather service"
-msgstr ""
+msgstr "Veterservo"
 
 msgid "Weather service :"
-msgstr ""
+msgstr "Veterservo:"
 
 msgid "Weather settings"
-msgstr ""
+msgstr "Veteraj agordoj"
 
 msgid "West"
-msgstr ""
+msgstr "Okcidenta"
 
 msgid "Wind speed metric unit:"
-msgstr ""
+msgstr "Ventrapideco metrika unuo:"
 
 msgid "You have unsaved changes. Save before exiting?"
-msgstr ""
+msgstr "Vi havas nekonservitajn ŝanĝojn. Ĉu konservi antaŭ ol eliri?"
 
 msgid "exit"
-msgstr ""
+msgstr "eliro"
 
 msgid "km/h"
 msgstr ""

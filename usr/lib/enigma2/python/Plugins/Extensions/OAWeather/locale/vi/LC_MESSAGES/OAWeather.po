@@ -16,370 +16,370 @@ msgstr ""
 # FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
 #
 msgid "%d Minutes"
-msgstr ""
+msgstr "%d phút"
 
 msgid "Add"
-msgstr ""
+msgstr "Thêm vào"
 
 msgid "Add Fav"
-msgstr ""
+msgstr "Thêm yêu thích"
 
 msgid "Cache data"
-msgstr ""
+msgstr "Dữ liệu bộ nhớ đệm"
 
 msgid "Cache data :"
-msgstr ""
+msgstr "Dữ liệu bộ đệm:"
 
 msgid "Celsius"
-msgstr ""
+msgstr "độ C"
 
 msgid "Choose the icon set. You need to create an additional set here: /usr/share/enigma2/WeatherIconSets/NAME."
-msgstr ""
+msgstr "Chọn bộ biểu tượng. Bạn cần tạo một bộ bổ sung tại đây: /usr/share/enigma2/WeatherIconSets/NAME."
 
 msgid "Choose whether the 'night switch' should be activated or not. Some icons are then displayed as night icons with moon."
-msgstr ""
+msgstr "Chọn xem có nên kích hoạt 'công tắc ban đêm' hay không. Một số biểu tượng sau đó được hiển thị dưới dạng biểu tượng ban đêm với mặt trăng."
 
 msgid "Chose favorite"
-msgstr ""
+msgstr "Chọn yêu thích"
 
 msgid "City name must be at least 3 characters"
-msgstr ""
+msgstr "Tên thành phố phải có ít nhất 3 ký tự"
 
 msgid "Coordinates not available for this location"
-msgstr ""
+msgstr "Tọa độ không có sẵn cho vị trí này"
 
 msgid "Current Weather"
-msgstr ""
+msgstr "Thời tiết hiện tại"
 
 msgid "Day +/-"
-msgstr ""
+msgstr "Ngày +/-"
 
 msgid "Default"
-msgstr ""
+msgstr "Mặc định"
 
 msgid "Defaults"
-msgstr ""
+msgstr "Mặc định"
 
 msgid "Delete"
-msgstr ""
+msgstr "Xóa bỏ"
 
 msgid "Delete failed"
-msgstr ""
+msgstr "Xóa không thành công"
 
 msgid "Delete {}?"
-msgstr ""
+msgstr "Xóa bỏ {}?"
 
 msgid "Detail level in detail view"
-msgstr ""
+msgstr "Mức độ chi tiết trong chế độ xem chi tiết"
 
 msgid "Details +/-"
-msgstr ""
+msgstr "Chi tiết +/-"
 
 msgid "Disabled"
-msgstr ""
+msgstr "Tàn tật"
 
 msgid "East"
-msgstr ""
+msgstr "Phía đông"
 
 msgid "Edit"
-msgstr ""
+msgstr "Biên tập"
 
 msgid "Edit city name"
-msgstr ""
+msgstr "Chỉnh sửa tên thành phố"
 
 msgid "Enable Debug"
-msgstr ""
+msgstr "Bật gỡ lỗi"
 
 msgid "Enable Debug :"
-msgstr ""
+msgstr "Bật gỡ lỗi:"
 
 msgid "Enabled"
-msgstr ""
+msgstr "Đã bật"
 
 msgid "Enabled :"
-msgstr ""
+msgstr "Đã bật:"
 
 msgid "Enter a personalized API key v2.5 for use with OpenWeatherMap (https://openweathermap.org/)."
-msgstr ""
+msgstr "Nhập khóa API được cá nhân hóa v2.5 để sử dụng với OpenWeatherMap (https://openweathermap.org/)."
 
 msgid "Enter city name (e.g. 'Rome, IT')"
-msgstr ""
+msgstr "Nhập tên thành phố (ví dụ: 'Rome, IT')"
 
 msgid "Enter the location for your weather forecasts. To include your location, expand your favorites list with 'Manage your favorites'."
-msgstr ""
+msgstr "Nhập vị trí để dự báo thời tiết của bạn. Để bao gồm vị trí của bạn, hãy mở rộng danh sách yêu thích của bạn bằng 'Quản lý mục yêu thích của bạn'."
 
 msgid "Error adding location"
-msgstr ""
+msgstr "Lỗi khi thêm vị trí"
 
 msgid "Error changing day"
-msgstr ""
+msgstr "Lỗi đổi ngày"
 
 msgid "Error processing location data"
-msgstr ""
+msgstr "Lỗi xử lý dữ liệu vị trí"
 
 msgid "Error saving favorites"
-msgstr ""
+msgstr "Lỗi lưu mục yêu thích"
 
 msgid "Error saving location"
-msgstr ""
+msgstr "Lỗi lưu vị trí"
 
 msgid "Error selecting location"
-msgstr ""
+msgstr "Lỗi chọn vị trí"
 
 msgid "Error updating list"
-msgstr ""
+msgstr "Lỗi cập nhật danh sách"
 
 msgid "Exit"
-msgstr ""
+msgstr "Ra"
 
 msgid "Fahrenheit"
-msgstr ""
+msgstr "độ F"
 
 msgid "Favorites saved successfully"
-msgstr ""
+msgstr "Đã lưu thành công mục yêu thích"
 
 msgid "Feels like"
-msgstr ""
+msgstr "Cảm thấy như"
 
 msgid "GREEN: MANAGEMENT FAVORITES | MENU: SETUP | INFO: DETAILS | HOME"
-msgstr ""
+msgstr "XANH: YÊU THÍCH QUẢN LÝ | THỰC ĐƠN: CÀI ĐẶT | THÔNG TIN: CHI TIẾT | TRANG CHỦ"
 
 msgid "Glass"
-msgstr ""
+msgstr "Thủy tinh"
 
 msgid "Humidity"
-msgstr ""
+msgstr "Độ ẩm"
 
 msgid "Invalid location coordinates"
-msgstr ""
+msgstr "Tọa độ vị trí không hợp lệ"
 
 msgid "Invalid location format"
 msgstr ""
 
 msgid "Invalid selection"
-msgstr ""
+msgstr "Lựa chọn không hợp lệ"
 
 msgid "Less details / Larger font"
-msgstr ""
+msgstr "Ít chi tiết hơn / Phông chữ lớn hơn"
 
 msgid "Loading weather data..."
-msgstr ""
+msgstr "Đang tải dữ liệu thời tiết..."
 
 msgid "Location added successfully"
-msgstr ""
+msgstr "Đã thêm vị trí thành công"
 
 msgid "Location added to favorites"
-msgstr ""
+msgstr "Đã thêm vị trí vào mục yêu thích"
 
 msgid "Location already exists"
-msgstr ""
+msgstr "Vị trí đã tồn tại"
 
 msgid "Location already in favorites"
-msgstr ""
+msgstr "Vị trí đã có trong mục yêu thích"
 
 msgid "Location deleted"
-msgstr ""
+msgstr "Đã xóa vị trí"
 
 msgid "Location with similar coordinates already exists"
-msgstr ""
+msgstr "Vị trí có tọa độ tương tự đã tồn tại"
 
 msgid "MSN weather"
-msgstr ""
+msgstr "thời tiết MSN"
 
 msgid "Manage Favorites"
-msgstr ""
+msgstr "Quản lý yêu thích"
 
 msgid "Menu"
-msgstr ""
+msgstr "Thực đơn"
 
 msgid "Metric unit for wind speed"
-msgstr ""
+msgstr "Đơn vị đo tốc độ gió"
 
 msgid "More Details / Smaller font"
-msgstr ""
+msgstr "Thêm chi tiết / Phông chữ nhỏ hơn"
 
 msgid "N/A"
-msgstr ""
+msgstr "không áp dụng"
 
 msgid "Next favorite"
-msgstr ""
+msgstr "Yêu thích tiếp theo"
 
 msgid "No data"
-msgstr ""
+msgstr "Không có dữ liệu"
 
 msgid "No locations found"
-msgstr ""
+msgstr "Không tìm thấy địa điểm nào"
 
 msgid "North"
-msgstr ""
+msgstr "Phía bắc"
 
 msgid "Northeast"
-msgstr ""
+msgstr "Đông Bắc"
 
 msgid "Northwest"
-msgstr ""
+msgstr "Tây Bắc"
 
 msgid "Open-Meteo Wetter"
-msgstr ""
+msgstr "Thời tiết Meteo mở"
 
 msgid "OpenWeatherMap"
-msgstr ""
+msgstr "Bản đồ thời tiết mở"
 
 msgid "Please enter a valid city name."
-msgstr ""
+msgstr "Vui lòng nhập tên thành phố hợp lệ."
 
 msgid "Please enter at least 3 characters"
-msgstr ""
+msgstr "Vui lòng nhập ít nhất 3 ký tự"
 
 msgid "Precipitation"
-msgstr ""
+msgstr "Sự kết tủa"
 
 msgid "Previous favorite"
-msgstr ""
+msgstr "Yêu thích trước đó"
 
 msgid "Refresh interval"
-msgstr ""
+msgstr "Khoảng thời gian làm mới"
 
 msgid "Refresh interval :"
-msgstr ""
+msgstr "Khoảng thời gian làm mới:"
 
 msgid "Save"
-msgstr ""
+msgstr "Cứu"
 
 msgid "Select 'Yes' to enable add debug output to log."
-msgstr ""
+msgstr "Chọn 'Có' để bật thêm đầu ra gỡ lỗi vào nhật ký."
 
 msgid "Select 'Yes' to enable the addition of Weather."
-msgstr ""
+msgstr "Chọn 'Có' để bật thêm Thời tiết."
 
 msgid "Select location"
-msgstr ""
+msgstr "Chọn vị trí"
 
 msgid "Select the City and Press Ok"
-msgstr ""
+msgstr "Chọn thành phố và nhấn Ok"
 
 msgid "Select the detail level in the detail view. You have the choice between a comprehensive presentation in a smaller font and a reduced presentation with a larger font."
-msgstr ""
+msgstr "Chọn mức độ chi tiết trong chế độ xem chi tiết. Bạn có thể lựa chọn giữa một bản trình bày toàn diện với phông chữ nhỏ hơn và một bản trình bày rút gọn với phông chữ lớn hơn."
 
 msgid "Select the metric unit for wind speed to be used for wind displays. This has no effect on the imperial unit 'mph'."
-msgstr ""
+msgstr "Chọn đơn vị số liệu cho tốc độ gió sẽ được sử dụng để hiển thị gió. Điều này không có tác dụng đối với đơn vị đo lường Anh 'mph'."
 
 msgid "Select the preferred weather service to supply the weather information."
-msgstr ""
+msgstr "Chọn dịch vụ thời tiết ưa thích để cung cấp thông tin thời tiết."
 
 msgid "Select the temperature unit to be used for temperature displays."
-msgstr ""
+msgstr "Chọn đơn vị nhiệt độ được sử dụng để hiển thị nhiệt độ."
 
 msgid "Select this option to save that last obtained weather data locally. This is used to initialize the data immediately after restart while updated data is being fetched."
-msgstr ""
+msgstr "Chọn tùy chọn này để lưu cục bộ dữ liệu thời tiết thu được cuối cùng đó. Điều này được sử dụng để khởi tạo dữ liệu ngay sau khi khởi động lại trong khi dữ liệu cập nhật đang được tìm nạp."
 
 msgid "Settings"
-msgstr ""
+msgstr "Cài đặt"
 
 msgid "Setup"
-msgstr ""
+msgstr "Cài đặt"
 
 msgid "Show Weather Forecast"
-msgstr ""
+msgstr "Hiển thị dự báo thời tiết"
 
 msgid "Show trend arrows for moon data"
-msgstr ""
+msgstr "Hiển thị mũi tên xu hướng cho dữ liệu mặt trăng"
 
 msgid "Show trend arrows for moon illumination and moon distance to see the current trend of the data."
-msgstr ""
+msgstr "Hiển thị các mũi tên xu hướng về độ sáng của mặt trăng và khoảng cách của mặt trăng để xem xu hướng hiện tại của dữ liệu."
 
 msgid "South"
-msgstr ""
+msgstr "Phía nam"
 
 msgid "Southeast"
-msgstr ""
+msgstr "Đông Nam Bộ"
 
 msgid "Southwest"
-msgstr ""
+msgstr "Tây nam"
 
 msgid "Specify how often Weather retrieves its data from the server. 'Once' means the data will loaded only once after a GUI or system start."
-msgstr ""
+msgstr "Chỉ định tần suất Thời tiết truy xuất dữ liệu từ máy chủ. 'Một lần' có nghĩa là dữ liệu sẽ chỉ được tải một lần sau khi GUI hoặc hệ thống khởi động."
 
 msgid "Standard fertig"
-msgstr ""
+msgstr "Tiêu chuẩn đã hoàn thành"
 
 msgid "Temperature unit"
-msgstr ""
+msgstr "Đơn vị nhiệt độ"
 
 msgid "Temperature unit :"
-msgstr ""
+msgstr "Đơn vị nhiệt độ:"
 
 msgid "Today"
-msgstr ""
+msgstr "Hôm nay"
 
 msgid "Try refreshing or check settings"
-msgstr ""
+msgstr "Hãy thử làm mới hoặc kiểm tra cài đặt"
 
 msgid "Update"
-msgstr ""
+msgstr "Cập nhật"
 
 msgid "View details"
-msgstr ""
+msgstr "Xem chi tiết"
 
 msgid "Weather API key :"
-msgstr ""
+msgstr "Khóa API thời tiết:"
 
 msgid "Weather API key v2.5"
-msgstr ""
+msgstr "Khóa API thời tiết v2.5"
 
 msgid "Weather Plugin"
-msgstr ""
+msgstr "Plugin thời tiết"
 
 msgid "Weather Plugin Detailview"
-msgstr ""
+msgstr "Xem chi tiết plugin thời tiết"
 
 msgid "Weather city name"
-msgstr ""
+msgstr "Tên thành phố thời tiết"
 
 msgid "Weather city name :"
-msgstr ""
+msgstr "Tên thành phố thời tiết:"
 
 msgid "Weather data unavailable"
-msgstr ""
+msgstr "Dữ liệu thời tiết không có sẵn"
 
 msgid "Weather icon night switch"
-msgstr ""
+msgstr "Biểu tượng thời tiết công tắc ban đêm"
 
 msgid "Weather icon night switch :"
-msgstr ""
+msgstr "Biểu tượng thời tiết chuyển đổi ban đêm:"
 
 msgid "Weather icon set"
-msgstr ""
+msgstr "Bộ biểu tượng thời tiết"
 
 msgid "Weather icon set :"
-msgstr ""
+msgstr "Bộ biểu tượng thời tiết:"
 
 msgid "Weather service"
-msgstr ""
+msgstr "Dịch vụ thời tiết"
 
 msgid "Weather service :"
-msgstr ""
+msgstr "Dịch vụ thời tiết:"
 
 msgid "Weather settings"
-msgstr ""
+msgstr "Cài đặt thời tiết"
 
 msgid "West"
-msgstr ""
+msgstr "Tây"
 
 msgid "Wind speed metric unit:"
-msgstr ""
+msgstr "Đơn vị đo tốc độ gió:"
 
 msgid "You have unsaved changes. Save before exiting?"
-msgstr ""
+msgstr "Bạn có những thay đổi chưa được lưu. Lưu trước khi thoát?"
 
 msgid "exit"
-msgstr ""
+msgstr "ra"
 
 msgid "km/h"
-msgstr ""
+msgstr "km/giờ"
 
 msgid "m/s"
-msgstr ""
+msgstr "bệnh đa xơ cứng"
 
 msgid "n/a"
-msgstr ""
+msgstr "không có"

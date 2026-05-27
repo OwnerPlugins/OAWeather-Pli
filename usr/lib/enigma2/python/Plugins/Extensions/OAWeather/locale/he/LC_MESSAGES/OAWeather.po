@@ -16,370 +16,370 @@ msgstr ""
 # FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
 #
 msgid "%d Minutes"
-msgstr ""
+msgstr "%d דקות"
 
 msgid "Add"
-msgstr ""
+msgstr "לְהוֹסִיף"
 
 msgid "Add Fav"
-msgstr ""
+msgstr "הוסף Fav"
 
 msgid "Cache data"
-msgstr ""
+msgstr "נתוני מטמון"
 
 msgid "Cache data :"
-msgstr ""
+msgstr "נתוני מטמון:"
 
 msgid "Celsius"
-msgstr ""
+msgstr "צֶלסִיוּס"
 
 msgid "Choose the icon set. You need to create an additional set here: /usr/share/enigma2/WeatherIconSets/NAME."
-msgstr ""
+msgstr "בחר את ערכת הסמלים. עליך ליצור קבוצה נוספת כאן: /usr/share/enigma2/WeatherIconSets/NAME."
 
 msgid "Choose whether the 'night switch' should be activated or not. Some icons are then displayed as night icons with moon."
-msgstr ""
+msgstr "בחר אם יש להפעיל את 'מתג הלילה' או לא. סמלים מסוימים מוצגים לאחר מכן כסמלי לילה עם ירח."
 
 msgid "Chose favorite"
-msgstr ""
+msgstr "בחר מועדף"
 
 msgid "City name must be at least 3 characters"
-msgstr ""
+msgstr "שם העיר חייב להיות בן 3 תווים לפחות"
 
 msgid "Coordinates not available for this location"
-msgstr ""
+msgstr "קואורדינטות אינן זמינות עבור מיקום זה"
 
 msgid "Current Weather"
-msgstr ""
+msgstr "מזג האוויר הנוכחי"
 
 msgid "Day +/-"
-msgstr ""
+msgstr "יום +/-"
 
 msgid "Default"
-msgstr ""
+msgstr "בְּרִירַת מֶחדָל"
 
 msgid "Defaults"
-msgstr ""
+msgstr "ברירות מחדל"
 
 msgid "Delete"
-msgstr ""
+msgstr "לִמְחוֹק"
 
 msgid "Delete failed"
-msgstr ""
+msgstr "המחיקה נכשלה"
 
 msgid "Delete {}?"
-msgstr ""
+msgstr "למחוק את {}?"
 
 msgid "Detail level in detail view"
-msgstr ""
+msgstr "רמת פירוט בתצוגת פירוט"
 
 msgid "Details +/-"
-msgstr ""
+msgstr "פרטים +/-"
 
 msgid "Disabled"
-msgstr ""
+msgstr "נָכֶה"
 
 msgid "East"
-msgstr ""
+msgstr "מִזְרָח"
 
 msgid "Edit"
-msgstr ""
+msgstr "לַעֲרוֹך"
 
 msgid "Edit city name"
-msgstr ""
+msgstr "ערוך את שם העיר"
 
 msgid "Enable Debug"
-msgstr ""
+msgstr "הפעל ניפוי באגים"
 
 msgid "Enable Debug :"
-msgstr ""
+msgstr "הפעל ניפוי באגים:"
 
 msgid "Enabled"
-msgstr ""
+msgstr "מופעל"
 
 msgid "Enabled :"
-msgstr ""
+msgstr "מופעל:"
 
 msgid "Enter a personalized API key v2.5 for use with OpenWeatherMap (https://openweathermap.org/)."
-msgstr ""
+msgstr "הזן מפתח API מותאם אישית v2.5 לשימוש עם OpenWeatherMap (https://openweathermap.org/)."
 
 msgid "Enter city name (e.g. 'Rome, IT')"
-msgstr ""
+msgstr "הזן שם עיר (למשל 'רומא, IT')"
 
 msgid "Enter the location for your weather forecasts. To include your location, expand your favorites list with 'Manage your favorites'."
-msgstr ""
+msgstr "הזן את המיקום עבור תחזיות מזג האוויר שלך. כדי לכלול את המיקום שלך, הרחב את רשימת המועדפים שלך עם 'נהל את המועדפים שלך'."
 
 msgid "Error adding location"
-msgstr ""
+msgstr "שגיאה בהוספת מיקום"
 
 msgid "Error changing day"
-msgstr ""
+msgstr "שגיאה בשינוי היום"
 
 msgid "Error processing location data"
-msgstr ""
+msgstr "שגיאה בעיבוד נתוני מיקום"
 
 msgid "Error saving favorites"
-msgstr ""
+msgstr "שגיאה בשמירת המועדפים"
 
 msgid "Error saving location"
-msgstr ""
+msgstr "שגיאה בשמירת המיקום"
 
 msgid "Error selecting location"
-msgstr ""
+msgstr "שגיאה בבחירת המיקום"
 
 msgid "Error updating list"
-msgstr ""
+msgstr "שגיאה בעדכון הרשימה"
 
 msgid "Exit"
-msgstr ""
+msgstr "יְצִיאָה"
 
 msgid "Fahrenheit"
-msgstr ""
+msgstr "פרנהייט"
 
 msgid "Favorites saved successfully"
-msgstr ""
+msgstr "המועדפים נשמרו בהצלחה"
 
 msgid "Feels like"
-msgstr ""
+msgstr "מרגיש כמו"
 
 msgid "GREEN: MANAGEMENT FAVORITES | MENU: SETUP | INFO: DETAILS | HOME"
-msgstr ""
+msgstr "ירוק: ניהול מועדפים | תפריט: הגדרות | מידע: פרטים | בַּיִת"
 
 msgid "Glass"
-msgstr ""
+msgstr "זְכוּכִית"
 
 msgid "Humidity"
-msgstr ""
+msgstr "לַחוּת"
 
 msgid "Invalid location coordinates"
-msgstr ""
+msgstr "קואורדינטות מיקום לא חוקיות"
 
 msgid "Invalid location format"
-msgstr ""
+msgstr "פורמט מיקום לא חוקי"
 
 msgid "Invalid selection"
-msgstr ""
+msgstr "בחירה לא חוקית"
 
 msgid "Less details / Larger font"
-msgstr ""
+msgstr "פחות פרטים / גופן גדול יותר"
 
 msgid "Loading weather data..."
-msgstr ""
+msgstr "טוען נתוני מזג אוויר..."
 
 msgid "Location added successfully"
-msgstr ""
+msgstr "המיקום נוסף בהצלחה"
 
 msgid "Location added to favorites"
-msgstr ""
+msgstr "מיקום נוסף למועדפים"
 
 msgid "Location already exists"
-msgstr ""
+msgstr "המיקום כבר קיים"
 
 msgid "Location already in favorites"
-msgstr ""
+msgstr "המיקום כבר במועדפים"
 
 msgid "Location deleted"
-msgstr ""
+msgstr "המיקום נמחק"
 
 msgid "Location with similar coordinates already exists"
-msgstr ""
+msgstr "מיקום עם קואורדינטות דומות כבר קיים"
 
 msgid "MSN weather"
-msgstr ""
+msgstr "מזג אוויר MSN"
 
 msgid "Manage Favorites"
-msgstr ""
+msgstr "נהל מועדפים"
 
 msgid "Menu"
-msgstr ""
+msgstr "תַפרִיט"
 
 msgid "Metric unit for wind speed"
-msgstr ""
+msgstr "יחידה מטרית למהירות הרוח"
 
 msgid "More Details / Smaller font"
-msgstr ""
+msgstr "פרטים נוספים / גופן קטן יותר"
 
 msgid "N/A"
-msgstr ""
+msgstr "לא"
 
 msgid "Next favorite"
-msgstr ""
+msgstr "האהוב הבא"
 
 msgid "No data"
-msgstr ""
+msgstr "אין נתונים"
 
 msgid "No locations found"
-msgstr ""
+msgstr "לא נמצאו מיקומים"
 
 msgid "North"
-msgstr ""
+msgstr "צָפוֹן"
 
 msgid "Northeast"
-msgstr ""
+msgstr "צְפוֹן מִזרָח"
 
 msgid "Northwest"
-msgstr ""
+msgstr "צְפוֹן מַעֲרָב"
 
 msgid "Open-Meteo Wetter"
-msgstr ""
+msgstr "Open-Meteo Weather"
 
 msgid "OpenWeatherMap"
 msgstr ""
 
 msgid "Please enter a valid city name."
-msgstr ""
+msgstr "נא להזין שם עיר חוקי."
 
 msgid "Please enter at least 3 characters"
-msgstr ""
+msgstr "נא להזין לפחות 3 תווים"
 
 msgid "Precipitation"
-msgstr ""
+msgstr "מִשׁקָע"
 
 msgid "Previous favorite"
-msgstr ""
+msgstr "מועדף קודם"
 
 msgid "Refresh interval"
-msgstr ""
+msgstr "מרווח רענון"
 
 msgid "Refresh interval :"
-msgstr ""
+msgstr "מרווח רענון:"
 
 msgid "Save"
-msgstr ""
+msgstr "לְהַצִיל"
 
 msgid "Select 'Yes' to enable add debug output to log."
-msgstr ""
+msgstr "בחר 'כן' כדי לאפשר הוסף פלט ניפוי באגים ליומן."
 
 msgid "Select 'Yes' to enable the addition of Weather."
-msgstr ""
+msgstr "בחר 'כן' כדי לאפשר את הוספת מזג האוויר."
 
 msgid "Select location"
-msgstr ""
+msgstr "בחר מיקום"
 
 msgid "Select the City and Press Ok"
-msgstr ""
+msgstr "בחר את העיר ולחץ על אישור"
 
 msgid "Select the detail level in the detail view. You have the choice between a comprehensive presentation in a smaller font and a reduced presentation with a larger font."
-msgstr ""
+msgstr "בחר את רמת הפירוט בתצוגת הפירוט. יש לכם בחירה בין מצגת מקיפה בפונט קטן יותר לבין מצגת מוקטנת עם פונט גדול יותר."
 
 msgid "Select the metric unit for wind speed to be used for wind displays. This has no effect on the imperial unit 'mph'."
-msgstr ""
+msgstr "בחר את היחידה המטרית למהירות הרוח שתשמש עבור תצוגות רוח. אין לזה שום השפעה על היחידה הקיסרית 'mph'."
 
 msgid "Select the preferred weather service to supply the weather information."
-msgstr ""
+msgstr "בחר את שירות מזג האוויר המועדף כדי לספק את מידע מזג האוויר."
 
 msgid "Select the temperature unit to be used for temperature displays."
-msgstr ""
+msgstr "בחר את יחידת הטמפרטורה שתשמש עבור תצוגות טמפרטורה."
 
 msgid "Select this option to save that last obtained weather data locally. This is used to initialize the data immediately after restart while updated data is being fetched."
-msgstr ""
+msgstr "בחר באפשרות זו כדי לשמור את נתוני מזג האוויר האחרונים שהתקבלו באופן מקומי. זה משמש לאתחול הנתונים מיד לאחר הפעלה מחדש בזמן שליפת נתונים מעודכנים."
 
 msgid "Settings"
-msgstr ""
+msgstr "הגדרות"
 
 msgid "Setup"
-msgstr ""
+msgstr "הגדרה"
 
 msgid "Show Weather Forecast"
-msgstr ""
+msgstr "הצג תחזית מזג אוויר"
 
 msgid "Show trend arrows for moon data"
-msgstr ""
+msgstr "הצג חיצי מגמה עבור נתוני ירח"
 
 msgid "Show trend arrows for moon illumination and moon distance to see the current trend of the data."
-msgstr ""
+msgstr "הצג חיצי מגמה עבור תאורת הירח ומרחק הירח כדי לראות את המגמה הנוכחית של הנתונים."
 
 msgid "South"
-msgstr ""
+msgstr "דָרוֹם"
 
 msgid "Southeast"
-msgstr ""
+msgstr "דְרוֹם מִזְרָח"
 
 msgid "Southwest"
-msgstr ""
+msgstr "דְרוֹם מַעֲרָב"
 
 msgid "Specify how often Weather retrieves its data from the server. 'Once' means the data will loaded only once after a GUI or system start."
-msgstr ""
+msgstr "ציין באיזו תדירות Weather מאחזר את הנתונים שלו מהשרת. 'פעם אחת' פירושו שהנתונים ייטענו פעם אחת בלבד לאחר הפעלת GUI או מערכת."
 
 msgid "Standard fertig"
-msgstr ""
+msgstr "גימור סטנדרטי"
 
 msgid "Temperature unit"
-msgstr ""
+msgstr "יחידת טמפרטורה"
 
 msgid "Temperature unit :"
-msgstr ""
+msgstr "יחידת טמפרטורה:"
 
 msgid "Today"
-msgstr ""
+msgstr "הַיוֹם"
 
 msgid "Try refreshing or check settings"
-msgstr ""
+msgstr "נסה לרענן או לבדוק את ההגדרות"
 
 msgid "Update"
-msgstr ""
+msgstr "לְעַדְכֵּן"
 
 msgid "View details"
-msgstr ""
+msgstr "הצג פרטים"
 
 msgid "Weather API key :"
-msgstr ""
+msgstr "מפתח API של מזג אוויר:"
 
 msgid "Weather API key v2.5"
-msgstr ""
+msgstr "מפתח API של מזג אוויר גרסה 2.5"
 
 msgid "Weather Plugin"
-msgstr ""
+msgstr "תוסף מזג אוויר"
 
 msgid "Weather Plugin Detailview"
-msgstr ""
+msgstr "תצוגת פירוט של תוסף מזג אוויר"
 
 msgid "Weather city name"
-msgstr ""
+msgstr "שם עיר מזג האוויר"
 
 msgid "Weather city name :"
-msgstr ""
+msgstr "שם עיר מזג האוויר:"
 
 msgid "Weather data unavailable"
-msgstr ""
+msgstr "נתוני מזג האוויר אינם זמינים"
 
 msgid "Weather icon night switch"
-msgstr ""
+msgstr "סמל מזג אוויר מתג לילה"
 
 msgid "Weather icon night switch :"
-msgstr ""
+msgstr "מתג לילה סמל מזג אוויר:"
 
 msgid "Weather icon set"
-msgstr ""
+msgstr "סט אייקונים של מזג אוויר"
 
 msgid "Weather icon set :"
-msgstr ""
+msgstr "ערכת אייקוני מזג אוויר:"
 
 msgid "Weather service"
-msgstr ""
+msgstr "שירות מזג אוויר"
 
 msgid "Weather service :"
-msgstr ""
+msgstr "שירות מזג אוויר:"
 
 msgid "Weather settings"
-msgstr ""
+msgstr "הגדרות מזג אוויר"
 
 msgid "West"
-msgstr ""
+msgstr "מַעֲרָב"
 
 msgid "Wind speed metric unit:"
-msgstr ""
+msgstr "יחידה מטרית של מהירות רוח:"
 
 msgid "You have unsaved changes. Save before exiting?"
-msgstr ""
+msgstr "יש לך שינויים שלא נשמרו. לשמור לפני היציאה?"
 
 msgid "exit"
-msgstr ""
+msgstr "יְצִיאָה"
 
 msgid "km/h"
-msgstr ""
+msgstr "קמ"ש"
 
 msgid "m/s"
-msgstr ""
+msgstr "גְבֶרֶת"
 
 msgid "n/a"
-msgstr ""
+msgstr "לא"

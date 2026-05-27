@@ -15,367 +15,367 @@ msgstr ""
 # FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
 #
 msgid "%d Minutes"
-msgstr ""
+msgstr "%d Minit"
 
 msgid "Add"
-msgstr ""
+msgstr "Tambah"
 
 msgid "Add Fav"
-msgstr ""
+msgstr "Tambah Fav"
 
 msgid "Cache data"
 msgstr ""
 
 msgid "Cache data :"
-msgstr ""
+msgstr "Data cache:"
 
 msgid "Celsius"
-msgstr ""
+msgstr "Celcius"
 
 msgid "Choose the icon set. You need to create an additional set here: /usr/share/enigma2/WeatherIconSets/NAME."
-msgstr ""
+msgstr "Pilih set ikon. Anda perlu membuat set tambahan di sini: /usr/share/enigma2/WeatherIconSets/NAME."
 
 msgid "Choose whether the 'night switch' should be activated or not. Some icons are then displayed as night icons with moon."
-msgstr ""
+msgstr "Pilih sama ada 'suis malam' perlu diaktifkan atau tidak. Beberapa ikon kemudiannya dipaparkan sebagai ikon malam dengan bulan."
 
 msgid "Chose favorite"
-msgstr ""
+msgstr "Pilih kegemaran"
 
 msgid "City name must be at least 3 characters"
-msgstr ""
+msgstr "Nama bandar mestilah sekurang-kurangnya 3 aksara"
 
 msgid "Coordinates not available for this location"
-msgstr ""
+msgstr "Koordinat tidak tersedia untuk lokasi ini"
 
 msgid "Current Weather"
-msgstr ""
+msgstr "Cuaca Semasa"
 
 msgid "Day +/-"
-msgstr ""
+msgstr "Hari +/-"
 
 msgid "Default"
-msgstr ""
+msgstr "Lalai"
 
 msgid "Defaults"
-msgstr ""
+msgstr "Lalai"
 
 msgid "Delete"
-msgstr ""
+msgstr "Padam"
 
 msgid "Delete failed"
-msgstr ""
+msgstr "Padam gagal"
 
 msgid "Delete {}?"
-msgstr ""
+msgstr "Padamkan {}?"
 
 msgid "Detail level in detail view"
-msgstr ""
+msgstr "Tahap terperinci dalam paparan terperinci"
 
 msgid "Details +/-"
-msgstr ""
+msgstr "Butiran +/-"
 
 msgid "Disabled"
-msgstr ""
+msgstr "Dilumpuhkan"
 
 msgid "East"
-msgstr ""
+msgstr "timur"
 
 msgid "Edit"
-msgstr ""
+msgstr "Sunting"
 
 msgid "Edit city name"
-msgstr ""
+msgstr "Edit nama bandar"
 
 msgid "Enable Debug"
-msgstr ""
+msgstr "Dayakan Nyahpepijat"
 
 msgid "Enable Debug :"
-msgstr ""
+msgstr "Dayakan Nyahpepijat :"
 
 msgid "Enabled"
-msgstr ""
+msgstr "Didayakan"
 
 msgid "Enabled :"
-msgstr ""
+msgstr "Didayakan :"
 
 msgid "Enter a personalized API key v2.5 for use with OpenWeatherMap (https://openweathermap.org/)."
-msgstr ""
+msgstr "Masukkan kunci API v2.5 diperibadikan untuk digunakan dengan OpenWeatherMap (https://openweathermap.org/)."
 
 msgid "Enter city name (e.g. 'Rome, IT')"
-msgstr ""
+msgstr "Masukkan nama bandar (cth. 'Rome, IT')"
 
 msgid "Enter the location for your weather forecasts. To include your location, expand your favorites list with 'Manage your favorites'."
-msgstr ""
+msgstr "Masukkan lokasi untuk ramalan cuaca anda. Untuk memasukkan lokasi anda, kembangkan senarai kegemaran anda dengan 'Urus kegemaran anda'."
 
 msgid "Error adding location"
-msgstr ""
+msgstr "Ralat menambah lokasi"
 
 msgid "Error changing day"
-msgstr ""
+msgstr "Ralat menukar hari"
 
 msgid "Error processing location data"
-msgstr ""
+msgstr "Ralat memproses data lokasi"
 
 msgid "Error saving favorites"
-msgstr ""
+msgstr "Ralat menyimpan kegemaran"
 
 msgid "Error saving location"
-msgstr ""
+msgstr "Ralat menyimpan lokasi"
 
 msgid "Error selecting location"
-msgstr ""
+msgstr "Ralat semasa memilih lokasi"
 
 msgid "Error updating list"
-msgstr ""
+msgstr "Ralat mengemas kini senarai"
 
 msgid "Exit"
-msgstr ""
+msgstr "Keluar"
 
 msgid "Fahrenheit"
 msgstr ""
 
 msgid "Favorites saved successfully"
-msgstr ""
+msgstr "Kegemaran berjaya disimpan"
 
 msgid "Feels like"
-msgstr ""
+msgstr "Rasa macam"
 
 msgid "GREEN: MANAGEMENT FAVORITES | MENU: SETUP | INFO: DETAILS | HOME"
-msgstr ""
+msgstr "HIJAU: KEGEMARAN PENGURUSAN | MENU: SETUP | INFO: BUTIRAN | RUMAH"
 
 msgid "Glass"
-msgstr ""
+msgstr "kaca"
 
 msgid "Humidity"
-msgstr ""
+msgstr "Kelembapan"
 
 msgid "Invalid location coordinates"
-msgstr ""
+msgstr "Koordinat lokasi tidak sah"
 
 msgid "Invalid location format"
-msgstr ""
+msgstr "Format lokasi tidak sah"
 
 msgid "Invalid selection"
-msgstr ""
+msgstr "Pemilihan tidak sah"
 
 msgid "Less details / Larger font"
-msgstr ""
+msgstr "Kurang butiran / Fon yang lebih besar"
 
 msgid "Loading weather data..."
-msgstr ""
+msgstr "Memuatkan data cuaca..."
 
 msgid "Location added successfully"
-msgstr ""
+msgstr "Lokasi berjaya ditambahkan"
 
 msgid "Location added to favorites"
-msgstr ""
+msgstr "Lokasi ditambahkan pada kegemaran"
 
 msgid "Location already exists"
-msgstr ""
+msgstr "Lokasi sudah wujud"
 
 msgid "Location already in favorites"
-msgstr ""
+msgstr "Lokasi sudah dalam kegemaran"
 
 msgid "Location deleted"
-msgstr ""
+msgstr "Lokasi dipadamkan"
 
 msgid "Location with similar coordinates already exists"
-msgstr ""
+msgstr "Lokasi dengan koordinat serupa sudah wujud"
 
 msgid "MSN weather"
-msgstr ""
+msgstr "cuaca MSN"
 
 msgid "Manage Favorites"
-msgstr ""
+msgstr "Urus Kegemaran"
 
 msgid "Menu"
 msgstr ""
 
 msgid "Metric unit for wind speed"
-msgstr ""
+msgstr "Unit metrik untuk kelajuan angin"
 
 msgid "More Details / Smaller font"
-msgstr ""
+msgstr "Lebih Butiran / Fon yang lebih kecil"
 
 msgid "N/A"
-msgstr ""
+msgstr "T/A"
 
 msgid "Next favorite"
-msgstr ""
+msgstr "Kegemaran seterusnya"
 
 msgid "No data"
-msgstr ""
+msgstr "Tiada data"
 
 msgid "No locations found"
-msgstr ""
+msgstr "Tiada lokasi ditemui"
 
 msgid "North"
-msgstr ""
+msgstr "utara"
 
 msgid "Northeast"
-msgstr ""
+msgstr "timur laut"
 
 msgid "Northwest"
-msgstr ""
+msgstr "Barat Laut"
 
 msgid "Open-Meteo Wetter"
-msgstr ""
+msgstr "Cuaca Meteo Terbuka"
 
 msgid "OpenWeatherMap"
 msgstr ""
 
 msgid "Please enter a valid city name."
-msgstr ""
+msgstr "Sila masukkan nama bandar yang sah."
 
 msgid "Please enter at least 3 characters"
-msgstr ""
+msgstr "Sila masukkan sekurang-kurangnya 3 aksara"
 
 msgid "Precipitation"
-msgstr ""
+msgstr "kerpasan"
 
 msgid "Previous favorite"
-msgstr ""
+msgstr "Kegemaran sebelumnya"
 
 msgid "Refresh interval"
-msgstr ""
+msgstr "Segarkan semula selang"
 
 msgid "Refresh interval :"
-msgstr ""
+msgstr "Selang muat semula:"
 
 msgid "Save"
-msgstr ""
+msgstr "Jimat"
 
 msgid "Select 'Yes' to enable add debug output to log."
-msgstr ""
+msgstr "Pilih 'Ya' untuk membolehkan menambah output nyahpepijat untuk log."
 
 msgid "Select 'Yes' to enable the addition of Weather."
-msgstr ""
+msgstr "Pilih 'Ya' untuk mendayakan penambahan Cuaca."
 
 msgid "Select location"
-msgstr ""
+msgstr "Pilih lokasi"
 
 msgid "Select the City and Press Ok"
-msgstr ""
+msgstr "Pilih Bandar dan Tekan Ok"
 
 msgid "Select the detail level in the detail view. You have the choice between a comprehensive presentation in a smaller font and a reduced presentation with a larger font."
-msgstr ""
+msgstr "Pilih tahap butiran dalam paparan butiran. Anda mempunyai pilihan antara pembentangan komprehensif dalam fon yang lebih kecil dan pembentangan yang dikurangkan dengan fon yang lebih besar."
 
 msgid "Select the metric unit for wind speed to be used for wind displays. This has no effect on the imperial unit 'mph'."
-msgstr ""
+msgstr "Pilih unit metrik untuk kelajuan angin untuk digunakan untuk paparan angin. Ini tidak mempunyai kesan ke atas unit imperial 'mph'."
 
 msgid "Select the preferred weather service to supply the weather information."
-msgstr ""
+msgstr "Pilih perkhidmatan cuaca pilihan untuk membekalkan maklumat cuaca."
 
 msgid "Select the temperature unit to be used for temperature displays."
-msgstr ""
+msgstr "Pilih unit suhu untuk digunakan untuk paparan suhu."
 
 msgid "Select this option to save that last obtained weather data locally. This is used to initialize the data immediately after restart while updated data is being fetched."
-msgstr ""
+msgstr "Pilih pilihan ini untuk menyimpan data cuaca yang terakhir diperoleh secara setempat. Ini digunakan untuk memulakan data serta-merta selepas dimulakan semula semasa data yang dikemas kini sedang diambil."
 
 msgid "Settings"
-msgstr ""
+msgstr "tetapan"
 
 msgid "Setup"
-msgstr ""
+msgstr "Persediaan"
 
 msgid "Show Weather Forecast"
-msgstr ""
+msgstr "Tunjukkan Ramalan Cuaca"
 
 msgid "Show trend arrows for moon data"
-msgstr ""
+msgstr "Tunjukkan anak panah arah aliran untuk data bulan"
 
 msgid "Show trend arrows for moon illumination and moon distance to see the current trend of the data."
-msgstr ""
+msgstr "Tunjukkan anak panah arah aliran untuk pencahayaan bulan dan jarak bulan untuk melihat aliran semasa data."
 
 msgid "South"
-msgstr ""
+msgstr "Selatan"
 
 msgid "Southeast"
-msgstr ""
+msgstr "Tenggara"
 
 msgid "Southwest"
-msgstr ""
+msgstr "Barat Daya"
 
 msgid "Specify how often Weather retrieves its data from the server. 'Once' means the data will loaded only once after a GUI or system start."
-msgstr ""
+msgstr "Tentukan kekerapan Cuaca mendapatkan semula datanya daripada pelayan. 'Sekali' bermakna data akan dimuatkan sekali sahaja selepas GUI atau sistem bermula."
 
 msgid "Standard fertig"
-msgstr ""
+msgstr "Standard selesai"
 
 msgid "Temperature unit"
-msgstr ""
+msgstr "Unit suhu"
 
 msgid "Temperature unit :"
-msgstr ""
+msgstr "Unit suhu:"
 
 msgid "Today"
-msgstr ""
+msgstr "Hari ini"
 
 msgid "Try refreshing or check settings"
-msgstr ""
+msgstr "Cuba muat semula atau semak tetapan"
 
 msgid "Update"
-msgstr ""
+msgstr "Kemas kini"
 
 msgid "View details"
-msgstr ""
+msgstr "Lihat butiran"
 
 msgid "Weather API key :"
-msgstr ""
+msgstr "Kunci API cuaca:"
 
 msgid "Weather API key v2.5"
-msgstr ""
+msgstr "Kunci API Cuaca v2.5"
 
 msgid "Weather Plugin"
-msgstr ""
+msgstr "Pemalam Cuaca"
 
 msgid "Weather Plugin Detailview"
-msgstr ""
+msgstr "Paparan Perincian Pemalam Cuaca"
 
 msgid "Weather city name"
-msgstr ""
+msgstr "Nama bandar cuaca"
 
 msgid "Weather city name :"
-msgstr ""
+msgstr "Nama bandar cuaca:"
 
 msgid "Weather data unavailable"
-msgstr ""
+msgstr "Data cuaca tidak tersedia"
 
 msgid "Weather icon night switch"
-msgstr ""
+msgstr "Ikon cuaca suis malam"
 
 msgid "Weather icon night switch :"
-msgstr ""
+msgstr "Suis malam ikon cuaca:"
 
 msgid "Weather icon set"
-msgstr ""
+msgstr "Set ikon cuaca"
 
 msgid "Weather icon set :"
-msgstr ""
+msgstr "Set ikon cuaca:"
 
 msgid "Weather service"
-msgstr ""
+msgstr "Perkhidmatan cuaca"
 
 msgid "Weather service :"
-msgstr ""
+msgstr "Perkhidmatan cuaca:"
 
 msgid "Weather settings"
-msgstr ""
+msgstr "Tetapan cuaca"
 
 msgid "West"
-msgstr ""
+msgstr "Barat"
 
 msgid "Wind speed metric unit:"
-msgstr ""
+msgstr "Unit metrik kelajuan angin:"
 
 msgid "You have unsaved changes. Save before exiting?"
-msgstr ""
+msgstr "Anda mempunyai perubahan yang belum disimpan. Simpan sebelum keluar?"
 
 msgid "exit"
-msgstr ""
+msgstr "keluar"
 
 msgid "km/h"
-msgstr ""
+msgstr "km/j"
 
 msgid "m/s"
 msgstr ""

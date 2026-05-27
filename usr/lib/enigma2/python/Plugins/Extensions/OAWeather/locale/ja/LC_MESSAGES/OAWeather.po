@@ -16,370 +16,370 @@ msgstr ""
 # FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
 #
 msgid "%d Minutes"
-msgstr ""
+msgstr "%d 分"
 
 msgid "Add"
-msgstr ""
+msgstr "追加"
 
 msgid "Add Fav"
-msgstr ""
+msgstr "お気に入りを追加"
 
 msgid "Cache data"
-msgstr ""
+msgstr "データをキャッシュする"
 
 msgid "Cache data :"
-msgstr ""
+msgstr "キャッシュデータ:"
 
 msgid "Celsius"
-msgstr ""
+msgstr "摂氏"
 
 msgid "Choose the icon set. You need to create an additional set here: /usr/share/enigma2/WeatherIconSets/NAME."
-msgstr ""
+msgstr "アイコンセットを選択します。ここで追加のセットを作成する必要があります: /usr/share/enigma2/WeatherIconSets/NAME。"
 
 msgid "Choose whether the 'night switch' should be activated or not. Some icons are then displayed as night icons with moon."
-msgstr ""
+msgstr "「夜間スイッチ」を有効にするかどうかを選択します。一部のアイコンは、月のある夜のアイコンとして表示されます。"
 
 msgid "Chose favorite"
-msgstr ""
+msgstr "お気に入りを選択してください"
 
 msgid "City name must be at least 3 characters"
-msgstr ""
+msgstr "都市名は 3 文字以上である必要があります"
 
 msgid "Coordinates not available for this location"
-msgstr ""
+msgstr "この場所の座標は利用できません"
 
 msgid "Current Weather"
-msgstr ""
+msgstr "現在の天気"
 
 msgid "Day +/-"
-msgstr ""
+msgstr "日+/-"
 
 msgid "Default"
-msgstr ""
+msgstr "デフォルト"
 
 msgid "Defaults"
-msgstr ""
+msgstr "デフォルト"
 
 msgid "Delete"
-msgstr ""
+msgstr "消去"
 
 msgid "Delete failed"
-msgstr ""
+msgstr "削除に失敗しました"
 
 msgid "Delete {}?"
-msgstr ""
+msgstr "消去 {}？"
 
 msgid "Detail level in detail view"
-msgstr ""
+msgstr "詳細ビューの詳細レベル"
 
 msgid "Details +/-"
-msgstr ""
+msgstr "詳細 +/-"
 
 msgid "Disabled"
-msgstr ""
+msgstr "無効"
 
 msgid "East"
-msgstr ""
+msgstr "東"
 
 msgid "Edit"
-msgstr ""
+msgstr "編集"
 
 msgid "Edit city name"
-msgstr ""
+msgstr "都市名を編集する"
 
 msgid "Enable Debug"
-msgstr ""
+msgstr "デバッグを有効にする"
 
 msgid "Enable Debug :"
-msgstr ""
+msgstr "デバッグを有効にする:"
 
 msgid "Enabled"
-msgstr ""
+msgstr "有効"
 
 msgid "Enabled :"
-msgstr ""
+msgstr "有効:"
 
 msgid "Enter a personalized API key v2.5 for use with OpenWeatherMap (https://openweathermap.org/)."
-msgstr ""
+msgstr "OpenWeatherMap (https://openweathermap.org/) で使用するパーソナライズされた API キー v2.5 を入力します。"
 
 msgid "Enter city name (e.g. 'Rome, IT')"
-msgstr ""
+msgstr "都市名を入力してください (例: 「ローマ、IT」)"
 
 msgid "Enter the location for your weather forecasts. To include your location, expand your favorites list with 'Manage your favorites'."
-msgstr ""
+msgstr "天気予報を表示する場所を入力します。現在地を含めるには、[お気に入りの管理] でお気に入りリストを展開します。"
 
 msgid "Error adding location"
-msgstr ""
+msgstr "場所の追加中にエラーが発生しました"
 
 msgid "Error changing day"
-msgstr ""
+msgstr "日変更エラー"
 
 msgid "Error processing location data"
-msgstr ""
+msgstr "位置データの処理中にエラーが発生しました"
 
 msgid "Error saving favorites"
-msgstr ""
+msgstr "お気に入りの保存中にエラーが発生しました"
 
 msgid "Error saving location"
-msgstr ""
+msgstr "場所の保存中にエラーが発生しました"
 
 msgid "Error selecting location"
-msgstr ""
+msgstr "場所の選択中にエラーが発生しました"
 
 msgid "Error updating list"
-msgstr ""
+msgstr "リスト更新エラー"
 
 msgid "Exit"
-msgstr ""
+msgstr "出口"
 
 msgid "Fahrenheit"
-msgstr ""
+msgstr "華氏"
 
 msgid "Favorites saved successfully"
-msgstr ""
+msgstr "お気に入りが正常に保存されました"
 
 msgid "Feels like"
-msgstr ""
+msgstr "みたいな感じ"
 
 msgid "GREEN: MANAGEMENT FAVORITES | MENU: SETUP | INFO: DETAILS | HOME"
-msgstr ""
+msgstr "緑: 管理者のお気に入り |メニュー: セットアップ |情報: 詳細 |家"
 
 msgid "Glass"
-msgstr ""
+msgstr "ガラス"
 
 msgid "Humidity"
-msgstr ""
+msgstr "湿度"
 
 msgid "Invalid location coordinates"
-msgstr ""
+msgstr "無効な位置座標です"
 
 msgid "Invalid location format"
-msgstr ""
+msgstr "無効な位置情報の形式です"
 
 msgid "Invalid selection"
-msgstr ""
+msgstr "無効な選択"
 
 msgid "Less details / Larger font"
-msgstr ""
+msgstr "詳細を少なく / フォントを大きくする"
 
 msgid "Loading weather data..."
-msgstr ""
+msgstr "気象データを読み込み中..."
 
 msgid "Location added successfully"
-msgstr ""
+msgstr "場所が正常に追加されました"
 
 msgid "Location added to favorites"
-msgstr ""
+msgstr "場所がお気に入りに追加されました"
 
 msgid "Location already exists"
-msgstr ""
+msgstr "場所はすでに存在します"
 
 msgid "Location already in favorites"
-msgstr ""
+msgstr "場所はすでにお気に入りに登録されています"
 
 msgid "Location deleted"
-msgstr ""
+msgstr "場所が削除されました"
 
 msgid "Location with similar coordinates already exists"
-msgstr ""
+msgstr "類似した座標の場所がすでに存在します"
 
 msgid "MSN weather"
-msgstr ""
+msgstr "MSNの天気"
 
 msgid "Manage Favorites"
-msgstr ""
+msgstr "お気に入りの管理"
 
 msgid "Menu"
-msgstr ""
+msgstr "メニュー"
 
 msgid "Metric unit for wind speed"
-msgstr ""
+msgstr "風速のメートル単位"
 
 msgid "More Details / Smaller font"
-msgstr ""
+msgstr "詳細を表示 / 小さな文字で表示"
 
 msgid "N/A"
-msgstr ""
+msgstr "該当なし"
 
 msgid "Next favorite"
-msgstr ""
+msgstr "次のお気に入り"
 
 msgid "No data"
-msgstr ""
+msgstr "データなし"
 
 msgid "No locations found"
-msgstr ""
+msgstr "場所が見つかりません"
 
 msgid "North"
-msgstr ""
+msgstr "北"
 
 msgid "Northeast"
-msgstr ""
+msgstr "北東"
 
 msgid "Northwest"
-msgstr ""
+msgstr "北西"
 
 msgid "Open-Meteo Wetter"
-msgstr ""
+msgstr "オープンメテオ天気"
 
 msgid "OpenWeatherMap"
-msgstr ""
+msgstr "天気マップを開く"
 
 msgid "Please enter a valid city name."
-msgstr ""
+msgstr "有効な都市名を入力してください。"
 
 msgid "Please enter at least 3 characters"
-msgstr ""
+msgstr "少なくとも 3 文字を入力してください"
 
 msgid "Precipitation"
-msgstr ""
+msgstr "降水量"
 
 msgid "Previous favorite"
-msgstr ""
+msgstr "前のお気に入り"
 
 msgid "Refresh interval"
-msgstr ""
+msgstr "リフレッシュ間隔"
 
 msgid "Refresh interval :"
-msgstr ""
+msgstr "リフレッシュ間隔:"
 
 msgid "Save"
-msgstr ""
+msgstr "保存"
 
 msgid "Select 'Yes' to enable add debug output to log."
-msgstr ""
+msgstr "「はい」を選択すると、デバッグ出力のログへの追加が有効になります。"
 
 msgid "Select 'Yes' to enable the addition of Weather."
-msgstr ""
+msgstr "「はい」を選択すると、天気の追加が有効になります。"
 
 msgid "Select location"
-msgstr ""
+msgstr "場所を選択してください"
 
 msgid "Select the City and Press Ok"
-msgstr ""
+msgstr "都市を選択して「OK」を押します"
 
 msgid "Select the detail level in the detail view. You have the choice between a comprehensive presentation in a smaller font and a reduced presentation with a larger font."
-msgstr ""
+msgstr "詳細ビューで詳細レベルを選択します。小さなフォントによる包括的なプレゼンテーションと、大きなフォントによる縮小されたプレゼンテーションのどちらかを選択できます。"
 
 msgid "Select the metric unit for wind speed to be used for wind displays. This has no effect on the imperial unit 'mph'."
-msgstr ""
+msgstr "風速表示に使用する風速のメートル単位を選択します。これは帝国単位「mph」には影響しません。"
 
 msgid "Select the preferred weather service to supply the weather information."
-msgstr ""
+msgstr "気象情報を提供するには、希望する気象サービスを選択します。"
 
 msgid "Select the temperature unit to be used for temperature displays."
-msgstr ""
+msgstr "温度表示に使用する温度単位を選択します。"
 
 msgid "Select this option to save that last obtained weather data locally. This is used to initialize the data immediately after restart while updated data is being fetched."
-msgstr ""
+msgstr "最後に取得した気象データをローカルに保存するには、このオプションを選択します。これは、更新データを取得中に再起動直後にデータを初期化するために使用されます。"
 
 msgid "Settings"
-msgstr ""
+msgstr "設定"
 
 msgid "Setup"
-msgstr ""
+msgstr "設定"
 
 msgid "Show Weather Forecast"
-msgstr ""
+msgstr "天気予報を表示する"
 
 msgid "Show trend arrows for moon data"
-msgstr ""
+msgstr "月データのトレンド矢印を表示"
 
 msgid "Show trend arrows for moon illumination and moon distance to see the current trend of the data."
-msgstr ""
+msgstr "月の照度と月の距離のトレンド矢印を表示して、データの現在の傾向を確認します。"
 
 msgid "South"
-msgstr ""
+msgstr "南"
 
 msgid "Southeast"
-msgstr ""
+msgstr "南東"
 
 msgid "Southwest"
-msgstr ""
+msgstr "南西"
 
 msgid "Specify how often Weather retrieves its data from the server. 'Once' means the data will loaded only once after a GUI or system start."
-msgstr ""
+msgstr "Weather がサーバーからデータを取得する頻度を指定します。 「1 回」は、GUI またはシステムの起動後にデータが 1 回だけロードされることを意味します。"
 
 msgid "Standard fertig"
-msgstr ""
+msgstr "標準仕上げ済み"
 
 msgid "Temperature unit"
-msgstr ""
+msgstr "温度単位"
 
 msgid "Temperature unit :"
-msgstr ""
+msgstr "温度単位："
 
 msgid "Today"
-msgstr ""
+msgstr "今日"
 
 msgid "Try refreshing or check settings"
-msgstr ""
+msgstr "更新するか設定を確認してください"
 
 msgid "Update"
-msgstr ""
+msgstr "アップデート"
 
 msgid "View details"
-msgstr ""
+msgstr "詳細を見る"
 
 msgid "Weather API key :"
-msgstr ""
+msgstr "天気APIキー:"
 
 msgid "Weather API key v2.5"
-msgstr ""
+msgstr "天気 API キー v2.5"
 
 msgid "Weather Plugin"
-msgstr ""
+msgstr "天気プラグイン"
 
 msgid "Weather Plugin Detailview"
-msgstr ""
+msgstr "天気プラグインの詳細ビュー"
 
 msgid "Weather city name"
-msgstr ""
+msgstr "気象都市名"
 
 msgid "Weather city name :"
-msgstr ""
+msgstr "気象都市名："
 
 msgid "Weather data unavailable"
-msgstr ""
+msgstr "気象データが利用できない"
 
 msgid "Weather icon night switch"
-msgstr ""
+msgstr "天気アイコンの夜のスイッチ"
 
 msgid "Weather icon night switch :"
-msgstr ""
+msgstr "天気アイコンの夜のスイッチ:"
 
 msgid "Weather icon set"
-msgstr ""
+msgstr "天気アイコンセット"
 
 msgid "Weather icon set :"
-msgstr ""
+msgstr "天気アイコンセット:"
 
 msgid "Weather service"
-msgstr ""
+msgstr "気象サービス"
 
 msgid "Weather service :"
-msgstr ""
+msgstr "気象サービス:"
 
 msgid "Weather settings"
-msgstr ""
+msgstr "天気設定"
 
 msgid "West"
-msgstr ""
+msgstr "西"
 
 msgid "Wind speed metric unit:"
-msgstr ""
+msgstr "風速メートル単位:"
 
 msgid "You have unsaved changes. Save before exiting?"
-msgstr ""
+msgstr "未保存の変更があります。終了する前に保存しますか?"
 
 msgid "exit"
-msgstr ""
+msgstr "出口"
 
 msgid "km/h"
 msgstr ""
 
 msgid "m/s"
-msgstr ""
+msgstr "MS"
 
 msgid "n/a"
-msgstr ""
+msgstr "該当なし"

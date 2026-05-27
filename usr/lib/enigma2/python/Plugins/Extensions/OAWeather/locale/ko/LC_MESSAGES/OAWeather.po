@@ -16,370 +16,370 @@ msgstr ""
 # FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
 #
 msgid "%d Minutes"
-msgstr ""
+msgstr "%d분"
 
 msgid "Add"
-msgstr ""
+msgstr "추가하다"
 
 msgid "Add Fav"
-msgstr ""
+msgstr "즐겨찾기 추가"
 
 msgid "Cache data"
-msgstr ""
+msgstr "캐시 데이터"
 
 msgid "Cache data :"
-msgstr ""
+msgstr "캐시 데이터:"
 
 msgid "Celsius"
-msgstr ""
+msgstr "섭씨"
 
 msgid "Choose the icon set. You need to create an additional set here: /usr/share/enigma2/WeatherIconSets/NAME."
-msgstr ""
+msgstr "아이콘 세트를 선택하세요. 여기에 추가 세트를 생성해야 합니다: /usr/share/enigma2/WeatherIconSets/NAME."
 
 msgid "Choose whether the 'night switch' should be activated or not. Some icons are then displayed as night icons with moon."
-msgstr ""
+msgstr "'야간 스위치'를 활성화할지 여부를 선택하세요. 일부 아이콘은 달이 있는 밤 아이콘으로 표시됩니다."
 
 msgid "Chose favorite"
-msgstr ""
+msgstr "즐겨찾기 선택"
 
 msgid "City name must be at least 3 characters"
-msgstr ""
+msgstr "도시 이름은 3자 이상이어야 합니다."
 
 msgid "Coordinates not available for this location"
-msgstr ""
+msgstr "이 위치에는 좌표를 사용할 수 없습니다."
 
 msgid "Current Weather"
-msgstr ""
+msgstr "현재 날씨"
 
 msgid "Day +/-"
-msgstr ""
+msgstr "일 +/-"
 
 msgid "Default"
-msgstr ""
+msgstr "기본"
 
 msgid "Defaults"
-msgstr ""
+msgstr "기본값"
 
 msgid "Delete"
-msgstr ""
+msgstr "삭제"
 
 msgid "Delete failed"
-msgstr ""
+msgstr "삭제 실패"
 
 msgid "Delete {}?"
-msgstr ""
+msgstr "삭제 {}?"
 
 msgid "Detail level in detail view"
-msgstr ""
+msgstr "세부정보 보기의 세부정보 수준"
 
 msgid "Details +/-"
-msgstr ""
+msgstr "세부정보 +/-"
 
 msgid "Disabled"
-msgstr ""
+msgstr "장애가 있는"
 
 msgid "East"
-msgstr ""
+msgstr "동쪽"
 
 msgid "Edit"
-msgstr ""
+msgstr "편집하다"
 
 msgid "Edit city name"
-msgstr ""
+msgstr "도시 이름 수정"
 
 msgid "Enable Debug"
-msgstr ""
+msgstr "디버그 활성화"
 
 msgid "Enable Debug :"
-msgstr ""
+msgstr "디버그 활성화:"
 
 msgid "Enabled"
-msgstr ""
+msgstr "활성화됨"
 
 msgid "Enabled :"
-msgstr ""
+msgstr "활성화됨:"
 
 msgid "Enter a personalized API key v2.5 for use with OpenWeatherMap (https://openweathermap.org/)."
-msgstr ""
+msgstr "OpenWeatherMap(https://openweathermap.org/)과 함께 사용할 개인화된 API 키 v2.5를 입력하세요."
 
 msgid "Enter city name (e.g. 'Rome, IT')"
-msgstr ""
+msgstr "도시 이름을 입력하세요(예: '로마, IT')"
 
 msgid "Enter the location for your weather forecasts. To include your location, expand your favorites list with 'Manage your favorites'."
-msgstr ""
+msgstr "일기예보를 받을 위치를 입력하세요. 귀하의 위치를 ​​포함하려면 '즐겨찾기 관리'를 사용하여 즐겨찾기 목록을 확장하세요."
 
 msgid "Error adding location"
-msgstr ""
+msgstr "위치를 추가하는 중에 오류가 발생했습니다."
 
 msgid "Error changing day"
-msgstr ""
+msgstr "날짜를 변경하는 중에 오류가 발생했습니다."
 
 msgid "Error processing location data"
-msgstr ""
+msgstr "위치 데이터를 처리하는 중에 오류가 발생했습니다."
 
 msgid "Error saving favorites"
-msgstr ""
+msgstr "즐겨찾기를 저장하는 중에 오류가 발생했습니다."
 
 msgid "Error saving location"
-msgstr ""
+msgstr "위치를 저장하는 중에 오류가 발생했습니다."
 
 msgid "Error selecting location"
-msgstr ""
+msgstr "위치를 선택하는 중에 오류가 발생했습니다."
 
 msgid "Error updating list"
-msgstr ""
+msgstr "목록을 업데이트하는 중에 오류가 발생했습니다."
 
 msgid "Exit"
-msgstr ""
+msgstr "출구"
 
 msgid "Fahrenheit"
-msgstr ""
+msgstr "화씨"
 
 msgid "Favorites saved successfully"
-msgstr ""
+msgstr "즐겨찾기가 성공적으로 저장되었습니다."
 
 msgid "Feels like"
-msgstr ""
+msgstr "같은 느낌"
 
 msgid "GREEN: MANAGEMENT FAVORITES | MENU: SETUP | INFO: DETAILS | HOME"
-msgstr ""
+msgstr "녹색: 즐겨찾는 관리 항목 | 메뉴: 설정 | 정보: 세부정보 | 집"
 
 msgid "Glass"
-msgstr ""
+msgstr "유리"
 
 msgid "Humidity"
-msgstr ""
+msgstr "습기"
 
 msgid "Invalid location coordinates"
-msgstr ""
+msgstr "잘못된 위치 좌표"
 
 msgid "Invalid location format"
-msgstr ""
+msgstr "잘못된 위치 형식"
 
 msgid "Invalid selection"
-msgstr ""
+msgstr "잘못된 선택"
 
 msgid "Less details / Larger font"
-msgstr ""
+msgstr "더 적은 세부정보 / 더 큰 글꼴"
 
 msgid "Loading weather data..."
-msgstr ""
+msgstr "날씨 데이터 로드 중..."
 
 msgid "Location added successfully"
-msgstr ""
+msgstr "위치가 추가되었습니다."
 
 msgid "Location added to favorites"
-msgstr ""
+msgstr "즐겨찾기에 위치가 추가되었습니다."
 
 msgid "Location already exists"
-msgstr ""
+msgstr "위치가 이미 존재합니다."
 
 msgid "Location already in favorites"
-msgstr ""
+msgstr "위치가 이미 즐겨찾기에 있습니다."
 
 msgid "Location deleted"
-msgstr ""
+msgstr "위치가 삭제되었습니다."
 
 msgid "Location with similar coordinates already exists"
-msgstr ""
+msgstr "유사한 좌표를 가진 위치가 이미 존재합니다."
 
 msgid "MSN weather"
-msgstr ""
+msgstr "MSN 날씨"
 
 msgid "Manage Favorites"
-msgstr ""
+msgstr "즐겨찾기 관리"
 
 msgid "Menu"
-msgstr ""
+msgstr "메뉴"
 
 msgid "Metric unit for wind speed"
-msgstr ""
+msgstr "풍속의 미터법 단위"
 
 msgid "More Details / Smaller font"
-msgstr ""
+msgstr "자세한 내용 / 더 작은 글꼴"
 
 msgid "N/A"
-msgstr ""
+msgstr "해당 없음"
 
 msgid "Next favorite"
-msgstr ""
+msgstr "다음 즐겨찾기"
 
 msgid "No data"
-msgstr ""
+msgstr "데이터 없음"
 
 msgid "No locations found"
-msgstr ""
+msgstr "위치를 찾을 수 없습니다."
 
 msgid "North"
-msgstr ""
+msgstr "북쪽"
 
 msgid "Northeast"
-msgstr ""
+msgstr "북동"
 
 msgid "Northwest"
-msgstr ""
+msgstr "북서"
 
 msgid "Open-Meteo Wetter"
-msgstr ""
+msgstr "Open-Meteo 날씨"
 
 msgid "OpenWeatherMap"
-msgstr ""
+msgstr "OpenWeather지도"
 
 msgid "Please enter a valid city name."
-msgstr ""
+msgstr "올바른 도시 이름을 입력하세요."
 
 msgid "Please enter at least 3 characters"
-msgstr ""
+msgstr "3자 이상 입력해주세요."
 
 msgid "Precipitation"
-msgstr ""
+msgstr "강수량"
 
 msgid "Previous favorite"
-msgstr ""
+msgstr "이전 즐겨찾기"
 
 msgid "Refresh interval"
-msgstr ""
+msgstr "새로 고침 간격"
 
 msgid "Refresh interval :"
-msgstr ""
+msgstr "새로 고침 간격:"
 
 msgid "Save"
-msgstr ""
+msgstr "구하다"
 
 msgid "Select 'Yes' to enable add debug output to log."
-msgstr ""
+msgstr "로그에 디버그 출력 추가를 활성화하려면 '예'를 선택하세요."
 
 msgid "Select 'Yes' to enable the addition of Weather."
-msgstr ""
+msgstr "날씨 추가를 활성화하려면 '예'를 선택하세요."
 
 msgid "Select location"
-msgstr ""
+msgstr "위치 선택"
 
 msgid "Select the City and Press Ok"
-msgstr ""
+msgstr "도시를 선택하고 확인을 누르세요"
 
 msgid "Select the detail level in the detail view. You have the choice between a comprehensive presentation in a smaller font and a reduced presentation with a larger font."
-msgstr ""
+msgstr "상세 뷰에서 상세 수준을 선택합니다. 더 작은 글꼴의 포괄적인 프레젠테이션과 더 큰 글꼴의 축소된 프레젠테이션 중에서 선택할 수 있습니다."
 
 msgid "Select the metric unit for wind speed to be used for wind displays. This has no effect on the imperial unit 'mph'."
-msgstr ""
+msgstr "바람 표시에 사용할 풍속의 미터법 단위를 선택합니다. 이는 영국식 단위 'mph'에는 영향을 미치지 않습니다."
 
 msgid "Select the preferred weather service to supply the weather information."
-msgstr ""
+msgstr "날씨 정보를 제공하기 위해 선호하는 날씨 서비스를 선택합니다."
 
 msgid "Select the temperature unit to be used for temperature displays."
-msgstr ""
+msgstr "온도 표시에 사용할 온도 단위를 선택합니다."
 
 msgid "Select this option to save that last obtained weather data locally. This is used to initialize the data immediately after restart while updated data is being fetched."
-msgstr ""
+msgstr "마지막으로 얻은 날씨 데이터를 로컬에 저장하려면 이 옵션을 선택하세요. 업데이트된 데이터를 가져오는 중 재시작 후 즉시 데이터를 초기화하는 데 사용됩니다."
 
 msgid "Settings"
-msgstr ""
+msgstr "설정"
 
 msgid "Setup"
-msgstr ""
+msgstr "설정"
 
 msgid "Show Weather Forecast"
-msgstr ""
+msgstr "일기 예보 보기"
 
 msgid "Show trend arrows for moon data"
-msgstr ""
+msgstr "달 데이터에 대한 추세 화살표 표시"
 
 msgid "Show trend arrows for moon illumination and moon distance to see the current trend of the data."
-msgstr ""
+msgstr "달 조명 및 달 거리에 대한 추세 화살표를 표시하여 데이터의 현재 추세를 확인합니다."
 
 msgid "South"
-msgstr ""
+msgstr "남쪽"
 
 msgid "Southeast"
-msgstr ""
+msgstr "남동"
 
 msgid "Southwest"
-msgstr ""
+msgstr "남서"
 
 msgid "Specify how often Weather retrieves its data from the server. 'Once' means the data will loaded only once after a GUI or system start."
-msgstr ""
+msgstr "Weather가 서버에서 데이터를 검색하는 빈도를 지정합니다. '한 번'은 GUI 또는 시스템 시작 후 데이터가 한 번만 로드된다는 의미입니다."
 
 msgid "Standard fertig"
-msgstr ""
+msgstr "표준 완료"
 
 msgid "Temperature unit"
-msgstr ""
+msgstr "온도 단위"
 
 msgid "Temperature unit :"
-msgstr ""
+msgstr "온도 단위 :"
 
 msgid "Today"
-msgstr ""
+msgstr "오늘"
 
 msgid "Try refreshing or check settings"
-msgstr ""
+msgstr "새로고침을 시도하거나 설정을 확인하세요."
 
 msgid "Update"
-msgstr ""
+msgstr "업데이트"
 
 msgid "View details"
-msgstr ""
+msgstr "세부정보 보기"
 
 msgid "Weather API key :"
-msgstr ""
+msgstr "날씨 API 키:"
 
 msgid "Weather API key v2.5"
-msgstr ""
+msgstr "날씨 API 키 v2.5"
 
 msgid "Weather Plugin"
-msgstr ""
+msgstr "날씨 플러그인"
 
 msgid "Weather Plugin Detailview"
-msgstr ""
+msgstr "날씨 플러그인 상세보기"
 
 msgid "Weather city name"
-msgstr ""
+msgstr "날씨 도시 이름"
 
 msgid "Weather city name :"
-msgstr ""
+msgstr "날씨 도시 이름:"
 
 msgid "Weather data unavailable"
-msgstr ""
+msgstr "날씨 데이터를 사용할 수 없습니다."
 
 msgid "Weather icon night switch"
-msgstr ""
+msgstr "날씨 아이콘 야간 스위치"
 
 msgid "Weather icon night switch :"
-msgstr ""
+msgstr "날씨 아이콘 야간 스위치:"
 
 msgid "Weather icon set"
-msgstr ""
+msgstr "날씨 아이콘 세트"
 
 msgid "Weather icon set :"
-msgstr ""
+msgstr "날씨 아이콘 세트:"
 
 msgid "Weather service"
-msgstr ""
+msgstr "기상 서비스"
 
 msgid "Weather service :"
-msgstr ""
+msgstr "기상 서비스 :"
 
 msgid "Weather settings"
-msgstr ""
+msgstr "날씨 설정"
 
 msgid "West"
-msgstr ""
+msgstr "서쪽"
 
 msgid "Wind speed metric unit:"
-msgstr ""
+msgstr "풍속 미터법 단위:"
 
 msgid "You have unsaved changes. Save before exiting?"
-msgstr ""
+msgstr "저장되지 않은 변경사항이 있습니다. 종료하기 전에 저장하시겠습니까?"
 
 msgid "exit"
-msgstr ""
+msgstr "출구"
 
 msgid "km/h"
 msgstr ""
 
 msgid "m/s"
-msgstr ""
+msgstr "밀리미터/초"
 
 msgid "n/a"
-msgstr ""
+msgstr "해당 없음"

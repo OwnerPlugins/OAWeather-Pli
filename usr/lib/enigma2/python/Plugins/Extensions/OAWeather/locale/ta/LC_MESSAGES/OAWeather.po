@@ -15,370 +15,370 @@ msgstr ""
 # FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
 #
 msgid "%d Minutes"
-msgstr ""
+msgstr "%d நிமிடங்கள்"
 
 msgid "Add"
-msgstr ""
+msgstr "சேர்"
 
 msgid "Add Fav"
-msgstr ""
+msgstr "விருப்பத்தைச் சேர்க்கவும்"
 
 msgid "Cache data"
-msgstr ""
+msgstr "கேச் தரவு"
 
 msgid "Cache data :"
-msgstr ""
+msgstr "கேச் தரவு:"
 
 msgid "Celsius"
-msgstr ""
+msgstr "செல்சியஸ்"
 
 msgid "Choose the icon set. You need to create an additional set here: /usr/share/enigma2/WeatherIconSets/NAME."
-msgstr ""
+msgstr "ஐகான் தொகுப்பைத் தேர்ந்தெடுக்கவும். நீங்கள் இங்கே கூடுதல் தொகுப்பை உருவாக்க வேண்டும்: /usr/share/enigma2/WeatherIconSets/NAME."
 
 msgid "Choose whether the 'night switch' should be activated or not. Some icons are then displayed as night icons with moon."
-msgstr ""
+msgstr "'நைட் ஸ்விட்ச்' இயக்கப்பட வேண்டுமா இல்லையா என்பதைத் தேர்வுசெய்யவும். சில சின்னங்கள் சந்திரனுடன் இரவு ஐகான்களாக காட்டப்படும்."
 
 msgid "Chose favorite"
-msgstr ""
+msgstr "பிடித்ததை தேர்வு செய்தேன்"
 
 msgid "City name must be at least 3 characters"
-msgstr ""
+msgstr "நகரத்தின் பெயரில் குறைந்தது 3 எழுத்துகள் இருக்க வேண்டும்"
 
 msgid "Coordinates not available for this location"
-msgstr ""
+msgstr "இந்த இருப்பிடத்திற்கான ஒருங்கிணைப்புகள் இல்லை"
 
 msgid "Current Weather"
-msgstr ""
+msgstr "தற்போதைய வானிலை"
 
 msgid "Day +/-"
-msgstr ""
+msgstr "நாள் +/-"
 
 msgid "Default"
-msgstr ""
+msgstr "இயல்புநிலை"
 
 msgid "Defaults"
-msgstr ""
+msgstr "இயல்புநிலைகள்"
 
 msgid "Delete"
-msgstr ""
+msgstr "நீக்கு"
 
 msgid "Delete failed"
-msgstr ""
+msgstr "நீக்குவது தோல்வியடைந்தது"
 
 msgid "Delete {}?"
-msgstr ""
+msgstr "{}ஐ நீக்கவா?"
 
 msgid "Detail level in detail view"
-msgstr ""
+msgstr "விரிவான பார்வையில் விவர நிலை"
 
 msgid "Details +/-"
-msgstr ""
+msgstr "விவரங்கள் +/-"
 
 msgid "Disabled"
-msgstr ""
+msgstr "முடக்கப்பட்டது"
 
 msgid "East"
-msgstr ""
+msgstr "கிழக்கு"
 
 msgid "Edit"
-msgstr ""
+msgstr "திருத்தவும்"
 
 msgid "Edit city name"
-msgstr ""
+msgstr "நகரத்தின் பெயரைத் திருத்தவும்"
 
 msgid "Enable Debug"
-msgstr ""
+msgstr "பிழைத்திருத்தத்தை இயக்கு"
 
 msgid "Enable Debug :"
-msgstr ""
+msgstr "பிழைத்திருத்தத்தை இயக்கு:"
 
 msgid "Enabled"
-msgstr ""
+msgstr "இயக்கப்பட்டது"
 
 msgid "Enabled :"
-msgstr ""
+msgstr "இயக்கப்பட்டது:"
 
 msgid "Enter a personalized API key v2.5 for use with OpenWeatherMap (https://openweathermap.org/)."
-msgstr ""
+msgstr "OpenWeatherMap (https://openweathermap.org/) உடன் பயன்படுத்த தனிப்பயனாக்கப்பட்ட API விசை v2.5 ஐ உள்ளிடவும்."
 
 msgid "Enter city name (e.g. 'Rome, IT')"
-msgstr ""
+msgstr "நகரத்தின் பெயரை உள்ளிடவும் (எ.கா. 'ரோம், ஐடி')"
 
 msgid "Enter the location for your weather forecasts. To include your location, expand your favorites list with 'Manage your favorites'."
-msgstr ""
+msgstr "உங்கள் வானிலை முன்னறிவிப்புகளுக்கான இருப்பிடத்தை உள்ளிடவும். உங்கள் இருப்பிடத்தைச் சேர்க்க, 'உங்களுக்குப் பிடித்தவற்றை நிர்வகி' மூலம் உங்களுக்குப் பிடித்தவை பட்டியலை விரிவாக்குங்கள்."
 
 msgid "Error adding location"
-msgstr ""
+msgstr "இருப்பிடத்தைச் சேர்ப்பதில் பிழை"
 
 msgid "Error changing day"
-msgstr ""
+msgstr "நாளை மாற்றுவதில் பிழை"
 
 msgid "Error processing location data"
-msgstr ""
+msgstr "இருப்பிடத் தரவைச் செயலாக்குவதில் பிழை"
 
 msgid "Error saving favorites"
-msgstr ""
+msgstr "பிடித்தவைகளைச் சேமிப்பதில் பிழை"
 
 msgid "Error saving location"
-msgstr ""
+msgstr "இருப்பிடத்தைச் சேமிப்பதில் பிழை"
 
 msgid "Error selecting location"
-msgstr ""
+msgstr "இருப்பிடத்தைத் தேர்ந்தெடுப்பதில் பிழை"
 
 msgid "Error updating list"
-msgstr ""
+msgstr "பட்டியலைப் புதுப்பிப்பதில் பிழை"
 
 msgid "Exit"
-msgstr ""
+msgstr "வெளியேறு"
 
 msgid "Fahrenheit"
-msgstr ""
+msgstr "பாரன்ஹீட்"
 
 msgid "Favorites saved successfully"
-msgstr ""
+msgstr "பிடித்தவை வெற்றிகரமாக சேமிக்கப்பட்டன"
 
 msgid "Feels like"
-msgstr ""
+msgstr "போல் உணர்கிறேன்"
 
 msgid "GREEN: MANAGEMENT FAVORITES | MENU: SETUP | INFO: DETAILS | HOME"
-msgstr ""
+msgstr "பச்சை: மேலாண்மை பிடித்தவை | மெனு: அமைவு | தகவல்: விவரங்கள் | வீடு"
 
 msgid "Glass"
-msgstr ""
+msgstr "கண்ணாடி"
 
 msgid "Humidity"
-msgstr ""
+msgstr "ஈரப்பதம்"
 
 msgid "Invalid location coordinates"
-msgstr ""
+msgstr "தவறான இருப்பிட ஒருங்கிணைப்புகள்"
 
 msgid "Invalid location format"
-msgstr ""
+msgstr "தவறான இருப்பிட வடிவம்"
 
 msgid "Invalid selection"
-msgstr ""
+msgstr "தவறான தேர்வு"
 
 msgid "Less details / Larger font"
-msgstr ""
+msgstr "குறைவான விவரங்கள் / பெரிய எழுத்துரு"
 
 msgid "Loading weather data..."
-msgstr ""
+msgstr "வானிலை தரவு ஏற்றப்படுகிறது..."
 
 msgid "Location added successfully"
-msgstr ""
+msgstr "இருப்பிடம் வெற்றிகரமாக சேர்க்கப்பட்டது"
 
 msgid "Location added to favorites"
-msgstr ""
+msgstr "பிடித்தவற்றில் இடம் சேர்க்கப்பட்டது"
 
 msgid "Location already exists"
-msgstr ""
+msgstr "இருப்பிடம் ஏற்கனவே உள்ளது"
 
 msgid "Location already in favorites"
-msgstr ""
+msgstr "இருப்பிடம் ஏற்கனவே பிடித்தவைகளில் உள்ளது"
 
 msgid "Location deleted"
-msgstr ""
+msgstr "இருப்பிடம் நீக்கப்பட்டது"
 
 msgid "Location with similar coordinates already exists"
-msgstr ""
+msgstr "இதே போன்ற ஆயத்தொலைவுகள் ஏற்கனவே உள்ளது"
 
 msgid "MSN weather"
-msgstr ""
+msgstr "MSN வானிலை"
 
 msgid "Manage Favorites"
-msgstr ""
+msgstr "பிடித்தவற்றை நிர்வகிக்கவும்"
 
 msgid "Menu"
-msgstr ""
+msgstr "மெனு"
 
 msgid "Metric unit for wind speed"
-msgstr ""
+msgstr "காற்றின் வேகத்திற்கான மெட்ரிக் அலகு"
 
 msgid "More Details / Smaller font"
-msgstr ""
+msgstr "மேலும் விவரங்கள் / சிறிய எழுத்துரு"
 
 msgid "N/A"
 msgstr ""
 
 msgid "Next favorite"
-msgstr ""
+msgstr "அடுத்து பிடித்தது"
 
 msgid "No data"
-msgstr ""
+msgstr "தரவு இல்லை"
 
 msgid "No locations found"
-msgstr ""
+msgstr "இருப்பிடங்கள் எதுவும் இல்லை"
 
 msgid "North"
-msgstr ""
+msgstr "வடக்கு"
 
 msgid "Northeast"
-msgstr ""
+msgstr "வடகிழக்கு"
 
 msgid "Northwest"
-msgstr ""
+msgstr "வடமேற்கு"
 
 msgid "Open-Meteo Wetter"
-msgstr ""
+msgstr "திறந்த வானிலை"
 
 msgid "OpenWeatherMap"
 msgstr ""
 
 msgid "Please enter a valid city name."
-msgstr ""
+msgstr "சரியான நகரத்தின் பெயரை உள்ளிடவும்."
 
 msgid "Please enter at least 3 characters"
-msgstr ""
+msgstr "குறைந்தது 3 எழுத்துகளை உள்ளிடவும்"
 
 msgid "Precipitation"
-msgstr ""
+msgstr "மழைப்பொழிவு"
 
 msgid "Previous favorite"
-msgstr ""
+msgstr "முன்பு பிடித்தது"
 
 msgid "Refresh interval"
-msgstr ""
+msgstr "இடைவெளியைப் புதுப்பிக்கவும்"
 
 msgid "Refresh interval :"
-msgstr ""
+msgstr "புதுப்பிப்பு இடைவெளி:"
 
 msgid "Save"
-msgstr ""
+msgstr "சேமிக்கவும்"
 
 msgid "Select 'Yes' to enable add debug output to log."
-msgstr ""
+msgstr "பதிவில் பிழைத்திருத்த வெளியீட்டைச் சேர்ப்பதை இயக்க, 'ஆம்' என்பதைத் தேர்ந்தெடுக்கவும்."
 
 msgid "Select 'Yes' to enable the addition of Weather."
-msgstr ""
+msgstr "வானிலை சேர்க்கையை இயக்க 'ஆம்' என்பதைத் தேர்ந்தெடுக்கவும்."
 
 msgid "Select location"
-msgstr ""
+msgstr "இருப்பிடத்தைத் தேர்ந்தெடுக்கவும்"
 
 msgid "Select the City and Press Ok"
-msgstr ""
+msgstr "நகரத்தைத் தேர்ந்தெடுத்து சரி என்பதை அழுத்தவும்"
 
 msgid "Select the detail level in the detail view. You have the choice between a comprehensive presentation in a smaller font and a reduced presentation with a larger font."
-msgstr ""
+msgstr "விவரக் காட்சியில் விவர அளவைத் தேர்ந்தெடுக்கவும். சிறிய எழுத்துருவில் விரிவான விளக்கக்காட்சிக்கும் பெரிய எழுத்துருவுடன் குறைக்கப்பட்ட விளக்கக்காட்சிக்கும் இடையே உங்களுக்கு விருப்பம் உள்ளது."
 
 msgid "Select the metric unit for wind speed to be used for wind displays. This has no effect on the imperial unit 'mph'."
-msgstr ""
+msgstr "காற்றுக் காட்சிகளுக்குப் பயன்படுத்தப்படும் காற்றின் வேகத்திற்கான மெட்ரிக் யூனிட்டைத் தேர்ந்தெடுக்கவும். இது ஏகாதிபத்திய அலகு 'mph' இல் எந்த விளைவையும் ஏற்படுத்தாது."
 
 msgid "Select the preferred weather service to supply the weather information."
-msgstr ""
+msgstr "வானிலை தகவலை வழங்க விருப்பமான வானிலை சேவையைத் தேர்ந்தெடுக்கவும்."
 
 msgid "Select the temperature unit to be used for temperature displays."
-msgstr ""
+msgstr "வெப்பநிலை காட்சிகளுக்கு பயன்படுத்தப்படும் வெப்பநிலை அலகு தேர்ந்தெடுக்கவும்."
 
 msgid "Select this option to save that last obtained weather data locally. This is used to initialize the data immediately after restart while updated data is being fetched."
-msgstr ""
+msgstr "கடைசியாகப் பெற்ற வானிலைத் தரவை உள்நாட்டில் சேமிக்க இந்த விருப்பத்தைத் தேர்ந்தெடுக்கவும். புதுப்பிக்கப்பட்ட தரவு எடுக்கப்படும்போது, ​​மறுதொடக்கம் செய்யப்பட்ட உடனேயே தரவைத் தொடங்க இது பயன்படுகிறது."
 
 msgid "Settings"
-msgstr ""
+msgstr "அமைப்புகள்"
 
 msgid "Setup"
-msgstr ""
+msgstr "அமைவு"
 
 msgid "Show Weather Forecast"
-msgstr ""
+msgstr "வானிலை முன்னறிவிப்பைக் காட்டு"
 
 msgid "Show trend arrows for moon data"
-msgstr ""
+msgstr "நிலவு தரவுக்கான போக்கு அம்புகளைக் காட்டு"
 
 msgid "Show trend arrows for moon illumination and moon distance to see the current trend of the data."
-msgstr ""
+msgstr "தரவின் தற்போதைய போக்கைக் காண நிலவின் வெளிச்சம் மற்றும் நிலவு தூரத்திற்கான போக்கு அம்புகளைக் காட்டு."
 
 msgid "South"
-msgstr ""
+msgstr "தெற்கு"
 
 msgid "Southeast"
-msgstr ""
+msgstr "தென்கிழக்கு"
 
 msgid "Southwest"
-msgstr ""
+msgstr "தென்மேற்கு"
 
 msgid "Specify how often Weather retrieves its data from the server. 'Once' means the data will loaded only once after a GUI or system start."
-msgstr ""
+msgstr "சர்வரில் இருந்து வானிலை எவ்வளவு அடிக்கடி அதன் தரவை மீட்டெடுக்கிறது என்பதைக் குறிப்பிடவும். 'ஒருமுறை' என்பது GUI அல்லது கணினி தொடக்கத்திற்குப் பிறகு ஒருமுறை மட்டுமே தரவு ஏற்றப்படும்."
 
 msgid "Standard fertig"
-msgstr ""
+msgstr "தரநிலை முடிந்தது"
 
 msgid "Temperature unit"
-msgstr ""
+msgstr "வெப்பநிலை அலகு"
 
 msgid "Temperature unit :"
-msgstr ""
+msgstr "வெப்பநிலை அலகு:"
 
 msgid "Today"
-msgstr ""
+msgstr "இன்று"
 
 msgid "Try refreshing or check settings"
-msgstr ""
+msgstr "புதுப்பித்து முயற்சிக்கவும் அல்லது அமைப்புகளைச் சரிபார்க்கவும்"
 
 msgid "Update"
-msgstr ""
+msgstr "புதுப்பிக்கவும்"
 
 msgid "View details"
-msgstr ""
+msgstr "விவரங்களைக் காண்க"
 
 msgid "Weather API key :"
-msgstr ""
+msgstr "வானிலை API விசை:"
 
 msgid "Weather API key v2.5"
-msgstr ""
+msgstr "வானிலை API விசை v2.5"
 
 msgid "Weather Plugin"
-msgstr ""
+msgstr "வானிலை செருகுநிரல்"
 
 msgid "Weather Plugin Detailview"
-msgstr ""
+msgstr "வானிலை செருகுநிரல் விவரம்"
 
 msgid "Weather city name"
-msgstr ""
+msgstr "வானிலை நகரத்தின் பெயர்"
 
 msgid "Weather city name :"
-msgstr ""
+msgstr "வானிலை நகரத்தின் பெயர்:"
 
 msgid "Weather data unavailable"
-msgstr ""
+msgstr "வானிலை தரவு கிடைக்கவில்லை"
 
 msgid "Weather icon night switch"
-msgstr ""
+msgstr "வானிலை ஐகான் இரவு சுவிட்ச்"
 
 msgid "Weather icon night switch :"
-msgstr ""
+msgstr "வானிலை ஐகான் இரவு சுவிட்ச்:"
 
 msgid "Weather icon set"
-msgstr ""
+msgstr "வானிலை ஐகான் தொகுப்பு"
 
 msgid "Weather icon set :"
-msgstr ""
+msgstr "வானிலை ஐகான் தொகுப்பு:"
 
 msgid "Weather service"
-msgstr ""
+msgstr "வானிலை சேவை"
 
 msgid "Weather service :"
-msgstr ""
+msgstr "வானிலை சேவை:"
 
 msgid "Weather settings"
-msgstr ""
+msgstr "வானிலை அமைப்புகள்"
 
 msgid "West"
-msgstr ""
+msgstr "மேற்கு"
 
 msgid "Wind speed metric unit:"
-msgstr ""
+msgstr "காற்றின் வேக மெட்ரிக் அலகு:"
 
 msgid "You have unsaved changes. Save before exiting?"
-msgstr ""
+msgstr "உங்களிடம் சேமிக்கப்படாத மாற்றங்கள் உள்ளன. வெளியேறும் முன் சேமிக்கவா?"
 
 msgid "exit"
-msgstr ""
+msgstr "வெளியேறு"
 
 msgid "km/h"
-msgstr ""
+msgstr "கிமீ/ம"
 
 msgid "m/s"
-msgstr ""
+msgstr "மீ/வி"
 
 msgid "n/a"
 msgstr ""

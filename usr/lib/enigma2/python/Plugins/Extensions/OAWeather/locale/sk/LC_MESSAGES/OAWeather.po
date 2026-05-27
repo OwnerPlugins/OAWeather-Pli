@@ -15,43 +15,43 @@ msgstr ""
 "X-Poedit-SourceCharset: UTF-8\n"
 
 msgid "%d Minutes"
-msgstr ""
+msgstr "%d minút"
 
 msgid "Add"
-msgstr ""
+msgstr "Pridať"
 
 msgid "Add Fav"
-msgstr ""
+msgstr "Pridať obľúbené"
 
 msgid "Cache data"
-msgstr ""
+msgstr "Údaje do vyrovnávacej pamäte"
 
 msgid "Cache data :"
-msgstr ""
+msgstr "Údaje z vyrovnávacej pamäte:"
 
 msgid "Celsius"
 msgstr "Stupne Celzia"
 
 msgid "Choose the icon set. You need to create an additional set here: /usr/share/enigma2/WeatherIconSets/NAME."
-msgstr ""
+msgstr "Vyberte sadu ikon. Tu musíte vytvoriť ďalšiu sadu: /usr/share/enigma2/WeatherIconSets/NAME."
 
 msgid "Choose whether the 'night switch' should be activated or not. Some icons are then displayed as night icons with moon."
-msgstr ""
+msgstr "Vyberte, či sa má aktivovať „nočný spínač“ alebo nie. Niektoré ikony sa potom zobrazia ako nočné ikony s mesiacom."
 
 msgid "Chose favorite"
-msgstr ""
+msgstr "Vyberte obľúbené"
 
 msgid "City name must be at least 3 characters"
-msgstr ""
+msgstr "Názov mesta musí mať aspoň 3 znaky"
 
 msgid "Coordinates not available for this location"
-msgstr ""
+msgstr "Pre toto miesto nie sú k dispozícii súradnice"
 
 msgid "Current Weather"
-msgstr ""
+msgstr "Aktuálne počasie"
 
 msgid "Day +/-"
-msgstr ""
+msgstr "deň +/-"
 
 #, fuzzy
 msgid "Default"
@@ -61,31 +61,31 @@ msgid "Defaults"
 msgstr "Východzie"
 
 msgid "Delete"
-msgstr ""
+msgstr "Odstrániť"
 
 msgid "Delete failed"
-msgstr ""
+msgstr "Odstránenie zlyhalo"
 
 msgid "Delete {}?"
-msgstr ""
+msgstr "Odstrániť {}?"
 
 msgid "Detail level in detail view"
-msgstr ""
+msgstr "Úroveň podrobností v detailnom zobrazení"
 
 msgid "Details +/-"
-msgstr ""
+msgstr "Podrobnosti +/-"
 
 msgid "Disabled"
-msgstr ""
+msgstr "Zakázané"
 
 msgid "East"
-msgstr ""
+msgstr "východ"
 
 msgid "Edit"
-msgstr ""
+msgstr "Upraviť"
 
 msgid "Edit city name"
-msgstr ""
+msgstr "Upravte názov mesta"
 
 #, fuzzy
 msgid "Enable Debug"
@@ -103,228 +103,228 @@ msgid "Enabled :"
 msgstr "Povolené"
 
 msgid "Enter a personalized API key v2.5 for use with OpenWeatherMap (https://openweathermap.org/)."
-msgstr ""
+msgstr "Zadajte prispôsobený kľúč API v2.5 na použitie s OpenWeatherMap (https://openweathermap.org/)."
 
 msgid "Enter city name (e.g. 'Rome, IT')"
-msgstr ""
+msgstr "Zadajte názov mesta (napr. „Rím, IT“)"
 
 msgid "Enter the location for your weather forecasts. To include your location, expand your favorites list with 'Manage your favorites'."
-msgstr ""
+msgstr "Zadajte miesto pre predpovede počasia. Ak chcete zahrnúť svoju polohu, rozšírte zoznam obľúbených položiek pomocou položky „Spravovať obľúbené položky“."
 
 msgid "Error adding location"
-msgstr ""
+msgstr "Chyba pri pridávaní polohy"
 
 msgid "Error changing day"
-msgstr ""
+msgstr "Chyba pri zmene dňa"
 
 msgid "Error processing location data"
-msgstr ""
+msgstr "Chyba pri spracovaní údajov o polohe"
 
 msgid "Error saving favorites"
-msgstr ""
+msgstr "Pri ukladaní obľúbených položiek sa vyskytla chyba"
 
 msgid "Error saving location"
-msgstr ""
+msgstr "Chyba pri ukladaní polohy"
 
 msgid "Error selecting location"
-msgstr ""
+msgstr "Chyba pri výbere miesta"
 
 msgid "Error updating list"
-msgstr ""
+msgstr "Chyba pri aktualizácii zoznamu"
 
 msgid "Exit"
-msgstr ""
+msgstr "VÝCHOD"
 
 msgid "Fahrenheit"
 msgstr "Stupne Fahrenheita"
 
 msgid "Favorites saved successfully"
-msgstr ""
+msgstr "Obľúbené položky boli úspešne uložené"
 
 msgid "Feels like"
-msgstr ""
+msgstr "Cítim sa ako"
 
 msgid "GREEN: MANAGEMENT FAVORITES | MENU: SETUP | INFO: DETAILS | HOME"
-msgstr ""
+msgstr "ZELENÁ: OBĽÚBENÉ MANAŽMENTY | MENU: NASTAVENIE | INFO: PODROBNOSTI | DOMOV"
 
 msgid "Glass"
-msgstr ""
+msgstr "Sklo"
 
 msgid "Humidity"
-msgstr ""
+msgstr "Vlhkosť"
 
 msgid "Invalid location coordinates"
-msgstr ""
+msgstr "Neplatné súradnice polohy"
 
 msgid "Invalid location format"
-msgstr ""
+msgstr "Neplatný formát polohy"
 
 msgid "Invalid selection"
-msgstr ""
+msgstr "Neplatný výber"
 
 msgid "Less details / Larger font"
-msgstr ""
+msgstr "Menej detailov / Väčšie písmo"
 
 msgid "Loading weather data..."
-msgstr ""
+msgstr "Načítavajú sa údaje o počasí..."
 
 msgid "Location added successfully"
-msgstr ""
+msgstr "Miesto bolo úspešne pridané"
 
 msgid "Location added to favorites"
-msgstr ""
+msgstr "Miesto bolo pridané medzi obľúbené"
 
 msgid "Location already exists"
-msgstr ""
+msgstr "Poloha už existuje"
 
 msgid "Location already in favorites"
-msgstr ""
+msgstr "Miesto je už zaradené medzi obľúbené"
 
 msgid "Location deleted"
-msgstr ""
+msgstr "Miesto bolo odstránené"
 
 msgid "Location with similar coordinates already exists"
-msgstr ""
+msgstr "Miesto s podobnými súradnicami už existuje"
 
 msgid "MSN weather"
-msgstr ""
+msgstr "počasie MSN"
 
 msgid "Manage Favorites"
-msgstr ""
+msgstr "Spravovať obľúbené položky"
 
 msgid "Menu"
 msgstr ""
 
 msgid "Metric unit for wind speed"
-msgstr ""
+msgstr "Metrická jednotka pre rýchlosť vetra"
 
 msgid "More Details / Smaller font"
-msgstr ""
+msgstr "Viac podrobností / Menšie písmo"
 
 msgid "N/A"
 msgstr ""
 
 msgid "Next favorite"
-msgstr ""
+msgstr "Ďalší obľúbený"
 
 msgid "No data"
-msgstr ""
+msgstr "Žiadne údaje"
 
 msgid "No locations found"
-msgstr ""
+msgstr "Nenašli sa žiadne miesta"
 
 msgid "North"
-msgstr ""
+msgstr "Severná"
 
 msgid "Northeast"
-msgstr ""
+msgstr "Severovýchod"
 
 msgid "Northwest"
-msgstr ""
+msgstr "Severozápad"
 
 msgid "Open-Meteo Wetter"
-msgstr ""
+msgstr "Open-Meteo počasie"
 
 msgid "OpenWeatherMap"
 msgstr ""
 
 msgid "Please enter a valid city name."
-msgstr ""
+msgstr "Zadajte platný názov mesta."
 
 msgid "Please enter at least 3 characters"
-msgstr ""
+msgstr "Zadajte aspoň 3 znaky"
 
 msgid "Precipitation"
-msgstr ""
+msgstr "Zrážky"
 
 msgid "Previous favorite"
-msgstr ""
+msgstr "Predchádzajúci obľúbený"
 
 msgid "Refresh interval"
-msgstr ""
+msgstr "Interval obnovovania"
 
 msgid "Refresh interval :"
-msgstr ""
+msgstr "Interval obnovovania:"
 
 msgid "Save"
-msgstr ""
+msgstr "Uložiť"
 
 msgid "Select 'Yes' to enable add debug output to log."
-msgstr ""
+msgstr "Ak chcete povoliť pridanie výstupu ladenia do denníka, vyberte možnosť „Áno“."
 
 msgid "Select 'Yes' to enable the addition of Weather."
-msgstr ""
+msgstr "Ak chcete povoliť pridanie počasia, vyberte možnosť „Áno“."
 
 #, fuzzy
 msgid "Select location"
 msgstr "Vyberte Vaše umiestnenie"
 
 msgid "Select the City and Press Ok"
-msgstr ""
+msgstr "Vyberte mesto a stlačte tlačidlo Ok"
 
 msgid "Select the detail level in the detail view. You have the choice between a comprehensive presentation in a smaller font and a reduced presentation with a larger font."
-msgstr ""
+msgstr "Vyberte úroveň podrobností v zobrazení podrobností. Máte na výber medzi komplexnou prezentáciou menším písmom a zmenšenou prezentáciou s väčším písmom."
 
 msgid "Select the metric unit for wind speed to be used for wind displays. This has no effect on the imperial unit 'mph'."
-msgstr ""
+msgstr "Vyberte metrickú jednotku rýchlosti vetra, ktorá sa má použiť pre zobrazenie vetra. To nemá žiadny vplyv na imperiálnu jednotku 'mph'."
 
 msgid "Select the preferred weather service to supply the weather information."
-msgstr ""
+msgstr "Ak chcete poskytnúť informácie o počasí, vyberte preferovanú službu počasia."
 
 msgid "Select the temperature unit to be used for temperature displays."
-msgstr ""
+msgstr "Vyberte jednotku teploty, ktorá sa má použiť na zobrazenie teploty."
 
 msgid "Select this option to save that last obtained weather data locally. This is used to initialize the data immediately after restart while updated data is being fetched."
-msgstr ""
+msgstr "Túto možnosť vyberte, ak chcete uložiť posledné získané údaje o počasí lokálne. Používa sa na inicializáciu údajov ihneď po reštarte počas načítavania aktualizovaných údajov."
 
 msgid "Settings"
-msgstr ""
+msgstr "Nastavenia"
 
 msgid "Setup"
-msgstr ""
+msgstr "Nastavenie"
 
 msgid "Show Weather Forecast"
-msgstr ""
+msgstr "Zobraziť predpoveď počasia"
 
 msgid "Show trend arrows for moon data"
-msgstr ""
+msgstr "Zobraziť šípky trendu pre údaje o mesiaci"
 
 msgid "Show trend arrows for moon illumination and moon distance to see the current trend of the data."
-msgstr ""
+msgstr "Ak chcete zobraziť aktuálny trend údajov, zobrazte šípky trendu pre osvetlenie mesiaca a vzdialenosť mesiaca."
 
 msgid "South"
-msgstr ""
+msgstr "Juh"
 
 msgid "Southeast"
-msgstr ""
+msgstr "Juhovýchodná"
 
 msgid "Southwest"
-msgstr ""
+msgstr "Juhozápad"
 
 #, fuzzy
 msgid "Specify how often Weather retrieves its data from the server. 'Once' means the data will loaded only once after a GUI or system start."
 msgstr "Určete, jak často MetrixWeather načítá data ze serveru. 'Jednou' znamená, že se data načtou pouze jednou po spuštění grafického uživatelského rozhraní nebo systému."
 
 msgid "Standard fertig"
-msgstr ""
+msgstr "Štandardne dokončené"
 
 msgid "Temperature unit"
-msgstr ""
+msgstr "Jednotka teploty"
 
 msgid "Temperature unit :"
-msgstr ""
+msgstr "Jednotka teploty:"
 
 msgid "Today"
-msgstr ""
+msgstr "Dnes"
 
 msgid "Try refreshing or check settings"
-msgstr ""
+msgstr "Skúste obnoviť alebo skontrolovať nastavenia"
 
 msgid "Update"
-msgstr ""
+msgstr "Aktualizovať"
 
 msgid "View details"
-msgstr ""
+msgstr "Zobraziť podrobnosti"
 
 #, fuzzy
 msgid "Weather API key :"
@@ -342,17 +342,17 @@ msgid "Weather Plugin Detailview"
 msgstr "Nastavenia počasia"
 
 msgid "Weather city name"
-msgstr ""
+msgstr "Názov mesta počasia"
 
 #, fuzzy
 msgid "Weather city name :"
 msgstr "Nastavenia počasia"
 
 msgid "Weather data unavailable"
-msgstr ""
+msgstr "Údaje o počasí nie sú k dispozícii"
 
 msgid "Weather icon night switch"
-msgstr ""
+msgstr "Nočný spínač ikony počasia"
 
 #, fuzzy
 msgid "Weather icon night switch :"
@@ -367,7 +367,7 @@ msgid "Weather icon set :"
 msgstr "Nastavenia počasia"
 
 msgid "Weather service"
-msgstr ""
+msgstr "Poveternostná služba"
 
 #, fuzzy
 msgid "Weather service :"
@@ -380,13 +380,13 @@ msgid "West"
 msgstr ""
 
 msgid "Wind speed metric unit:"
-msgstr ""
+msgstr "Metrická jednotka rýchlosti vetra:"
 
 msgid "You have unsaved changes. Save before exiting?"
-msgstr ""
+msgstr "Máte neuložené zmeny. Uložiť pred ukončením?"
 
 msgid "exit"
-msgstr ""
+msgstr "VÝCHOD"
 
 msgid "km/h"
 msgstr ""

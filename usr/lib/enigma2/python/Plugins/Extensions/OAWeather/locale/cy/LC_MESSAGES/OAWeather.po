@@ -15,370 +15,370 @@ msgstr ""
 # FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
 #
 msgid "%d Minutes"
-msgstr ""
+msgstr "%d Munud"
 
 msgid "Add"
-msgstr ""
+msgstr "Ychwanegu"
 
 msgid "Add Fav"
-msgstr ""
+msgstr "Ychwanegu Ffefrynnau"
 
 msgid "Cache data"
-msgstr ""
+msgstr "Data storfa"
 
 msgid "Cache data :"
-msgstr ""
+msgstr "Data storfa:"
 
 msgid "Celsius"
 msgstr ""
 
 msgid "Choose the icon set. You need to create an additional set here: /usr/share/enigma2/WeatherIconSets/NAME."
-msgstr ""
+msgstr "Dewiswch y set eicon. Mae angen i chi greu set ychwanegol yma: /usr/share/enigma2/WeatherIconSets/NAME."
 
 msgid "Choose whether the 'night switch' should be activated or not. Some icons are then displayed as night icons with moon."
-msgstr ""
+msgstr "Dewiswch a ddylai'r 'switsh nos' gael ei actifadu ai peidio. Yna caiff rhai eiconau eu harddangos fel eiconau nos gyda lleuad."
 
 msgid "Chose favorite"
-msgstr ""
+msgstr "Dewiswch ffefryn"
 
 msgid "City name must be at least 3 characters"
-msgstr ""
+msgstr "Rhaid i enw'r ddinas fod o leiaf 3 nod"
 
 msgid "Coordinates not available for this location"
-msgstr ""
+msgstr "Nid yw cyfesurynnau ar gael ar gyfer y lleoliad hwn"
 
 msgid "Current Weather"
-msgstr ""
+msgstr "Tywydd Presennol"
 
 msgid "Day +/-"
-msgstr ""
+msgstr "Diwrnod +/-"
 
 msgid "Default"
-msgstr ""
+msgstr "Diofyn"
 
 msgid "Defaults"
-msgstr ""
+msgstr "Rhagosodiadau"
 
 msgid "Delete"
-msgstr ""
+msgstr "Dileu"
 
 msgid "Delete failed"
-msgstr ""
+msgstr "Wedi methu dileu"
 
 msgid "Delete {}?"
-msgstr ""
+msgstr "Dileu {}?"
 
 msgid "Detail level in detail view"
-msgstr ""
+msgstr "Manylion lefel mewn golwg fanwl"
 
 msgid "Details +/-"
-msgstr ""
+msgstr "Manylion +/-"
 
 msgid "Disabled"
-msgstr ""
+msgstr "Anabl"
 
 msgid "East"
-msgstr ""
+msgstr "Dwyrain"
 
 msgid "Edit"
-msgstr ""
+msgstr "Golygu"
 
 msgid "Edit city name"
-msgstr ""
+msgstr "Golygu enw'r ddinas"
 
 msgid "Enable Debug"
-msgstr ""
+msgstr "Galluogi Debug"
 
 msgid "Enable Debug :"
-msgstr ""
+msgstr "Galluogi Dadfygio :"
 
 msgid "Enabled"
-msgstr ""
+msgstr "Galluogwyd"
 
 msgid "Enabled :"
-msgstr ""
+msgstr "Wedi galluogi :"
 
 msgid "Enter a personalized API key v2.5 for use with OpenWeatherMap (https://openweathermap.org/)."
-msgstr ""
+msgstr "Rhowch allwedd API personol v2.5 i'w defnyddio gydag OpenWeatherMap (https://openweathermap.org/)."
 
 msgid "Enter city name (e.g. 'Rome, IT')"
-msgstr ""
+msgstr "Rhowch enw'r ddinas (e.e. 'Rhufain, TG')"
 
 msgid "Enter the location for your weather forecasts. To include your location, expand your favorites list with 'Manage your favorites'."
-msgstr ""
+msgstr "Rhowch y lleoliad ar gyfer eich rhagolygon tywydd. I gynnwys eich lleoliad, ehangwch eich rhestr ffefrynnau gyda 'Rheoli eich ffefrynnau'."
 
 msgid "Error adding location"
-msgstr ""
+msgstr "Gwall wrth ychwanegu lleoliad"
 
 msgid "Error changing day"
-msgstr ""
+msgstr "Gwall wrth newid diwrnod"
 
 msgid "Error processing location data"
-msgstr ""
+msgstr "Gwall wrth brosesu data lleoliad"
 
 msgid "Error saving favorites"
-msgstr ""
+msgstr "Gwall wrth gadw ffefrynnau"
 
 msgid "Error saving location"
-msgstr ""
+msgstr "Gwall wrth gadw lleoliad"
 
 msgid "Error selecting location"
-msgstr ""
+msgstr "Gwall wrth ddewis lleoliad"
 
 msgid "Error updating list"
-msgstr ""
+msgstr "Gwall wrth ddiweddaru'r rhestr"
 
 msgid "Exit"
-msgstr ""
+msgstr "Ymadael"
 
 msgid "Fahrenheit"
 msgstr ""
 
 msgid "Favorites saved successfully"
-msgstr ""
+msgstr "Ffefrynnau wedi'u cadw'n llwyddiannus"
 
 msgid "Feels like"
-msgstr ""
+msgstr "Yn teimlo fel"
 
 msgid "GREEN: MANAGEMENT FAVORITES | MENU: SETUP | INFO: DETAILS | HOME"
-msgstr ""
+msgstr "GWYRDD: FFAFRIOEDD RHEOLI | BWYDLEN: SETUP | GWYBODAETH: MANYLION | CARTREF"
 
 msgid "Glass"
-msgstr ""
+msgstr "Gwydr"
 
 msgid "Humidity"
-msgstr ""
+msgstr "Lleithder"
 
 msgid "Invalid location coordinates"
-msgstr ""
+msgstr "Cyfesurynnau lleoliad annilys"
 
 msgid "Invalid location format"
-msgstr ""
+msgstr "Fformat lleoliad annilys"
 
 msgid "Invalid selection"
-msgstr ""
+msgstr "Detholiad annilys"
 
 msgid "Less details / Larger font"
-msgstr ""
+msgstr "Llai o fanylion / Ffont mwy"
 
 msgid "Loading weather data..."
-msgstr ""
+msgstr "Wrthi'n llwytho data tywydd..."
 
 msgid "Location added successfully"
-msgstr ""
+msgstr "Ychwanegwyd lleoliad yn llwyddiannus"
 
 msgid "Location added to favorites"
-msgstr ""
+msgstr "Lleoliad wedi'i ychwanegu at ffefrynnau"
 
 msgid "Location already exists"
-msgstr ""
+msgstr "Mae'r lleoliad eisoes yn bodoli"
 
 msgid "Location already in favorites"
-msgstr ""
+msgstr "Lleoliad eisoes yn ffefrynnau"
 
 msgid "Location deleted"
-msgstr ""
+msgstr "Lleoliad wedi'i ddileu"
 
 msgid "Location with similar coordinates already exists"
-msgstr ""
+msgstr "Mae lleoliad gyda chyfesurynnau tebyg eisoes yn bodoli"
 
 msgid "MSN weather"
-msgstr ""
+msgstr "Tywydd MSN"
 
 msgid "Manage Favorites"
-msgstr ""
+msgstr "Rheoli Ffefrynnau"
 
 msgid "Menu"
-msgstr ""
+msgstr "Bwydlen"
 
 msgid "Metric unit for wind speed"
-msgstr ""
+msgstr "Uned fetrig ar gyfer cyflymder y gwynt"
 
 msgid "More Details / Smaller font"
-msgstr ""
+msgstr "Mwy o fanylion / Ffont llai"
 
 msgid "N/A"
-msgstr ""
+msgstr "Amh"
 
 msgid "Next favorite"
-msgstr ""
+msgstr "Ffefryn nesaf"
 
 msgid "No data"
-msgstr ""
+msgstr "Dim data"
 
 msgid "No locations found"
-msgstr ""
+msgstr "Ni chanfuwyd unrhyw leoliadau"
 
 msgid "North"
-msgstr ""
+msgstr "Gogledd"
 
 msgid "Northeast"
-msgstr ""
+msgstr "Gogledd-ddwyrain"
 
 msgid "Northwest"
-msgstr ""
+msgstr "Gogledd-orllewin"
 
 msgid "Open-Meteo Wetter"
-msgstr ""
+msgstr "Tywydd Meteo Agored"
 
 msgid "OpenWeatherMap"
 msgstr ""
 
 msgid "Please enter a valid city name."
-msgstr ""
+msgstr "Rhowch enw dinas dilys."
 
 msgid "Please enter at least 3 characters"
-msgstr ""
+msgstr "Rhowch o leiaf 3 nod"
 
 msgid "Precipitation"
-msgstr ""
+msgstr "dyodiad"
 
 msgid "Previous favorite"
-msgstr ""
+msgstr "Ffefryn blaenorol"
 
 msgid "Refresh interval"
-msgstr ""
+msgstr "Cyfnod adnewyddu"
 
 msgid "Refresh interval :"
-msgstr ""
+msgstr "Cyfnod adnewyddu:"
 
 msgid "Save"
-msgstr ""
+msgstr "Arbed"
 
 msgid "Select 'Yes' to enable add debug output to log."
-msgstr ""
+msgstr "Dewiswch 'Ie' i alluogi ychwanegu allbwn dadfygio i logio."
 
 msgid "Select 'Yes' to enable the addition of Weather."
-msgstr ""
+msgstr "Dewiswch 'Ie' i alluogi ychwanegu Tywydd."
 
 msgid "Select location"
-msgstr ""
+msgstr "Dewiswch leoliad"
 
 msgid "Select the City and Press Ok"
-msgstr ""
+msgstr "Dewiswch y Ddinas a Pwyswch Iawn"
 
 msgid "Select the detail level in the detail view. You have the choice between a comprehensive presentation in a smaller font and a reduced presentation with a larger font."
-msgstr ""
+msgstr "Dewiswch lefel y manylion yn y golwg manylder. Mae gennych ddewis rhwng cyflwyniad cynhwysfawr mewn ffont llai a chyflwyniad llai gyda ffont mwy."
 
 msgid "Select the metric unit for wind speed to be used for wind displays. This has no effect on the imperial unit 'mph'."
-msgstr ""
+msgstr "Dewiswch yr uned fetrig ar gyfer cyflymder y gwynt i'w ddefnyddio ar gyfer arddangosiadau gwynt. Nid yw hyn yn cael unrhyw effaith ar yr uned imperialaidd 'mya'."
 
 msgid "Select the preferred weather service to supply the weather information."
-msgstr ""
+msgstr "Dewiswch y gwasanaeth tywydd a ffefrir i roi'r wybodaeth am y tywydd."
 
 msgid "Select the temperature unit to be used for temperature displays."
-msgstr ""
+msgstr "Dewiswch yr uned tymheredd i'w defnyddio ar gyfer arddangosiadau tymheredd."
 
 msgid "Select this option to save that last obtained weather data locally. This is used to initialize the data immediately after restart while updated data is being fetched."
-msgstr ""
+msgstr "Dewiswch yr opsiwn hwn i gadw'r data tywydd diwethaf a gafwyd yn lleol. Defnyddir hwn i gychwyn y data yn syth ar ôl ailgychwyn tra bod data wedi'i ddiweddaru yn cael ei nôl."
 
 msgid "Settings"
-msgstr ""
+msgstr "Gosodiadau"
 
 msgid "Setup"
-msgstr ""
+msgstr "Gosod"
 
 msgid "Show Weather Forecast"
-msgstr ""
+msgstr "Dangos Rhagolygon Tywydd"
 
 msgid "Show trend arrows for moon data"
-msgstr ""
+msgstr "Dangos saethau tueddiadau ar gyfer data lleuad"
 
 msgid "Show trend arrows for moon illumination and moon distance to see the current trend of the data."
-msgstr ""
+msgstr "Dangos saethau tueddiadau ar gyfer goleuo lleuad a phellter y lleuad i weld tuedd gyfredol y data."
 
 msgid "South"
-msgstr ""
+msgstr "De"
 
 msgid "Southeast"
-msgstr ""
+msgstr "De-ddwyrain"
 
 msgid "Southwest"
-msgstr ""
+msgstr "De-orllewin"
 
 msgid "Specify how often Weather retrieves its data from the server. 'Once' means the data will loaded only once after a GUI or system start."
-msgstr ""
+msgstr "Nodwch pa mor aml y mae Tywydd yn adfer ei ddata o'r gweinydd. Mae 'Unwaith' yn golygu mai dim ond unwaith y bydd y data'n cael ei lwytho ar ôl i GUI neu system gychwyn."
 
 msgid "Standard fertig"
-msgstr ""
+msgstr "Safon wedi'i gorffen"
 
 msgid "Temperature unit"
-msgstr ""
+msgstr "Uned tymheredd"
 
 msgid "Temperature unit :"
-msgstr ""
+msgstr "Uned tymheredd:"
 
 msgid "Today"
-msgstr ""
+msgstr "Heddiw"
 
 msgid "Try refreshing or check settings"
-msgstr ""
+msgstr "Ceisiwch adnewyddu neu wirio gosodiadau"
 
 msgid "Update"
-msgstr ""
+msgstr "Diweddariad"
 
 msgid "View details"
-msgstr ""
+msgstr "Gweld manylion"
 
 msgid "Weather API key :"
-msgstr ""
+msgstr "Allwedd API Tywydd:"
 
 msgid "Weather API key v2.5"
-msgstr ""
+msgstr "Allwedd API Tywydd v2.5"
 
 msgid "Weather Plugin"
-msgstr ""
+msgstr "Ategyn Tywydd"
 
 msgid "Weather Plugin Detailview"
-msgstr ""
+msgstr "Gweld Manylion Ategyn Tywydd"
 
 msgid "Weather city name"
-msgstr ""
+msgstr "Enw dinas tywydd"
 
 msgid "Weather city name :"
-msgstr ""
+msgstr "Enw dinas tywydd :"
 
 msgid "Weather data unavailable"
-msgstr ""
+msgstr "Data tywydd ddim ar gael"
 
 msgid "Weather icon night switch"
-msgstr ""
+msgstr "Switsh nos eicon tywydd"
 
 msgid "Weather icon night switch :"
-msgstr ""
+msgstr "Switsh nos eicon tywydd :"
 
 msgid "Weather icon set"
-msgstr ""
+msgstr "Set eicon tywydd"
 
 msgid "Weather icon set :"
-msgstr ""
+msgstr "Set eicon tywydd :"
 
 msgid "Weather service"
-msgstr ""
+msgstr "Gwasanaeth tywydd"
 
 msgid "Weather service :"
-msgstr ""
+msgstr "Gwasanaeth tywydd:"
 
 msgid "Weather settings"
-msgstr ""
+msgstr "Gosodiadau tywydd"
 
 msgid "West"
-msgstr ""
+msgstr "Gorllewin"
 
 msgid "Wind speed metric unit:"
-msgstr ""
+msgstr "Uned metrig cyflymder gwynt:"
 
 msgid "You have unsaved changes. Save before exiting?"
-msgstr ""
+msgstr "Mae gennych newidiadau heb eu cadw. Cadw cyn gadael?"
 
 msgid "exit"
-msgstr ""
+msgstr "allanfa"
 
 msgid "km/h"
-msgstr ""
+msgstr "km/awr"
 
 msgid "m/s"
-msgstr ""
+msgstr "m/e"
 
 msgid "n/a"
 msgstr ""

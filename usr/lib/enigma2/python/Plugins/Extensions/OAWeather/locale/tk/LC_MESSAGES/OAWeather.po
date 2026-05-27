@@ -15,370 +15,370 @@ msgstr ""
 # FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
 #
 msgid "%d Minutes"
-msgstr ""
+msgstr "% d minut"
 
 msgid "Add"
-msgstr ""
+msgstr "Goş"
 
 msgid "Add Fav"
-msgstr ""
+msgstr "Fav goşuň"
 
 msgid "Cache data"
-msgstr ""
+msgstr "Keş maglumatlary"
 
 msgid "Cache data :"
-msgstr ""
+msgstr "Keş maglumatlary:"
 
 msgid "Celsius"
-msgstr ""
+msgstr "Selsiý"
 
 msgid "Choose the icon set. You need to create an additional set here: /usr/share/enigma2/WeatherIconSets/NAME."
-msgstr ""
+msgstr "Nyşan toplumyny saýlaň. Bu ýerde goşmaça toplum döretmeli: / usr / share / enigma2 / WeatherIconSets / NAME."
 
 msgid "Choose whether the 'night switch' should be activated or not. Some icons are then displayed as night icons with moon."
-msgstr ""
+msgstr "'Gijeki wyklýuçateliň' işjeňleşdirilmelidigini ýa-da ýokdugyny saýlaň. Käbir nyşanlar soň aý bilen gijeki nyşan hökmünde görkezilýär."
 
 msgid "Chose favorite"
-msgstr ""
+msgstr "Halaýanlary saýlaň"
 
 msgid "City name must be at least 3 characters"
-msgstr ""
+msgstr "Şäheriň ady azyndan 3 simwoldan ybarat bolmaly"
 
 msgid "Coordinates not available for this location"
-msgstr ""
+msgstr "Bu ýer üçin koordinatlar ýok"
 
 msgid "Current Weather"
-msgstr ""
+msgstr "Häzirki howa"
 
 msgid "Day +/-"
-msgstr ""
+msgstr "Gün +/-"
 
 msgid "Default"
-msgstr ""
+msgstr "Bellenen"
 
 msgid "Defaults"
-msgstr ""
+msgstr "Bellenen"
 
 msgid "Delete"
-msgstr ""
+msgstr "Öçür"
 
 msgid "Delete failed"
-msgstr ""
+msgstr "Öçürmek şowsuz"
 
 msgid "Delete {}?"
-msgstr ""
+msgstr "Öçürmek {}?"
 
 msgid "Detail level in detail view"
-msgstr ""
+msgstr "Jikme-jik dereje"
 
 msgid "Details +/-"
-msgstr ""
+msgstr "Jikme-jiklikler +/-"
 
 msgid "Disabled"
-msgstr ""
+msgstr "Maýyp"
 
 msgid "East"
-msgstr ""
+msgstr "Gündogar"
 
 msgid "Edit"
-msgstr ""
+msgstr "Redaktirläň"
 
 msgid "Edit city name"
-msgstr ""
+msgstr "Şäheriň adyny redaktirläň"
 
 msgid "Enable Debug"
-msgstr ""
+msgstr "Düzediş işini açyň"
 
 msgid "Enable Debug :"
-msgstr ""
+msgstr "Düzediş mümkinçiligini aç:"
 
 msgid "Enabled"
-msgstr ""
+msgstr "Işledilen"
 
 msgid "Enabled :"
-msgstr ""
+msgstr "Işledilen:"
 
 msgid "Enter a personalized API key v2.5 for use with OpenWeatherMap (https://openweathermap.org/)."
-msgstr ""
+msgstr "OpenWeatherMap (https://openweathermap.org/) bilen ulanmak üçin şahsylaşdyrylan API açary v2.5 giriziň."
 
 msgid "Enter city name (e.g. 'Rome, IT')"
-msgstr ""
+msgstr "Şäheriň adyny giriziň (mes. 'Rim, IT')"
 
 msgid "Enter the location for your weather forecasts. To include your location, expand your favorites list with 'Manage your favorites'."
-msgstr ""
+msgstr "Howa çaklamalaryňyzyň ýerleşýän ýerini giriziň. Locationerleşýän ýeriňizi goşmak üçin, halanýanlaryňyzyň sanawyny 'Halaýanlaryňyzy dolandyryň' bilen giňeldiň."
 
 msgid "Error adding location"
-msgstr ""
+msgstr "Locationer goşmakda säwlik"
 
 msgid "Error changing day"
-msgstr ""
+msgstr "Güni üýtgetmekde säwlik"
 
 msgid "Error processing location data"
-msgstr ""
+msgstr "Locationerleşýän maglumatlary gaýtadan işlemekde säwlik"
 
 msgid "Error saving favorites"
-msgstr ""
+msgstr "Halanýanlary tygşytlamakda säwlik"
 
 msgid "Error saving location"
-msgstr ""
+msgstr "Locationerleşýän ýeri ýalňyş"
 
 msgid "Error selecting location"
-msgstr ""
+msgstr "Locationer saýlamakda säwlik"
 
 msgid "Error updating list"
-msgstr ""
+msgstr "Sanawy täzelemekde säwlik"
 
 msgid "Exit"
-msgstr ""
+msgstr "Çyk"
 
 msgid "Fahrenheit"
 msgstr ""
 
 msgid "Favorites saved successfully"
-msgstr ""
+msgstr "Halanýanlar üstünlikli saklandy"
 
 msgid "Feels like"
-msgstr ""
+msgstr "Aly"
 
 msgid "GREEN: MANAGEMENT FAVORITES | MENU: SETUP | INFO: DETAILS | HOME"
-msgstr ""
+msgstr "REaşyl: Dolandyryş aýratynlyklary | MENU: SETUP | MAGLUMAT: Maglumatlar | Öý"
 
 msgid "Glass"
-msgstr ""
+msgstr "Aýna"
 
 msgid "Humidity"
-msgstr ""
+msgstr "Çyglylyk"
 
 msgid "Invalid location coordinates"
-msgstr ""
+msgstr "Nädogry ýerleşiş koordinatlary"
 
 msgid "Invalid location format"
-msgstr ""
+msgstr "Nädogry ýerleşiş formaty"
 
 msgid "Invalid selection"
-msgstr ""
+msgstr "Nädogry saýlaw"
 
 msgid "Less details / Larger font"
-msgstr ""
+msgstr "Has az maglumat / Has uly şrift"
 
 msgid "Loading weather data..."
-msgstr ""
+msgstr "Howa maglumatlary ýüklenýär ..."
 
 msgid "Location added successfully"
-msgstr ""
+msgstr "Locationerleşişi üstünlikli goşuldy"
 
 msgid "Location added to favorites"
-msgstr ""
+msgstr "Locationerleşýän ýeri halanýanlara goşuldy"
 
 msgid "Location already exists"
-msgstr ""
+msgstr "Locationerleşýän ýeri eýýäm bar"
 
 msgid "Location already in favorites"
-msgstr ""
+msgstr "Locationerleşýän ýeri eýýäm halanýanlarda"
 
 msgid "Location deleted"
-msgstr ""
+msgstr "Locationer pozuldy"
 
 msgid "Location with similar coordinates already exists"
-msgstr ""
+msgstr "Meňzeş koordinatlar bilen ýer eýýäm bar"
 
 msgid "MSN weather"
-msgstr ""
+msgstr "MSN howa"
 
 msgid "Manage Favorites"
-msgstr ""
+msgstr "Halanýanlary dolandyryň"
 
 msgid "Menu"
-msgstr ""
+msgstr "Menýu"
 
 msgid "Metric unit for wind speed"
-msgstr ""
+msgstr "Windeliň tizligi üçin ölçeg birligi"
 
 msgid "More Details / Smaller font"
-msgstr ""
+msgstr "Has giňişleýin / kiçi şrift"
 
 msgid "N/A"
-msgstr ""
+msgstr "N / A."
 
 msgid "Next favorite"
-msgstr ""
+msgstr "Indiki halaýan"
 
 msgid "No data"
-msgstr ""
+msgstr "Maglumat ýok"
 
 msgid "No locations found"
-msgstr ""
+msgstr "Noer tapylmady"
 
 msgid "North"
-msgstr ""
+msgstr "Demirgazyk"
 
 msgid "Northeast"
-msgstr ""
+msgstr "Demirgazyk-gündogar"
 
 msgid "Northwest"
-msgstr ""
+msgstr "Demirgazyk-Günbatar"
 
 msgid "Open-Meteo Wetter"
-msgstr ""
+msgstr "Açyk Meteo Howasy"
 
 msgid "OpenWeatherMap"
 msgstr ""
 
 msgid "Please enter a valid city name."
-msgstr ""
+msgstr "Dogry şäher adyny giriziň."
 
 msgid "Please enter at least 3 characters"
-msgstr ""
+msgstr "Iň azyndan 3 simwol giriziň"
 
 msgid "Precipitation"
-msgstr ""
+msgstr "Ygalyň ýagmagy"
 
 msgid "Previous favorite"
-msgstr ""
+msgstr "Öňki halaýan"
 
 msgid "Refresh interval"
-msgstr ""
+msgstr "Aralygy täzeläň"
 
 msgid "Refresh interval :"
-msgstr ""
+msgstr "Aralyk aralygy:"
 
 msgid "Save"
-msgstr ""
+msgstr "Saklaň"
 
 msgid "Select 'Yes' to enable add debug output to log."
-msgstr ""
+msgstr "Logurnalda düzediş çykyşyny goşmak üçin 'Hawa' saýlaň."
 
 msgid "Select 'Yes' to enable the addition of Weather."
-msgstr ""
+msgstr "Howanyň goşulmagyny üpjün etmek üçin 'Hawa' saýlaň."
 
 msgid "Select location"
-msgstr ""
+msgstr "Locationer saýlaň"
 
 msgid "Select the City and Press Ok"
-msgstr ""
+msgstr "Şäheri saýlaň we Ok basyň"
 
 msgid "Select the detail level in the detail view. You have the choice between a comprehensive presentation in a smaller font and a reduced presentation with a larger font."
-msgstr ""
+msgstr "Jikme-jiklik görnüşinde jikme-jiklik derejesini saýlaň. Has kiçi şriftdäki giňişleýin prezentasiýa bilen has uly şrift bilen gysgaldylan prezentasiýany saýlap bilersiňiz."
 
 msgid "Select the metric unit for wind speed to be used for wind displays. This has no effect on the imperial unit 'mph'."
-msgstr ""
+msgstr "Windeliň görkezilmegi üçin ulanyljak ýeliň tizligi üçin ölçeg birligini saýlaň. Bu imperiýa birligine 'mph' täsir etmeýär."
 
 msgid "Select the preferred weather service to supply the weather information."
-msgstr ""
+msgstr "Howa maglumatyny bermek üçin ileri tutulýan howa hyzmatyny saýlaň."
 
 msgid "Select the temperature unit to be used for temperature displays."
-msgstr ""
+msgstr "Temperaturany görkezmek üçin ulanyljak temperatura birligini saýlaň."
 
 msgid "Select this option to save that last obtained weather data locally. This is used to initialize the data immediately after restart while updated data is being fetched."
-msgstr ""
+msgstr "Soňky alnan howa maglumatlaryny ýerli derejede saklamak üçin bu opsiýany saýlaň. Täzelenen maglumatlar alynýarka, täzeden başlandan soň maglumatlary başlamak üçin ulanylýar."
 
 msgid "Settings"
-msgstr ""
+msgstr "Sazlamalar"
 
 msgid "Setup"
-msgstr ""
+msgstr "Gurnama"
 
 msgid "Show Weather Forecast"
-msgstr ""
+msgstr "Howanyň çaklamasyny görkez"
 
 msgid "Show trend arrows for moon data"
-msgstr ""
+msgstr "Aý maglumatlary üçin tendensiýa oklaryny görkeziň"
 
 msgid "Show trend arrows for moon illumination and moon distance to see the current trend of the data."
-msgstr ""
+msgstr "Maglumatlaryň häzirki tendensiýasyny görmek üçin aýyň yşyklandyrylyşy we aýyň aralygy üçin tendensiýa oklaryny görkeziň."
 
 msgid "South"
-msgstr ""
+msgstr "Günorta"
 
 msgid "Southeast"
-msgstr ""
+msgstr "Günorta-gündogar"
 
 msgid "Southwest"
-msgstr ""
+msgstr "Günorta-Günbatar"
 
 msgid "Specify how often Weather retrieves its data from the server. 'Once' means the data will loaded only once after a GUI or system start."
-msgstr ""
+msgstr "Howanyň maglumatlaryny serwerden näçe gezek alýandygyny kesgitläň. 'Bir gezek', maglumatlar GUI ýa-da ulgam işe başlansoň diňe bir gezek ýüklenjekdigini aňladýar."
 
 msgid "Standard fertig"
-msgstr ""
+msgstr "Standart gutardy"
 
 msgid "Temperature unit"
-msgstr ""
+msgstr "Temperatura birligi"
 
 msgid "Temperature unit :"
-msgstr ""
+msgstr "Temperatura bölümi:"
 
 msgid "Today"
-msgstr ""
+msgstr "Bu gün"
 
 msgid "Try refreshing or check settings"
-msgstr ""
+msgstr "Täzeläp görüň ýa-da sazlamalary barlaň"
 
 msgid "Update"
-msgstr ""
+msgstr "Täzelen"
 
 msgid "View details"
-msgstr ""
+msgstr "Jikme-jiklikleri görüň"
 
 msgid "Weather API key :"
-msgstr ""
+msgstr "Howa API açary:"
 
 msgid "Weather API key v2.5"
-msgstr ""
+msgstr "Howa API açary v2.5"
 
 msgid "Weather Plugin"
-msgstr ""
+msgstr "Howa plugin"
 
 msgid "Weather Plugin Detailview"
-msgstr ""
+msgstr "Howa plugininiň jikme-jigi"
 
 msgid "Weather city name"
-msgstr ""
+msgstr "Howa şäheriniň ady"
 
 msgid "Weather city name :"
-msgstr ""
+msgstr "Howa şäheriniň ady:"
 
 msgid "Weather data unavailable"
-msgstr ""
+msgstr "Howa maglumatlary elýeterli däl"
 
 msgid "Weather icon night switch"
-msgstr ""
+msgstr "Howa nyşany gijeki wyklýuçatel"
 
 msgid "Weather icon night switch :"
-msgstr ""
+msgstr "Howa nyşany gijeki wyklýuçatel:"
 
 msgid "Weather icon set"
-msgstr ""
+msgstr "Howa nyşany toplumy"
 
 msgid "Weather icon set :"
-msgstr ""
+msgstr "Howa nyşany:"
 
 msgid "Weather service"
-msgstr ""
+msgstr "Howa hyzmaty"
 
 msgid "Weather service :"
-msgstr ""
+msgstr "Howa hyzmaty:"
 
 msgid "Weather settings"
-msgstr ""
+msgstr "Howanyň sazlamalary"
 
 msgid "West"
-msgstr ""
+msgstr "Günbatar"
 
 msgid "Wind speed metric unit:"
-msgstr ""
+msgstr "Windeliň tizliginiň ölçeg birligi:"
 
 msgid "You have unsaved changes. Save before exiting?"
-msgstr ""
+msgstr "Saklanmadyk üýtgeşmeleriňiz bar. Çykmazdan ozal tygşytlaň?"
 
 msgid "exit"
-msgstr ""
+msgstr "çykyş"
 
 msgid "km/h"
-msgstr ""
+msgstr "km / sag"
 
 msgid "m/s"
-msgstr ""
+msgstr "m / s"
 
 msgid "n/a"
-msgstr ""
+msgstr "n / a"

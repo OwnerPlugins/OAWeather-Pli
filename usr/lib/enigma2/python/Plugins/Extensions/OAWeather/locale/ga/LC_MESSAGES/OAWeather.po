@@ -16,367 +16,367 @@ msgstr ""
 # FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
 #
 msgid "%d Minutes"
-msgstr ""
+msgstr "%d Nóiméad"
 
 msgid "Add"
-msgstr ""
+msgstr "Cuir"
 
 msgid "Add Fav"
-msgstr ""
+msgstr "Cuir Fav"
 
 msgid "Cache data"
-msgstr ""
+msgstr "Sonraí taisce"
 
 msgid "Cache data :"
-msgstr ""
+msgstr "Sonraí taisce :"
 
 msgid "Celsius"
 msgstr ""
 
 msgid "Choose the icon set. You need to create an additional set here: /usr/share/enigma2/WeatherIconSets/NAME."
-msgstr ""
+msgstr "Roghnaigh an tacar deilbhín. Ní mór duit tacar breise a chruthú anseo: /usr/share/enigma2/WeatherIconSets/NAME."
 
 msgid "Choose whether the 'night switch' should be activated or not. Some icons are then displayed as night icons with moon."
-msgstr ""
+msgstr "Roghnaigh cé acu ar cheart an 'lasc oíche' a chur i ngníomh nó nár cheart. Taispeántar roinnt deilbhíní ansin mar dheilbhíní oíche leis an ngealach."
 
 msgid "Chose favorite"
-msgstr ""
+msgstr "Roghnaigh is fearr leat"
 
 msgid "City name must be at least 3 characters"
-msgstr ""
+msgstr "Caithfidh 3 charachtar ar a laghad a bheith in ainm na cathrach"
 
 msgid "Coordinates not available for this location"
-msgstr ""
+msgstr "Níl na comhordanáidí ar fáil don suíomh seo"
 
 msgid "Current Weather"
-msgstr ""
+msgstr "Aimsir Láithreach"
 
 msgid "Day +/-"
-msgstr ""
+msgstr "Lá +/-"
 
 msgid "Default"
-msgstr ""
+msgstr "Réamhshocrú"
 
 msgid "Defaults"
-msgstr ""
+msgstr "Réamhshocruithe"
 
 msgid "Delete"
-msgstr ""
+msgstr "Scrios"
 
 msgid "Delete failed"
-msgstr ""
+msgstr "Theip ar an scriosadh"
 
 msgid "Delete {}?"
-msgstr ""
+msgstr "An bhfuil fonn ort {} a scriosadh?"
 
 msgid "Detail level in detail view"
-msgstr ""
+msgstr "Leibhéal mionsonraithe i dearcadh mionsonraithe"
 
 msgid "Details +/-"
-msgstr ""
+msgstr "Sonraí +/-"
 
 msgid "Disabled"
-msgstr ""
+msgstr "faoi ​​mhíchumas"
 
 msgid "East"
-msgstr ""
+msgstr "Oirthear"
 
 msgid "Edit"
-msgstr ""
+msgstr "Cuir in eagar"
 
 msgid "Edit city name"
-msgstr ""
+msgstr "Cuir ainm na cathrach in eagar"
 
 msgid "Enable Debug"
-msgstr ""
+msgstr "Cumasaigh Dífhabhtaithe"
 
 msgid "Enable Debug :"
-msgstr ""
+msgstr "Cumasaigh Dífhabhtaithe :"
 
 msgid "Enabled"
-msgstr ""
+msgstr "Cumasaithe"
 
 msgid "Enabled :"
-msgstr ""
+msgstr "Cumasaithe :"
 
 msgid "Enter a personalized API key v2.5 for use with OpenWeatherMap (https://openweathermap.org/)."
-msgstr ""
+msgstr "Cuir isteach eochair API pearsanta v2.5 le húsáid le OpenWeatherMap (https://openweathermap.org/)."
 
 msgid "Enter city name (e.g. 'Rome, IT')"
-msgstr ""
+msgstr "Cuir isteach ainm na cathrach (m.sh. ‘An Róimh, IT’)"
 
 msgid "Enter the location for your weather forecasts. To include your location, expand your favorites list with 'Manage your favorites'."
-msgstr ""
+msgstr "Cuir isteach suíomh do réamhaisnéisí aimsire. Chun do shuíomh a chur san áireamh, leathnaigh do rogha rogha le 'Bainistigh do cheanáin'."
 
 msgid "Error adding location"
-msgstr ""
+msgstr "Earráid agus suíomh á chur leis"
 
 msgid "Error changing day"
-msgstr ""
+msgstr "Earráid agus an lá á athrú"
 
 msgid "Error processing location data"
-msgstr ""
+msgstr "Earráid agus sonraí suímh á bpróiseáil"
 
 msgid "Error saving favorites"
-msgstr ""
+msgstr "Earráid agus ceanáin á sábháil"
 
 msgid "Error saving location"
-msgstr ""
+msgstr "Earráid agus suíomh á shábháil"
 
 msgid "Error selecting location"
-msgstr ""
+msgstr "Earráid agus suíomh á roghnú"
 
 msgid "Error updating list"
-msgstr ""
+msgstr "Earráid agus an liosta á nuashonrú"
 
 msgid "Exit"
-msgstr ""
+msgstr "Scoir"
 
 msgid "Fahrenheit"
 msgstr ""
 
 msgid "Favorites saved successfully"
-msgstr ""
+msgstr "D'éirigh le ceanáin a shábháil"
 
 msgid "Feels like"
-msgstr ""
+msgstr "Mothaíonn mhaith"
 
 msgid "GREEN: MANAGEMENT FAVORITES | MENU: SETUP | INFO: DETAILS | HOME"
-msgstr ""
+msgstr "GLAS: FAISNÉIS BHAINISTÍOCHTA | MENU: SETUP | EOLAS: SONRAÍ | BAILE"
 
 msgid "Glass"
-msgstr ""
+msgstr "Gloine"
 
 msgid "Humidity"
-msgstr ""
+msgstr "Taiseachas"
 
 msgid "Invalid location coordinates"
-msgstr ""
+msgstr "Comhordanáidí suímh neamhbhailí"
 
 msgid "Invalid location format"
-msgstr ""
+msgstr "Formáid suímh neamhbhailí"
 
 msgid "Invalid selection"
-msgstr ""
+msgstr "Roghnú neamhbhailí"
 
 msgid "Less details / Larger font"
-msgstr ""
+msgstr "Níos lú sonraí / Cló níos mó"
 
 msgid "Loading weather data..."
-msgstr ""
+msgstr "Sonraí aimsire á lódáil..."
 
 msgid "Location added successfully"
-msgstr ""
+msgstr "Cuireadh an suíomh leis go rathúil"
 
 msgid "Location added to favorites"
-msgstr ""
+msgstr "Suíomh curtha le ceanáin"
 
 msgid "Location already exists"
-msgstr ""
+msgstr "Tá suíomh ann cheana féin"
 
 msgid "Location already in favorites"
-msgstr ""
+msgstr "Suíomh i gceanáin cheana féin"
 
 msgid "Location deleted"
-msgstr ""
+msgstr "Suíomh scriosta"
 
 msgid "Location with similar coordinates already exists"
-msgstr ""
+msgstr "Tá suíomh le comhordanáidí cosúla ann cheana féin"
 
 msgid "MSN weather"
-msgstr ""
+msgstr "Aimsir MSN"
 
 msgid "Manage Favorites"
-msgstr ""
+msgstr "Bainistigh Ceanáin"
 
 msgid "Menu"
-msgstr ""
+msgstr "Roghchlár"
 
 msgid "Metric unit for wind speed"
-msgstr ""
+msgstr "Aonad méadrach do luas na gaoithe"
 
 msgid "More Details / Smaller font"
-msgstr ""
+msgstr "Tuilleadh Sonraí / Cló níos lú"
 
 msgid "N/A"
-msgstr ""
+msgstr "N/B"
 
 msgid "Next favorite"
-msgstr ""
+msgstr "Eile is fearr leat"
 
 msgid "No data"
-msgstr ""
+msgstr "Gan sonraí"
 
 msgid "No locations found"
-msgstr ""
+msgstr "Níor aimsíodh aon suíomh"
 
 msgid "North"
-msgstr ""
+msgstr "Thuaidh"
 
 msgid "Northeast"
-msgstr ""
+msgstr "Oirthuaisceart"
 
 msgid "Northwest"
-msgstr ""
+msgstr "Iarthuaisceart"
 
 msgid "Open-Meteo Wetter"
-msgstr ""
+msgstr "Aimsir Oscailte-Meteo"
 
 msgid "OpenWeatherMap"
 msgstr ""
 
 msgid "Please enter a valid city name."
-msgstr ""
+msgstr "Cuir isteach ainm cathrach bailí."
 
 msgid "Please enter at least 3 characters"
-msgstr ""
+msgstr "Cuir isteach 3 charachtar ar a laghad"
 
 msgid "Precipitation"
-msgstr ""
+msgstr "Frasaíocht"
 
 msgid "Previous favorite"
-msgstr ""
+msgstr "Is fearr leat roimhe seo"
 
 msgid "Refresh interval"
-msgstr ""
+msgstr "Eatramh athnuachan"
 
 msgid "Refresh interval :"
-msgstr ""
+msgstr "Eatramh athnuachana :"
 
 msgid "Save"
-msgstr ""
+msgstr "Sábháil"
 
 msgid "Select 'Yes' to enable add debug output to log."
-msgstr ""
+msgstr "Roghnaigh 'Tá' chun aschur dífhabhtaithe a chur leis chun logáil a chumasú."
 
 msgid "Select 'Yes' to enable the addition of Weather."
-msgstr ""
+msgstr "Roghnaigh 'Tá' chun an Aimsir a chur leis."
 
 msgid "Select location"
-msgstr ""
+msgstr "Roghnaigh suíomh"
 
 msgid "Select the City and Press Ok"
-msgstr ""
+msgstr "Roghnaigh an Chathair agus Brúigh OK"
 
 msgid "Select the detail level in the detail view. You have the choice between a comprehensive presentation in a smaller font and a reduced presentation with a larger font."
-msgstr ""
+msgstr "Roghnaigh an leibhéal mionsonraí san amharc mion. Tá rogha agat idir cur i láthair cuimsitheach i gcló níos lú agus cur i láthair laghdaithe le cló níos mó."
 
 msgid "Select the metric unit for wind speed to be used for wind displays. This has no effect on the imperial unit 'mph'."
-msgstr ""
+msgstr "Roghnaigh an t-aonad méadrach do luas na gaoithe le húsáid le haghaidh taispeántais gaoithe. Níl aon éifeacht aige seo ar an aonad impiriúil ‘mph’."
 
 msgid "Select the preferred weather service to supply the weather information."
-msgstr ""
+msgstr "Roghnaigh an tseirbhís aimsire is fearr leat chun an t-eolas aimsire a sholáthar."
 
 msgid "Select the temperature unit to be used for temperature displays."
-msgstr ""
+msgstr "Roghnaigh an t-aonad teochta atá le húsáid le haghaidh taispeántais teochta."
 
 msgid "Select this option to save that last obtained weather data locally. This is used to initialize the data immediately after restart while updated data is being fetched."
-msgstr ""
+msgstr "Roghnaigh an rogha seo chun na sonraí aimsire is déanaí a fuarthas go háitiúil a shábháil. Úsáidtear é seo chun na sonraí a thúsú díreach tar éis atosú agus sonraí nuashonraithe á bhfáil."
 
 msgid "Settings"
-msgstr ""
+msgstr "Socruithe"
 
 msgid "Setup"
-msgstr ""
+msgstr "Socrú"
 
 msgid "Show Weather Forecast"
-msgstr ""
+msgstr "Taispeáin Réamhaisnéis na hAimsire"
 
 msgid "Show trend arrows for moon data"
-msgstr ""
+msgstr "Taispeáin saigheada treochtaí le haghaidh sonraí gealaí"
 
 msgid "Show trend arrows for moon illumination and moon distance to see the current trend of the data."
-msgstr ""
+msgstr "Taispeáin saigheada treochtaí le haghaidh soilsiú gealaí agus fad na gealaí chun treocht reatha na sonraí a fheiceáil."
 
 msgid "South"
-msgstr ""
+msgstr "Theas"
 
 msgid "Southeast"
-msgstr ""
+msgstr "Oirdheisceart"
 
 msgid "Southwest"
-msgstr ""
+msgstr "Iardheisceart"
 
 msgid "Specify how often Weather retrieves its data from the server. 'Once' means the data will loaded only once after a GUI or system start."
-msgstr ""
+msgstr "Sonraigh cé chomh minic is a aisghabhann Aimsir a sonraí ón bhfreastalaí. Ciallaíonn ‘aon uair amháin’ nach lódálfar na sonraí ach uair amháin tar éis an GUI nó tús an chórais."
 
 msgid "Standard fertig"
-msgstr ""
+msgstr "Caighdeán críochnaithe"
 
 msgid "Temperature unit"
-msgstr ""
+msgstr "Aonad teochta"
 
 msgid "Temperature unit :"
-msgstr ""
+msgstr "Aonad teochta:"
 
 msgid "Today"
-msgstr ""
+msgstr "Inniu"
 
 msgid "Try refreshing or check settings"
-msgstr ""
+msgstr "Bain triail as athnuachan nó seiceáil na socruithe"
 
 msgid "Update"
-msgstr ""
+msgstr "Nuashonrú"
 
 msgid "View details"
-msgstr ""
+msgstr "Féach ar na sonraí"
 
 msgid "Weather API key :"
-msgstr ""
+msgstr "Eochair Aimsir API :"
 
 msgid "Weather API key v2.5"
-msgstr ""
+msgstr "Eochair Aimsir API v2.5"
 
 msgid "Weather Plugin"
-msgstr ""
+msgstr "Breiseán Aimsir"
 
 msgid "Weather Plugin Detailview"
-msgstr ""
+msgstr "Mionradharc Breiseán Aimsir"
 
 msgid "Weather city name"
-msgstr ""
+msgstr "Ainm na cathrach aimsir"
 
 msgid "Weather city name :"
-msgstr ""
+msgstr "Ainm na cathrach aimsir :"
 
 msgid "Weather data unavailable"
-msgstr ""
+msgstr "Níl sonraí aimsire ar fáil"
 
 msgid "Weather icon night switch"
-msgstr ""
+msgstr "Deilbhín aimsire lasc oíche"
 
 msgid "Weather icon night switch :"
-msgstr ""
+msgstr "Athrú oíche deilbhín aimsire :"
 
 msgid "Weather icon set"
-msgstr ""
+msgstr "Socraigh deilbhín aimsire"
 
 msgid "Weather icon set :"
-msgstr ""
+msgstr "Socraigh deilbhín aimsire :"
 
 msgid "Weather service"
-msgstr ""
+msgstr "Seirbhís aimsire"
 
 msgid "Weather service :"
-msgstr ""
+msgstr "Seirbhís aimsire :"
 
 msgid "Weather settings"
-msgstr ""
+msgstr "Socruithe aimsire"
 
 msgid "West"
-msgstr ""
+msgstr "Thiar"
 
 msgid "Wind speed metric unit:"
-msgstr ""
+msgstr "Aonad méadrach luas na gaoithe:"
 
 msgid "You have unsaved changes. Save before exiting?"
-msgstr ""
+msgstr "Tá athruithe gan sábháil agat. Sábháil roimh imeacht?"
 
 msgid "exit"
-msgstr ""
+msgstr "scoir"
 
 msgid "km/h"
-msgstr ""
+msgstr "km/u"
 
 msgid "m/s"
 msgstr ""

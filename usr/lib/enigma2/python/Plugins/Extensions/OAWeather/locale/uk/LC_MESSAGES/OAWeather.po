@@ -17,10 +17,10 @@ msgid "%d Minutes"
 msgstr "%d Хвилин"
 
 msgid "Add"
-msgstr ""
+msgstr "додати"
 
 msgid "Add Fav"
-msgstr ""
+msgstr "Додати улюблене"
 
 msgid "Cache data"
 msgstr "Кеш даних"
@@ -33,26 +33,26 @@ msgid "Celsius"
 msgstr "Цельсій"
 
 msgid "Choose the icon set. You need to create an additional set here: /usr/share/enigma2/WeatherIconSets/NAME."
-msgstr ""
+msgstr "Виберіть набір іконок. Тут потрібно створити додатковий набір: /usr/share/enigma2/WeatherIconSets/NAME."
 
 msgid "Choose whether the 'night switch' should be activated or not. Some icons are then displayed as night icons with moon."
-msgstr ""
+msgstr "Виберіть, чи потрібно активувати нічний перемикач. Деякі значки потім відображаються як нічні значки з місяцем."
 
 msgid "Chose favorite"
-msgstr ""
+msgstr "Вибрав улюблену"
 
 msgid "City name must be at least 3 characters"
-msgstr ""
+msgstr "Назва міста має містити не менше 3 символів"
 
 msgid "Coordinates not available for this location"
-msgstr ""
+msgstr "Координати недоступні для цього місця"
 
 #, fuzzy
 msgid "Current Weather"
 msgstr "Помилка в Weatherinfo"
 
 msgid "Day +/-"
-msgstr ""
+msgstr "День +/-"
 
 #, fuzzy
 msgid "Default"
@@ -62,19 +62,19 @@ msgid "Defaults"
 msgstr "За замовчуванням"
 
 msgid "Delete"
-msgstr ""
+msgstr "Видалити"
 
 msgid "Delete failed"
-msgstr ""
+msgstr "Не вдалося видалити"
 
 msgid "Delete {}?"
-msgstr ""
+msgstr "Видалити {}?"
 
 msgid "Detail level in detail view"
-msgstr ""
+msgstr "Рівень деталізації в детальному перегляді"
 
 msgid "Details +/-"
-msgstr ""
+msgstr "Деталі +/-"
 
 msgid "Disabled"
 msgstr "Вимкнено"
@@ -83,7 +83,7 @@ msgid "East"
 msgstr "Схід"
 
 msgid "Edit"
-msgstr ""
+msgstr "Редагувати"
 
 #, fuzzy
 msgid "Edit city name"
@@ -109,10 +109,10 @@ msgid "Enter a personalized API key v2.5 for use with OpenWeatherMap (https://op
 msgstr "Введіть персоналізований ключ API для використання з OpenWeatherMap (https://openweathermap.org/)."
 
 msgid "Enter city name (e.g. 'Rome, IT')"
-msgstr ""
+msgstr "Введіть назву міста (наприклад, «Рим, Італія»)"
 
 msgid "Enter the location for your weather forecasts. To include your location, expand your favorites list with 'Manage your favorites'."
-msgstr ""
+msgstr "Введіть місце для прогнозу погоди. Щоб додати своє місцезнаходження, розгорніть список улюблених за допомогою «Керувати своїми улюбленими»."
 
 #, fuzzy
 msgid "Error adding location"
@@ -123,104 +123,104 @@ msgid "Error changing day"
 msgstr "Помилка отримання ID міста"
 
 msgid "Error processing location data"
-msgstr ""
+msgstr "Помилка обробки даних про місцезнаходження"
 
 msgid "Error saving favorites"
-msgstr ""
+msgstr "Помилка збереження вибраного"
 
 #, fuzzy
 msgid "Error saving location"
 msgstr "Помилка в Weatherinfo"
 
 msgid "Error selecting location"
-msgstr ""
+msgstr "Помилка вибору місця"
 
 #, fuzzy
 msgid "Error updating list"
 msgstr "Помилка отримання ID міста"
 
 msgid "Exit"
-msgstr ""
+msgstr "Вихід"
 
 msgid "Fahrenheit"
 msgstr "Фарентгейт"
 
 msgid "Favorites saved successfully"
-msgstr ""
+msgstr "Вибране успішно збережено"
 
 msgid "Feels like"
-msgstr ""
+msgstr "Відчувається як"
 
 msgid "GREEN: MANAGEMENT FAVORITES | MENU: SETUP | INFO: DETAILS | HOME"
-msgstr ""
+msgstr "ЗЕЛЕНИЙ: ФАВОРИТИ КЕРІВНИЦТВА | МЕНЮ: НАЛАШТУВАННЯ | ІНФО: ДЕТАЛІ | ДІМ"
 
 msgid "Glass"
-msgstr ""
+msgstr "скло"
 
 msgid "Humidity"
-msgstr ""
+msgstr "Вологість"
 
 msgid "Invalid location coordinates"
-msgstr ""
+msgstr "Недійсні координати розташування"
 
 msgid "Invalid location format"
-msgstr ""
+msgstr "Недійсний формат розташування"
 
 #, fuzzy
 msgid "Invalid selection"
 msgstr "Вибір місця розташування"
 
 msgid "Less details / Larger font"
-msgstr ""
+msgstr "Менше деталей / Більший шрифт"
 
 msgid "Loading weather data..."
-msgstr ""
+msgstr "Завантаження даних про погоду..."
 
 msgid "Location added successfully"
-msgstr ""
+msgstr "Розташування успішно додано"
 
 msgid "Location added to favorites"
-msgstr ""
+msgstr "Розташування додано до вибраного"
 
 msgid "Location already exists"
-msgstr ""
+msgstr "Розташування вже існує"
 
 msgid "Location already in favorites"
-msgstr ""
+msgstr "Локація вже у вибраному"
 
 #, fuzzy
 msgid "Location deleted"
 msgstr "Вибір місця розташування"
 
 msgid "Location with similar coordinates already exists"
-msgstr ""
+msgstr "Місце зі схожими координатами вже існує"
 
 msgid "MSN weather"
 msgstr "Погода MSN"
 
 msgid "Manage Favorites"
-msgstr ""
+msgstr "Керуйте вибраним"
 
 msgid "Menu"
-msgstr ""
+msgstr "Меню"
 
 msgid "Metric unit for wind speed"
-msgstr ""
+msgstr "Метрична одиниця швидкості вітру"
 
 msgid "More Details / Smaller font"
-msgstr ""
+msgstr "Більше деталей / Менший шрифт"
 
 msgid "N/A"
 msgstr ""
 
 msgid "Next favorite"
-msgstr ""
+msgstr "Наступний фаворит"
 
 msgid "No data"
-msgstr ""
+msgstr "Немає даних"
 
 msgid "No locations found"
-msgstr ""
+msgstr "Місця не знайдено"
 
 msgid "North"
 msgstr "Північний"
@@ -242,13 +242,13 @@ msgid "Please enter a valid city name."
 msgstr "Назва міста MetrixWeather"
 
 msgid "Please enter at least 3 characters"
-msgstr ""
+msgstr "Введіть принаймні 3 символи"
 
 msgid "Precipitation"
-msgstr ""
+msgstr "Опади"
 
 msgid "Previous favorite"
-msgstr ""
+msgstr "Попереднє улюблене"
 
 msgid "Refresh interval"
 msgstr "Інтервал оновлення"
@@ -258,7 +258,7 @@ msgid "Refresh interval :"
 msgstr "Інтервал оновлення"
 
 msgid "Save"
-msgstr ""
+msgstr "зберегти"
 
 #, fuzzy
 msgid "Select 'Yes' to enable add debug output to log."
@@ -273,70 +273,70 @@ msgid "Select location"
 msgstr "Виберіть своє місцезнаходження"
 
 msgid "Select the City and Press Ok"
-msgstr ""
+msgstr "Виберіть місто та натисніть OK"
 
 msgid "Select the detail level in the detail view. You have the choice between a comprehensive presentation in a smaller font and a reduced presentation with a larger font."
-msgstr ""
+msgstr "Виберіть рівень деталізації в детальному поданні. У вас є вибір між повною презентацією з меншим шрифтом і зменшеною презентацією з більшим шрифтом."
 
 msgid "Select the metric unit for wind speed to be used for wind displays. This has no effect on the imperial unit 'mph'."
-msgstr ""
+msgstr "Виберіть метричну одиницю швидкості вітру для відображення вітру. Це не впливає на імперську одиницю «милі/год»."
 
 msgid "Select the preferred weather service to supply the weather information."
-msgstr ""
+msgstr "Виберіть потрібну метеослужбу для надання інформації про погоду."
 
 msgid "Select the temperature unit to be used for temperature displays."
-msgstr ""
+msgstr "Виберіть одиницю вимірювання температури, яка буде використовуватися для відображення температури."
 
 msgid "Select this option to save that last obtained weather data locally. This is used to initialize the data immediately after restart while updated data is being fetched."
-msgstr ""
+msgstr "Виберіть цей параметр, щоб зберегти останні отримані дані про погоду локально. Це використовується для ініціалізації даних одразу після перезапуску під час отримання оновлених даних."
 
 msgid "Settings"
-msgstr ""
+msgstr "Налаштування"
 
 msgid "Setup"
-msgstr ""
+msgstr "Налаштування"
 
 msgid "Show Weather Forecast"
-msgstr ""
+msgstr "Показати прогноз погоди"
 
 msgid "Show trend arrows for moon data"
-msgstr ""
+msgstr "Показати стрілки тенденцій для даних місяця"
 
 msgid "Show trend arrows for moon illumination and moon distance to see the current trend of the data."
-msgstr ""
+msgstr "Показуйте стрілки трендів для освітлення місяця та відстані до місяця, щоб побачити поточний тренд даних."
 
 msgid "South"
-msgstr ""
+msgstr "Південь"
 
 msgid "Southeast"
-msgstr ""
+msgstr "південний схід"
 
 msgid "Southwest"
-msgstr ""
+msgstr "південний захід"
 
 msgid "Specify how often Weather retrieves its data from the server. 'Once' means the data will loaded only once after a GUI or system start."
-msgstr ""
+msgstr "Укажіть, як часто Weather отримує дані із сервера. «Один раз» означає, що дані завантажуватимуться лише один раз після графічного інтерфейсу користувача або запуску системи."
 
 msgid "Standard fertig"
-msgstr ""
+msgstr "Стандартна обробка"
 
 msgid "Temperature unit"
-msgstr ""
+msgstr "Одиниця вимірювання температури"
 
 msgid "Temperature unit :"
-msgstr ""
+msgstr "Одиниця вимірювання температури:"
 
 msgid "Today"
-msgstr ""
+msgstr "Сьогодні"
 
 msgid "Try refreshing or check settings"
-msgstr ""
+msgstr "Спробуйте оновити або перевірте налаштування"
 
 msgid "Update"
-msgstr ""
+msgstr "оновлення"
 
 msgid "View details"
-msgstr ""
+msgstr "Переглянути деталі"
 
 #, fuzzy
 msgid "Weather API key :"
@@ -392,22 +392,22 @@ msgid "Weather settings"
 msgstr "Налаштування погоди"
 
 msgid "West"
-msgstr ""
+msgstr "Захід"
 
 msgid "Wind speed metric unit:"
-msgstr ""
+msgstr "Метрична одиниця швидкості вітру:"
 
 msgid "You have unsaved changes. Save before exiting?"
-msgstr ""
+msgstr "У вас є незбережені зміни. Зберегти перед виходом?"
 
 msgid "exit"
-msgstr ""
+msgstr "вихід"
 
 msgid "km/h"
-msgstr ""
+msgstr "км/год"
 
 msgid "m/s"
-msgstr ""
+msgstr "РС"
 
 msgid "n/a"
 msgstr ""

@@ -15,367 +15,367 @@ msgstr ""
 # FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
 #
 msgid "%d Minutes"
-msgstr ""
+msgstr "%d నిమిషాలు"
 
 msgid "Add"
-msgstr ""
+msgstr "జోడించు"
 
 msgid "Add Fav"
-msgstr ""
+msgstr "ఇష్టమైనవి జోడించండి"
 
 msgid "Cache data"
-msgstr ""
+msgstr "కాష్ డేటా"
 
 msgid "Cache data :"
-msgstr ""
+msgstr "కాష్ డేటా:"
 
 msgid "Celsius"
-msgstr ""
+msgstr "సెల్సియస్"
 
 msgid "Choose the icon set. You need to create an additional set here: /usr/share/enigma2/WeatherIconSets/NAME."
-msgstr ""
+msgstr "ఐకాన్ సెట్‌ను ఎంచుకోండి. మీరు ఇక్కడ అదనపు సెట్‌ని సృష్టించాలి: /usr/share/enigma2/WeatherIconSets/NAME."
 
 msgid "Choose whether the 'night switch' should be activated or not. Some icons are then displayed as night icons with moon."
-msgstr ""
+msgstr "'నైట్ స్విచ్' యాక్టివేట్ చేయాలా వద్దా అని ఎంచుకోండి. కొన్ని చిహ్నాలు చంద్రునితో రాత్రి చిహ్నాలుగా ప్రదర్శించబడతాయి."
 
 msgid "Chose favorite"
-msgstr ""
+msgstr "ఇష్టమైన ఎంపిక"
 
 msgid "City name must be at least 3 characters"
-msgstr ""
+msgstr "నగరం పేరు తప్పనిసరిగా కనీసం 3 అక్షరాలు ఉండాలి"
 
 msgid "Coordinates not available for this location"
-msgstr ""
+msgstr "ఈ స్థానానికి అక్షాంశాలు అందుబాటులో లేవు"
 
 msgid "Current Weather"
-msgstr ""
+msgstr "ప్రస్తుత వాతావరణం"
 
 msgid "Day +/-"
-msgstr ""
+msgstr "రోజు +/-"
 
 msgid "Default"
-msgstr ""
+msgstr "డిఫాల్ట్"
 
 msgid "Defaults"
-msgstr ""
+msgstr "డిఫాల్ట్‌లు"
 
 msgid "Delete"
-msgstr ""
+msgstr "తొలగించు"
 
 msgid "Delete failed"
-msgstr ""
+msgstr "తొలగించడం విఫలమైంది"
 
 msgid "Delete {}?"
-msgstr ""
+msgstr "{}ని తొలగించాలా?"
 
 msgid "Detail level in detail view"
-msgstr ""
+msgstr "వివరాల వీక్షణలో వివరాల స్థాయి"
 
 msgid "Details +/-"
-msgstr ""
+msgstr "వివరాలు +/-"
 
 msgid "Disabled"
-msgstr ""
+msgstr "వికలాంగుడు"
 
 msgid "East"
-msgstr ""
+msgstr "తూర్పు"
 
 msgid "Edit"
-msgstr ""
+msgstr "సవరించు"
 
 msgid "Edit city name"
-msgstr ""
+msgstr "నగరం పేరును సవరించండి"
 
 msgid "Enable Debug"
-msgstr ""
+msgstr "డీబగ్‌ని ప్రారంభించండి"
 
 msgid "Enable Debug :"
-msgstr ""
+msgstr "డీబగ్‌ని ప్రారంభించండి:"
 
 msgid "Enabled"
-msgstr ""
+msgstr "ప్రారంభించబడింది"
 
 msgid "Enabled :"
-msgstr ""
+msgstr "ప్రారంభించబడింది:"
 
 msgid "Enter a personalized API key v2.5 for use with OpenWeatherMap (https://openweathermap.org/)."
-msgstr ""
+msgstr "OpenWeatherMap (https://openweathermap.org/)తో ఉపయోగించడానికి వ్యక్తిగతీకరించిన API కీ v2.5ని నమోదు చేయండి."
 
 msgid "Enter city name (e.g. 'Rome, IT')"
-msgstr ""
+msgstr "నగరం పేరును నమోదు చేయండి (ఉదా. 'రోమ్, IT')"
 
 msgid "Enter the location for your weather forecasts. To include your location, expand your favorites list with 'Manage your favorites'."
-msgstr ""
+msgstr "మీ వాతావరణ సూచనల కోసం స్థానాన్ని నమోదు చేయండి. మీ స్థానాన్ని చేర్చడానికి, 'మీకు ఇష్టమైన వాటిని నిర్వహించండి'తో మీ ఇష్టమైన జాబితాను విస్తరించండి."
 
 msgid "Error adding location"
-msgstr ""
+msgstr "స్థానాన్ని జోడించడంలో లోపం"
 
 msgid "Error changing day"
-msgstr ""
+msgstr "రోజు మార్చడంలో లోపం"
 
 msgid "Error processing location data"
-msgstr ""
+msgstr "స్థాన డేటాను ప్రాసెస్ చేయడంలో లోపం"
 
 msgid "Error saving favorites"
-msgstr ""
+msgstr "ఇష్టమైన వాటిని సేవ్ చేయడంలో లోపం"
 
 msgid "Error saving location"
-msgstr ""
+msgstr "స్థానాన్ని సేవ్ చేయడంలో లోపం"
 
 msgid "Error selecting location"
-msgstr ""
+msgstr "స్థానాన్ని ఎంచుకోవడంలో లోపం"
 
 msgid "Error updating list"
-msgstr ""
+msgstr "జాబితాను నవీకరించడంలో లోపం"
 
 msgid "Exit"
-msgstr ""
+msgstr "నిష్క్రమించు"
 
 msgid "Fahrenheit"
-msgstr ""
+msgstr "ఫారెన్‌హీట్"
 
 msgid "Favorites saved successfully"
-msgstr ""
+msgstr "ఇష్టమైనవి విజయవంతంగా సేవ్ చేయబడ్డాయి"
 
 msgid "Feels like"
-msgstr ""
+msgstr "అనిపిస్తుంది"
 
 msgid "GREEN: MANAGEMENT FAVORITES | MENU: SETUP | INFO: DETAILS | HOME"
-msgstr ""
+msgstr "ఆకుపచ్చ: నిర్వహణ ఇష్టమైనవి | మెను: సెటప్ | సమాచారం: వివరాలు | హోమ్"
 
 msgid "Glass"
-msgstr ""
+msgstr "గాజు"
 
 msgid "Humidity"
-msgstr ""
+msgstr "తేమ"
 
 msgid "Invalid location coordinates"
-msgstr ""
+msgstr "చెల్లని స్థాన అక్షాంశాలు"
 
 msgid "Invalid location format"
-msgstr ""
+msgstr "చెల్లని స్థాన ఆకృతి"
 
 msgid "Invalid selection"
-msgstr ""
+msgstr "చెల్లని ఎంపిక"
 
 msgid "Less details / Larger font"
-msgstr ""
+msgstr "తక్కువ వివరాలు / పెద్ద ఫాంట్"
 
 msgid "Loading weather data..."
-msgstr ""
+msgstr "వాతావరణ డేటా లోడ్ అవుతోంది..."
 
 msgid "Location added successfully"
-msgstr ""
+msgstr "స్థానం విజయవంతంగా జోడించబడింది"
 
 msgid "Location added to favorites"
-msgstr ""
+msgstr "ఇష్టమైన వాటికి స్థానం జోడించబడింది"
 
 msgid "Location already exists"
-msgstr ""
+msgstr "స్థానం ఇప్పటికే ఉంది"
 
 msgid "Location already in favorites"
-msgstr ""
+msgstr "లొకేషన్ ఇప్పటికే ఇష్టమైన వాటిలో ఉంది"
 
 msgid "Location deleted"
-msgstr ""
+msgstr "స్థానం తొలగించబడింది"
 
 msgid "Location with similar coordinates already exists"
-msgstr ""
+msgstr "సారూప్య కోఆర్డినేట్‌లతో ఉన్న స్థానం ఇప్పటికే ఉంది"
 
 msgid "MSN weather"
-msgstr ""
+msgstr "MSN వాతావరణం"
 
 msgid "Manage Favorites"
-msgstr ""
+msgstr "ఇష్టమైనవి నిర్వహించండి"
 
 msgid "Menu"
-msgstr ""
+msgstr "మెనూ"
 
 msgid "Metric unit for wind speed"
-msgstr ""
+msgstr "గాలి వేగం కోసం మెట్రిక్ యూనిట్"
 
 msgid "More Details / Smaller font"
-msgstr ""
+msgstr "మరిన్ని వివరాలు / చిన్న ఫాంట్"
 
 msgid "N/A"
 msgstr ""
 
 msgid "Next favorite"
-msgstr ""
+msgstr "తదుపరి ఇష్టమైనది"
 
 msgid "No data"
-msgstr ""
+msgstr "డేటా లేదు"
 
 msgid "No locations found"
-msgstr ""
+msgstr "స్థానాలు ఏవీ కనుగొనబడలేదు"
 
 msgid "North"
-msgstr ""
+msgstr "ఉత్తరం"
 
 msgid "Northeast"
-msgstr ""
+msgstr "ఈశాన్య"
 
 msgid "Northwest"
-msgstr ""
+msgstr "వాయువ్య"
 
 msgid "Open-Meteo Wetter"
-msgstr ""
+msgstr "ఓపెన్-మెటియో వాతావరణం"
 
 msgid "OpenWeatherMap"
-msgstr ""
+msgstr "ఓపెన్ వెదర్ మ్యాప్"
 
 msgid "Please enter a valid city name."
-msgstr ""
+msgstr "దయచేసి చెల్లుబాటు అయ్యే నగరం పేరును నమోదు చేయండి."
 
 msgid "Please enter at least 3 characters"
-msgstr ""
+msgstr "దయచేసి కనీసం 3 అక్షరాలను నమోదు చేయండి"
 
 msgid "Precipitation"
-msgstr ""
+msgstr "అవపాతం"
 
 msgid "Previous favorite"
-msgstr ""
+msgstr "మునుపటి ఇష్టమైనది"
 
 msgid "Refresh interval"
-msgstr ""
+msgstr "రిఫ్రెష్ విరామం"
 
 msgid "Refresh interval :"
-msgstr ""
+msgstr "రిఫ్రెష్ విరామం:"
 
 msgid "Save"
-msgstr ""
+msgstr "సేవ్ చేయండి"
 
 msgid "Select 'Yes' to enable add debug output to log."
-msgstr ""
+msgstr "లాగ్‌కి యాడ్ డీబగ్ అవుట్‌పుట్‌ని ఎనేబుల్ చేయడానికి 'అవును'ని ఎంచుకోండి."
 
 msgid "Select 'Yes' to enable the addition of Weather."
-msgstr ""
+msgstr "వాతావరణ జోడింపును ప్రారంభించడానికి 'అవును'ని ఎంచుకోండి."
 
 msgid "Select location"
-msgstr ""
+msgstr "స్థానాన్ని ఎంచుకోండి"
 
 msgid "Select the City and Press Ok"
-msgstr ""
+msgstr "నగరాన్ని ఎంచుకుని, సరే నొక్కండి"
 
 msgid "Select the detail level in the detail view. You have the choice between a comprehensive presentation in a smaller font and a reduced presentation with a larger font."
-msgstr ""
+msgstr "వివరాల వీక్షణలో వివరాల స్థాయిని ఎంచుకోండి. మీరు చిన్న ఫాంట్‌లో సమగ్ర ప్రదర్శన మరియు పెద్ద ఫాంట్‌తో తగ్గించబడిన ప్రెజెంటేషన్ మధ్య ఎంపికను కలిగి ఉంటారు."
 
 msgid "Select the metric unit for wind speed to be used for wind displays. This has no effect on the imperial unit 'mph'."
-msgstr ""
+msgstr "విండ్ డిస్‌ప్లేల కోసం ఉపయోగించాల్సిన గాలి వేగం కోసం మెట్రిక్ యూనిట్‌ను ఎంచుకోండి. ఇంపీరియల్ యూనిట్ 'mph'పై దీని ప్రభావం ఉండదు."
 
 msgid "Select the preferred weather service to supply the weather information."
-msgstr ""
+msgstr "వాతావరణ సమాచారాన్ని అందించడానికి ఇష్టపడే వాతావరణ సేవను ఎంచుకోండి."
 
 msgid "Select the temperature unit to be used for temperature displays."
-msgstr ""
+msgstr "ఉష్ణోగ్రత ప్రదర్శనల కోసం ఉపయోగించాల్సిన ఉష్ణోగ్రత యూనిట్‌ను ఎంచుకోండి."
 
 msgid "Select this option to save that last obtained weather data locally. This is used to initialize the data immediately after restart while updated data is being fetched."
-msgstr ""
+msgstr "చివరిగా పొందిన వాతావరణ డేటాను స్థానికంగా సేవ్ చేయడానికి ఈ ఎంపికను ఎంచుకోండి. నవీకరించబడిన డేటాను పొందుతున్నప్పుడు పునఃప్రారంభించిన వెంటనే డేటాను ప్రారంభించేందుకు ఇది ఉపయోగించబడుతుంది."
 
 msgid "Settings"
-msgstr ""
+msgstr "సెట్టింగ్‌లు"
 
 msgid "Setup"
-msgstr ""
+msgstr "సెటప్"
 
 msgid "Show Weather Forecast"
-msgstr ""
+msgstr "వాతావరణ సూచనను చూపు"
 
 msgid "Show trend arrows for moon data"
-msgstr ""
+msgstr "చంద్రుని డేటా కోసం ట్రెండ్ బాణాలను చూపండి"
 
 msgid "Show trend arrows for moon illumination and moon distance to see the current trend of the data."
-msgstr ""
+msgstr "డేటా యొక్క ప్రస్తుత ట్రెండ్‌ను చూడటానికి చంద్రుని ప్రకాశం మరియు చంద్రుని దూరం కోసం ట్రెండ్ బాణాలను చూపండి."
 
 msgid "South"
-msgstr ""
+msgstr "దక్షిణ"
 
 msgid "Southeast"
-msgstr ""
+msgstr "ఆగ్నేయం"
 
 msgid "Southwest"
-msgstr ""
+msgstr "నైరుతి"
 
 msgid "Specify how often Weather retrieves its data from the server. 'Once' means the data will loaded only once after a GUI or system start."
-msgstr ""
+msgstr "సర్వర్ నుండి వాతావరణం దాని డేటాను ఎంత తరచుగా తిరిగి పొందుతుందో పేర్కొనండి. 'ఒకసారి' అంటే GUI లేదా సిస్టమ్ ప్రారంభమైన తర్వాత డేటా ఒక్కసారి మాత్రమే లోడ్ అవుతుంది."
 
 msgid "Standard fertig"
-msgstr ""
+msgstr "ప్రామాణిక పూర్తయింది"
 
 msgid "Temperature unit"
-msgstr ""
+msgstr "ఉష్ణోగ్రత యూనిట్"
 
 msgid "Temperature unit :"
-msgstr ""
+msgstr "ఉష్ణోగ్రత యూనిట్:"
 
 msgid "Today"
-msgstr ""
+msgstr "ఈరోజు"
 
 msgid "Try refreshing or check settings"
-msgstr ""
+msgstr "రిఫ్రెష్ చేయడానికి ప్రయత్నించండి లేదా సెట్టింగ్‌లను తనిఖీ చేయండి"
 
 msgid "Update"
-msgstr ""
+msgstr "నవీకరించు"
 
 msgid "View details"
-msgstr ""
+msgstr "వివరాలను వీక్షించండి"
 
 msgid "Weather API key :"
-msgstr ""
+msgstr "వాతావరణ API కీ:"
 
 msgid "Weather API key v2.5"
-msgstr ""
+msgstr "వాతావరణ API కీ v2.5"
 
 msgid "Weather Plugin"
-msgstr ""
+msgstr "వాతావరణ ప్లగిన్"
 
 msgid "Weather Plugin Detailview"
-msgstr ""
+msgstr "వాతావరణ ప్లగిన్ వివరాలు"
 
 msgid "Weather city name"
-msgstr ""
+msgstr "వాతావరణ నగరం పేరు"
 
 msgid "Weather city name :"
-msgstr ""
+msgstr "వాతావరణ నగరం పేరు:"
 
 msgid "Weather data unavailable"
-msgstr ""
+msgstr "వాతావరణ డేటా అందుబాటులో లేదు"
 
 msgid "Weather icon night switch"
-msgstr ""
+msgstr "వాతావరణ చిహ్నం రాత్రి స్విచ్"
 
 msgid "Weather icon night switch :"
-msgstr ""
+msgstr "వాతావరణ చిహ్నం రాత్రి స్విచ్:"
 
 msgid "Weather icon set"
-msgstr ""
+msgstr "వాతావరణ చిహ్నం సెట్"
 
 msgid "Weather icon set :"
-msgstr ""
+msgstr "వాతావరణ చిహ్నం సెట్:"
 
 msgid "Weather service"
-msgstr ""
+msgstr "వాతావరణ సేవ"
 
 msgid "Weather service :"
-msgstr ""
+msgstr "వాతావరణ సేవ:"
 
 msgid "Weather settings"
-msgstr ""
+msgstr "వాతావరణ సెట్టింగ్‌లు"
 
 msgid "West"
-msgstr ""
+msgstr "వెస్ట్"
 
 msgid "Wind speed metric unit:"
-msgstr ""
+msgstr "గాలి వేగం మెట్రిక్ యూనిట్:"
 
 msgid "You have unsaved changes. Save before exiting?"
-msgstr ""
+msgstr "మీరు సేవ్ చేయని మార్పులను కలిగి ఉన్నారు. నిష్క్రమించే ముందు సేవ్ చేయాలా?"
 
 msgid "exit"
-msgstr ""
+msgstr "నిష్క్రమించు"
 
 msgid "km/h"
-msgstr ""
+msgstr "కిమీ/గం"
 
 msgid "m/s"
 msgstr ""

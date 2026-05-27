@@ -16,370 +16,370 @@ msgstr ""
 # FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
 #
 msgid "%d Minutes"
-msgstr ""
+msgstr "%d минути"
 
 msgid "Add"
-msgstr ""
+msgstr "Добавете"
 
 msgid "Add Fav"
-msgstr ""
+msgstr "Добавяне на Предп"
 
 msgid "Cache data"
-msgstr ""
+msgstr "Кеш данни"
 
 msgid "Cache data :"
-msgstr ""
+msgstr "Кеш данни:"
 
 msgid "Celsius"
-msgstr ""
+msgstr "Целзий"
 
 msgid "Choose the icon set. You need to create an additional set here: /usr/share/enigma2/WeatherIconSets/NAME."
-msgstr ""
+msgstr "Изберете набор от икони. Трябва да създадете допълнителен набор тук: /usr/share/enigma2/WeatherIconSets/NAME."
 
 msgid "Choose whether the 'night switch' should be activated or not. Some icons are then displayed as night icons with moon."
-msgstr ""
+msgstr "Изберете дали „нощният превключвател“ да бъде активиран или не. След това някои икони се показват като нощни икони с луна."
 
 msgid "Chose favorite"
-msgstr ""
+msgstr "Изберете любими"
 
 msgid "City name must be at least 3 characters"
-msgstr ""
+msgstr "Името на града трябва да съдържа поне 3 знака"
 
 msgid "Coordinates not available for this location"
-msgstr ""
+msgstr "Координатите не са налични за това местоположение"
 
 msgid "Current Weather"
-msgstr ""
+msgstr "Текущо време"
 
 msgid "Day +/-"
-msgstr ""
+msgstr "Ден +/-"
 
 msgid "Default"
-msgstr ""
+msgstr "По подразбиране"
 
 msgid "Defaults"
-msgstr ""
+msgstr "По подразбиране"
 
 msgid "Delete"
-msgstr ""
+msgstr "Изтриване"
 
 msgid "Delete failed"
-msgstr ""
+msgstr "Изтриването не бе успешно"
 
 msgid "Delete {}?"
-msgstr ""
+msgstr "Изтриване на {}?"
 
 msgid "Detail level in detail view"
-msgstr ""
+msgstr "Ниво на детайлност в детайлен изглед"
 
 msgid "Details +/-"
-msgstr ""
+msgstr "Подробности +/-"
 
 msgid "Disabled"
-msgstr ""
+msgstr "Забранено"
 
 msgid "East"
-msgstr ""
+msgstr "Изток"
 
 msgid "Edit"
-msgstr ""
+msgstr "Редактиране"
 
 msgid "Edit city name"
-msgstr ""
+msgstr "Редактиране на името на града"
 
 msgid "Enable Debug"
-msgstr ""
+msgstr "Активиране на отстраняване на грешки"
 
 msgid "Enable Debug :"
-msgstr ""
+msgstr "Активиране на отстраняване на грешки:"
 
 msgid "Enabled"
-msgstr ""
+msgstr "Активирано"
 
 msgid "Enabled :"
-msgstr ""
+msgstr "Активирано:"
 
 msgid "Enter a personalized API key v2.5 for use with OpenWeatherMap (https://openweathermap.org/)."
-msgstr ""
+msgstr "Въведете персонализиран API ключ v2.5 за използване с OpenWeatherMap (https://openweathermap.org/)."
 
 msgid "Enter city name (e.g. 'Rome, IT')"
-msgstr ""
+msgstr "Въведете име на град (напр. „Рим, IT“)"
 
 msgid "Enter the location for your weather forecasts. To include your location, expand your favorites list with 'Manage your favorites'."
-msgstr ""
+msgstr "Въведете местоположението за вашата прогноза за времето. За да включите вашето местоположение, разширете списъка си с любими с „Управление на вашите любими“."
 
 msgid "Error adding location"
-msgstr ""
+msgstr "Грешка при добавяне на местоположение"
 
 msgid "Error changing day"
-msgstr ""
+msgstr "Грешка при промяна на деня"
 
 msgid "Error processing location data"
-msgstr ""
+msgstr "Грешка при обработката на данните за местоположението"
 
 msgid "Error saving favorites"
-msgstr ""
+msgstr "Грешка при запазване на любими"
 
 msgid "Error saving location"
-msgstr ""
+msgstr "Грешка при запазване на местоположението"
 
 msgid "Error selecting location"
-msgstr ""
+msgstr "Грешка при избора на местоположение"
 
 msgid "Error updating list"
-msgstr ""
+msgstr "Грешка при актуализиране на списъка"
 
 msgid "Exit"
-msgstr ""
+msgstr "Изход"
 
 msgid "Fahrenheit"
-msgstr ""
+msgstr "Фаренхайт"
 
 msgid "Favorites saved successfully"
-msgstr ""
+msgstr "Любимите са запазени успешно"
 
 msgid "Feels like"
-msgstr ""
+msgstr "Усеща се като"
 
 msgid "GREEN: MANAGEMENT FAVORITES | MENU: SETUP | INFO: DETAILS | HOME"
-msgstr ""
+msgstr "ЗЕЛЕНО: ЛЮБИМИ НА РЪКОВОДСТВОТО | МЕНЮ: НАСТРОЙКА | ИНФО: ПОДРОБНОСТИ | НАЧАЛО"
 
 msgid "Glass"
-msgstr ""
+msgstr "Стъкло"
 
 msgid "Humidity"
-msgstr ""
+msgstr "Влажност"
 
 msgid "Invalid location coordinates"
-msgstr ""
+msgstr "Невалидни координати на местоположението"
 
 msgid "Invalid location format"
-msgstr ""
+msgstr "Невалиден формат на местоположението"
 
 msgid "Invalid selection"
-msgstr ""
+msgstr "Невалиден избор"
 
 msgid "Less details / Larger font"
-msgstr ""
+msgstr "По-малко подробности / По-голям шрифт"
 
 msgid "Loading weather data..."
-msgstr ""
+msgstr "Данните за времето се зареждат..."
 
 msgid "Location added successfully"
-msgstr ""
+msgstr "Местоположението е добавено успешно"
 
 msgid "Location added to favorites"
-msgstr ""
+msgstr "Местоположението е добавено към любими"
 
 msgid "Location already exists"
-msgstr ""
+msgstr "Местоположението вече съществува"
 
 msgid "Location already in favorites"
-msgstr ""
+msgstr "Местоположението вече е в любимите"
 
 msgid "Location deleted"
-msgstr ""
+msgstr "Местоположението е изтрито"
 
 msgid "Location with similar coordinates already exists"
-msgstr ""
+msgstr "Локация с подобни координати вече съществува"
 
 msgid "MSN weather"
-msgstr ""
+msgstr "MSN времето"
 
 msgid "Manage Favorites"
-msgstr ""
+msgstr "Управление на любими"
 
 msgid "Menu"
-msgstr ""
+msgstr "Меню"
 
 msgid "Metric unit for wind speed"
-msgstr ""
+msgstr "Метрична единица за скорост на вятъра"
 
 msgid "More Details / Smaller font"
-msgstr ""
+msgstr "Повече подробности / По-малък шрифт"
 
 msgid "N/A"
 msgstr ""
 
 msgid "Next favorite"
-msgstr ""
+msgstr "Следващият фаворит"
 
 msgid "No data"
-msgstr ""
+msgstr "Няма данни"
 
 msgid "No locations found"
-msgstr ""
+msgstr "Няма намерени местоположения"
 
 msgid "North"
-msgstr ""
+msgstr "Север"
 
 msgid "Northeast"
-msgstr ""
+msgstr "Североизток"
 
 msgid "Northwest"
-msgstr ""
+msgstr "Северозапад"
 
 msgid "Open-Meteo Wetter"
-msgstr ""
+msgstr "Open-Meteo Времето"
 
 msgid "OpenWeatherMap"
 msgstr ""
 
 msgid "Please enter a valid city name."
-msgstr ""
+msgstr "Моля, въведете валидно име на град."
 
 msgid "Please enter at least 3 characters"
-msgstr ""
+msgstr "Моля, въведете поне 3 знака"
 
 msgid "Precipitation"
-msgstr ""
+msgstr "Валежи"
 
 msgid "Previous favorite"
-msgstr ""
+msgstr "Предишен фаворит"
 
 msgid "Refresh interval"
-msgstr ""
+msgstr "Интервал на опресняване"
 
 msgid "Refresh interval :"
-msgstr ""
+msgstr "Интервал на опресняване:"
 
 msgid "Save"
-msgstr ""
+msgstr "Запазване"
 
 msgid "Select 'Yes' to enable add debug output to log."
-msgstr ""
+msgstr "Изберете „Да“, за да активирате добавяне на изход за отстраняване на грешки в регистрационния файл."
 
 msgid "Select 'Yes' to enable the addition of Weather."
-msgstr ""
+msgstr "Изберете „Да“, за да разрешите добавянето на прогноза за времето."
 
 msgid "Select location"
-msgstr ""
+msgstr "Изберете местоположение"
 
 msgid "Select the City and Press Ok"
-msgstr ""
+msgstr "Изберете града и натиснете OK"
 
 msgid "Select the detail level in the detail view. You have the choice between a comprehensive presentation in a smaller font and a reduced presentation with a larger font."
-msgstr ""
+msgstr "Изберете нивото на детайлност в детайлния изглед. Имате избор между цялостна презентация с по-малък шрифт и намалена презентация с по-голям шрифт."
 
 msgid "Select the metric unit for wind speed to be used for wind displays. This has no effect on the imperial unit 'mph'."
-msgstr ""
+msgstr "Изберете метричната единица за скоростта на вятъра, която да се използва за показване на вятъра. Това няма ефект върху имперската единица 'mph'."
 
 msgid "Select the preferred weather service to supply the weather information."
-msgstr ""
+msgstr "Изберете предпочитаната метеорологична услуга за предоставяне на информация за времето."
 
 msgid "Select the temperature unit to be used for temperature displays."
-msgstr ""
+msgstr "Изберете температурната единица, която да се използва за показване на температурата."
 
 msgid "Select this option to save that last obtained weather data locally. This is used to initialize the data immediately after restart while updated data is being fetched."
-msgstr ""
+msgstr "Изберете тази опция, за да запазите последните получени данни за времето локално. Това се използва за инициализиране на данните веднага след рестартиране, докато актуализираните данни се извличат."
 
 msgid "Settings"
-msgstr ""
+msgstr "Настройки"
 
 msgid "Setup"
-msgstr ""
+msgstr "Настройка"
 
 msgid "Show Weather Forecast"
-msgstr ""
+msgstr "Показване на прогнозата за времето"
 
 msgid "Show trend arrows for moon data"
-msgstr ""
+msgstr "Показване на стрелки за тенденции за данни за луната"
 
 msgid "Show trend arrows for moon illumination and moon distance to see the current trend of the data."
-msgstr ""
+msgstr "Покажете стрелки за тенденции за осветяване на луната и разстояние до луната, за да видите текущата тенденция на данните."
 
 msgid "South"
-msgstr ""
+msgstr "юг"
 
 msgid "Southeast"
-msgstr ""
+msgstr "Югоизток"
 
 msgid "Southwest"
-msgstr ""
+msgstr "Югозапад"
 
 msgid "Specify how often Weather retrieves its data from the server. 'Once' means the data will loaded only once after a GUI or system start."
-msgstr ""
+msgstr "Посочете колко често Weather извлича своите данни от сървъра. „Веднъж“ означава, че данните ще се заредят само веднъж след GUI или стартиране на системата."
 
 msgid "Standard fertig"
-msgstr ""
+msgstr "Стандартно завършен"
 
 msgid "Temperature unit"
-msgstr ""
+msgstr "Температурна единица"
 
 msgid "Temperature unit :"
-msgstr ""
+msgstr "Температурна единица:"
 
 msgid "Today"
-msgstr ""
+msgstr "Днес"
 
 msgid "Try refreshing or check settings"
-msgstr ""
+msgstr "Опитайте да обновите или проверете настройките"
 
 msgid "Update"
-msgstr ""
+msgstr "Актуализация"
 
 msgid "View details"
-msgstr ""
+msgstr "Вижте подробности"
 
 msgid "Weather API key :"
-msgstr ""
+msgstr "Ключ за API за времето:"
 
 msgid "Weather API key v2.5"
-msgstr ""
+msgstr "Ключ за API за времето v2.5"
 
 msgid "Weather Plugin"
-msgstr ""
+msgstr "Плъгин за времето"
 
 msgid "Weather Plugin Detailview"
-msgstr ""
+msgstr "Подробен изглед на приставката за времето"
 
 msgid "Weather city name"
-msgstr ""
+msgstr "Име на град за времето"
 
 msgid "Weather city name :"
-msgstr ""
+msgstr "Име на метеорологичния град:"
 
 msgid "Weather data unavailable"
-msgstr ""
+msgstr "Няма налични данни за времето"
 
 msgid "Weather icon night switch"
-msgstr ""
+msgstr "Икона за времето нощен превключвател"
 
 msgid "Weather icon night switch :"
-msgstr ""
+msgstr "Икона за времето нощен превключвател:"
 
 msgid "Weather icon set"
-msgstr ""
+msgstr "Комплект икони за времето"
 
 msgid "Weather icon set :"
-msgstr ""
+msgstr "Набор от икони за времето:"
 
 msgid "Weather service"
-msgstr ""
+msgstr "Метеорологична служба"
 
 msgid "Weather service :"
-msgstr ""
+msgstr "Метеорологична служба:"
 
 msgid "Weather settings"
-msgstr ""
+msgstr "Настройки за времето"
 
 msgid "West"
-msgstr ""
+msgstr "запад"
 
 msgid "Wind speed metric unit:"
-msgstr ""
+msgstr "Метрична единица за скорост на вятъра:"
 
 msgid "You have unsaved changes. Save before exiting?"
-msgstr ""
+msgstr "Имате незапазени промени. Запазване преди излизане?"
 
 msgid "exit"
-msgstr ""
+msgstr "изход"
 
 msgid "km/h"
-msgstr ""
+msgstr "км/ч"
 
 msgid "m/s"
 msgstr ""
 
 msgid "n/a"
-msgstr ""
+msgstr "няма"

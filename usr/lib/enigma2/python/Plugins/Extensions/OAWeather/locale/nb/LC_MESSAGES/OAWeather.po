@@ -16,367 +16,367 @@ msgstr ""
 # FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
 #
 msgid "%d Minutes"
-msgstr ""
+msgstr "%d minutter"
 
 msgid "Add"
-msgstr ""
+msgstr "Legge til"
 
 msgid "Add Fav"
-msgstr ""
+msgstr "Legg til Fav"
 
 msgid "Cache data"
-msgstr ""
+msgstr "Buffer data"
 
 msgid "Cache data :"
-msgstr ""
+msgstr "Bufferdata:"
 
 msgid "Celsius"
 msgstr ""
 
 msgid "Choose the icon set. You need to create an additional set here: /usr/share/enigma2/WeatherIconSets/NAME."
-msgstr ""
+msgstr "Velg ikonsettet. Du må opprette et ekstra sett her: /usr/share/enigma2/WeatherIconSets/NAME."
 
 msgid "Choose whether the 'night switch' should be activated or not. Some icons are then displayed as night icons with moon."
-msgstr ""
+msgstr "Velg om 'nattbryteren' skal aktiveres eller ikke. Noen ikoner vises da som nattikoner med måne."
 
 msgid "Chose favorite"
-msgstr ""
+msgstr "Valgte favoritt"
 
 msgid "City name must be at least 3 characters"
-msgstr ""
+msgstr "Bynavn må bestå av minst 3 tegn"
 
 msgid "Coordinates not available for this location"
-msgstr ""
+msgstr "Koordinater er ikke tilgjengelige for dette stedet"
 
 msgid "Current Weather"
-msgstr ""
+msgstr "Gjeldende vær"
 
 msgid "Day +/-"
-msgstr ""
+msgstr "Dag +/-"
 
 msgid "Default"
-msgstr ""
+msgstr "Misligholde"
 
 msgid "Defaults"
-msgstr ""
+msgstr "Standarder"
 
 msgid "Delete"
-msgstr ""
+msgstr "Slett"
 
 msgid "Delete failed"
-msgstr ""
+msgstr "Sletting mislyktes"
 
 msgid "Delete {}?"
-msgstr ""
+msgstr "Vil du slette {}?"
 
 msgid "Detail level in detail view"
-msgstr ""
+msgstr "Detaljnivå i detaljvisning"
 
 msgid "Details +/-"
-msgstr ""
+msgstr "Detaljer +/-"
 
 msgid "Disabled"
-msgstr ""
+msgstr "Funksjonshemmet"
 
 msgid "East"
-msgstr ""
+msgstr "Øst"
 
 msgid "Edit"
-msgstr ""
+msgstr "Redigere"
 
 msgid "Edit city name"
-msgstr ""
+msgstr "Rediger bynavn"
 
 msgid "Enable Debug"
-msgstr ""
+msgstr "Aktiver feilsøking"
 
 msgid "Enable Debug :"
-msgstr ""
+msgstr "Aktiver feilsøking:"
 
 msgid "Enabled"
-msgstr ""
+msgstr "Aktivert"
 
 msgid "Enabled :"
-msgstr ""
+msgstr "Aktivert:"
 
 msgid "Enter a personalized API key v2.5 for use with OpenWeatherMap (https://openweathermap.org/)."
-msgstr ""
+msgstr "Skriv inn en personlig API-nøkkel v2.5 for bruk med OpenWeatherMap (https://openweathermap.org/)."
 
 msgid "Enter city name (e.g. 'Rome, IT')"
-msgstr ""
+msgstr "Skriv inn bynavn (f.eks. Roma, IT)"
 
 msgid "Enter the location for your weather forecasts. To include your location, expand your favorites list with 'Manage your favorites'."
-msgstr ""
+msgstr "Angi plasseringen for værmeldingene dine. For å inkludere posisjonen din, utvide favorittlisten din med "Administrer favorittene dine"."
 
 msgid "Error adding location"
-msgstr ""
+msgstr "Feil ved å legge til plassering"
 
 msgid "Error changing day"
-msgstr ""
+msgstr "Feil ved endring av dag"
 
 msgid "Error processing location data"
-msgstr ""
+msgstr "Feil ved behandling av stedsdata"
 
 msgid "Error saving favorites"
-msgstr ""
+msgstr "Feil under lagring av favoritter"
 
 msgid "Error saving location"
-msgstr ""
+msgstr "Feil under lagring av plassering"
 
 msgid "Error selecting location"
-msgstr ""
+msgstr "Feil ved valg av plassering"
 
 msgid "Error updating list"
-msgstr ""
+msgstr "Feil ved oppdatering av listen"
 
 msgid "Exit"
-msgstr ""
+msgstr "Gå"
 
 msgid "Fahrenheit"
 msgstr ""
 
 msgid "Favorites saved successfully"
-msgstr ""
+msgstr "Favoritter er lagret"
 
 msgid "Feels like"
-msgstr ""
+msgstr "Føles som"
 
 msgid "GREEN: MANAGEMENT FAVORITES | MENU: SETUP | INFO: DETAILS | HOME"
-msgstr ""
+msgstr "GRØNN: LEDELSENS FAVORITTER | MENY: OPPSETT | INFO: DETALJER | HJEM"
 
 msgid "Glass"
 msgstr ""
 
 msgid "Humidity"
-msgstr ""
+msgstr "Fuktighet"
 
 msgid "Invalid location coordinates"
-msgstr ""
+msgstr "Ugyldige plasseringskoordinater"
 
 msgid "Invalid location format"
-msgstr ""
+msgstr "Ugyldig stedsformat"
 
 msgid "Invalid selection"
-msgstr ""
+msgstr "Ugyldig valg"
 
 msgid "Less details / Larger font"
-msgstr ""
+msgstr "Færre detaljer / Større skrift"
 
 msgid "Loading weather data..."
-msgstr ""
+msgstr "Laster inn værdata..."
 
 msgid "Location added successfully"
-msgstr ""
+msgstr "Plasseringen ble lagt til"
 
 msgid "Location added to favorites"
-msgstr ""
+msgstr "Plassering lagt til favoritter"
 
 msgid "Location already exists"
-msgstr ""
+msgstr "Plasseringen eksisterer allerede"
 
 msgid "Location already in favorites"
-msgstr ""
+msgstr "Plassering allerede i favoritter"
 
 msgid "Location deleted"
-msgstr ""
+msgstr "Plassering slettet"
 
 msgid "Location with similar coordinates already exists"
-msgstr ""
+msgstr "Plassering med lignende koordinater finnes allerede"
 
 msgid "MSN weather"
-msgstr ""
+msgstr "MSN vær"
 
 msgid "Manage Favorites"
-msgstr ""
+msgstr "Administrer favoritter"
 
 msgid "Menu"
-msgstr ""
+msgstr "Meny"
 
 msgid "Metric unit for wind speed"
-msgstr ""
+msgstr "Metrisk enhet for vindhastighet"
 
 msgid "More Details / Smaller font"
-msgstr ""
+msgstr "Flere detaljer / Mindre skrift"
 
 msgid "N/A"
 msgstr ""
 
 msgid "Next favorite"
-msgstr ""
+msgstr "Neste favoritt"
 
 msgid "No data"
-msgstr ""
+msgstr "Ingen data"
 
 msgid "No locations found"
-msgstr ""
+msgstr "Ingen steder funnet"
 
 msgid "North"
-msgstr ""
+msgstr "Nord"
 
 msgid "Northeast"
-msgstr ""
+msgstr "Nordøst"
 
 msgid "Northwest"
-msgstr ""
+msgstr "Nordvest"
 
 msgid "Open-Meteo Wetter"
-msgstr ""
+msgstr "Åpent Meteo Vær"
 
 msgid "OpenWeatherMap"
 msgstr ""
 
 msgid "Please enter a valid city name."
-msgstr ""
+msgstr "Vennligst skriv inn et gyldig bynavn."
 
 msgid "Please enter at least 3 characters"
-msgstr ""
+msgstr "Skriv inn minst 3 tegn"
 
 msgid "Precipitation"
-msgstr ""
+msgstr "Nedbør"
 
 msgid "Previous favorite"
-msgstr ""
+msgstr "Tidligere favoritt"
 
 msgid "Refresh interval"
-msgstr ""
+msgstr "Oppdateringsintervall"
 
 msgid "Refresh interval :"
-msgstr ""
+msgstr "Oppdateringsintervall:"
 
 msgid "Save"
-msgstr ""
+msgstr "Spare"
 
 msgid "Select 'Yes' to enable add debug output to log."
-msgstr ""
+msgstr "Velg "Ja" for å aktivere legg til feilsøkingsutdata i loggen."
 
 msgid "Select 'Yes' to enable the addition of Weather."
-msgstr ""
+msgstr "Velg "Ja" for å aktivere tillegg av Vær."
 
 msgid "Select location"
-msgstr ""
+msgstr "Velg plassering"
 
 msgid "Select the City and Press Ok"
-msgstr ""
+msgstr "Velg byen og trykk OK"
 
 msgid "Select the detail level in the detail view. You have the choice between a comprehensive presentation in a smaller font and a reduced presentation with a larger font."
-msgstr ""
+msgstr "Velg detaljnivå i detaljvisningen. Du har valget mellom en omfattende presentasjon i mindre skrift og en redusert presentasjon med større skrift."
 
 msgid "Select the metric unit for wind speed to be used for wind displays. This has no effect on the imperial unit 'mph'."
-msgstr ""
+msgstr "Velg den metriske enheten for vindhastighet som skal brukes for vindvisninger. Dette har ingen effekt på den keiserlige enheten 'mph'."
 
 msgid "Select the preferred weather service to supply the weather information."
-msgstr ""
+msgstr "Velg den foretrukne værtjenesten for å gi værinformasjonen."
 
 msgid "Select the temperature unit to be used for temperature displays."
-msgstr ""
+msgstr "Velg temperaturenheten som skal brukes for temperaturvisninger."
 
 msgid "Select this option to save that last obtained weather data locally. This is used to initialize the data immediately after restart while updated data is being fetched."
-msgstr ""
+msgstr "Velg dette alternativet for å lagre de sist innhentede værdataene lokalt. Dette brukes til å initialisere dataene umiddelbart etter omstart mens oppdaterte data hentes."
 
 msgid "Settings"
-msgstr ""
+msgstr "Innstillinger"
 
 msgid "Setup"
-msgstr ""
+msgstr "Oppsett"
 
 msgid "Show Weather Forecast"
-msgstr ""
+msgstr "Vis værmelding"
 
 msgid "Show trend arrows for moon data"
-msgstr ""
+msgstr "Vis trendpiler for månedata"
 
 msgid "Show trend arrows for moon illumination and moon distance to see the current trend of the data."
-msgstr ""
+msgstr "Vis trendpiler for månebelysning og måneavstand for å se gjeldende trend for dataene."
 
 msgid "South"
-msgstr ""
+msgstr "Sør"
 
 msgid "Southeast"
-msgstr ""
+msgstr "Sørøst"
 
 msgid "Southwest"
-msgstr ""
+msgstr "Sørvest"
 
 msgid "Specify how often Weather retrieves its data from the server. 'Once' means the data will loaded only once after a GUI or system start."
-msgstr ""
+msgstr "Angi hvor ofte Weather henter dataene sine fra serveren. "En gang" betyr at dataene lastes bare én gang etter en GUI eller systemstart."
 
 msgid "Standard fertig"
-msgstr ""
+msgstr "Standard ferdig"
 
 msgid "Temperature unit"
-msgstr ""
+msgstr "Temperaturenhet"
 
 msgid "Temperature unit :"
-msgstr ""
+msgstr "Temperaturenhet:"
 
 msgid "Today"
-msgstr ""
+msgstr "I dag"
 
 msgid "Try refreshing or check settings"
-msgstr ""
+msgstr "Prøv å oppdatere eller sjekk innstillingene"
 
 msgid "Update"
-msgstr ""
+msgstr "Oppdater"
 
 msgid "View details"
-msgstr ""
+msgstr "Se detaljer"
 
 msgid "Weather API key :"
-msgstr ""
+msgstr "Vær API-nøkkel:"
 
 msgid "Weather API key v2.5"
-msgstr ""
+msgstr "Vær API-nøkkel v2.5"
 
 msgid "Weather Plugin"
-msgstr ""
+msgstr "Vær-plugin"
 
 msgid "Weather Plugin Detailview"
-msgstr ""
+msgstr "Vær Plugin detaljvisning"
 
 msgid "Weather city name"
-msgstr ""
+msgstr "Navn på værby"
 
 msgid "Weather city name :"
-msgstr ""
+msgstr "Værbynavn:"
 
 msgid "Weather data unavailable"
-msgstr ""
+msgstr "Værdata er utilgjengelige"
 
 msgid "Weather icon night switch"
-msgstr ""
+msgstr "Værikon nattbryter"
 
 msgid "Weather icon night switch :"
-msgstr ""
+msgstr "Værikon nattbryter:"
 
 msgid "Weather icon set"
-msgstr ""
+msgstr "Værikonsett"
 
 msgid "Weather icon set :"
-msgstr ""
+msgstr "Værikonsett:"
 
 msgid "Weather service"
-msgstr ""
+msgstr "Værtjeneste"
 
 msgid "Weather service :"
-msgstr ""
+msgstr "Værtjeneste:"
 
 msgid "Weather settings"
-msgstr ""
+msgstr "Værinnstillinger"
 
 msgid "West"
-msgstr ""
+msgstr "Vest"
 
 msgid "Wind speed metric unit:"
-msgstr ""
+msgstr "Vindhastighet metrisk enhet:"
 
 msgid "You have unsaved changes. Save before exiting?"
-msgstr ""
+msgstr "Du har ulagrede endringer. Lagre før du avslutter?"
 
 msgid "exit"
-msgstr ""
+msgstr "gå"
 
 msgid "km/h"
-msgstr ""
+msgstr "km/t"
 
 msgid "m/s"
 msgstr ""

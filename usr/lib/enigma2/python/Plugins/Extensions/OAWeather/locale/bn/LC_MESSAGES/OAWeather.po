@@ -15,367 +15,367 @@ msgstr ""
 # FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
 #
 msgid "%d Minutes"
-msgstr ""
+msgstr "%d মিনিট"
 
 msgid "Add"
-msgstr ""
+msgstr "যোগ করুন"
 
 msgid "Add Fav"
-msgstr ""
+msgstr "পছন্দ যোগ করুন"
 
 msgid "Cache data"
-msgstr ""
+msgstr "ক্যাশে ডেটা"
 
 msgid "Cache data :"
-msgstr ""
+msgstr "ক্যাশে ডেটা:"
 
 msgid "Celsius"
-msgstr ""
+msgstr "সেলসিয়াস"
 
 msgid "Choose the icon set. You need to create an additional set here: /usr/share/enigma2/WeatherIconSets/NAME."
-msgstr ""
+msgstr "আইকন সেট নির্বাচন করুন. আপনাকে এখানে একটি অতিরিক্ত সেট তৈরি করতে হবে: /usr/share/enigma2/WeatherIconSets/NAME।"
 
 msgid "Choose whether the 'night switch' should be activated or not. Some icons are then displayed as night icons with moon."
-msgstr ""
+msgstr "'নাইট সুইচ' সক্রিয় করা উচিত কিনা তা বেছে নিন। কিছু আইকন চাঁদের সাথে রাতের আইকন হিসাবে প্রদর্শিত হয়।"
 
 msgid "Chose favorite"
-msgstr ""
+msgstr "পছন্দের বেছে নিন"
 
 msgid "City name must be at least 3 characters"
-msgstr ""
+msgstr "শহরের নাম কমপক্ষে 3 অক্ষরের হতে হবে"
 
 msgid "Coordinates not available for this location"
-msgstr ""
+msgstr "এই অবস্থানের জন্য স্থানাঙ্ক উপলব্ধ নয়৷"
 
 msgid "Current Weather"
-msgstr ""
+msgstr "বর্তমান আবহাওয়া"
 
 msgid "Day +/-"
-msgstr ""
+msgstr "দিন +/-"
 
 msgid "Default"
-msgstr ""
+msgstr "ডিফল্ট"
 
 msgid "Defaults"
-msgstr ""
+msgstr "ডিফল্ট"
 
 msgid "Delete"
-msgstr ""
+msgstr "মুছে দিন"
 
 msgid "Delete failed"
-msgstr ""
+msgstr "মুছে ফেলতে ব্যর্থ হয়েছে"
 
 msgid "Delete {}?"
-msgstr ""
+msgstr "{} মুছবেন?"
 
 msgid "Detail level in detail view"
-msgstr ""
+msgstr "বিস্তারিত দেখুন বিস্তারিত স্তর"
 
 msgid "Details +/-"
-msgstr ""
+msgstr "বিস্তারিত +/-"
 
 msgid "Disabled"
-msgstr ""
+msgstr "অক্ষম"
 
 msgid "East"
-msgstr ""
+msgstr "পূর্ব"
 
 msgid "Edit"
-msgstr ""
+msgstr "সম্পাদনা করুন"
 
 msgid "Edit city name"
-msgstr ""
+msgstr "শহরের নাম সম্পাদনা করুন"
 
 msgid "Enable Debug"
-msgstr ""
+msgstr "ডিবাগ সক্ষম করুন"
 
 msgid "Enable Debug :"
-msgstr ""
+msgstr "ডিবাগ সক্ষম করুন:"
 
 msgid "Enabled"
-msgstr ""
+msgstr "সক্রিয়"
 
 msgid "Enabled :"
-msgstr ""
+msgstr "সক্রিয়:"
 
 msgid "Enter a personalized API key v2.5 for use with OpenWeatherMap (https://openweathermap.org/)."
-msgstr ""
+msgstr "OpenWeatherMap (https://openweathermap.org/) এর সাথে ব্যবহারের জন্য একটি ব্যক্তিগতকৃত API কী v2.5 লিখুন।"
 
 msgid "Enter city name (e.g. 'Rome, IT')"
-msgstr ""
+msgstr "শহরের নাম লিখুন (যেমন 'রোম, আইটি')"
 
 msgid "Enter the location for your weather forecasts. To include your location, expand your favorites list with 'Manage your favorites'."
-msgstr ""
+msgstr "আপনার আবহাওয়ার পূর্বাভাসের জন্য অবস্থান লিখুন। আপনার অবস্থান অন্তর্ভুক্ত করতে, 'আপনার পছন্দগুলি পরিচালনা করুন' এর সাথে আপনার পছন্দের তালিকা প্রসারিত করুন৷"
 
 msgid "Error adding location"
-msgstr ""
+msgstr "অবস্থান যোগ করার সময় ত্রুটি"
 
 msgid "Error changing day"
-msgstr ""
+msgstr "দিন পরিবর্তন ত্রুটি"
 
 msgid "Error processing location data"
-msgstr ""
+msgstr "অবস্থান ডেটা প্রক্রিয়াকরণে ত্রুটি৷"
 
 msgid "Error saving favorites"
-msgstr ""
+msgstr "পছন্দসই সংরক্ষণে ত্রুটি৷"
 
 msgid "Error saving location"
-msgstr ""
+msgstr "অবস্থান সংরক্ষণে ত্রুটি৷"
 
 msgid "Error selecting location"
-msgstr ""
+msgstr "অবস্থান নির্বাচন করতে ত্রুটি৷"
 
 msgid "Error updating list"
-msgstr ""
+msgstr "তালিকা আপডেট করার সময় ত্রুটি"
 
 msgid "Exit"
-msgstr ""
+msgstr "প্রস্থান করুন"
 
 msgid "Fahrenheit"
-msgstr ""
+msgstr "ফারেনহাইট"
 
 msgid "Favorites saved successfully"
-msgstr ""
+msgstr "প্রিয় সফলভাবে সংরক্ষিত"
 
 msgid "Feels like"
-msgstr ""
+msgstr "ভালো লাগে"
 
 msgid "GREEN: MANAGEMENT FAVORITES | MENU: SETUP | INFO: DETAILS | HOME"
-msgstr ""
+msgstr "সবুজ: ম্যানেজমেন্ট ফেভারিট | মেনু: সেটআপ | তথ্য: বিস্তারিত | হোম"
 
 msgid "Glass"
-msgstr ""
+msgstr "কাচ"
 
 msgid "Humidity"
-msgstr ""
+msgstr "আর্দ্রতা"
 
 msgid "Invalid location coordinates"
-msgstr ""
+msgstr "অবৈধ অবস্থান স্থানাঙ্ক"
 
 msgid "Invalid location format"
-msgstr ""
+msgstr "অবৈধ অবস্থান বিন্যাস"
 
 msgid "Invalid selection"
-msgstr ""
+msgstr "অবৈধ নির্বাচন"
 
 msgid "Less details / Larger font"
-msgstr ""
+msgstr "কম বিবরণ / বড় ফন্ট"
 
 msgid "Loading weather data..."
-msgstr ""
+msgstr "আবহাওয়ার ডেটা লোড হচ্ছে..."
 
 msgid "Location added successfully"
-msgstr ""
+msgstr "অবস্থান সফলভাবে যোগ করা হয়েছে৷"
 
 msgid "Location added to favorites"
-msgstr ""
+msgstr "অবস্থান পছন্দসই যোগ করা হয়েছে"
 
 msgid "Location already exists"
-msgstr ""
+msgstr "অবস্থান ইতিমধ্যেই বিদ্যমান"
 
 msgid "Location already in favorites"
-msgstr ""
+msgstr "পছন্দের মধ্যে অবস্থান ইতিমধ্যেই"
 
 msgid "Location deleted"
-msgstr ""
+msgstr "অবস্থান মুছে ফেলা হয়েছে"
 
 msgid "Location with similar coordinates already exists"
-msgstr ""
+msgstr "অনুরূপ স্থানাঙ্ক সহ অবস্থান ইতিমধ্যেই বিদ্যমান৷"
 
 msgid "MSN weather"
-msgstr ""
+msgstr "MSN আবহাওয়া"
 
 msgid "Manage Favorites"
-msgstr ""
+msgstr "ফেভারিট ম্যানেজ করুন"
 
 msgid "Menu"
-msgstr ""
+msgstr "মেনু"
 
 msgid "Metric unit for wind speed"
-msgstr ""
+msgstr "বাতাসের গতির জন্য মেট্রিক ইউনিট"
 
 msgid "More Details / Smaller font"
-msgstr ""
+msgstr "আরো বিস্তারিত / ছোট ফন্ট"
 
 msgid "N/A"
 msgstr ""
 
 msgid "Next favorite"
-msgstr ""
+msgstr "পরবর্তী প্রিয়"
 
 msgid "No data"
-msgstr ""
+msgstr "কোন তথ্য নেই"
 
 msgid "No locations found"
-msgstr ""
+msgstr "কোন অবস্থান খুঁজে পাওয়া যায়নি"
 
 msgid "North"
-msgstr ""
+msgstr "উত্তর"
 
 msgid "Northeast"
-msgstr ""
+msgstr "উত্তর-পূর্ব"
 
 msgid "Northwest"
-msgstr ""
+msgstr "উত্তর-পশ্চিম"
 
 msgid "Open-Meteo Wetter"
-msgstr ""
+msgstr "খোলা-মেটিও আবহাওয়া"
 
 msgid "OpenWeatherMap"
 msgstr ""
 
 msgid "Please enter a valid city name."
-msgstr ""
+msgstr "একটি বৈধ শহরের নাম লিখুন."
 
 msgid "Please enter at least 3 characters"
-msgstr ""
+msgstr "অনুগ্রহ করে কমপক্ষে ৩টি অক্ষর লিখুন"
 
 msgid "Precipitation"
-msgstr ""
+msgstr "বর্ষণ"
 
 msgid "Previous favorite"
-msgstr ""
+msgstr "আগের প্রিয়"
 
 msgid "Refresh interval"
-msgstr ""
+msgstr "রিফ্রেশ ব্যবধান"
 
 msgid "Refresh interval :"
-msgstr ""
+msgstr "রিফ্রেশ ব্যবধান:"
 
 msgid "Save"
-msgstr ""
+msgstr "সংরক্ষণ করুন"
 
 msgid "Select 'Yes' to enable add debug output to log."
-msgstr ""
+msgstr "লগে ডিবাগ আউটপুট যোগ করতে সক্ষম করতে 'হ্যাঁ' নির্বাচন করুন।"
 
 msgid "Select 'Yes' to enable the addition of Weather."
-msgstr ""
+msgstr "আবহাওয়া সংযোজন সক্ষম করতে 'হ্যাঁ' নির্বাচন করুন।"
 
 msgid "Select location"
-msgstr ""
+msgstr "অবস্থান নির্বাচন করুন"
 
 msgid "Select the City and Press Ok"
-msgstr ""
+msgstr "সিটি নির্বাচন করুন এবং ঠিক আছে টিপুন"
 
 msgid "Select the detail level in the detail view. You have the choice between a comprehensive presentation in a smaller font and a reduced presentation with a larger font."
-msgstr ""
+msgstr "বিশদ দৃশ্যে বিশদ স্তর নির্বাচন করুন। আপনার কাছে একটি ছোট ফন্টে একটি ব্যাপক উপস্থাপনা এবং একটি বড় ফন্টের সাথে একটি হ্রাসকৃত উপস্থাপনার মধ্যে পছন্দ রয়েছে৷"
 
 msgid "Select the metric unit for wind speed to be used for wind displays. This has no effect on the imperial unit 'mph'."
-msgstr ""
+msgstr "বায়ু প্রদর্শনের জন্য বায়ু গতির জন্য মেট্রিক ইউনিট নির্বাচন করুন। ইম্পেরিয়াল ইউনিট 'mph'-এর উপর এর কোনো প্রভাব নেই।"
 
 msgid "Select the preferred weather service to supply the weather information."
-msgstr ""
+msgstr "আবহাওয়ার তথ্য সরবরাহ করতে পছন্দের আবহাওয়া পরিষেবা নির্বাচন করুন।"
 
 msgid "Select the temperature unit to be used for temperature displays."
-msgstr ""
+msgstr "তাপমাত্রা প্রদর্শনের জন্য ব্যবহার করার জন্য তাপমাত্রা ইউনিট নির্বাচন করুন।"
 
 msgid "Select this option to save that last obtained weather data locally. This is used to initialize the data immediately after restart while updated data is being fetched."
-msgstr ""
+msgstr "স্থানীয়ভাবে সর্বশেষ প্রাপ্ত আবহাওয়ার তথ্য সংরক্ষণ করতে এই বিকল্পটি নির্বাচন করুন। আপডেট করা ডেটা আনার সময় রিস্টার্টের পরপরই ডেটা আরম্ভ করতে এটি ব্যবহার করা হয়।"
 
 msgid "Settings"
-msgstr ""
+msgstr "সেটিংস"
 
 msgid "Setup"
-msgstr ""
+msgstr "সেটআপ"
 
 msgid "Show Weather Forecast"
-msgstr ""
+msgstr "আবহাওয়ার পূর্বাভাস দেখান"
 
 msgid "Show trend arrows for moon data"
-msgstr ""
+msgstr "চাঁদের ডেটার জন্য ট্রেন্ড তীর দেখান"
 
 msgid "Show trend arrows for moon illumination and moon distance to see the current trend of the data."
-msgstr ""
+msgstr "ডেটার বর্তমান প্রবণতা দেখতে চাঁদের আলোকসজ্জা এবং চাঁদের দূরত্বের জন্য ট্রেন্ড তীর দেখান।"
 
 msgid "South"
-msgstr ""
+msgstr "দক্ষিণ"
 
 msgid "Southeast"
-msgstr ""
+msgstr "দক্ষিণ-পূর্ব"
 
 msgid "Southwest"
-msgstr ""
+msgstr "দক্ষিণ-পশ্চিম"
 
 msgid "Specify how often Weather retrieves its data from the server. 'Once' means the data will loaded only once after a GUI or system start."
-msgstr ""
+msgstr "কত ঘন ঘন আবহাওয়া সার্ভার থেকে তার ডেটা পুনরুদ্ধার করে তা নির্দিষ্ট করুন৷ 'একবার' মানে জিইউআই বা সিস্টেম শুরু হওয়ার পরে শুধুমাত্র একবার ডেটা লোড হবে।"
 
 msgid "Standard fertig"
-msgstr ""
+msgstr "স্ট্যান্ডার্ড সমাপ্ত"
 
 msgid "Temperature unit"
-msgstr ""
+msgstr "তাপমাত্রা ইউনিট"
 
 msgid "Temperature unit :"
-msgstr ""
+msgstr "তাপমাত্রা ইউনিট:"
 
 msgid "Today"
-msgstr ""
+msgstr "আজ"
 
 msgid "Try refreshing or check settings"
-msgstr ""
+msgstr "রিফ্রেশ করার চেষ্টা করুন বা সেটিংস চেক করুন"
 
 msgid "Update"
-msgstr ""
+msgstr "আপডেট"
 
 msgid "View details"
-msgstr ""
+msgstr "বিস্তারিত দেখুন"
 
 msgid "Weather API key :"
-msgstr ""
+msgstr "আবহাওয়া API কী:"
 
 msgid "Weather API key v2.5"
-msgstr ""
+msgstr "আবহাওয়া API কী v2.5"
 
 msgid "Weather Plugin"
-msgstr ""
+msgstr "আবহাওয়া প্লাগইন"
 
 msgid "Weather Plugin Detailview"
-msgstr ""
+msgstr "আবহাওয়া প্লাগইন বিস্তারিত দেখুন"
 
 msgid "Weather city name"
-msgstr ""
+msgstr "আবহাওয়া শহরের নাম"
 
 msgid "Weather city name :"
-msgstr ""
+msgstr "আবহাওয়া শহরের নাম:"
 
 msgid "Weather data unavailable"
-msgstr ""
+msgstr "আবহাওয়ার ডেটা অনুপলব্ধ৷"
 
 msgid "Weather icon night switch"
-msgstr ""
+msgstr "ওয়েদার আইকন নাইট সুইচ"
 
 msgid "Weather icon night switch :"
-msgstr ""
+msgstr "আবহাওয়া আইকন রাতের সুইচ:"
 
 msgid "Weather icon set"
-msgstr ""
+msgstr "আবহাওয়া আইকন সেট"
 
 msgid "Weather icon set :"
-msgstr ""
+msgstr "আবহাওয়া আইকন সেট:"
 
 msgid "Weather service"
-msgstr ""
+msgstr "আবহাওয়া পরিষেবা"
 
 msgid "Weather service :"
-msgstr ""
+msgstr "আবহাওয়া পরিষেবা:"
 
 msgid "Weather settings"
-msgstr ""
+msgstr "আবহাওয়া সেটিংস"
 
 msgid "West"
-msgstr ""
+msgstr "পশ্চিম"
 
 msgid "Wind speed metric unit:"
-msgstr ""
+msgstr "বাতাসের গতি মেট্রিক ইউনিট:"
 
 msgid "You have unsaved changes. Save before exiting?"
-msgstr ""
+msgstr "আপনার অসংরক্ষিত পরিবর্তন আছে. প্রস্থান করার আগে সংরক্ষণ করবেন?"
 
 msgid "exit"
-msgstr ""
+msgstr "প্রস্থান"
 
 msgid "km/h"
-msgstr ""
+msgstr "কিমি/ঘণ্টা"
 
 msgid "m/s"
 msgstr ""

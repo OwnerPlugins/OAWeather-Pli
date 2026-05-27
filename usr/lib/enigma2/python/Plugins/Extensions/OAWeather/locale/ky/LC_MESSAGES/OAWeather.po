@@ -15,370 +15,370 @@ msgstr ""
 # FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
 #
 msgid "%d Minutes"
-msgstr ""
+msgstr "%d мүнөт"
 
 msgid "Add"
-msgstr ""
+msgstr "кошуу"
 
 msgid "Add Fav"
-msgstr ""
+msgstr "Сүйүктүү кошуу"
 
 msgid "Cache data"
-msgstr ""
+msgstr "Кэш дайындары"
 
 msgid "Cache data :"
-msgstr ""
+msgstr "Кэш маалыматтары:"
 
 msgid "Celsius"
-msgstr ""
+msgstr "Цельсий"
 
 msgid "Choose the icon set. You need to create an additional set here: /usr/share/enigma2/WeatherIconSets/NAME."
-msgstr ""
+msgstr "Белгилер топтомун тандаңыз. Бул жерде кошумча топтом түзүшүңүз керек: /usr/share/enigma2/WeatherIconSets/NAME."
 
 msgid "Choose whether the 'night switch' should be activated or not. Some icons are then displayed as night icons with moon."
-msgstr ""
+msgstr ""Түнкү өчүргүчтү" иштетүү керекпи же жокпу, тандаңыз. Кээ бир иконалар ай менен түнкү иконалар катары көрсөтүлөт."
 
 msgid "Chose favorite"
-msgstr ""
+msgstr "Сүйүктүү танда"
 
 msgid "City name must be at least 3 characters"
-msgstr ""
+msgstr "Шаардын аталышы кеминде 3 белгиден турушу керек"
 
 msgid "Coordinates not available for this location"
-msgstr ""
+msgstr "Бул жер үчүн координаттар жеткиликтүү эмес"
 
 msgid "Current Weather"
-msgstr ""
+msgstr "Учурдагы аба ырайы"
 
 msgid "Day +/-"
-msgstr ""
+msgstr "Күн +/-"
 
 msgid "Default"
-msgstr ""
+msgstr "Демейки"
 
 msgid "Defaults"
-msgstr ""
+msgstr "Демейки"
 
 msgid "Delete"
-msgstr ""
+msgstr "Жок кылуу"
 
 msgid "Delete failed"
-msgstr ""
+msgstr "Жок кылбай койду"
 
 msgid "Delete {}?"
-msgstr ""
+msgstr "{} жок кылынсынбы?"
 
 msgid "Detail level in detail view"
-msgstr ""
+msgstr "Деталь деңгээлинде деталдуу көрүнүш"
 
 msgid "Details +/-"
-msgstr ""
+msgstr "Чоо-жайы +/-"
 
 msgid "Disabled"
-msgstr ""
+msgstr "Өчүрүлгөн"
 
 msgid "East"
-msgstr ""
+msgstr "Чыгыш"
 
 msgid "Edit"
-msgstr ""
+msgstr "Түзөтүү"
 
 msgid "Edit city name"
-msgstr ""
+msgstr "Шаар атын түзөтүү"
 
 msgid "Enable Debug"
-msgstr ""
+msgstr "Мүчүлүштүктөрдү оңдоону иштетүү"
 
 msgid "Enable Debug :"
-msgstr ""
+msgstr "Мүчүлүштүктөрдү оңдоону иштетүү:"
 
 msgid "Enabled"
-msgstr ""
+msgstr "Иштетилди"
 
 msgid "Enabled :"
-msgstr ""
+msgstr "Иштетилген:"
 
 msgid "Enter a personalized API key v2.5 for use with OpenWeatherMap (https://openweathermap.org/)."
-msgstr ""
+msgstr "OpenWeatherMap (https://openweathermap.org/) менен колдонуу үчүн жекелештирилген API ачкычын v2.5 киргизиңиз."
 
 msgid "Enter city name (e.g. 'Rome, IT')"
-msgstr ""
+msgstr "Шаардын атын киргизиңиз (мис. 'Рим, IT')"
 
 msgid "Enter the location for your weather forecasts. To include your location, expand your favorites list with 'Manage your favorites'."
-msgstr ""
+msgstr "Аба ырайын болжолдоо үчүн жайгашкан жерди киргизиңиз. Жайгашкан жериңизди кошуу үчүн, "Сүйүктүүлөрүңүздү башкаруу" менен сүйүктүүлөрдүн тизмесин кеңейтиңиз."
 
 msgid "Error adding location"
-msgstr ""
+msgstr "Жайгашкан жерди кошууда ката кетти"
 
 msgid "Error changing day"
-msgstr ""
+msgstr "Күндү өзгөртүүдө ката кетти"
 
 msgid "Error processing location data"
-msgstr ""
+msgstr "Жайгашкан жер дайындарын иштетүүдө ката кетти"
 
 msgid "Error saving favorites"
-msgstr ""
+msgstr "Сүйүктүүлөрдү сактоодо ката кетти"
 
 msgid "Error saving location"
-msgstr ""
+msgstr "Жайгашкан жерди сактоодо ката кетти"
 
 msgid "Error selecting location"
-msgstr ""
+msgstr "Жайгашкан жерди тандоодо ката кетти"
 
 msgid "Error updating list"
-msgstr ""
+msgstr "Тизмени жаңыртуу катасы"
 
 msgid "Exit"
-msgstr ""
+msgstr "Чыгыңыз"
 
 msgid "Fahrenheit"
-msgstr ""
+msgstr "Фаренгейт"
 
 msgid "Favorites saved successfully"
-msgstr ""
+msgstr "Сүйүктүүлөр ийгиликтүү сакталды"
 
 msgid "Feels like"
-msgstr ""
+msgstr "Окшойт"
 
 msgid "GREEN: MANAGEMENT FAVORITES | MENU: SETUP | INFO: DETAILS | HOME"
-msgstr ""
+msgstr "ЖАШЫЛ: БАШКАРУУНУН ФАВОРИТТЕРИ | МЕНЮ: ОРНОТУ | МААЛЫМАТ: ТОЛУГУ МЕНЕН | ҮЙ"
 
 msgid "Glass"
-msgstr ""
+msgstr "Айнек"
 
 msgid "Humidity"
-msgstr ""
+msgstr "Нымдуулук"
 
 msgid "Invalid location coordinates"
-msgstr ""
+msgstr "Жайгашкан жердин координаттары жараксыз"
 
 msgid "Invalid location format"
-msgstr ""
+msgstr "Жайгашкан жердин форматы жараксыз"
 
 msgid "Invalid selection"
-msgstr ""
+msgstr "Жараксыз тандоо"
 
 msgid "Less details / Larger font"
-msgstr ""
+msgstr "Азыраак маалымат / Чоңураак шрифт"
 
 msgid "Loading weather data..."
-msgstr ""
+msgstr "Аба ырайы тууралуу маалымат жүктөлүүдө..."
 
 msgid "Location added successfully"
-msgstr ""
+msgstr "Жайгашкан жер ийгиликтүү кошулду"
 
 msgid "Location added to favorites"
-msgstr ""
+msgstr "Жайгашкан жер сүйүктүүлөргө кошулду"
 
 msgid "Location already exists"
-msgstr ""
+msgstr "Жайгашкан жер мурунтан эле бар"
 
 msgid "Location already in favorites"
-msgstr ""
+msgstr "Жайгашкан жер мурунтан эле сүйүктүүлөрдө"
 
 msgid "Location deleted"
-msgstr ""
+msgstr "Жайгашкан жер жок кылынды"
 
 msgid "Location with similar coordinates already exists"
-msgstr ""
+msgstr "Окшош координаттары бар жер мурунтан эле бар"
 
 msgid "MSN weather"
-msgstr ""
+msgstr "MSN аба ырайы"
 
 msgid "Manage Favorites"
-msgstr ""
+msgstr "Сүйүктүүлөрдү башкаруу"
 
 msgid "Menu"
-msgstr ""
+msgstr "Меню"
 
 msgid "Metric unit for wind speed"
-msgstr ""
+msgstr "Шамалдын ылдамдыгы үчүн метрикалык бирдик"
 
 msgid "More Details / Smaller font"
-msgstr ""
+msgstr "Көбүрөөк маалымат / Кичинекей шрифт"
 
 msgid "N/A"
-msgstr ""
+msgstr "Жок"
 
 msgid "Next favorite"
-msgstr ""
+msgstr "Кийинки сүйүктүү"
 
 msgid "No data"
-msgstr ""
+msgstr "Дайындар жок"
 
 msgid "No locations found"
-msgstr ""
+msgstr "Жайгашкан жерлер табылган жок"
 
 msgid "North"
-msgstr ""
+msgstr "Түндүк"
 
 msgid "Northeast"
-msgstr ""
+msgstr "Түндүк-чыгыш"
 
 msgid "Northwest"
-msgstr ""
+msgstr "Түндүк батыш"
 
 msgid "Open-Meteo Wetter"
-msgstr ""
+msgstr "Ачык-метео аба ырайы"
 
 msgid "OpenWeatherMap"
 msgstr ""
 
 msgid "Please enter a valid city name."
-msgstr ""
+msgstr "Жарактуу шаардын атын киргизиңиз."
 
 msgid "Please enter at least 3 characters"
-msgstr ""
+msgstr "Сураныч, кеминде 3 белги киргизиңиз"
 
 msgid "Precipitation"
-msgstr ""
+msgstr "Жаан-чачын"
 
 msgid "Previous favorite"
-msgstr ""
+msgstr "Мурунку сүйүктүү"
 
 msgid "Refresh interval"
-msgstr ""
+msgstr "Жаңылоо аралыгы"
 
 msgid "Refresh interval :"
-msgstr ""
+msgstr "Жаңылоо аралыгы:"
 
 msgid "Save"
-msgstr ""
+msgstr "Сактоо"
 
 msgid "Select 'Yes' to enable add debug output to log."
-msgstr ""
+msgstr "Журналга мүчүлүштүктөрдү оңдоо натыйжасын кошуу үчүн "Ооба" дегенди тандаңыз."
 
 msgid "Select 'Yes' to enable the addition of Weather."
-msgstr ""
+msgstr "Аба ырайын кошууну иштетүү үчүн "Ооба" дегенди тандаңыз."
 
 msgid "Select location"
-msgstr ""
+msgstr "Жайгашкан жерди тандаңыз"
 
 msgid "Select the City and Press Ok"
-msgstr ""
+msgstr "Шаарды тандап, Ok басыңыз"
 
 msgid "Select the detail level in the detail view. You have the choice between a comprehensive presentation in a smaller font and a reduced presentation with a larger font."
-msgstr ""
+msgstr "Деталдардын көрүнүшүндө детал деңгээлин тандаңыз. Сизде кичирээк шрифттеги комплекстүү презентация менен чоңураак шрифт менен кыскартылган презентациянын ортосунда тандоо бар."
 
 msgid "Select the metric unit for wind speed to be used for wind displays. This has no effect on the imperial unit 'mph'."
-msgstr ""
+msgstr "Шамал дисплейлери үчүн колдонула турган шамалдын ылдамдыгы үчүн метрикалык бирдикти тандаңыз. Бул императордук бирдик "mph" эч кандай таасир этпейт."
 
 msgid "Select the preferred weather service to supply the weather information."
-msgstr ""
+msgstr "Аба ырайы тууралуу маалымат берүү үчүн тандалган аба ырайы кызматын тандаңыз."
 
 msgid "Select the temperature unit to be used for temperature displays."
-msgstr ""
+msgstr "Температура дисплейлери үчүн колдонула турган температура бирдигин тандаңыз."
 
 msgid "Select this option to save that last obtained weather data locally. This is used to initialize the data immediately after restart while updated data is being fetched."
-msgstr ""
+msgstr "Акыркы алынган аба ырайы маалыматтарын жергиликтүү деңгээлде сактоо үчүн бул параметрди тандаңыз. Бул жаңыртылган маалыматтар алынып жатканда, кайра күйгүзгөндөн кийин дайындарды дароо инициализациялоо үчүн колдонулат."
 
 msgid "Settings"
-msgstr ""
+msgstr "Орнотуулар"
 
 msgid "Setup"
-msgstr ""
+msgstr "Жайгашуу"
 
 msgid "Show Weather Forecast"
-msgstr ""
+msgstr "Аба ырайын көрсөтүү"
 
 msgid "Show trend arrows for moon data"
-msgstr ""
+msgstr "Айдын маалыматы үчүн тренд жебелерин көрсөтүү"
 
 msgid "Show trend arrows for moon illumination and moon distance to see the current trend of the data."
-msgstr ""
+msgstr "Дайындардын учурдагы тенденциясын көрүү үчүн айдын жарыгы жана айдын алыстыгы үчүн тренд жебелерин көрсөтүңүз."
 
 msgid "South"
-msgstr ""
+msgstr "Түштүк"
 
 msgid "Southeast"
-msgstr ""
+msgstr "Түштүк-чыгыш"
 
 msgid "Southwest"
-msgstr ""
+msgstr "Түштүк-батыш"
 
 msgid "Specify how often Weather retrieves its data from the server. 'Once' means the data will loaded only once after a GUI or system start."
-msgstr ""
+msgstr "Аба ырайы серверден өз дайындарын канча жолу алып турганын көрсөтүңүз. 'Бир жолу' маалымат GUI же система башталгандан кийин бир гана жолу жүктөлөт дегенди билдирет."
 
 msgid "Standard fertig"
-msgstr ""
+msgstr "Стандарттык бүттү"
 
 msgid "Temperature unit"
-msgstr ""
+msgstr "Температура бирдиги"
 
 msgid "Temperature unit :"
-msgstr ""
+msgstr "Температура бирдиги:"
 
 msgid "Today"
-msgstr ""
+msgstr "Бүгүн"
 
 msgid "Try refreshing or check settings"
-msgstr ""
+msgstr "Жаңыртып көрүңүз же жөндөөлөрдү текшериңиз"
 
 msgid "Update"
-msgstr ""
+msgstr "Жаңыртуу"
 
 msgid "View details"
-msgstr ""
+msgstr "Чоо-жайын көрүү"
 
 msgid "Weather API key :"
-msgstr ""
+msgstr "Weather API ачкычы:"
 
 msgid "Weather API key v2.5"
-msgstr ""
+msgstr "Weather API ачкычы v2.5"
 
 msgid "Weather Plugin"
 msgstr ""
 
 msgid "Weather Plugin Detailview"
-msgstr ""
+msgstr "Аба ырайы плагининин чоо-жайы"
 
 msgid "Weather city name"
-msgstr ""
+msgstr "Аба ырайы шаардын аты"
 
 msgid "Weather city name :"
-msgstr ""
+msgstr "Аба ырайы шаардын аты:"
 
 msgid "Weather data unavailable"
-msgstr ""
+msgstr "Аба ырайы тууралуу маалымат жеткиликсиз"
 
 msgid "Weather icon night switch"
-msgstr ""
+msgstr "Аба ырайы сөлөкөтү түнкү которуштуруу"
 
 msgid "Weather icon night switch :"
-msgstr ""
+msgstr "Аба ырайы сөлөкөтү түнкү которуштуруу:"
 
 msgid "Weather icon set"
-msgstr ""
+msgstr "Аба ырайы сөлөкөтү орнотулду"
 
 msgid "Weather icon set :"
-msgstr ""
+msgstr "Аба ырайы сөлөкөтү топтому:"
 
 msgid "Weather service"
-msgstr ""
+msgstr "Аба ырайы кызматы"
 
 msgid "Weather service :"
-msgstr ""
+msgstr "Аба ырайы кызматы:"
 
 msgid "Weather settings"
-msgstr ""
+msgstr "Аба ырайы жөндөөлөрү"
 
 msgid "West"
-msgstr ""
+msgstr "Батыш"
 
 msgid "Wind speed metric unit:"
-msgstr ""
+msgstr "Шамалдын ылдамдыгынын метрикалык бирдиги:"
 
 msgid "You have unsaved changes. Save before exiting?"
-msgstr ""
+msgstr "Сизде сактала элек өзгөртүүлөр бар. Чыгуудан мурун сакталсынбы?"
 
 msgid "exit"
-msgstr ""
+msgstr "чыгуу"
 
 msgid "km/h"
-msgstr ""
+msgstr "км/саат"
 
 msgid "m/s"
-msgstr ""
+msgstr "м/с"
 
 msgid "n/a"
-msgstr ""
+msgstr "жок"

@@ -15,370 +15,370 @@ msgstr ""
 # FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
 #
 msgid "%d Minutes"
-msgstr ""
+msgstr "%d daqiqa"
 
 msgid "Add"
-msgstr ""
+msgstr "Qo'shish"
 
 msgid "Add Fav"
-msgstr ""
+msgstr "Sevimli qo'shing"
 
 msgid "Cache data"
-msgstr ""
+msgstr "Kesh ma'lumotlari"
 
 msgid "Cache data :"
-msgstr ""
+msgstr "Kesh ma'lumotlari:"
 
 msgid "Celsius"
-msgstr ""
+msgstr "Selsiy"
 
 msgid "Choose the icon set. You need to create an additional set here: /usr/share/enigma2/WeatherIconSets/NAME."
-msgstr ""
+msgstr "Belgilar to'plamini tanlang. Bu yerda qoʻshimcha toʻplam yaratishingiz kerak: /usr/share/enigma2/WeatherIconSets/NAME."
 
 msgid "Choose whether the 'night switch' should be activated or not. Some icons are then displayed as night icons with moon."
-msgstr ""
+msgstr ""Tungi o'tish" faollashtiriladimi yoki yo'qligini tanlang. Keyin ba'zi piktogrammalar oy bilan tungi piktogramma sifatida ko'rsatiladi."
 
 msgid "Chose favorite"
-msgstr ""
+msgstr "Sevimlini tanlang"
 
 msgid "City name must be at least 3 characters"
-msgstr ""
+msgstr "Shahar nomi kamida 3 ta belgidan iborat boʻlishi kerak"
 
 msgid "Coordinates not available for this location"
-msgstr ""
+msgstr "Bu joy uchun koordinatalar mavjud emas"
 
 msgid "Current Weather"
-msgstr ""
+msgstr "Hozirgi ob-havo"
 
 msgid "Day +/-"
-msgstr ""
+msgstr "Kun +/-"
 
 msgid "Default"
-msgstr ""
+msgstr "Standart"
 
 msgid "Defaults"
-msgstr ""
+msgstr "Standartlar"
 
 msgid "Delete"
-msgstr ""
+msgstr "Oʻchirish"
 
 msgid "Delete failed"
-msgstr ""
+msgstr "Oʻchirish amalga oshmadi"
 
 msgid "Delete {}?"
-msgstr ""
+msgstr "{} oʻchirilsinmi?"
 
 msgid "Detail level in detail view"
-msgstr ""
+msgstr "Tafsilotli ko'rinishdagi tafsilotlar darajasi"
 
 msgid "Details +/-"
-msgstr ""
+msgstr "Tafsilotlar +/-"
 
 msgid "Disabled"
-msgstr ""
+msgstr "O'chirilgan"
 
 msgid "East"
-msgstr ""
+msgstr "Sharq"
 
 msgid "Edit"
-msgstr ""
+msgstr "Tahrirlash"
 
 msgid "Edit city name"
-msgstr ""
+msgstr "Shahar nomini tahrirlash"
 
 msgid "Enable Debug"
-msgstr ""
+msgstr "Nosozliklarni tuzatishni yoqish"
 
 msgid "Enable Debug :"
-msgstr ""
+msgstr "Nosozliklarni tuzatishni yoqish:"
 
 msgid "Enabled"
-msgstr ""
+msgstr "Yoqilgan"
 
 msgid "Enabled :"
-msgstr ""
+msgstr "Yoqilgan:"
 
 msgid "Enter a personalized API key v2.5 for use with OpenWeatherMap (https://openweathermap.org/)."
-msgstr ""
+msgstr "OpenWeatherMap bilan foydalanish uchun v2.5 moslashtirilgan API kalitini kiriting (https://openweathermap.org/)."
 
 msgid "Enter city name (e.g. 'Rome, IT')"
-msgstr ""
+msgstr "Shahar nomini kiriting (masalan, “Rim, IT”)"
 
 msgid "Enter the location for your weather forecasts. To include your location, expand your favorites list with 'Manage your favorites'."
-msgstr ""
+msgstr "Ob-havo prognozlari uchun joyni kiriting. Joylashuvingizni kiritish uchun sevimlilar roʻyxatini “Sevimlilarni boshqarish” orqali kengaytiring."
 
 msgid "Error adding location"
-msgstr ""
+msgstr "Joylashuvni kiritishda xatolik yuz berdi"
 
 msgid "Error changing day"
-msgstr ""
+msgstr "Kunni almashtirishda xatolik yuz berdi"
 
 msgid "Error processing location data"
-msgstr ""
+msgstr "Joylashuv maʼlumotlarini qayta ishlashda xatolik yuz berdi"
 
 msgid "Error saving favorites"
-msgstr ""
+msgstr "Sevimlilarni saqlashda xatolik yuz berdi"
 
 msgid "Error saving location"
-msgstr ""
+msgstr "Joylashuvni saqlashda xatolik yuz berdi"
 
 msgid "Error selecting location"
-msgstr ""
+msgstr "Joyni tanlashda xatolik yuz berdi"
 
 msgid "Error updating list"
-msgstr ""
+msgstr "Roʻyxatni yangilashda xatolik yuz berdi"
 
 msgid "Exit"
-msgstr ""
+msgstr "Chiqish"
 
 msgid "Fahrenheit"
-msgstr ""
+msgstr "Farengeyt"
 
 msgid "Favorites saved successfully"
-msgstr ""
+msgstr "Sevimlilar muvaffaqiyatli saqlandi"
 
 msgid "Feels like"
-msgstr ""
+msgstr "Tuyiladi"
 
 msgid "GREEN: MANAGEMENT FAVORITES | MENU: SETUP | INFO: DETAILS | HOME"
-msgstr ""
+msgstr "YASIL: BOSHQARUVCHI SEVIMLILAR | MENU: SOZLASH | MA'LUMOT: TATLISI | UY"
 
 msgid "Glass"
-msgstr ""
+msgstr "Shisha"
 
 msgid "Humidity"
-msgstr ""
+msgstr "Namlik"
 
 msgid "Invalid location coordinates"
-msgstr ""
+msgstr "Joylashuv koordinatalari yaroqsiz"
 
 msgid "Invalid location format"
-msgstr ""
+msgstr "Joylashuv formati noto‘g‘ri"
 
 msgid "Invalid selection"
-msgstr ""
+msgstr "Yaroqsiz tanlov"
 
 msgid "Less details / Larger font"
-msgstr ""
+msgstr "Kamroq tafsilotlar / Kattaroq shrift"
 
 msgid "Loading weather data..."
-msgstr ""
+msgstr "Ob-havo maʼlumotlari yuklanmoqda..."
 
 msgid "Location added successfully"
-msgstr ""
+msgstr "Joylashuv muvaffaqiyatli kiritildi"
 
 msgid "Location added to favorites"
-msgstr ""
+msgstr "Joylashuv sevimlilarga qo'shildi"
 
 msgid "Location already exists"
-msgstr ""
+msgstr "Joylashuv allaqachon mavjud"
 
 msgid "Location already in favorites"
-msgstr ""
+msgstr "Joylashuv allaqachon sevimlilar qatorida"
 
 msgid "Location deleted"
-msgstr ""
+msgstr "Joylashuv oʻchirildi"
 
 msgid "Location with similar coordinates already exists"
-msgstr ""
+msgstr "Xuddi shunday koordinatali joy allaqachon mavjud"
 
 msgid "MSN weather"
-msgstr ""
+msgstr "MSN ob-havo"
 
 msgid "Manage Favorites"
-msgstr ""
+msgstr "Sevimlilarni boshqarish"
 
 msgid "Menu"
-msgstr ""
+msgstr "Menyu"
 
 msgid "Metric unit for wind speed"
-msgstr ""
+msgstr "Shamol tezligi uchun metrik birlik"
 
 msgid "More Details / Smaller font"
-msgstr ""
+msgstr "Batafsil ma'lumot / Kichikroq shrift"
 
 msgid "N/A"
-msgstr ""
+msgstr "Yoʻq"
 
 msgid "Next favorite"
-msgstr ""
+msgstr "Keyingi sevimli"
 
 msgid "No data"
-msgstr ""
+msgstr "Maʼlumot yoʻq"
 
 msgid "No locations found"
-msgstr ""
+msgstr "Hech qanday joy topilmadi"
 
 msgid "North"
-msgstr ""
+msgstr "Shimoliy"
 
 msgid "Northeast"
-msgstr ""
+msgstr "Shimoli-sharqiy"
 
 msgid "Northwest"
-msgstr ""
+msgstr "Shimoli-g'arbiy"
 
 msgid "Open-Meteo Wetter"
-msgstr ""
+msgstr "Ochiq meteo ob-havo"
 
 msgid "OpenWeatherMap"
 msgstr ""
 
 msgid "Please enter a valid city name."
-msgstr ""
+msgstr "Yaroqli shahar nomini kiriting."
 
 msgid "Please enter at least 3 characters"
-msgstr ""
+msgstr "Kamida 3 ta belgi kiriting"
 
 msgid "Precipitation"
-msgstr ""
+msgstr "Yog'ingarchilik"
 
 msgid "Previous favorite"
-msgstr ""
+msgstr "Oldingi sevimli"
 
 msgid "Refresh interval"
-msgstr ""
+msgstr "Yangilash oralig'i"
 
 msgid "Refresh interval :"
-msgstr ""
+msgstr "Yangilash oralig'i:"
 
 msgid "Save"
-msgstr ""
+msgstr "Saqlash"
 
 msgid "Select 'Yes' to enable add debug output to log."
-msgstr ""
+msgstr "Jurnalga disk raskadrovka chiqishini qo‘shishni yoqish uchun “Ha” ni tanlang."
 
 msgid "Select 'Yes' to enable the addition of Weather."
-msgstr ""
+msgstr "Ob-havo qo'shilishini yoqish uchun "Ha" ni tanlang."
 
 msgid "Select location"
-msgstr ""
+msgstr "Joyni tanlang"
 
 msgid "Select the City and Press Ok"
-msgstr ""
+msgstr "Shaharni tanlang va OK tugmasini bosing"
 
 msgid "Select the detail level in the detail view. You have the choice between a comprehensive presentation in a smaller font and a reduced presentation with a larger font."
-msgstr ""
+msgstr "Tafsilotlar ko'rinishida tafsilotlar darajasini tanlang. Sizda kichikroq shriftdagi keng qamrovli taqdimot va kattaroq shriftli qisqartirilgan taqdimot o'rtasida tanlov mavjud."
 
 msgid "Select the metric unit for wind speed to be used for wind displays. This has no effect on the imperial unit 'mph'."
-msgstr ""
+msgstr "Shamol ko'rsatkichlari uchun shamol tezligi uchun metrik birlikni tanlang. Bu imperatorning "mph" birligiga ta'sir qilmaydi."
 
 msgid "Select the preferred weather service to supply the weather information."
-msgstr ""
+msgstr "Ob-havo ma'lumotlarini taqdim etish uchun afzal qilingan ob-havo xizmatini tanlang."
 
 msgid "Select the temperature unit to be used for temperature displays."
-msgstr ""
+msgstr "Harorat ko'rsatkichlari uchun ishlatiladigan harorat birligini tanlang."
 
 msgid "Select this option to save that last obtained weather data locally. This is used to initialize the data immediately after restart while updated data is being fetched."
-msgstr ""
+msgstr "Oxirgi olingan ob-havo maʼlumotlarini mahalliy darajada saqlash uchun ushbu parametrni tanlang. Bu yangilangan ma'lumotlar olinayotganda qayta ishga tushirilgandan so'ng darhol ma'lumotlarni ishga tushirish uchun ishlatiladi."
 
 msgid "Settings"
-msgstr ""
+msgstr "Sozlamalar"
 
 msgid "Setup"
-msgstr ""
+msgstr "Sozlash; o'rnatish"
 
 msgid "Show Weather Forecast"
-msgstr ""
+msgstr "Ob-havo ma'lumotlarini ko'rsatish"
 
 msgid "Show trend arrows for moon data"
-msgstr ""
+msgstr "Oy ma'lumotlari uchun trend strelkalarini ko'rsatish"
 
 msgid "Show trend arrows for moon illumination and moon distance to see the current trend of the data."
-msgstr ""
+msgstr "Maʼlumotlarning joriy trendini koʻrish uchun oy yoritilishi va oy masofasi uchun trend strelkalarini koʻrsating."
 
 msgid "South"
-msgstr ""
+msgstr "Janubiy"
 
 msgid "Southeast"
-msgstr ""
+msgstr "Janubi-sharqiy"
 
 msgid "Southwest"
-msgstr ""
+msgstr "Janubi-g'arbiy"
 
 msgid "Specify how often Weather retrieves its data from the server. 'Once' means the data will loaded only once after a GUI or system start."
-msgstr ""
+msgstr "Ob-havo maʼlumotlarini serverdan qanchalik tez-tez olishini belgilang. "Bir marta" ma'lumotlar GUI yoki tizim ishga tushirilgandan keyin faqat bir marta yuklanishini anglatadi."
 
 msgid "Standard fertig"
-msgstr ""
+msgstr "Standart yakunlandi"
 
 msgid "Temperature unit"
-msgstr ""
+msgstr "Harorat birligi"
 
 msgid "Temperature unit :"
-msgstr ""
+msgstr "Harorat birligi:"
 
 msgid "Today"
-msgstr ""
+msgstr "Bugun"
 
 msgid "Try refreshing or check settings"
-msgstr ""
+msgstr "Sozlamalarni yangilang yoki tekshiring"
 
 msgid "Update"
-msgstr ""
+msgstr "Yangilash"
 
 msgid "View details"
-msgstr ""
+msgstr "Tafsilotlarni ko'rish"
 
 msgid "Weather API key :"
-msgstr ""
+msgstr "Weather API kaliti:"
 
 msgid "Weather API key v2.5"
-msgstr ""
+msgstr "Weather API kaliti v2.5"
 
 msgid "Weather Plugin"
-msgstr ""
+msgstr "Ob-havo plagini"
 
 msgid "Weather Plugin Detailview"
-msgstr ""
+msgstr "Ob-havo plagini batafsil ko'rinishi"
 
 msgid "Weather city name"
-msgstr ""
+msgstr "Ob-havo shahar nomi"
 
 msgid "Weather city name :"
-msgstr ""
+msgstr "Ob-havo shahar nomi:"
 
 msgid "Weather data unavailable"
-msgstr ""
+msgstr "Ob-havo maʼlumotlari mavjud emas"
 
 msgid "Weather icon night switch"
-msgstr ""
+msgstr "Ob-havo belgisini tungi almashtirish"
 
 msgid "Weather icon night switch :"
-msgstr ""
+msgstr "Tungi ob-havo belgisini almashtirish:"
 
 msgid "Weather icon set"
-msgstr ""
+msgstr "Ob-havo belgisi to'plami"
 
 msgid "Weather icon set :"
-msgstr ""
+msgstr "Ob-havo belgisi to'plami:"
 
 msgid "Weather service"
-msgstr ""
+msgstr "Ob-havo xizmati"
 
 msgid "Weather service :"
-msgstr ""
+msgstr "Ob-havo xizmati:"
 
 msgid "Weather settings"
-msgstr ""
+msgstr "Ob-havo sozlamalari"
 
 msgid "West"
-msgstr ""
+msgstr "G'arbiy"
 
 msgid "Wind speed metric unit:"
-msgstr ""
+msgstr "Shamol tezligi metrik birligi:"
 
 msgid "You have unsaved changes. Save before exiting?"
-msgstr ""
+msgstr "Sizda saqlanmagan oʻzgarishlar bor. Chiqishdan oldin saqlansinmi?"
 
 msgid "exit"
-msgstr ""
+msgstr "chiqish"
 
 msgid "km/h"
-msgstr ""
+msgstr "km/soat"
 
 msgid "m/s"
-msgstr ""
+msgstr "Xonim"
 
 msgid "n/a"
-msgstr ""
+msgstr "yo'q"

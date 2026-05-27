@@ -112,7 +112,7 @@ msgid "Enter city name (e.g. 'Rome, IT')"
 msgstr "Inserisci il nome della città (ad esempio \"Roma, IT\")"
 
 msgid "Enter the location for your weather forecasts. To include your location, expand your favorites list with 'Manage your favorites'."
-msgstr ""
+msgstr "Inserisci la località per le tue previsioni meteo. Per includere la tua posizione, espandi l'elenco dei preferiti con "Gestisci i tuoi preferiti"."
 
 msgid "Error adding location"
 msgstr "Errore durante l'aggiunta della posizione"
@@ -199,19 +199,19 @@ msgid "Menu"
 msgstr ""
 
 msgid "Metric unit for wind speed"
-msgstr ""
+msgstr "Unità metrica per la velocità del vento"
 
 msgid "More Details / Smaller font"
 msgstr "Maggiori dettagli / Carattere più piccolo"
 
 msgid "N/A"
-msgstr ""
+msgstr "N / A"
 
 msgid "Next favorite"
 msgstr "Prossimo favorito"
 
 msgid "No data"
-msgstr ""
+msgstr "Nessun dato"
 
 msgid "No locations found"
 msgstr "Nessuna posizione trovata"
@@ -266,10 +266,10 @@ msgid "Select the City and Press Ok"
 msgstr "Seleziona la città e premi Ok"
 
 msgid "Select the detail level in the detail view. You have the choice between a comprehensive presentation in a smaller font and a reduced presentation with a larger font."
-msgstr ""
+msgstr "Selezionare il livello di dettaglio nella visualizzazione dei dettagli. Puoi scegliere tra una presentazione completa con un carattere più piccolo e una presentazione ridotta con un carattere più grande."
 
 msgid "Select the metric unit for wind speed to be used for wind displays. This has no effect on the imperial unit 'mph'."
-msgstr ""
+msgstr "Selezionare l'unità metrica per la velocità del vento da utilizzare per la visualizzazione del vento. Ciò non ha alcun effetto sull'unità imperiale "mph"."
 
 msgid "Select the preferred weather service to supply the weather information."
 msgstr "Seleziona il servizio meteo preferito per fornire le informazioni meteo."
@@ -281,19 +281,19 @@ msgid "Select this option to save that last obtained weather data locally. This 
 msgstr "Seleziona per salvare localmente gli ultimi dati meteorologici ottenuti. Viene utilizzato per inizializzare i dati immediatamente dopo il riavvio durante il recupero dei dati aggiornati."
 
 msgid "Settings"
-msgstr ""
+msgstr "Impostazioni"
 
 msgid "Setup"
-msgstr ""
+msgstr "Impostare"
 
 msgid "Show Weather Forecast"
 msgstr "Mostra le previsioni Meteo"
 
 msgid "Show trend arrows for moon data"
-msgstr ""
+msgstr "Mostra le frecce di tendenza per i dati sulla Luna"
 
 msgid "Show trend arrows for moon illumination and moon distance to see the current trend of the data."
-msgstr ""
+msgstr "Mostra le frecce di tendenza per l'illuminazione della luna e la distanza della luna per vedere la tendenza attuale dei dati."
 
 msgid "South"
 msgstr "Sud"
@@ -389,13 +389,13 @@ msgid "exit"
 msgstr "eci"
 
 msgid "km/h"
-msgstr ""
+msgstr "km/ora"
 
 msgid "m/s"
-msgstr ""
+msgstr "SM"
 
 msgid "n/a"
-msgstr ""
+msgstr "n / a"
 
 #~ msgid "Press Key Green or Menu for Setup"
 #~ msgstr "Premere il tasto verde o il menu per l'impostazione"

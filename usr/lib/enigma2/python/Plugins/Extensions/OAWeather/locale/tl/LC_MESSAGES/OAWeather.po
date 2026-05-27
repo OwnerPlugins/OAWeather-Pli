@@ -15,310 +15,310 @@ msgstr ""
 # FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
 #
 msgid "%d Minutes"
-msgstr ""
+msgstr "%d Minuto"
 
 msgid "Add"
-msgstr ""
+msgstr "Idagdag"
 
 msgid "Add Fav"
-msgstr ""
+msgstr "Magdagdag ng Fav"
 
 msgid "Cache data"
-msgstr ""
+msgstr "Data ng cache"
 
 msgid "Cache data :"
-msgstr ""
+msgstr "data ng cache:"
 
 msgid "Celsius"
 msgstr ""
 
 msgid "Choose the icon set. You need to create an additional set here: /usr/share/enigma2/WeatherIconSets/NAME."
-msgstr ""
+msgstr "Piliin ang hanay ng icon. Kailangan mong gumawa ng karagdagang set dito: /usr/share/enigma2/WeatherIconSets/NAME."
 
 msgid "Choose whether the 'night switch' should be activated or not. Some icons are then displayed as night icons with moon."
-msgstr ""
+msgstr "Piliin kung ang 'night switch' ay dapat i-activate o hindi. Ang ilang mga icon ay ipinapakita bilang mga icon ng gabi na may buwan."
 
 msgid "Chose favorite"
-msgstr ""
+msgstr "Pumili ng paborito"
 
 msgid "City name must be at least 3 characters"
-msgstr ""
+msgstr "Ang pangalan ng lungsod ay dapat na hindi bababa sa 3 character"
 
 msgid "Coordinates not available for this location"
-msgstr ""
+msgstr "Hindi available ang mga coordinate para sa lokasyong ito"
 
 msgid "Current Weather"
-msgstr ""
+msgstr "Kasalukuyang Panahon"
 
 msgid "Day +/-"
-msgstr ""
+msgstr "Araw +/-"
 
 msgid "Default"
 msgstr ""
 
 msgid "Defaults"
-msgstr ""
+msgstr "Mga Default"
 
 msgid "Delete"
-msgstr ""
+msgstr "Tanggalin"
 
 msgid "Delete failed"
-msgstr ""
+msgstr "Nabigo ang pagtanggal"
 
 msgid "Delete {}?"
-msgstr ""
+msgstr "Tanggalin ang {}?"
 
 msgid "Detail level in detail view"
-msgstr ""
+msgstr "Antas ng detalye sa view ng detalye"
 
 msgid "Details +/-"
-msgstr ""
+msgstr "Mga Detalye +/-"
 
 msgid "Disabled"
-msgstr ""
+msgstr "Hindi pinagana"
 
 msgid "East"
-msgstr ""
+msgstr "Silangan"
 
 msgid "Edit"
-msgstr ""
+msgstr "I-edit"
 
 msgid "Edit city name"
-msgstr ""
+msgstr "I-edit ang pangalan ng lungsod"
 
 msgid "Enable Debug"
-msgstr ""
+msgstr "Paganahin ang Debug"
 
 msgid "Enable Debug :"
-msgstr ""
+msgstr "Paganahin ang Debug :"
 
 msgid "Enabled"
-msgstr ""
+msgstr "Pinagana"
 
 msgid "Enabled :"
-msgstr ""
+msgstr "Pinagana :"
 
 msgid "Enter a personalized API key v2.5 for use with OpenWeatherMap (https://openweathermap.org/)."
-msgstr ""
+msgstr "Maglagay ng personalized na API key v2.5 para gamitin sa OpenWeatherMap (https://openweathermap.org/)."
 
 msgid "Enter city name (e.g. 'Rome, IT')"
-msgstr ""
+msgstr "Ilagay ang pangalan ng lungsod (hal. 'Rome, IT')"
 
 msgid "Enter the location for your weather forecasts. To include your location, expand your favorites list with 'Manage your favorites'."
-msgstr ""
+msgstr "Ilagay ang lokasyon para sa iyong mga pagtataya ng panahon. Upang isama ang iyong lokasyon, palawakin ang iyong listahan ng mga paborito gamit ang 'Pamahalaan ang iyong mga paborito'."
 
 msgid "Error adding location"
-msgstr ""
+msgstr "Error sa pagdaragdag ng lokasyon"
 
 msgid "Error changing day"
-msgstr ""
+msgstr "Error sa pagpapalit ng araw"
 
 msgid "Error processing location data"
-msgstr ""
+msgstr "Error sa pagproseso ng data ng lokasyon"
 
 msgid "Error saving favorites"
-msgstr ""
+msgstr "Error sa pag-save ng mga paborito"
 
 msgid "Error saving location"
-msgstr ""
+msgstr "Error sa pag-save ng lokasyon"
 
 msgid "Error selecting location"
-msgstr ""
+msgstr "Error sa pagpili ng lokasyon"
 
 msgid "Error updating list"
-msgstr ""
+msgstr "Error sa pag-update ng listahan"
 
 msgid "Exit"
-msgstr ""
+msgstr "Lumabas"
 
 msgid "Fahrenheit"
 msgstr ""
 
 msgid "Favorites saved successfully"
-msgstr ""
+msgstr "Matagumpay na na-save ang mga paborito"
 
 msgid "Feels like"
-msgstr ""
+msgstr "Parang"
 
 msgid "GREEN: MANAGEMENT FAVORITES | MENU: SETUP | INFO: DETAILS | HOME"
-msgstr ""
+msgstr "BERDE: MGA PABORITO NG MANAGEMENT | MENU: SETUP | IMPORMASYON: MGA DETALYE | BAHAY"
 
 msgid "Glass"
-msgstr ""
+msgstr "Salamin"
 
 msgid "Humidity"
 msgstr ""
 
 msgid "Invalid location coordinates"
-msgstr ""
+msgstr "Di-wastong mga coordinate ng lokasyon"
 
 msgid "Invalid location format"
-msgstr ""
+msgstr "Di-wastong format ng lokasyon"
 
 msgid "Invalid selection"
-msgstr ""
+msgstr "Di-wastong pagpili"
 
 msgid "Less details / Larger font"
-msgstr ""
+msgstr "Mas kaunting mga detalye / Mas malaking font"
 
 msgid "Loading weather data..."
-msgstr ""
+msgstr "Nilo-load ang data ng lagay ng panahon..."
 
 msgid "Location added successfully"
-msgstr ""
+msgstr "Matagumpay na naidagdag ang lokasyon"
 
 msgid "Location added to favorites"
-msgstr ""
+msgstr "Idinagdag ang lokasyon sa mga paborito"
 
 msgid "Location already exists"
-msgstr ""
+msgstr "Umiiral na ang lokasyon"
 
 msgid "Location already in favorites"
-msgstr ""
+msgstr "Nasa paborito na ang lokasyon"
 
 msgid "Location deleted"
-msgstr ""
+msgstr "Tinanggal ang lokasyon"
 
 msgid "Location with similar coordinates already exists"
-msgstr ""
+msgstr "Umiiral na ang lokasyong may katulad na mga coordinate"
 
 msgid "MSN weather"
-msgstr ""
+msgstr "MSN panahon"
 
 msgid "Manage Favorites"
-msgstr ""
+msgstr "Pamahalaan ang Mga Paborito"
 
 msgid "Menu"
 msgstr ""
 
 msgid "Metric unit for wind speed"
-msgstr ""
+msgstr "Sukatan na yunit para sa bilis ng hangin"
 
 msgid "More Details / Smaller font"
-msgstr ""
+msgstr "Higit pang mga Detalye / Mas maliit na font"
 
 msgid "N/A"
 msgstr ""
 
 msgid "Next favorite"
-msgstr ""
+msgstr "Susunod na paborito"
 
 msgid "No data"
-msgstr ""
+msgstr "Walang data"
 
 msgid "No locations found"
-msgstr ""
+msgstr "Walang nakitang lokasyon"
 
 msgid "North"
-msgstr ""
+msgstr "Hilaga"
 
 msgid "Northeast"
-msgstr ""
+msgstr "Hilagang-silangan"
 
 msgid "Northwest"
 msgstr ""
 
 msgid "Open-Meteo Wetter"
-msgstr ""
+msgstr "Open-Meteo Weather"
 
 msgid "OpenWeatherMap"
 msgstr ""
 
 msgid "Please enter a valid city name."
-msgstr ""
+msgstr "Mangyaring magpasok ng wastong pangalan ng lungsod."
 
 msgid "Please enter at least 3 characters"
-msgstr ""
+msgstr "Mangyaring maglagay ng hindi bababa sa 3 character"
 
 msgid "Precipitation"
-msgstr ""
+msgstr "Pag-ulan"
 
 msgid "Previous favorite"
-msgstr ""
+msgstr "Nakaraang paborito"
 
 msgid "Refresh interval"
-msgstr ""
+msgstr "I-refresh ang pagitan"
 
 msgid "Refresh interval :"
-msgstr ""
+msgstr "I-refresh ang pagitan:"
 
 msgid "Save"
-msgstr ""
+msgstr "I-save"
 
 msgid "Select 'Yes' to enable add debug output to log."
-msgstr ""
+msgstr "Piliin ang 'Oo' upang paganahin ang magdagdag ng output ng debug upang mag-log."
 
 msgid "Select 'Yes' to enable the addition of Weather."
-msgstr ""
+msgstr "Piliin ang 'Oo' upang paganahin ang pagdaragdag ng Panahon."
 
 msgid "Select location"
-msgstr ""
+msgstr "Pumili ng lokasyon"
 
 msgid "Select the City and Press Ok"
-msgstr ""
+msgstr "Piliin ang Lungsod at Pindutin ang Ok"
 
 msgid "Select the detail level in the detail view. You have the choice between a comprehensive presentation in a smaller font and a reduced presentation with a larger font."
-msgstr ""
+msgstr "Piliin ang antas ng detalye sa view ng detalye. Mayroon kang pagpipilian sa pagitan ng isang komprehensibong presentasyon sa isang mas maliit na font at isang pinababang presentasyon na may mas malaking font."
 
 msgid "Select the metric unit for wind speed to be used for wind displays. This has no effect on the imperial unit 'mph'."
-msgstr ""
+msgstr "Piliin ang metric unit para sa bilis ng hangin na gagamitin para sa wind display. Wala itong epekto sa imperial unit na 'mph'."
 
 msgid "Select the preferred weather service to supply the weather information."
-msgstr ""
+msgstr "Piliin ang gustong serbisyo sa lagay ng panahon upang maibigay ang impormasyon sa lagay ng panahon."
 
 msgid "Select the temperature unit to be used for temperature displays."
-msgstr ""
+msgstr "Piliin ang unit ng temperatura na gagamitin para sa mga pagpapakita ng temperatura."
 
 msgid "Select this option to save that last obtained weather data locally. This is used to initialize the data immediately after restart while updated data is being fetched."
-msgstr ""
+msgstr "Piliin ang opsyong ito upang i-save ang huling nakuhang data ng lagay ng panahon nang lokal. Ito ay ginagamit upang simulan ang data kaagad pagkatapos mag-restart habang kinukuha ang na-update na data."
 
 msgid "Settings"
-msgstr ""
+msgstr "Mga setting"
 
 msgid "Setup"
-msgstr ""
+msgstr "Pag-setup"
 
 msgid "Show Weather Forecast"
-msgstr ""
+msgstr "Ipakita ang Pagtataya ng Panahon"
 
 msgid "Show trend arrows for moon data"
-msgstr ""
+msgstr "Ipakita ang mga trend arrow para sa data ng buwan"
 
 msgid "Show trend arrows for moon illumination and moon distance to see the current trend of the data."
-msgstr ""
+msgstr "Ipakita ang mga trend arrow para sa pag-iilaw ng buwan at distansya ng buwan upang makita ang kasalukuyang trend ng data."
 
 msgid "South"
-msgstr ""
+msgstr "Timog"
 
 msgid "Southeast"
-msgstr ""
+msgstr "Timog-silangan"
 
 msgid "Southwest"
-msgstr ""
+msgstr "Timog-kanluran"
 
 msgid "Specify how often Weather retrieves its data from the server. 'Once' means the data will loaded only once after a GUI or system start."
-msgstr ""
+msgstr "Tukuyin kung gaano kadalas kinukuha ng Weather ang data nito mula sa server. Ang ibig sabihin ng 'Once' ay isang beses lang maglo-load ang data pagkatapos magsimula ang isang GUI o system."
 
 msgid "Standard fertig"
-msgstr ""
+msgstr "Tapos na ang standard"
 
 msgid "Temperature unit"
-msgstr ""
+msgstr "Unit ng temperatura"
 
 msgid "Temperature unit :"
-msgstr ""
+msgstr "Unit ng temperatura:"
 
 msgid "Today"
-msgstr ""
+msgstr "Ngayong araw"
 
 msgid "Try refreshing or check settings"
-msgstr ""
+msgstr "Subukang i-refresh o tingnan ang mga setting"
 
 msgid "Update"
 msgstr ""
 
 msgid "View details"
-msgstr ""
+msgstr "Tingnan ang mga detalye"
 
 msgid "Weather API key :"
 msgstr ""
@@ -333,52 +333,52 @@ msgid "Weather Plugin Detailview"
 msgstr ""
 
 msgid "Weather city name"
-msgstr ""
+msgstr "Pangalan ng lungsod ng panahon"
 
 msgid "Weather city name :"
-msgstr ""
+msgstr "Pangalan ng lungsod ng panahon:"
 
 msgid "Weather data unavailable"
-msgstr ""
+msgstr "Hindi available ang data ng panahon"
 
 msgid "Weather icon night switch"
-msgstr ""
+msgstr "Icon ng panahon night switch"
 
 msgid "Weather icon night switch :"
-msgstr ""
+msgstr "Icon ng panahon night switch :"
 
 msgid "Weather icon set"
-msgstr ""
+msgstr "Set ng icon ng panahon"
 
 msgid "Weather icon set :"
-msgstr ""
+msgstr "Set ng icon ng panahon:"
 
 msgid "Weather service"
-msgstr ""
+msgstr "Serbisyo sa panahon"
 
 msgid "Weather service :"
-msgstr ""
+msgstr "Serbisyo sa panahon:"
 
 msgid "Weather settings"
-msgstr ""
+msgstr "Mga setting ng panahon"
 
 msgid "West"
-msgstr ""
+msgstr "Kanluran"
 
 msgid "Wind speed metric unit:"
-msgstr ""
+msgstr "Unit ng sukatan ng bilis ng hangin:"
 
 msgid "You have unsaved changes. Save before exiting?"
-msgstr ""
+msgstr "Mayroon kang mga hindi na-save na pagbabago. I-save bago lumabas?"
 
 msgid "exit"
-msgstr ""
+msgstr "labasan"
 
 msgid "km/h"
 msgstr ""
 
 msgid "m/s"
-msgstr ""
+msgstr "MS"
 
 msgid "n/a"
 msgstr ""

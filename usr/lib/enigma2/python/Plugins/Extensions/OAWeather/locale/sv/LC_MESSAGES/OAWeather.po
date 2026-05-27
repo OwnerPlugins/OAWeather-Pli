@@ -16,364 +16,364 @@ msgstr ""
 # FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
 #
 msgid "%d Minutes"
-msgstr ""
+msgstr "%d minuter"
 
 msgid "Add"
-msgstr ""
+msgstr "Tillägga"
 
 msgid "Add Fav"
-msgstr ""
+msgstr "Lägg till Fav"
 
 msgid "Cache data"
-msgstr ""
+msgstr "Cachedata"
 
 msgid "Cache data :"
-msgstr ""
+msgstr "Cachedata:"
 
 msgid "Celsius"
 msgstr ""
 
 msgid "Choose the icon set. You need to create an additional set here: /usr/share/enigma2/WeatherIconSets/NAME."
-msgstr ""
+msgstr "Välj ikonuppsättningen. Du måste skapa en extra uppsättning här: /usr/share/enigma2/WeatherIconSets/NAME."
 
 msgid "Choose whether the 'night switch' should be activated or not. Some icons are then displayed as night icons with moon."
-msgstr ""
+msgstr "Välj om 'nattbrytaren' ska aktiveras eller inte. Vissa ikoner visas sedan som nattikoner med måne."
 
 msgid "Chose favorite"
-msgstr ""
+msgstr "Valde favorit"
 
 msgid "City name must be at least 3 characters"
-msgstr ""
+msgstr "Stadens namn måste bestå av minst 3 tecken"
 
 msgid "Coordinates not available for this location"
-msgstr ""
+msgstr "Koordinater är inte tillgängliga för den här platsen"
 
 msgid "Current Weather"
-msgstr ""
+msgstr "Aktuellt väder"
 
 msgid "Day +/-"
-msgstr ""
+msgstr "Dag +/-"
 
 msgid "Default"
-msgstr ""
+msgstr "Standard"
 
 msgid "Defaults"
-msgstr ""
+msgstr "Standardvärden"
 
 msgid "Delete"
-msgstr ""
+msgstr "Radera"
 
 msgid "Delete failed"
-msgstr ""
+msgstr "Det gick inte att ta bort"
 
 msgid "Delete {}?"
-msgstr ""
+msgstr "Ta bort {}?"
 
 msgid "Detail level in detail view"
-msgstr ""
+msgstr "Detaljnivå i detaljvy"
 
 msgid "Details +/-"
-msgstr ""
+msgstr "Detaljer +/-"
 
 msgid "Disabled"
-msgstr ""
+msgstr "Inaktiverad"
 
 msgid "East"
-msgstr ""
+msgstr "Öst"
 
 msgid "Edit"
-msgstr ""
+msgstr "Redigera"
 
 msgid "Edit city name"
-msgstr ""
+msgstr "Redigera stadsnamn"
 
 msgid "Enable Debug"
-msgstr ""
+msgstr "Aktivera felsökning"
 
 msgid "Enable Debug :"
-msgstr ""
+msgstr "Aktivera felsökning:"
 
 msgid "Enabled"
-msgstr ""
+msgstr "Aktiverad"
 
 msgid "Enabled :"
-msgstr ""
+msgstr "Aktiverad:"
 
 msgid "Enter a personalized API key v2.5 for use with OpenWeatherMap (https://openweathermap.org/)."
-msgstr ""
+msgstr "Ange en personlig API-nyckel v2.5 för användning med OpenWeatherMap (https://openweathermap.org/)."
 
 msgid "Enter city name (e.g. 'Rome, IT')"
-msgstr ""
+msgstr "Ange stadsnamn (t.ex. "Rom, IT")"
 
 msgid "Enter the location for your weather forecasts. To include your location, expand your favorites list with 'Manage your favorites'."
-msgstr ""
+msgstr "Ange platsen för dina väderprognoser. För att inkludera din plats utökar du din favoritlista med "Hantera dina favoriter"."
 
 msgid "Error adding location"
-msgstr ""
+msgstr "Det gick inte att lägga till plats"
 
 msgid "Error changing day"
-msgstr ""
+msgstr "Fel vid byte av dag"
 
 msgid "Error processing location data"
-msgstr ""
+msgstr "Fel vid bearbetning av platsdata"
 
 msgid "Error saving favorites"
-msgstr ""
+msgstr "Det gick inte att spara favoriter"
 
 msgid "Error saving location"
-msgstr ""
+msgstr "Det gick inte att spara plats"
 
 msgid "Error selecting location"
-msgstr ""
+msgstr "Fel vid val av plats"
 
 msgid "Error updating list"
-msgstr ""
+msgstr "Fel vid uppdatering av listan"
 
 msgid "Exit"
-msgstr ""
+msgstr "Utgång"
 
 msgid "Fahrenheit"
 msgstr ""
 
 msgid "Favorites saved successfully"
-msgstr ""
+msgstr "Favoriter har sparats"
 
 msgid "Feels like"
-msgstr ""
+msgstr "Känns som"
 
 msgid "GREEN: MANAGEMENT FAVORITES | MENU: SETUP | INFO: DETAILS | HOME"
-msgstr ""
+msgstr "GRÖN: LEDNINGENS FAVORITER | MENY: INSTÄLLNING | INFO: DETALJER | HEM"
 
 msgid "Glass"
-msgstr ""
+msgstr "Glas"
 
 msgid "Humidity"
-msgstr ""
+msgstr "Fuktighet"
 
 msgid "Invalid location coordinates"
-msgstr ""
+msgstr "Ogiltiga platskoordinater"
 
 msgid "Invalid location format"
-msgstr ""
+msgstr "Ogiltigt platsformat"
 
 msgid "Invalid selection"
-msgstr ""
+msgstr "Ogiltigt val"
 
 msgid "Less details / Larger font"
-msgstr ""
+msgstr "Mindre detaljer / Större typsnitt"
 
 msgid "Loading weather data..."
-msgstr ""
+msgstr "Läser in väderdata..."
 
 msgid "Location added successfully"
-msgstr ""
+msgstr "Platsen har lagts till"
 
 msgid "Location added to favorites"
-msgstr ""
+msgstr "Plats har lagts till i favoriter"
 
 msgid "Location already exists"
-msgstr ""
+msgstr "Platsen finns redan"
 
 msgid "Location already in favorites"
-msgstr ""
+msgstr "Plats redan i favoriter"
 
 msgid "Location deleted"
-msgstr ""
+msgstr "Plats raderad"
 
 msgid "Location with similar coordinates already exists"
-msgstr ""
+msgstr "Plats med liknande koordinater finns redan"
 
 msgid "MSN weather"
-msgstr ""
+msgstr "MSN väder"
 
 msgid "Manage Favorites"
-msgstr ""
+msgstr "Hantera favoriter"
 
 msgid "Menu"
-msgstr ""
+msgstr "Meny"
 
 msgid "Metric unit for wind speed"
-msgstr ""
+msgstr "Metrisk enhet för vindhastighet"
 
 msgid "More Details / Smaller font"
-msgstr ""
+msgstr "Fler detaljer / Mindre typsnitt"
 
 msgid "N/A"
 msgstr ""
 
 msgid "Next favorite"
-msgstr ""
+msgstr "Nästa favorit"
 
 msgid "No data"
-msgstr ""
+msgstr "Inga data"
 
 msgid "No locations found"
-msgstr ""
+msgstr "Inga platser hittades"
 
 msgid "North"
-msgstr ""
+msgstr "Norr"
 
 msgid "Northeast"
-msgstr ""
+msgstr "Nordost"
 
 msgid "Northwest"
-msgstr ""
+msgstr "Nordväst"
 
 msgid "Open-Meteo Wetter"
-msgstr ""
+msgstr "Open-Meteo Weather"
 
 msgid "OpenWeatherMap"
 msgstr ""
 
 msgid "Please enter a valid city name."
-msgstr ""
+msgstr "Ange ett giltigt stadsnamn."
 
 msgid "Please enter at least 3 characters"
-msgstr ""
+msgstr "Ange minst 3 tecken"
 
 msgid "Precipitation"
-msgstr ""
+msgstr "Nederbörd"
 
 msgid "Previous favorite"
-msgstr ""
+msgstr "Tidigare favorit"
 
 msgid "Refresh interval"
-msgstr ""
+msgstr "Uppdateringsintervall"
 
 msgid "Refresh interval :"
-msgstr ""
+msgstr "Uppdateringsintervall:"
 
 msgid "Save"
-msgstr ""
+msgstr "Spara"
 
 msgid "Select 'Yes' to enable add debug output to log."
-msgstr ""
+msgstr "Välj "Ja" för att aktivera lägg till felsökningsutdata i loggen."
 
 msgid "Select 'Yes' to enable the addition of Weather."
-msgstr ""
+msgstr "Välj "Ja" för att aktivera tillägg av Väder."
 
 msgid "Select location"
-msgstr ""
+msgstr "Välj plats"
 
 msgid "Select the City and Press Ok"
-msgstr ""
+msgstr "Välj stad och tryck på Ok"
 
 msgid "Select the detail level in the detail view. You have the choice between a comprehensive presentation in a smaller font and a reduced presentation with a larger font."
-msgstr ""
+msgstr "Välj detaljnivå i detaljvyn. Du kan välja mellan en heltäckande presentation i ett mindre typsnitt och en reducerad presentation med ett större typsnitt."
 
 msgid "Select the metric unit for wind speed to be used for wind displays. This has no effect on the imperial unit 'mph'."
-msgstr ""
+msgstr "Välj den metriska enhet för vindhastighet som ska användas för vindvisningar. Detta har ingen effekt på den kejserliga enheten 'mph'."
 
 msgid "Select the preferred weather service to supply the weather information."
-msgstr ""
+msgstr "Välj önskad vädertjänst för att tillhandahålla väderinformation."
 
 msgid "Select the temperature unit to be used for temperature displays."
-msgstr ""
+msgstr "Välj den temperaturenhet som ska användas för temperaturvisningar."
 
 msgid "Select this option to save that last obtained weather data locally. This is used to initialize the data immediately after restart while updated data is being fetched."
-msgstr ""
+msgstr "Välj det här alternativet för att spara den senast erhållna väderdatan lokalt. Detta används för att initiera data direkt efter omstart medan uppdaterad data hämtas."
 
 msgid "Settings"
-msgstr ""
+msgstr "Inställningar"
 
 msgid "Setup"
-msgstr ""
+msgstr "Inställning"
 
 msgid "Show Weather Forecast"
-msgstr ""
+msgstr "Visa väderprognos"
 
 msgid "Show trend arrows for moon data"
-msgstr ""
+msgstr "Visa trendpilar för måndata"
 
 msgid "Show trend arrows for moon illumination and moon distance to see the current trend of the data."
-msgstr ""
+msgstr "Visa trendpilar för månbelysning och månavstånd för att se den aktuella trenden för data."
 
 msgid "South"
-msgstr ""
+msgstr "Söder"
 
 msgid "Southeast"
-msgstr ""
+msgstr "Sydöst"
 
 msgid "Southwest"
-msgstr ""
+msgstr "Sydväst"
 
 msgid "Specify how often Weather retrieves its data from the server. 'Once' means the data will loaded only once after a GUI or system start."
-msgstr ""
+msgstr "Ange hur ofta Weather hämtar sin data från servern. "En gång" betyder att data endast laddas en gång efter att ett GUI eller system startar."
 
 msgid "Standard fertig"
-msgstr ""
+msgstr "Standard färdig"
 
 msgid "Temperature unit"
-msgstr ""
+msgstr "Temperaturenhet"
 
 msgid "Temperature unit :"
-msgstr ""
+msgstr "Temperaturenhet:"
 
 msgid "Today"
-msgstr ""
+msgstr "I dag"
 
 msgid "Try refreshing or check settings"
-msgstr ""
+msgstr "Försök att uppdatera eller kontrollera inställningarna"
 
 msgid "Update"
-msgstr ""
+msgstr "Uppdatera"
 
 msgid "View details"
-msgstr ""
+msgstr "Visa detaljer"
 
 msgid "Weather API key :"
-msgstr ""
+msgstr "Väder API-nyckel:"
 
 msgid "Weather API key v2.5"
-msgstr ""
+msgstr "Weather API-nyckel v2.5"
 
 msgid "Weather Plugin"
-msgstr ""
+msgstr "Plugin för väder"
 
 msgid "Weather Plugin Detailview"
-msgstr ""
+msgstr "Väderplugin detaljvy"
 
 msgid "Weather city name"
-msgstr ""
+msgstr "Väderstadens namn"
 
 msgid "Weather city name :"
-msgstr ""
+msgstr "Väderstadens namn:"
 
 msgid "Weather data unavailable"
-msgstr ""
+msgstr "Väderdata är inte tillgänglig"
 
 msgid "Weather icon night switch"
-msgstr ""
+msgstr "Väderikon nattväxel"
 
 msgid "Weather icon night switch :"
-msgstr ""
+msgstr "Väderikon nattväxling:"
 
 msgid "Weather icon set"
-msgstr ""
+msgstr "Väder Ikonuppsättning"
 
 msgid "Weather icon set :"
-msgstr ""
+msgstr "Väderikonuppsättning:"
 
 msgid "Weather service"
-msgstr ""
+msgstr "Vädertjänst"
 
 msgid "Weather service :"
-msgstr ""
+msgstr "Väderservice:"
 
 msgid "Weather settings"
-msgstr ""
+msgstr "Väderinställningar"
 
 msgid "West"
-msgstr ""
+msgstr "Väst"
 
 msgid "Wind speed metric unit:"
-msgstr ""
+msgstr "Metrisk enhet för vindhastighet:"
 
 msgid "You have unsaved changes. Save before exiting?"
-msgstr ""
+msgstr "Du har osparade ändringar. Spara innan du avslutar?"
 
 msgid "exit"
-msgstr ""
+msgstr "utgång"
 
 msgid "km/h"
 msgstr ""

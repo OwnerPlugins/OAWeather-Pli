@@ -22,10 +22,10 @@ msgid "%d Minutes"
 msgstr "%d λεπτά"
 
 msgid "Add"
-msgstr ""
+msgstr "Προσθέτω"
 
 msgid "Add Fav"
-msgstr ""
+msgstr "Προσθήκη Αγαπημένου"
 
 msgid "Cache data"
 msgstr "Δεδομένα προσωρινής αποθήκευσης"
@@ -44,19 +44,19 @@ msgid "Choose whether the 'night switch' should be activated or not. Some icons 
 msgstr "Επιλέξτε αν θα πρέπει να ενεργοποιηθεί ή όχι ο \"νυχτερινός διακόπτης\". Ορισμένα εικονίδια εμφανίζονται τότε ως εικονίδια νύχτας με φεγγάρι."
 
 msgid "Chose favorite"
-msgstr ""
+msgstr "Διάλεξε το αγαπημένο"
 
 msgid "City name must be at least 3 characters"
-msgstr ""
+msgstr "Το όνομα της πόλης πρέπει να αποτελείται από τουλάχιστον 3 χαρακτήρες"
 
 msgid "Coordinates not available for this location"
-msgstr ""
+msgstr "Οι συντεταγμένες δεν είναι διαθέσιμες για αυτήν την τοποθεσία"
 
 msgid "Current Weather"
 msgstr "Τρέχων καιρός"
 
 msgid "Day +/-"
-msgstr ""
+msgstr "ημέρα +/-"
 
 msgid "Default"
 msgstr "Προεπιλογή"
@@ -65,19 +65,19 @@ msgid "Defaults"
 msgstr "Προεπιλογές"
 
 msgid "Delete"
-msgstr ""
+msgstr "Διαγράφω"
 
 msgid "Delete failed"
-msgstr ""
+msgstr "Η διαγραφή απέτυχε"
 
 msgid "Delete {}?"
-msgstr ""
+msgstr "Διαγραφή {};"
 
 msgid "Detail level in detail view"
-msgstr ""
+msgstr "Επίπεδο λεπτομέρειας σε προβολή λεπτομερειών"
 
 msgid "Details +/-"
-msgstr ""
+msgstr "Λεπτομέρειες +/-"
 
 msgid "Disabled"
 msgstr "Ανενεργό"
@@ -86,7 +86,7 @@ msgid "East"
 msgstr "Ανατολικά"
 
 msgid "Edit"
-msgstr ""
+msgstr "Εκδίδω"
 
 #, fuzzy
 msgid "Edit city name"
@@ -111,10 +111,10 @@ msgid "Enter a personalized API key v2.5 for use with OpenWeatherMap (https://op
 msgstr "Εισαγωγή ενός προσωποποιημένου κλειδιού API για χρήση με το OpenWeatherMap (https://openweathermap.org/)."
 
 msgid "Enter city name (e.g. 'Rome, IT')"
-msgstr ""
+msgstr "Εισαγάγετε το όνομα της πόλης (π.χ. "Rome, IT")"
 
 msgid "Enter the location for your weather forecasts. To include your location, expand your favorites list with 'Manage your favorites'."
-msgstr ""
+msgstr "Εισαγάγετε την τοποθεσία για τις μετεωρολογικές προβλέψεις σας. Για να συμπεριλάβετε την τοποθεσία σας, επεκτείνετε τη λίστα αγαπημένων σας με τη «Διαχείριση των αγαπημένων σας»."
 
 #, fuzzy
 msgid "Error adding location"
@@ -125,104 +125,104 @@ msgid "Error changing day"
 msgstr "Σφάλμα εύρεσης αναγνωριστικού πόλης"
 
 msgid "Error processing location data"
-msgstr ""
+msgstr "Σφάλμα κατά την επεξεργασία δεδομένων τοποθεσίας"
 
 msgid "Error saving favorites"
-msgstr ""
+msgstr "Σφάλμα αποθήκευσης αγαπημένων"
 
 #, fuzzy
 msgid "Error saving location"
 msgstr "Σφάλμα πληροφοριών καιρού"
 
 msgid "Error selecting location"
-msgstr ""
+msgstr "Σφάλμα κατά την επιλογή τοποθεσίας"
 
 #, fuzzy
 msgid "Error updating list"
 msgstr "Σφάλμα εύρεσης αναγνωριστικού πόλης"
 
 msgid "Exit"
-msgstr ""
+msgstr "Εξοδος"
 
 msgid "Fahrenheit"
 msgstr "Φαρενάιτ"
 
 msgid "Favorites saved successfully"
-msgstr ""
+msgstr "Τα αγαπημένα αποθηκεύτηκαν με επιτυχία"
 
 msgid "Feels like"
 msgstr "Αίσθηση"
 
 msgid "GREEN: MANAGEMENT FAVORITES | MENU: SETUP | INFO: DETAILS | HOME"
-msgstr ""
+msgstr "ΠΡΑΣΙΝΟ: ΑΓΑΠΗΜΕΝΑ ΔΙΟΙΚΗΣΗΣ | ΜΕΝΟΥ: ΡΥΘΜΙΣΗ | ΠΛΗΡΟΦΟΡΙΕΣ: ΛΕΠΤΟΜΕΡΕΙΕΣ | ΣΠΙΤΙ"
 
 msgid "Glass"
-msgstr ""
+msgstr "Ποτήρι"
 
 msgid "Humidity"
 msgstr "Υγρασία"
 
 msgid "Invalid location coordinates"
-msgstr ""
+msgstr "Μη έγκυρες συντεταγμένες τοποθεσίας"
 
 msgid "Invalid location format"
-msgstr ""
+msgstr "Μη έγκυρη μορφή τοποθεσίας"
 
 #, fuzzy
 msgid "Invalid selection"
 msgstr "Επιλογή τοποθεσίας"
 
 msgid "Less details / Larger font"
-msgstr ""
+msgstr "Λιγότερες λεπτομέρειες / Μεγαλύτερη γραμματοσειρά"
 
 msgid "Loading weather data..."
-msgstr ""
+msgstr "Φόρτωση δεδομένων καιρού..."
 
 msgid "Location added successfully"
-msgstr ""
+msgstr "Η τοποθεσία προστέθηκε με επιτυχία"
 
 msgid "Location added to favorites"
-msgstr ""
+msgstr "Η τοποθεσία προστέθηκε στα αγαπημένα"
 
 msgid "Location already exists"
-msgstr ""
+msgstr "Η τοποθεσία υπάρχει ήδη"
 
 msgid "Location already in favorites"
-msgstr ""
+msgstr "Η τοποθεσία είναι ήδη στα αγαπημένα"
 
 #, fuzzy
 msgid "Location deleted"
 msgstr "Επιλογή τοποθεσίας"
 
 msgid "Location with similar coordinates already exists"
-msgstr ""
+msgstr "Τοποθεσία με παρόμοιες συντεταγμένες υπάρχει ήδη"
 
 msgid "MSN weather"
 msgstr "Καιρός MSN"
 
 msgid "Manage Favorites"
-msgstr ""
+msgstr "Διαχείριση Αγαπημένων"
 
 msgid "Menu"
-msgstr ""
+msgstr "Μενού"
 
 msgid "Metric unit for wind speed"
-msgstr ""
+msgstr "Μετρική μονάδα για την ταχύτητα του ανέμου"
 
 msgid "More Details / Smaller font"
-msgstr ""
+msgstr "Περισσότερες λεπτομέρειες / Μικρότερη γραμματοσειρά"
 
 msgid "N/A"
 msgstr ""
 
 msgid "Next favorite"
-msgstr ""
+msgstr "Επόμενο αγαπημένο"
 
 msgid "No data"
-msgstr ""
+msgstr "Δεν υπάρχουν δεδομένα"
 
 msgid "No locations found"
-msgstr ""
+msgstr "Δεν βρέθηκαν τοποθεσίες"
 
 msgid "North"
 msgstr "Βόρεια"
@@ -244,13 +244,13 @@ msgid "Please enter a valid city name."
 msgstr "Όνομα πόλης καιρού"
 
 msgid "Please enter at least 3 characters"
-msgstr ""
+msgstr "Εισαγάγετε τουλάχιστον 3 χαρακτήρες"
 
 msgid "Precipitation"
 msgstr "Υετός"
 
 msgid "Previous favorite"
-msgstr ""
+msgstr "Προηγούμενο αγαπημένο"
 
 msgid "Refresh interval"
 msgstr "Διάστημα ανανέωσης"
@@ -260,7 +260,7 @@ msgid "Refresh interval :"
 msgstr "Διάστημα ανανέωσης"
 
 msgid "Save"
-msgstr ""
+msgstr "Εκτός"
 
 msgid "Select 'Yes' to enable add debug output to log."
 msgstr "Επιλέξτε «ναι» για να ενεργοποιηθεί η προσθήκη της αποσφαλμάτωσης στο αρχείο καταγραφής."
@@ -273,13 +273,13 @@ msgid "Select location"
 msgstr "Επιλογή τοποθεσίας"
 
 msgid "Select the City and Press Ok"
-msgstr ""
+msgstr "Επιλέξτε την πόλη και πατήστε ΟΚ"
 
 msgid "Select the detail level in the detail view. You have the choice between a comprehensive presentation in a smaller font and a reduced presentation with a larger font."
-msgstr ""
+msgstr "Επιλέξτε το επίπεδο λεπτομέρειας στην προβολή λεπτομερειών. Έχετε την επιλογή μεταξύ μιας ολοκληρωμένης παρουσίασης με μικρότερη γραμματοσειρά και μιας μειωμένης παρουσίασης με μεγαλύτερη γραμματοσειρά."
 
 msgid "Select the metric unit for wind speed to be used for wind displays. This has no effect on the imperial unit 'mph'."
-msgstr ""
+msgstr "Επιλέξτε τη μετρική μονάδα για την ταχύτητα ανέμου που θα χρησιμοποιηθεί για τις οθόνες ανέμου. Αυτό δεν έχει καμία επίδραση στην αυτοκρατορική μονάδα 'mph'."
 
 msgid "Select the preferred weather service to supply the weather information."
 msgstr "Επιλογή της προτιμώμενης υπηρεσίας παροχής των πληροφοριών καιρού."
@@ -291,19 +291,19 @@ msgid "Select this option to save that last obtained weather data locally. This 
 msgstr "Ενεργοποιήστε αυτήν την επιλογή για να αποθηκευτούν τα τελευταία δεδομένα καιρού που λήφθηκαν τοπικά. Αυτό χρησιμοποιείται για την προετοιμασία των δεδομένων αμέσως μετά την επανεκκίνηση, ενώ γίνεται λήψη ενημερωμένων δεδομένων."
 
 msgid "Settings"
-msgstr ""
+msgstr "Ρυθμίσεις"
 
 msgid "Setup"
-msgstr ""
+msgstr "Ρύθμιση"
 
 msgid "Show Weather Forecast"
 msgstr "Εμφάνιση πρόγνωσης καιρού"
 
 msgid "Show trend arrows for moon data"
-msgstr ""
+msgstr "Εμφάνιση βελών τάσης για δεδομένα σελήνης"
 
 msgid "Show trend arrows for moon illumination and moon distance to see the current trend of the data."
-msgstr ""
+msgstr "Εμφάνιση βελών τάσης για φωτισμό φεγγαριού και απόσταση σελήνης για να δείτε την τρέχουσα τάση των δεδομένων."
 
 msgid "South"
 msgstr "Νότια"
@@ -318,7 +318,7 @@ msgid "Specify how often Weather retrieves its data from the server. 'Once' mean
 msgstr "Καθορίστε πόσο συχνά το πρόσθετο θα ανακτά τα δεδομένα του από το διακομιστή. «Μία φορά» σημαίνει ότι τα δεδομένα θα φορτωθούν μόνο μία φορά μετά την εκκίνηση της επιφάνειας χρήστη ή του συστήματος."
 
 msgid "Standard fertig"
-msgstr ""
+msgstr "Τυπικό φινίρισμα"
 
 msgid "Temperature unit"
 msgstr "Μονάδα θερμοκρασίας"
@@ -331,13 +331,13 @@ msgid "Today"
 msgstr "Σήμερα"
 
 msgid "Try refreshing or check settings"
-msgstr ""
+msgstr "Δοκιμάστε να κάνετε ανανέωση ή ελέγξτε τις ρυθμίσεις"
 
 msgid "Update"
 msgstr "Ενημέρωση"
 
 msgid "View details"
-msgstr ""
+msgstr "Δείτε λεπτομέρειες"
 
 #, fuzzy
 msgid "Weather API key :"
@@ -393,13 +393,13 @@ msgid "West"
 msgstr "Δυτικά"
 
 msgid "Wind speed metric unit:"
-msgstr ""
+msgstr "Μονάδα μέτρησης ταχύτητας ανέμου:"
 
 msgid "You have unsaved changes. Save before exiting?"
-msgstr ""
+msgstr "Έχετε μη αποθηκευμένες αλλαγές. Αποθήκευση πριν την έξοδο;"
 
 msgid "exit"
-msgstr ""
+msgstr "έξοδος"
 
 msgid "km/h"
 msgstr ""

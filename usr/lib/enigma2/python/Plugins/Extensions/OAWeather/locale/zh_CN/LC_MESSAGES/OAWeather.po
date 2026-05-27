@@ -115,7 +115,7 @@ msgid "Enter city name (e.g. 'Rome, IT')"
 msgstr "输入城市名称（例如“Rome, IT” ）"
 
 msgid "Enter the location for your weather forecasts. To include your location, expand your favorites list with 'Manage your favorites'."
-msgstr ""
+msgstr "输入天气预报的位置。要包含您的位置，请使用“管理您的收藏夹”展开您的收藏夹列表。"
 
 msgid "Error adding location"
 msgstr "天气信息错误"
@@ -202,7 +202,7 @@ msgid "Menu"
 msgstr "菜单"
 
 msgid "Metric unit for wind speed"
-msgstr ""
+msgstr "风速的公制单位"
 
 msgid "More Details / Smaller font"
 msgstr "更多详情/字体更小"
@@ -269,10 +269,10 @@ msgid "Select the City and Press Ok"
 msgstr "选择城市,然后按OK"
 
 msgid "Select the detail level in the detail view. You have the choice between a comprehensive presentation in a smaller font and a reduced presentation with a larger font."
-msgstr ""
+msgstr "在详细视图中选择详细级别。您可以选择使用较小字体的综合演示和使用较大字体的简化演示。"
 
 msgid "Select the metric unit for wind speed to be used for wind displays. This has no effect on the imperial unit 'mph'."
-msgstr ""
+msgstr "选择用于风显示的风速公制单位。这对英制单位“mph”没有影响。"
 
 msgid "Select the preferred weather service to supply the weather information."
 msgstr "选择首选的天气服务来提供天气信息。"
@@ -293,10 +293,10 @@ msgid "Show Weather Forecast"
 msgstr "显示天气预报"
 
 msgid "Show trend arrows for moon data"
-msgstr ""
+msgstr "显示月球数据的趋势箭头"
 
 msgid "Show trend arrows for moon illumination and moon distance to see the current trend of the data."
-msgstr ""
+msgstr "显示月球光照度和月球距离的趋势箭头，以查看数据的当前趋势。"
 
 msgid "South"
 msgstr "南风"

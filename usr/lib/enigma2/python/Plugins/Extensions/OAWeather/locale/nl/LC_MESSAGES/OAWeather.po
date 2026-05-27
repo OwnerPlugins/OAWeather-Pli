@@ -18,10 +18,10 @@ msgid "%d Minutes"
 msgstr "%d Minuten"
 
 msgid "Add"
-msgstr ""
+msgstr "Toevoegen"
 
 msgid "Add Fav"
-msgstr ""
+msgstr "Favoriet toevoegen"
 
 msgid "Cache data"
 msgstr "Cache gegevens"
@@ -34,26 +34,26 @@ msgid "Celsius"
 msgstr "Celsius"
 
 msgid "Choose the icon set. You need to create an additional set here: /usr/share/enigma2/WeatherIconSets/NAME."
-msgstr ""
+msgstr "Kies de pictogrammenset. Je moet hier een extra set aanmaken: /usr/share/enigma2/WeatherIconSets/NAME."
 
 msgid "Choose whether the 'night switch' should be activated or not. Some icons are then displayed as night icons with moon."
-msgstr ""
+msgstr "Kies of de 'nachtschakelaar' geactiveerd moet worden of niet. Sommige iconen worden dan weergegeven als nachticonen met maan."
 
 msgid "Chose favorite"
-msgstr ""
+msgstr "Favoriet gekozen"
 
 msgid "City name must be at least 3 characters"
-msgstr ""
+msgstr "De plaatsnaam moet minimaal 3 tekens lang zijn"
 
 msgid "Coordinates not available for this location"
-msgstr ""
+msgstr "Coördinaten niet beschikbaar voor deze locatie"
 
 #, fuzzy
 msgid "Current Weather"
 msgstr "Fout in Weatherinfo"
 
 msgid "Day +/-"
-msgstr ""
+msgstr "Dag +/-"
 
 #, fuzzy
 msgid "Default"
@@ -63,16 +63,16 @@ msgid "Defaults"
 msgstr "Standaard waarden"
 
 msgid "Delete"
-msgstr ""
+msgstr "Verwijderen"
 
 msgid "Delete failed"
-msgstr ""
+msgstr "Verwijderen is mislukt"
 
 msgid "Delete {}?"
-msgstr ""
+msgstr "Verwijderen {}?"
 
 msgid "Detail level in detail view"
-msgstr ""
+msgstr "Detailniveau in detailweergave"
 
 msgid "Details +/-"
 msgstr ""
@@ -84,7 +84,7 @@ msgid "East"
 msgstr "Oost"
 
 msgid "Edit"
-msgstr ""
+msgstr "Bewerking"
 
 #, fuzzy
 msgid "Edit city name"
@@ -110,10 +110,10 @@ msgid "Enter a personalized API key v2.5 for use with OpenWeatherMap (https://op
 msgstr "Een eigen API code opgeven voor gebruik van weergegevens uit OpenWeatherMap (https://openweathermap.org/)."
 
 msgid "Enter city name (e.g. 'Rome, IT')"
-msgstr ""
+msgstr "Voer de plaatsnaam in (bijvoorbeeld 'Rome, IT')"
 
 msgid "Enter the location for your weather forecasts. To include your location, expand your favorites list with 'Manage your favorites'."
-msgstr ""
+msgstr "Voer de locatie in voor uw weersvoorspellingen. Om uw locatie op te nemen, breidt u uw favorietenlijst uit met 'Beheer uw favorieten'."
 
 #, fuzzy
 msgid "Error adding location"
@@ -124,104 +124,104 @@ msgid "Error changing day"
 msgstr "Fout bij het downloaden van de City ID"
 
 msgid "Error processing location data"
-msgstr ""
+msgstr "Fout bij het verwerken van locatiegegevens"
 
 msgid "Error saving favorites"
-msgstr ""
+msgstr "Fout bij opslaan van favorieten"
 
 #, fuzzy
 msgid "Error saving location"
 msgstr "Fout in Weatherinfo"
 
 msgid "Error selecting location"
-msgstr ""
+msgstr "Fout bij het selecteren van locatie"
 
 #, fuzzy
 msgid "Error updating list"
 msgstr "Fout bij het downloaden van de City ID"
 
 msgid "Exit"
-msgstr ""
+msgstr "Uitgang"
 
 msgid "Fahrenheit"
 msgstr "Fahrenheit"
 
 msgid "Favorites saved successfully"
-msgstr ""
+msgstr "Favorieten zijn succesvol opgeslagen"
 
 msgid "Feels like"
-msgstr ""
+msgstr "Voelt als"
 
 msgid "GREEN: MANAGEMENT FAVORITES | MENU: SETUP | INFO: DETAILS | HOME"
-msgstr ""
+msgstr "GROEN: MANAGEMENTFAVORIETEN | MENU: INSTELLING | INFO: DETAILS | THUIS"
 
 msgid "Glass"
-msgstr ""
+msgstr "Glas"
 
 msgid "Humidity"
-msgstr ""
+msgstr "Vochtigheid"
 
 msgid "Invalid location coordinates"
-msgstr ""
+msgstr "Ongeldige locatiecoördinaten"
 
 msgid "Invalid location format"
-msgstr ""
+msgstr "Ongeldig locatieformaat"
 
 #, fuzzy
 msgid "Invalid selection"
 msgstr "Woonplaats selectie"
 
 msgid "Less details / Larger font"
-msgstr ""
+msgstr "Minder details / groter lettertype"
 
 msgid "Loading weather data..."
-msgstr ""
+msgstr "Weergegevens laden..."
 
 msgid "Location added successfully"
-msgstr ""
+msgstr "Locatie succesvol toegevoegd"
 
 msgid "Location added to favorites"
-msgstr ""
+msgstr "Locatie toegevoegd aan favorieten"
 
 msgid "Location already exists"
-msgstr ""
+msgstr "Locatie bestaat al"
 
 msgid "Location already in favorites"
-msgstr ""
+msgstr "Locatie al in favorieten"
 
 #, fuzzy
 msgid "Location deleted"
 msgstr "Woonplaats selectie"
 
 msgid "Location with similar coordinates already exists"
-msgstr ""
+msgstr "Er bestaat al een locatie met vergelijkbare coördinaten"
 
 msgid "MSN weather"
 msgstr "MSN | weer"
 
 msgid "Manage Favorites"
-msgstr ""
+msgstr "Beheer favorieten"
 
 msgid "Menu"
 msgstr ""
 
 msgid "Metric unit for wind speed"
-msgstr ""
+msgstr "Metrische eenheid voor windsnelheid"
 
 msgid "More Details / Smaller font"
-msgstr ""
+msgstr "Meer details / kleiner lettertype"
 
 msgid "N/A"
-msgstr ""
+msgstr "N.v.t"
 
 msgid "Next favorite"
-msgstr ""
+msgstr "Volgende favoriet"
 
 msgid "No data"
-msgstr ""
+msgstr "Geen gegevens"
 
 msgid "No locations found"
-msgstr ""
+msgstr "Geen locaties gevonden"
 
 msgid "North"
 msgstr "Noord"
@@ -243,13 +243,13 @@ msgid "Please enter a valid city name."
 msgstr "MetrixWeather woonplaats"
 
 msgid "Please enter at least 3 characters"
-msgstr ""
+msgstr "Voer minimaal 3 tekens in"
 
 msgid "Precipitation"
-msgstr ""
+msgstr "Neerslag"
 
 msgid "Previous favorite"
-msgstr ""
+msgstr "Vorige favoriet"
 
 msgid "Refresh interval"
 msgstr "Hoe vaak actualiseren"
@@ -259,7 +259,7 @@ msgid "Refresh interval :"
 msgstr "Hoe vaak actualiseren"
 
 msgid "Save"
-msgstr ""
+msgstr "Redden"
 
 #, fuzzy
 msgid "Select 'Yes' to enable add debug output to log."
@@ -274,13 +274,13 @@ msgid "Select location"
 msgstr "Selecteer uw locatie"
 
 msgid "Select the City and Press Ok"
-msgstr ""
+msgstr "Selecteer de stad en druk op Ok"
 
 msgid "Select the detail level in the detail view. You have the choice between a comprehensive presentation in a smaller font and a reduced presentation with a larger font."
-msgstr ""
+msgstr "Selecteer het detailniveau in de detailweergave. U heeft de keuze tussen een uitgebreide presentatie in een kleiner lettertype en een verkorte presentatie met een groter lettertype."
 
 msgid "Select the metric unit for wind speed to be used for wind displays. This has no effect on the imperial unit 'mph'."
-msgstr ""
+msgstr "Selecteer de metrische eenheid voor windsnelheid die moet worden gebruikt voor windweergaven. Dit heeft geen effect op de imperiale eenheid 'mph'."
 
 msgid "Select the preferred weather service to supply the weather information."
 msgstr "Een weerdienst selecteren voor het ophalen van de weerinformatie."
@@ -292,19 +292,19 @@ msgid "Select this option to save that last obtained weather data locally. This 
 msgstr "Selecteer deze optie om de laatst opgevraagde weerinformatie lokaal op te slaan. Deze wordt direct na het starten van de ontvanger getoond, tijdens het downloaden van de actuele weersinformatie."
 
 msgid "Settings"
-msgstr ""
+msgstr "Instellingen"
 
 msgid "Setup"
-msgstr ""
+msgstr "Installatie"
 
 msgid "Show Weather Forecast"
-msgstr ""
+msgstr "Toon Weersverwachting"
 
 msgid "Show trend arrows for moon data"
-msgstr ""
+msgstr "Toon trendpijlen voor maangegevens"
 
 msgid "Show trend arrows for moon illumination and moon distance to see the current trend of the data."
-msgstr ""
+msgstr "Toon trendpijlen voor maanverlichting en maanafstand om de huidige trend van de gegevens te zien."
 
 msgid "South"
 msgstr "Zuid"
@@ -320,7 +320,7 @@ msgid "Specify how often Weather retrieves its data from the server. 'Once' mean
 msgstr "Instellen hoe vaak MetrixWeather gegevens van de server moet downloaden. \"eenmalig\" betekent dat de gegevens maar één keer na het opstarten worden geladen."
 
 msgid "Standard fertig"
-msgstr ""
+msgstr "Standaard afgewerkt"
 
 msgid "Temperature unit"
 msgstr "Temperatuureenheid"
@@ -330,16 +330,16 @@ msgid "Temperature unit :"
 msgstr "Temperatuureenheid"
 
 msgid "Today"
-msgstr ""
+msgstr "Vandaag"
 
 msgid "Try refreshing or check settings"
-msgstr ""
+msgstr "Probeer te vernieuwen of controleer de instellingen"
 
 msgid "Update"
 msgstr ""
 
 msgid "View details"
-msgstr ""
+msgstr "Bekijk details"
 
 #, fuzzy
 msgid "Weather API key :"
@@ -398,22 +398,22 @@ msgid "West"
 msgstr "West"
 
 msgid "Wind speed metric unit:"
-msgstr ""
+msgstr "Windsnelheid metrische eenheid:"
 
 msgid "You have unsaved changes. Save before exiting?"
-msgstr ""
+msgstr "U heeft niet-opgeslagen wijzigingen. Opslaan voordat u afsluit?"
 
 msgid "exit"
-msgstr ""
+msgstr "Uitgang"
 
 msgid "km/h"
-msgstr ""
+msgstr "km/u"
 
 msgid "m/s"
-msgstr ""
+msgstr "mevrouw"
 
 msgid "n/a"
-msgstr ""
+msgstr "n.v.t"
 
 #, python-format
 #~ msgid "City '%s' not found! Please try another wording."

@@ -15,364 +15,364 @@ msgstr ""
 # FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
 #
 msgid "%d Minutes"
-msgstr ""
+msgstr "%d minutu"
 
 msgid "Add"
-msgstr ""
+msgstr "Gehitu"
 
 msgid "Add Fav"
-msgstr ""
+msgstr "Gehitu fav"
 
 msgid "Cache data"
-msgstr ""
+msgstr "Cache datuak"
 
 msgid "Cache data :"
-msgstr ""
+msgstr "Cachearen datuak:"
 
 msgid "Celsius"
 msgstr ""
 
 msgid "Choose the icon set. You need to create an additional set here: /usr/share/enigma2/WeatherIconSets/NAME."
-msgstr ""
+msgstr "Aukeratu ikono multzoa. Multzo gehigarri bat sortu behar duzu hemen: /usr/share/enigma2/WeatherIconSets/NAME."
 
 msgid "Choose whether the 'night switch' should be activated or not. Some icons are then displayed as night icons with moon."
-msgstr ""
+msgstr "Aukeratu 'gaueko etengailua' aktibatu behar den ala ez. Ikono batzuk ilargiarekin gaueko ikono gisa bistaratzen dira."
 
 msgid "Chose favorite"
-msgstr ""
+msgstr "Aukeratu gogokoena"
 
 msgid "City name must be at least 3 characters"
-msgstr ""
+msgstr "Hiriaren izenak gutxienez 3 karaktere izan behar ditu"
 
 msgid "Coordinates not available for this location"
-msgstr ""
+msgstr "Kokapen honetarako koordenatuak ez daude erabilgarri"
 
 msgid "Current Weather"
-msgstr ""
+msgstr "Egungo Eguraldia"
 
 msgid "Day +/-"
-msgstr ""
+msgstr "Eguna +/-"
 
 msgid "Default"
-msgstr ""
+msgstr "Lehenetsia"
 
 msgid "Defaults"
-msgstr ""
+msgstr "Lehenetsiak"
 
 msgid "Delete"
-msgstr ""
+msgstr "Ezabatu"
 
 msgid "Delete failed"
-msgstr ""
+msgstr "Ezin izan da ezabatu"
 
 msgid "Delete {}?"
-msgstr ""
+msgstr "{} ezabatu?"
 
 msgid "Detail level in detail view"
-msgstr ""
+msgstr "Xehetasun maila xehetasunen ikuspegian"
 
 msgid "Details +/-"
-msgstr ""
+msgstr "Xehetasunak +/-"
 
 msgid "Disabled"
-msgstr ""
+msgstr "Ezindua"
 
 msgid "East"
-msgstr ""
+msgstr "Ekialdea"
 
 msgid "Edit"
-msgstr ""
+msgstr "Editatu"
 
 msgid "Edit city name"
-msgstr ""
+msgstr "Editatu hiriaren izena"
 
 msgid "Enable Debug"
-msgstr ""
+msgstr "Gaitu arazketa"
 
 msgid "Enable Debug :"
-msgstr ""
+msgstr "Gaitu arazketa:"
 
 msgid "Enabled"
-msgstr ""
+msgstr "Gaituta"
 
 msgid "Enabled :"
-msgstr ""
+msgstr "Gaituta:"
 
 msgid "Enter a personalized API key v2.5 for use with OpenWeatherMap (https://openweathermap.org/)."
-msgstr ""
+msgstr "Sartu API gako pertsonalizatua v2.5 OpenWeatherMap-ekin erabiltzeko (https://openweathermap.org/)."
 
 msgid "Enter city name (e.g. 'Rome, IT')"
-msgstr ""
+msgstr "Idatzi hiriaren izena (adibidez, 'Erroma, IT')"
 
 msgid "Enter the location for your weather forecasts. To include your location, expand your favorites list with 'Manage your favorites'."
-msgstr ""
+msgstr "Sartu zure eguraldi iragarpenen kokapena. Zure kokapena sartzeko, zabaldu gogokoen zerrenda 'Kudeatu gogokoak' aukerarekin."
 
 msgid "Error adding location"
-msgstr ""
+msgstr "Errore bat gertatu da kokapena gehitzean"
 
 msgid "Error changing day"
-msgstr ""
+msgstr "Errore bat gertatu da eguna aldatzean"
 
 msgid "Error processing location data"
-msgstr ""
+msgstr "Errore bat gertatu da kokapen-datuak prozesatzen"
 
 msgid "Error saving favorites"
-msgstr ""
+msgstr "Errore bat gertatu da gogokoak gordetzean"
 
 msgid "Error saving location"
-msgstr ""
+msgstr "Errore bat gertatu da kokapena gordetzean"
 
 msgid "Error selecting location"
-msgstr ""
+msgstr "Errore bat gertatu da kokapena hautatzean"
 
 msgid "Error updating list"
-msgstr ""
+msgstr "Errore bat gertatu da zerrenda eguneratzean"
 
 msgid "Exit"
-msgstr ""
+msgstr "Irten"
 
 msgid "Fahrenheit"
 msgstr ""
 
 msgid "Favorites saved successfully"
-msgstr ""
+msgstr "Gogokoak ongi gorde dira"
 
 msgid "Feels like"
-msgstr ""
+msgstr "Gustura sentitzen da"
 
 msgid "GREEN: MANAGEMENT FAVORITES | MENU: SETUP | INFO: DETAILS | HOME"
-msgstr ""
+msgstr "BERDEA: KUDEAKETAKO GOGOKOENA | MENUA: CONFIGURACIÓN | INFO: XEHETASUNA | ETXERA"
 
 msgid "Glass"
-msgstr ""
+msgstr "Beira"
 
 msgid "Humidity"
-msgstr ""
+msgstr "Hezetasuna"
 
 msgid "Invalid location coordinates"
-msgstr ""
+msgstr "Kokapen koordenatuak baliogabeak"
 
 msgid "Invalid location format"
-msgstr ""
+msgstr "Kokapen-formatu baliogabea"
 
 msgid "Invalid selection"
-msgstr ""
+msgstr "Hautaketa baliogabea"
 
 msgid "Less details / Larger font"
-msgstr ""
+msgstr "Xehetasun gutxiago / Letra handiagoa"
 
 msgid "Loading weather data..."
-msgstr ""
+msgstr "Eguraldiaren datuak kargatzen..."
 
 msgid "Location added successfully"
-msgstr ""
+msgstr "Kokapena behar bezala gehitu da"
 
 msgid "Location added to favorites"
-msgstr ""
+msgstr "Kokapena gogokoetara gehitu da"
 
 msgid "Location already exists"
-msgstr ""
+msgstr "Kokapena dagoeneko existitzen da"
 
 msgid "Location already in favorites"
-msgstr ""
+msgstr "Kokapen dagoeneko gogokoetan"
 
 msgid "Location deleted"
-msgstr ""
+msgstr "Ezabatu da kokapena"
 
 msgid "Location with similar coordinates already exists"
-msgstr ""
+msgstr "Dagoeneko existitzen da antzeko koordenatuak dituen kokapena"
 
 msgid "MSN weather"
-msgstr ""
+msgstr "MSN eguraldia"
 
 msgid "Manage Favorites"
-msgstr ""
+msgstr "Kudeatu gogokoak"
 
 msgid "Menu"
-msgstr ""
+msgstr "Menua"
 
 msgid "Metric unit for wind speed"
-msgstr ""
+msgstr "Haizearen abiaduraren unitate metrikoa"
 
 msgid "More Details / Smaller font"
-msgstr ""
+msgstr "Xehetasun gehiago / Letra txikiagoa"
 
 msgid "N/A"
 msgstr ""
 
 msgid "Next favorite"
-msgstr ""
+msgstr "Hurrengo gogokoena"
 
 msgid "No data"
-msgstr ""
+msgstr "Ez dago daturik"
 
 msgid "No locations found"
-msgstr ""
+msgstr "Ez da kokapenik aurkitu"
 
 msgid "North"
-msgstr ""
+msgstr "Ipar"
 
 msgid "Northeast"
-msgstr ""
+msgstr "Ipar-ekialdea"
 
 msgid "Northwest"
-msgstr ""
+msgstr "Ipar-mendebaldea"
 
 msgid "Open-Meteo Wetter"
-msgstr ""
+msgstr "Open-Meteo Eguraldia"
 
 msgid "OpenWeatherMap"
 msgstr ""
 
 msgid "Please enter a valid city name."
-msgstr ""
+msgstr "Mesedez, idatzi baliozko hiri-izen bat."
 
 msgid "Please enter at least 3 characters"
-msgstr ""
+msgstr "Mesedez, idatzi gutxienez 3 karaktere"
 
 msgid "Precipitation"
-msgstr ""
+msgstr "Prezipitazioa"
 
 msgid "Previous favorite"
-msgstr ""
+msgstr "Aurreko faboritoa"
 
 msgid "Refresh interval"
-msgstr ""
+msgstr "Freskatzeko tartea"
 
 msgid "Refresh interval :"
-msgstr ""
+msgstr "Freskatzeko tartea:"
 
 msgid "Save"
-msgstr ""
+msgstr "Gorde"
 
 msgid "Select 'Yes' to enable add debug output to log."
-msgstr ""
+msgstr "Hautatu 'Bai' erregistroan arazte-irteera gehitzeko gaitzeko."
 
 msgid "Select 'Yes' to enable the addition of Weather."
-msgstr ""
+msgstr "Hautatu 'Bai' Eguraldia gehitzea gaitzeko."
 
 msgid "Select location"
-msgstr ""
+msgstr "Hautatu kokapena"
 
 msgid "Select the City and Press Ok"
-msgstr ""
+msgstr "Hautatu hiria eta sakatu Ados"
 
 msgid "Select the detail level in the detail view. You have the choice between a comprehensive presentation in a smaller font and a reduced presentation with a larger font."
-msgstr ""
+msgstr "Hautatu xehetasun-maila xehetasun-ikuspegian. Letra-tipo txikiagoko aurkezpen integrala eta letra-tipo handiagoko aurkezpen murriztu baten artean aukera dezakezu."
 
 msgid "Select the metric unit for wind speed to be used for wind displays. This has no effect on the imperial unit 'mph'."
-msgstr ""
+msgstr "Hautatu haizearen bistaratzeko haizearen abiaduraren unitate metrikoa. Horrek ez du eraginik 'mph' unitate inperialean."
 
 msgid "Select the preferred weather service to supply the weather information."
-msgstr ""
+msgstr "Hautatu hobetsitako eguraldi-zerbitzua eguraldiari buruzko informazioa emateko."
 
 msgid "Select the temperature unit to be used for temperature displays."
-msgstr ""
+msgstr "Hautatu tenperatura bistaratzeko erabiliko den tenperatura-unitatea."
 
 msgid "Select this option to save that last obtained weather data locally. This is used to initialize the data immediately after restart while updated data is being fetched."
-msgstr ""
+msgstr "Hautatu aukera hau lortutako azken eguraldi-datuak lokalean gordetzeko. Hau berrabiarazi eta berehala datuak hasieratzeko erabiltzen da eguneratutako datuak eskuratzen ari diren bitartean."
 
 msgid "Settings"
-msgstr ""
+msgstr "Ezarpenak"
 
 msgid "Setup"
-msgstr ""
+msgstr "Konfigurazioa"
 
 msgid "Show Weather Forecast"
-msgstr ""
+msgstr "Erakutsi Eguraldi Iragarpena"
 
 msgid "Show trend arrows for moon data"
-msgstr ""
+msgstr "Erakutsi joera-geziak ilargiaren datuetarako"
 
 msgid "Show trend arrows for moon illumination and moon distance to see the current trend of the data."
-msgstr ""
+msgstr "Erakutsi ilargiaren argiztapenerako joera-geziak eta ilargiaren distantzia datuen egungo joera ikusteko."
 
 msgid "South"
-msgstr ""
+msgstr "Hegoaldea"
 
 msgid "Southeast"
-msgstr ""
+msgstr "Hego-ekialdea"
 
 msgid "Southwest"
-msgstr ""
+msgstr "Hego-mendebaldea"
 
 msgid "Specify how often Weather retrieves its data from the server. 'Once' means the data will loaded only once after a GUI or system start."
-msgstr ""
+msgstr "Zehaztu Eguraldiak zerbitzaritik zenbateko maiztasuna lortzen dituen datuak. "Behin" esan nahi du datuak GUI edo sistema abiarazi ondoren behin bakarrik kargatuko direla."
 
 msgid "Standard fertig"
-msgstr ""
+msgstr "Estandarra amaituta"
 
 msgid "Temperature unit"
-msgstr ""
+msgstr "Tenperatura-unitatea"
 
 msgid "Temperature unit :"
-msgstr ""
+msgstr "Tenperatura unitatea:"
 
 msgid "Today"
-msgstr ""
+msgstr "Gaur"
 
 msgid "Try refreshing or check settings"
-msgstr ""
+msgstr "Saiatu ezarpenak freskatzen edo egiaztatu"
 
 msgid "Update"
-msgstr ""
+msgstr "Eguneratu"
 
 msgid "View details"
-msgstr ""
+msgstr "Ikusi xehetasunak"
 
 msgid "Weather API key :"
-msgstr ""
+msgstr "Weather API gakoa:"
 
 msgid "Weather API key v2.5"
-msgstr ""
+msgstr "Weather API gakoa v2.5"
 
 msgid "Weather Plugin"
-msgstr ""
+msgstr "Eguraldiaren plugina"
 
 msgid "Weather Plugin Detailview"
-msgstr ""
+msgstr "Eguraldiaren pluginaren xehetasun-ikuspegia"
 
 msgid "Weather city name"
-msgstr ""
+msgstr "Eguraldia hiriaren izena"
 
 msgid "Weather city name :"
-msgstr ""
+msgstr "Eguraldia hiriaren izena:"
 
 msgid "Weather data unavailable"
-msgstr ""
+msgstr "Eguraldiaren datuak ez daude erabilgarri"
 
 msgid "Weather icon night switch"
-msgstr ""
+msgstr "Eguraldiaren ikonoa gaueko etengailua"
 
 msgid "Weather icon night switch :"
-msgstr ""
+msgstr "Eguraldiaren ikonoa gaueko etengailua:"
 
 msgid "Weather icon set"
-msgstr ""
+msgstr "Eguraldiaren ikono multzoa"
 
 msgid "Weather icon set :"
-msgstr ""
+msgstr "Eguraldiaren ikono multzoa:"
 
 msgid "Weather service"
-msgstr ""
+msgstr "Eguraldi zerbitzua"
 
 msgid "Weather service :"
-msgstr ""
+msgstr "Eguraldi zerbitzua:"
 
 msgid "Weather settings"
-msgstr ""
+msgstr "Eguraldiaren ezarpenak"
 
 msgid "West"
-msgstr ""
+msgstr "Mendebaldea"
 
 msgid "Wind speed metric unit:"
-msgstr ""
+msgstr "Haizearen abiaduraren unitate metrikoa:"
 
 msgid "You have unsaved changes. Save before exiting?"
-msgstr ""
+msgstr "Gorde gabeko aldaketak dituzu. Irten aurretik gorde?"
 
 msgid "exit"
-msgstr ""
+msgstr "irten"
 
 msgid "km/h"
 msgstr ""

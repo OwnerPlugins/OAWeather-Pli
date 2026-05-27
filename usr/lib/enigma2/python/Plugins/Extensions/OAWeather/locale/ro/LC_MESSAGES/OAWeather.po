@@ -16,370 +16,370 @@ msgstr ""
 # FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
 #
 msgid "%d Minutes"
-msgstr ""
+msgstr "%d minute"
 
 msgid "Add"
-msgstr ""
+msgstr "Adăuga"
 
 msgid "Add Fav"
-msgstr ""
+msgstr "Adăugați Fav"
 
 msgid "Cache data"
-msgstr ""
+msgstr "Datele din cache"
 
 msgid "Cache data :"
-msgstr ""
+msgstr "Datele din cache:"
 
 msgid "Celsius"
 msgstr ""
 
 msgid "Choose the icon set. You need to create an additional set here: /usr/share/enigma2/WeatherIconSets/NAME."
-msgstr ""
+msgstr "Alegeți setul de pictograme. Trebuie să creați un set suplimentar aici: /usr/share/enigma2/WeatherIconSets/NAME."
 
 msgid "Choose whether the 'night switch' should be activated or not. Some icons are then displayed as night icons with moon."
-msgstr ""
+msgstr "Alegeți dacă „comutatorul de noapte” trebuie activat sau nu. Unele pictograme sunt apoi afișate ca pictograme de noapte cu lună."
 
 msgid "Chose favorite"
-msgstr ""
+msgstr "Alegeți preferatul"
 
 msgid "City name must be at least 3 characters"
-msgstr ""
+msgstr "Numele orașului trebuie să aibă cel puțin 3 caractere"
 
 msgid "Coordinates not available for this location"
-msgstr ""
+msgstr "Coordonatele nu sunt disponibile pentru această locație"
 
 msgid "Current Weather"
-msgstr ""
+msgstr "Vremea curentă"
 
 msgid "Day +/-"
-msgstr ""
+msgstr "Ziua +/-"
 
 msgid "Default"
-msgstr ""
+msgstr "Implicit"
 
 msgid "Defaults"
-msgstr ""
+msgstr "Valori implicite"
 
 msgid "Delete"
-msgstr ""
+msgstr "Şterge"
 
 msgid "Delete failed"
-msgstr ""
+msgstr "Ștergerea nu a reușit"
 
 msgid "Delete {}?"
-msgstr ""
+msgstr "Ștergeți {}?"
 
 msgid "Detail level in detail view"
-msgstr ""
+msgstr "Nivel de detaliu în vizualizarea de detaliu"
 
 msgid "Details +/-"
-msgstr ""
+msgstr "Detalii +/-"
 
 msgid "Disabled"
-msgstr ""
+msgstr "Dezactivat"
 
 msgid "East"
-msgstr ""
+msgstr "Orientul"
 
 msgid "Edit"
-msgstr ""
+msgstr "Edita"
 
 msgid "Edit city name"
-msgstr ""
+msgstr "Editați numele orașului"
 
 msgid "Enable Debug"
-msgstr ""
+msgstr "Activați Depanare"
 
 msgid "Enable Debug :"
-msgstr ""
+msgstr "Activați remedierea erorilor:"
 
 msgid "Enabled"
-msgstr ""
+msgstr "Activat"
 
 msgid "Enabled :"
-msgstr ""
+msgstr "Activat:"
 
 msgid "Enter a personalized API key v2.5 for use with OpenWeatherMap (https://openweathermap.org/)."
-msgstr ""
+msgstr "Introduceți o cheie API personalizată v2.5 pentru utilizare cu OpenWeatherMap (https://openweathermap.org/)."
 
 msgid "Enter city name (e.g. 'Rome, IT')"
-msgstr ""
+msgstr "Introduceți numele orașului (de exemplu, „Roma, IT”)"
 
 msgid "Enter the location for your weather forecasts. To include your location, expand your favorites list with 'Manage your favorites'."
-msgstr ""
+msgstr "Introduceți locația pentru prognozele meteo. Pentru a vă include locația, extindeți lista de favorite cu „Gestionați-vă favoritele”."
 
 msgid "Error adding location"
-msgstr ""
+msgstr "Eroare la adăugarea locației"
 
 msgid "Error changing day"
-msgstr ""
+msgstr "Eroare la schimbarea zilei"
 
 msgid "Error processing location data"
-msgstr ""
+msgstr "Eroare la procesarea datelor despre locație"
 
 msgid "Error saving favorites"
-msgstr ""
+msgstr "Eroare la salvarea favoritelor"
 
 msgid "Error saving location"
-msgstr ""
+msgstr "Eroare la salvarea locației"
 
 msgid "Error selecting location"
-msgstr ""
+msgstr "Eroare la selectarea locației"
 
 msgid "Error updating list"
-msgstr ""
+msgstr "Eroare la actualizarea listei"
 
 msgid "Exit"
-msgstr ""
+msgstr "Ieșire"
 
 msgid "Fahrenheit"
 msgstr ""
 
 msgid "Favorites saved successfully"
-msgstr ""
+msgstr "Favorite salvate cu succes"
 
 msgid "Feels like"
-msgstr ""
+msgstr "Se simte ca"
 
 msgid "GREEN: MANAGEMENT FAVORITES | MENU: SETUP | INFO: DETAILS | HOME"
-msgstr ""
+msgstr "VERDE: PREFERATE DE MANAGEMENT | MENIU: SETUP | INFO: DETALII | ACASĂ"
 
 msgid "Glass"
-msgstr ""
+msgstr "Sticlă"
 
 msgid "Humidity"
-msgstr ""
+msgstr "Umiditate"
 
 msgid "Invalid location coordinates"
-msgstr ""
+msgstr "Coordonatele locației nevalide"
 
 msgid "Invalid location format"
-msgstr ""
+msgstr "Format de locație nevalid"
 
 msgid "Invalid selection"
-msgstr ""
+msgstr "Selecție nevalidă"
 
 msgid "Less details / Larger font"
-msgstr ""
+msgstr "Mai puține detalii / Font mai mare"
 
 msgid "Loading weather data..."
-msgstr ""
+msgstr "Se încarcă datele meteo..."
 
 msgid "Location added successfully"
-msgstr ""
+msgstr "Locația a fost adăugată cu succes"
 
 msgid "Location added to favorites"
-msgstr ""
+msgstr "Locație adăugată la favorite"
 
 msgid "Location already exists"
-msgstr ""
+msgstr "Locația există deja"
 
 msgid "Location already in favorites"
-msgstr ""
+msgstr "Locația este deja în favorite"
 
 msgid "Location deleted"
-msgstr ""
+msgstr "Locația a fost ștearsă"
 
 msgid "Location with similar coordinates already exists"
-msgstr ""
+msgstr "Locație cu coordonate similare există deja"
 
 msgid "MSN weather"
-msgstr ""
+msgstr "Vremea MSN"
 
 msgid "Manage Favorites"
-msgstr ""
+msgstr "Gestionați Favoritele"
 
 msgid "Menu"
-msgstr ""
+msgstr "Meniu"
 
 msgid "Metric unit for wind speed"
-msgstr ""
+msgstr "Unitate metrică pentru viteza vântului"
 
 msgid "More Details / Smaller font"
-msgstr ""
+msgstr "Mai multe detalii / Font mai mic"
 
 msgid "N/A"
-msgstr ""
+msgstr "N / A"
 
 msgid "Next favorite"
-msgstr ""
+msgstr "Următorul favorit"
 
 msgid "No data"
-msgstr ""
+msgstr "Fără date"
 
 msgid "No locations found"
-msgstr ""
+msgstr "Nu s-au găsit locații"
 
 msgid "North"
-msgstr ""
+msgstr "Nord"
 
 msgid "Northeast"
-msgstr ""
+msgstr "nord-est"
 
 msgid "Northwest"
-msgstr ""
+msgstr "nord-vest"
 
 msgid "Open-Meteo Wetter"
-msgstr ""
+msgstr "Open-Meteo Vremea"
 
 msgid "OpenWeatherMap"
 msgstr ""
 
 msgid "Please enter a valid city name."
-msgstr ""
+msgstr "Vă rugăm să introduceți un nume de oraș valid."
 
 msgid "Please enter at least 3 characters"
-msgstr ""
+msgstr "Vă rugăm să introduceți cel puțin 3 caractere"
 
 msgid "Precipitation"
-msgstr ""
+msgstr "Precipitare"
 
 msgid "Previous favorite"
-msgstr ""
+msgstr "Favorit anterior"
 
 msgid "Refresh interval"
-msgstr ""
+msgstr "Interval de reîmprospătare"
 
 msgid "Refresh interval :"
-msgstr ""
+msgstr "Interval de reîmprospătare:"
 
 msgid "Save"
-msgstr ""
+msgstr "Salva"
 
 msgid "Select 'Yes' to enable add debug output to log."
-msgstr ""
+msgstr "Selectați „Da” pentru a activa adăugarea ieșirii de depanare în jurnal."
 
 msgid "Select 'Yes' to enable the addition of Weather."
-msgstr ""
+msgstr "Selectați „Da” pentru a activa adăugarea vremii."
 
 msgid "Select location"
-msgstr ""
+msgstr "Selectați locația"
 
 msgid "Select the City and Press Ok"
-msgstr ""
+msgstr "Selectați orașul și apăsați Ok"
 
 msgid "Select the detail level in the detail view. You have the choice between a comprehensive presentation in a smaller font and a reduced presentation with a larger font."
-msgstr ""
+msgstr "Selectați nivelul de detaliu în vizualizarea de detaliu. Aveți de ales între o prezentare cuprinzătoare într-un font mai mic și o prezentare redusă cu un font mai mare."
 
 msgid "Select the metric unit for wind speed to be used for wind displays. This has no effect on the imperial unit 'mph'."
-msgstr ""
+msgstr "Selectați unitatea metrică pentru viteza vântului care va fi utilizată pentru afișarea vântului. Acest lucru nu are niciun efect asupra unității imperiale „mph”."
 
 msgid "Select the preferred weather service to supply the weather information."
-msgstr ""
+msgstr "Selectați serviciul meteo preferat pentru a furniza informațiile despre vreme."
 
 msgid "Select the temperature unit to be used for temperature displays."
-msgstr ""
+msgstr "Selectați unitatea de temperatură care va fi utilizată pentru afișarea temperaturii."
 
 msgid "Select this option to save that last obtained weather data locally. This is used to initialize the data immediately after restart while updated data is being fetched."
-msgstr ""
+msgstr "Selectați această opțiune pentru a salva ultimele date meteo obținute la nivel local. Acesta este folosit pentru a inițializa datele imediat după repornire în timp ce datele actualizate sunt preluate."
 
 msgid "Settings"
-msgstr ""
+msgstr "Setări"
 
 msgid "Setup"
-msgstr ""
+msgstr "Înființat"
 
 msgid "Show Weather Forecast"
-msgstr ""
+msgstr "Afișați Prognoza meteo"
 
 msgid "Show trend arrows for moon data"
-msgstr ""
+msgstr "Afișați săgețile de tendință pentru datele lunii"
 
 msgid "Show trend arrows for moon illumination and moon distance to see the current trend of the data."
-msgstr ""
+msgstr "Afișați săgețile de tendință pentru iluminarea lunii și distanța lunii pentru a vedea tendința curentă a datelor."
 
 msgid "South"
-msgstr ""
+msgstr "Sud"
 
 msgid "Southeast"
-msgstr ""
+msgstr "sud-est"
 
 msgid "Southwest"
-msgstr ""
+msgstr "Sud-vest"
 
 msgid "Specify how often Weather retrieves its data from the server. 'Once' means the data will loaded only once after a GUI or system start."
-msgstr ""
+msgstr "Specificați cât de des își preia datele de pe server Weather. „O dată” înseamnă că datele vor fi încărcate o singură dată după pornirea unei GUI sau a sistemului."
 
 msgid "Standard fertig"
-msgstr ""
+msgstr "Standard finisat"
 
 msgid "Temperature unit"
-msgstr ""
+msgstr "Unitate de temperatură"
 
 msgid "Temperature unit :"
-msgstr ""
+msgstr "Unitate de temperatura:"
 
 msgid "Today"
-msgstr ""
+msgstr "Astăzi"
 
 msgid "Try refreshing or check settings"
-msgstr ""
+msgstr "Încercați să reîmprospătați sau verificați setările"
 
 msgid "Update"
-msgstr ""
+msgstr "Actualizare"
 
 msgid "View details"
-msgstr ""
+msgstr "Vezi detalii"
 
 msgid "Weather API key :"
-msgstr ""
+msgstr "Cheia API pentru vreme:"
 
 msgid "Weather API key v2.5"
-msgstr ""
+msgstr "Cheia Weather API v2.5"
 
 msgid "Weather Plugin"
-msgstr ""
+msgstr "Plugin meteo"
 
 msgid "Weather Plugin Detailview"
-msgstr ""
+msgstr "Vizualizare detaliată a pluginului meteo"
 
 msgid "Weather city name"
-msgstr ""
+msgstr "Numele orașului meteo"
 
 msgid "Weather city name :"
-msgstr ""
+msgstr "Numele orasului meteo:"
 
 msgid "Weather data unavailable"
-msgstr ""
+msgstr "Date meteo indisponibile"
 
 msgid "Weather icon night switch"
-msgstr ""
+msgstr "Comutator de noapte pictogramă vreme"
 
 msgid "Weather icon night switch :"
-msgstr ""
+msgstr "Pictogramă vreme comutator de noapte:"
 
 msgid "Weather icon set"
-msgstr ""
+msgstr "Set de pictograme vreme"
 
 msgid "Weather icon set :"
-msgstr ""
+msgstr "Set de pictograme vreme:"
 
 msgid "Weather service"
-msgstr ""
+msgstr "Serviciul meteo"
 
 msgid "Weather service :"
-msgstr ""
+msgstr "Serviciul meteo:"
 
 msgid "Weather settings"
-msgstr ""
+msgstr "Setări meteo"
 
 msgid "West"
-msgstr ""
+msgstr "Vest"
 
 msgid "Wind speed metric unit:"
-msgstr ""
+msgstr "Unitatea de măsură a vitezei vântului:"
 
 msgid "You have unsaved changes. Save before exiting?"
-msgstr ""
+msgstr "Aveți modificări nesalvate. Salvați înainte de a ieși?"
 
 msgid "exit"
-msgstr ""
+msgstr "Ieșire"
 
 msgid "km/h"
 msgstr ""
 
 msgid "m/s"
-msgstr ""
+msgstr "Domnișoară"
 
 msgid "n/a"
-msgstr ""
+msgstr "N / A"

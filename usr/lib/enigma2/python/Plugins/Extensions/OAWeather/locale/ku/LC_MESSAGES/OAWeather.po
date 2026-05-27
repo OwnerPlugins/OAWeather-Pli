@@ -15,187 +15,187 @@ msgstr ""
 # FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
 #
 msgid "%d Minutes"
-msgstr ""
+msgstr "%d deqîqe"
 
 msgid "Add"
-msgstr ""
+msgstr "Lêzêdekirin"
 
 msgid "Add Fav"
-msgstr ""
+msgstr "Fav zêde bike"
 
 msgid "Cache data"
-msgstr ""
+msgstr "Daneyên cache"
 
 msgid "Cache data :"
-msgstr ""
+msgstr "Daneyên cache:"
 
 msgid "Celsius"
 msgstr ""
 
 msgid "Choose the icon set. You need to create an additional set here: /usr/share/enigma2/WeatherIconSets/NAME."
-msgstr ""
+msgstr "Saeta îkonê hilbijêrin. Pêdivî ye ku hûn li vir komek zêde biafirînin: /usr/share/enigma2/WeatherIconSets/NAME."
 
 msgid "Choose whether the 'night switch' should be activated or not. Some icons are then displayed as night icons with moon."
-msgstr ""
+msgstr "Hilbijêre ka 'veguherîna şevê' divê were çalak kirin an na. Dûv re hin îkon wekî îkonên şevê bi heyvê têne xuyang kirin."
 
 msgid "Chose favorite"
-msgstr ""
+msgstr "Vebijêrk hilbijart"
 
 msgid "City name must be at least 3 characters"
-msgstr ""
+msgstr "Navê bajêr divê herî kêm 3 tîpan be"
 
 msgid "Coordinates not available for this location"
-msgstr ""
+msgstr "Koordînat ji bo vê cîhê peyda nabin"
 
 msgid "Current Weather"
-msgstr ""
+msgstr "Rewşa Niha"
 
 msgid "Day +/-"
-msgstr ""
+msgstr "roj +/-"
 
 msgid "Default"
-msgstr ""
+msgstr "Destçûnî"
 
 msgid "Defaults"
 msgstr ""
 
 msgid "Delete"
-msgstr ""
+msgstr "Jêbirin"
 
 msgid "Delete failed"
-msgstr ""
+msgstr "Jêbirin bi ser neket"
 
 msgid "Delete {}?"
-msgstr ""
+msgstr "{} jê bibe?"
 
 msgid "Detail level in detail view"
-msgstr ""
+msgstr "Asta hûrgulî di dîtina hûrgulî de"
 
 msgid "Details +/-"
-msgstr ""
+msgstr "Hûrgulî +/-"
 
 msgid "Disabled"
-msgstr ""
+msgstr "Bêmecel"
 
 msgid "East"
-msgstr ""
+msgstr "Rohilat"
 
 msgid "Edit"
-msgstr ""
+msgstr "Weşandin"
 
 msgid "Edit city name"
-msgstr ""
+msgstr "Navê bajêr biguherîne"
 
 msgid "Enable Debug"
-msgstr ""
+msgstr "Debug çalak bike"
 
 msgid "Enable Debug :"
-msgstr ""
+msgstr "Debug çalak bike:"
 
 msgid "Enabled"
 msgstr ""
 
 msgid "Enabled :"
-msgstr ""
+msgstr "Enabled:"
 
 msgid "Enter a personalized API key v2.5 for use with OpenWeatherMap (https://openweathermap.org/)."
-msgstr ""
+msgstr "Ji bo bikaranîna OpenWeatherMap (https://openweathermap.org/) mifteyek API-ya kesane ya v2.5 têkevin."
 
 msgid "Enter city name (e.g. 'Rome, IT')"
-msgstr ""
+msgstr "Navê bajêr binivîse (mînak 'Rome, IT')"
 
 msgid "Enter the location for your weather forecasts. To include your location, expand your favorites list with 'Manage your favorites'."
-msgstr ""
+msgstr "Ji bo pêşbîniyên hewayê cîhê xwe binivîse. Ji bo ku cîhê xwe tevbigerin, navnîşa xweya bijare bi 'Vebijarkên xwe Birêvebirin' berfireh bikin."
 
 msgid "Error adding location"
-msgstr ""
+msgstr "Di lêzêdekirina cihan de çewtî"
 
 msgid "Error changing day"
-msgstr ""
+msgstr "Çewtiya guherandina rojê"
 
 msgid "Error processing location data"
-msgstr ""
+msgstr "Di pêvajoykirina daneya cihan de çewtî"
 
 msgid "Error saving favorites"
-msgstr ""
+msgstr "Di tomarkirina bijareyan de çewtî"
 
 msgid "Error saving location"
-msgstr ""
+msgstr "Di tomarkirina cih de çewtî"
 
 msgid "Error selecting location"
-msgstr ""
+msgstr "Di hilbijartina cih de çewtî"
 
 msgid "Error updating list"
-msgstr ""
+msgstr "Di nûvekirina lîsteyê de çewtî"
 
 msgid "Exit"
-msgstr ""
+msgstr "Derî"
 
 msgid "Fahrenheit"
 msgstr ""
 
 msgid "Favorites saved successfully"
-msgstr ""
+msgstr "Vebijarkên bi serkeftî hatine tomarkirin"
 
 msgid "Feels like"
-msgstr ""
+msgstr "Weke hîs dike"
 
 msgid "GREEN: MANAGEMENT FAVORITES | MENU: SETUP | INFO: DETAILS | HOME"
-msgstr ""
+msgstr "KEŞK: FAVORÎTÊN MANAGEMENT | MENU: SETUP | AGAHÎ: HERÎ | XANE"
 
 msgid "Glass"
-msgstr ""
+msgstr "Cam"
 
 msgid "Humidity"
-msgstr ""
+msgstr "Şilî"
 
 msgid "Invalid location coordinates"
-msgstr ""
+msgstr "Koordînatên cihê nederbasdar"
 
 msgid "Invalid location format"
-msgstr ""
+msgstr "Forma cîhê nederbasdar"
 
 msgid "Invalid selection"
-msgstr ""
+msgstr "Hilbijartina nederbasdar"
 
 msgid "Less details / Larger font"
-msgstr ""
+msgstr "Kêmtir hûrgulî / Fontek mezin"
 
 msgid "Loading weather data..."
-msgstr ""
+msgstr "Daneyên hewayê tê barkirin..."
 
 msgid "Location added successfully"
-msgstr ""
+msgstr "Cih bi serkeftî hate zêdekirin"
 
 msgid "Location added to favorites"
-msgstr ""
+msgstr "Cih li bijartan zêde kirin"
 
 msgid "Location already exists"
-msgstr ""
+msgstr "Cih jixwe heye"
 
 msgid "Location already in favorites"
-msgstr ""
+msgstr "Cih jixwe di nav bijartan de ye"
 
 msgid "Location deleted"
-msgstr ""
+msgstr "Cih hat jêbirin"
 
 msgid "Location with similar coordinates already exists"
-msgstr ""
+msgstr "Cihê bi koordînatên mîna berê heye"
 
 msgid "MSN weather"
-msgstr ""
+msgstr "MSN hewa"
 
 msgid "Manage Favorites"
 msgstr ""
 
 msgid "Menu"
-msgstr ""
+msgstr "Qerta xûrekê"
 
 msgid "Metric unit for wind speed"
-msgstr ""
+msgstr "Yekîneya metrîkî ya ji bo leza bayê"
 
 msgid "More Details / Smaller font"
-msgstr ""
+msgstr "Agahiyên Zêdetir / Fontek piçûktir"
 
 msgid "N/A"
 msgstr ""
@@ -204,91 +204,91 @@ msgid "Next favorite"
 msgstr ""
 
 msgid "No data"
-msgstr ""
+msgstr "Daneyên tune"
 
 msgid "No locations found"
-msgstr ""
+msgstr "Cih nehatin dîtin"
 
 msgid "North"
-msgstr ""
+msgstr "Bakûr"
 
 msgid "Northeast"
-msgstr ""
+msgstr "Bakurrojhilat"
 
 msgid "Northwest"
-msgstr ""
+msgstr "Bakurê rojavayê"
 
 msgid "Open-Meteo Wetter"
-msgstr ""
+msgstr "Vekirî-Meteo Weather"
 
 msgid "OpenWeatherMap"
 msgstr ""
 
 msgid "Please enter a valid city name."
-msgstr ""
+msgstr "Ji kerema xwe navekî bajarekî derbasdar binivîse."
 
 msgid "Please enter at least 3 characters"
-msgstr ""
+msgstr "Ji kerema xwe herî kêm 3 tîpan binivîse"
 
 msgid "Precipitation"
-msgstr ""
+msgstr "Barîn"
 
 msgid "Previous favorite"
 msgstr ""
 
 msgid "Refresh interval"
-msgstr ""
+msgstr "Navbera nûvekirinê"
 
 msgid "Refresh interval :"
-msgstr ""
+msgstr "Navbera nûvekirinê:"
 
 msgid "Save"
-msgstr ""
+msgstr "Rizgarkirin"
 
 msgid "Select 'Yes' to enable add debug output to log."
-msgstr ""
+msgstr "'Erê' hilbijêre ku ji bo têketinê derana debug zêde bike çalak bike."
 
 msgid "Select 'Yes' to enable the addition of Weather."
-msgstr ""
+msgstr "'Erê' hilbijêre ku zêdekirina Weather çalak bike."
 
 msgid "Select location"
-msgstr ""
+msgstr "Cihê hilbijêre"
 
 msgid "Select the City and Press Ok"
-msgstr ""
+msgstr "Bajar hilbijêrin û Ok bikirtînin"
 
 msgid "Select the detail level in the detail view. You have the choice between a comprehensive presentation in a smaller font and a reduced presentation with a larger font."
-msgstr ""
+msgstr "Di dîmena hûrguliyê de asta hûrguliyê hilbijêrin. Hilbijartina we di navbera pêşandanek berfireh a bi tîpek piçûktir û pêşkêşiyek kêmkirî ya bi tîpek mezin de heye."
 
 msgid "Select the metric unit for wind speed to be used for wind displays. This has no effect on the imperial unit 'mph'."
-msgstr ""
+msgstr "Yekîneya metrîkê ji bo leza bayê hilbijêrin ku ji bo pêşandanên bayê were bikar anîn. Ev ti bandorek li ser yekîneya emperyal 'mph' nake."
 
 msgid "Select the preferred weather service to supply the weather information."
-msgstr ""
+msgstr "Ji bo peydakirina agahdariya hewayê karûbarê hewaya bijare hilbijêrin."
 
 msgid "Select the temperature unit to be used for temperature displays."
-msgstr ""
+msgstr "Yekîneya germahiyê ya ku ji bo pêşandanên germahiyê were bikar anîn hilbijêrin."
 
 msgid "Select this option to save that last obtained weather data locally. This is used to initialize the data immediately after restart while updated data is being fetched."
-msgstr ""
+msgstr "Vê vebijarkê hilbijêrin da ku daneyên hewayê yên dawîn ên ku li herêmê hatine bidestxistin tomar bikin. Ev ji bo destpêkirina daneyan tavilê piştî destpêkirinê dema ku daneyên nûvekirî têne hilanîn tê bikar anîn."
 
 msgid "Settings"
 msgstr ""
 
 msgid "Setup"
-msgstr ""
+msgstr "Damezirandin"
 
 msgid "Show Weather Forecast"
-msgstr ""
+msgstr "Pêşbîniya hewayê nîşan bide"
 
 msgid "Show trend arrows for moon data"
-msgstr ""
+msgstr "Tîrên trendê ji bo daneyên heyvê nîşan bidin"
 
 msgid "Show trend arrows for moon illumination and moon distance to see the current trend of the data."
-msgstr ""
+msgstr "Ji bo ronahiya heyvê û dûrahiya heyvê tîrên trendê nîşan bidin da ku meyla heyî ya daneyan bibînin."
 
 msgid "South"
-msgstr ""
+msgstr "Başûr"
 
 msgid "Southeast"
 msgstr ""
@@ -297,82 +297,82 @@ msgid "Southwest"
 msgstr ""
 
 msgid "Specify how often Weather retrieves its data from the server. 'Once' means the data will loaded only once after a GUI or system start."
-msgstr ""
+msgstr "Diyar bikin ka çend caran Weather daneyên xwe ji serverê vedigire. 'Carek' tê vê wateyê ku piştî destpêkirina GUI an pergalê dê dane tenê carekê were barkirin."
 
 msgid "Standard fertig"
-msgstr ""
+msgstr "Standard qediya"
 
 msgid "Temperature unit"
-msgstr ""
+msgstr "Yekîneya germê"
 
 msgid "Temperature unit :"
-msgstr ""
+msgstr "Yekîneya germê:"
 
 msgid "Today"
-msgstr ""
+msgstr "Îro"
 
 msgid "Try refreshing or check settings"
-msgstr ""
+msgstr "Biceribînin ku mîhengan nûve bikin an kontrol bikin"
 
 msgid "Update"
-msgstr ""
+msgstr "Rojanekirin"
 
 msgid "View details"
-msgstr ""
+msgstr "Hûrguliyan bibînin"
 
 msgid "Weather API key :"
-msgstr ""
+msgstr "Mifteya API-ya hewayê:"
 
 msgid "Weather API key v2.5"
-msgstr ""
+msgstr "Mifteya API-ya hewayê v2.5"
 
 msgid "Weather Plugin"
 msgstr ""
 
 msgid "Weather Plugin Detailview"
-msgstr ""
+msgstr "Detailview Plugin Weather"
 
 msgid "Weather city name"
-msgstr ""
+msgstr "Navê bajarê hewayê"
 
 msgid "Weather city name :"
-msgstr ""
+msgstr "Navê bajarê hewayê:"
 
 msgid "Weather data unavailable"
-msgstr ""
+msgstr "Daneyên hewayê ne berdest in"
 
 msgid "Weather icon night switch"
-msgstr ""
+msgstr "Guhestina şevê ya îkona hewayê"
 
 msgid "Weather icon night switch :"
-msgstr ""
+msgstr "Guhertina şevê îkona hewayê:"
 
 msgid "Weather icon set"
-msgstr ""
+msgstr "Set îkona hewayê"
 
 msgid "Weather icon set :"
-msgstr ""
+msgstr "Set îkona hewayê:"
 
 msgid "Weather service"
-msgstr ""
+msgstr "Xizmeta hewayê"
 
 msgid "Weather service :"
-msgstr ""
+msgstr "Xizmeta hewayê:"
 
 msgid "Weather settings"
-msgstr ""
+msgstr "Mîhengên hewayê"
 
 msgid "West"
-msgstr ""
+msgstr "Rojava"
 
 msgid "Wind speed metric unit:"
-msgstr ""
+msgstr "Yekîneya metrîka leza bayê:"
 
 msgid "You have unsaved changes. Save before exiting?"
-msgstr ""
+msgstr "Te guherandinên nehatine tomarkirin hene. Beriya derketinê tomar bike?"
 
 msgid "exit"
-msgstr ""
+msgstr "derî"
 
 msgid "km/h"
 msgstr ""

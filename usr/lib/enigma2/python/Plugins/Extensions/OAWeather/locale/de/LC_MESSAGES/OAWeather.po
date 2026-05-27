@@ -18,10 +18,10 @@ msgid "%d Minutes"
 msgstr "%d Minuten"
 
 msgid "Add"
-msgstr ""
+msgstr "Hinzufügen"
 
 msgid "Add Fav"
-msgstr ""
+msgstr "Favoriten hinzufügen"
 
 msgid "Cache data"
 msgstr "Daten zwischenspeichern"
@@ -40,19 +40,19 @@ msgid "Choose whether the 'night switch' should be activated or not. Some icons 
 msgstr "Wählen Sie, ob der Nachtschaltung aktiviert werden soll oder nicht. Einige Symbole werden dann als Nachtsymbole mit Mond angezeigt."
 
 msgid "Chose favorite"
-msgstr ""
+msgstr "Favorit gewählt"
 
 msgid "City name must be at least 3 characters"
-msgstr ""
+msgstr "Der Name der Stadt muss mindestens 3 Zeichen lang sein"
 
 msgid "Coordinates not available for this location"
-msgstr ""
+msgstr "Für diesen Standort sind keine Koordinaten verfügbar"
 
 msgid "Current Weather"
 msgstr "Aktuelles Wetter"
 
 msgid "Day +/-"
-msgstr ""
+msgstr "Tag +/-"
 
 msgid "Default"
 msgstr "Standard"
@@ -61,16 +61,16 @@ msgid "Defaults"
 msgstr "Standard"
 
 msgid "Delete"
-msgstr ""
+msgstr "Löschen"
 
 msgid "Delete failed"
-msgstr ""
+msgstr "Das Löschen ist fehlgeschlagen"
 
 msgid "Delete {}?"
-msgstr ""
+msgstr "Löschen {}?"
 
 msgid "Detail level in detail view"
-msgstr ""
+msgstr "Detailebene in der Detailansicht"
 
 msgid "Details +/-"
 msgstr ""
@@ -82,7 +82,7 @@ msgid "East"
 msgstr "Ost"
 
 msgid "Edit"
-msgstr ""
+msgstr "Bearbeiten"
 
 #, fuzzy
 msgid "Edit city name"
@@ -107,10 +107,10 @@ msgid "Enter a personalized API key v2.5 for use with OpenWeatherMap (https://op
 msgstr "Geben Sie einen personalisierten API-Schlüssel für die Verwendung mit OpenWeatherMap ein (https://openweathermap.org/)."
 
 msgid "Enter city name (e.g. 'Rome, IT')"
-msgstr ""
+msgstr "Geben Sie den Namen der Stadt ein (z. B. „Rom, IT“)."
 
 msgid "Enter the location for your weather forecasts. To include your location, expand your favorites list with 'Manage your favorites'."
-msgstr ""
+msgstr "Geben Sie den Standort für Ihre Wettervorhersagen ein. Um Ihren Standort einzubeziehen, erweitern Sie Ihre Favoritenliste mit „Favoriten verwalten“."
 
 #, fuzzy
 msgid "Error adding location"
@@ -121,104 +121,104 @@ msgid "Error changing day"
 msgstr "Fehler beim Abrufen der City ID"
 
 msgid "Error processing location data"
-msgstr ""
+msgstr "Fehler bei der Verarbeitung der Standortdaten"
 
 msgid "Error saving favorites"
-msgstr ""
+msgstr "Fehler beim Speichern der Favoriten"
 
 #, fuzzy
 msgid "Error saving location"
 msgstr "Fehler in Weatherinfo"
 
 msgid "Error selecting location"
-msgstr ""
+msgstr "Fehler beim Auswählen des Standorts"
 
 #, fuzzy
 msgid "Error updating list"
 msgstr "Fehler beim Abrufen der City ID"
 
 msgid "Exit"
-msgstr ""
+msgstr "Ausfahrt"
 
 msgid "Fahrenheit"
 msgstr "Fahrenheit"
 
 msgid "Favorites saved successfully"
-msgstr ""
+msgstr "Favoriten erfolgreich gespeichert"
 
 msgid "Feels like"
 msgstr "Gefühlt"
 
 msgid "GREEN: MANAGEMENT FAVORITES | MENU: SETUP | INFO: DETAILS | HOME"
-msgstr ""
+msgstr "GRÜN: FAVORITEN DES MANAGEMENTS | MENÜ: SETUP | INFO: DETAILS | HEIM"
 
 msgid "Glass"
-msgstr ""
+msgstr "Glas"
 
 msgid "Humidity"
 msgstr "Feuchtigkeit"
 
 msgid "Invalid location coordinates"
-msgstr ""
+msgstr "Ungültige Standortkoordinaten"
 
 msgid "Invalid location format"
-msgstr ""
+msgstr "Ungültiges Standortformat"
 
 #, fuzzy
 msgid "Invalid selection"
 msgstr "Standortauswahl"
 
 msgid "Less details / Larger font"
-msgstr ""
+msgstr "Weniger Details / Größere Schriftart"
 
 msgid "Loading weather data..."
-msgstr ""
+msgstr "Wetterdaten werden geladen..."
 
 msgid "Location added successfully"
-msgstr ""
+msgstr "Standort erfolgreich hinzugefügt"
 
 msgid "Location added to favorites"
-msgstr ""
+msgstr "Ort zu Favoriten hinzugefügt"
 
 msgid "Location already exists"
-msgstr ""
+msgstr "Der Standort ist bereits vorhanden"
 
 msgid "Location already in favorites"
-msgstr ""
+msgstr "Standort bereits in den Favoriten"
 
 #, fuzzy
 msgid "Location deleted"
 msgstr "Standortauswahl"
 
 msgid "Location with similar coordinates already exists"
-msgstr ""
+msgstr "Standort mit ähnlichen Koordinaten existiert bereits"
 
 msgid "MSN weather"
 msgstr "MSN-Wetter"
 
 msgid "Manage Favorites"
-msgstr ""
+msgstr "Favoriten verwalten"
 
 msgid "Menu"
-msgstr ""
+msgstr "Speisekarte"
 
 msgid "Metric unit for wind speed"
-msgstr ""
+msgstr "Metrische Einheit für Windgeschwindigkeit"
 
 msgid "More Details / Smaller font"
-msgstr ""
+msgstr "Mehr Details / Kleinere Schriftart"
 
 msgid "N/A"
-msgstr ""
+msgstr "N / A"
 
 msgid "Next favorite"
-msgstr ""
+msgstr "Nächster Favorit"
 
 msgid "No data"
-msgstr ""
+msgstr "Keine Daten"
 
 msgid "No locations found"
-msgstr ""
+msgstr "Keine Standorte gefunden"
 
 msgid "North"
 msgstr "Nord"
@@ -240,13 +240,13 @@ msgid "Please enter a valid city name."
 msgstr "Wetter Stadtname"
 
 msgid "Please enter at least 3 characters"
-msgstr ""
+msgstr "Bitte geben Sie mindestens 3 Zeichen ein"
 
 msgid "Precipitation"
 msgstr "Niederschlag"
 
 msgid "Previous favorite"
-msgstr ""
+msgstr "Vorheriger Favorit"
 
 msgid "Refresh interval"
 msgstr "Aktualisierungsintervall"
@@ -256,7 +256,7 @@ msgid "Refresh interval :"
 msgstr "Aktualisierungsintervall"
 
 msgid "Save"
-msgstr ""
+msgstr "Speichern"
 
 msgid "Select 'Yes' to enable add debug output to log."
 msgstr "Wählen Sie \"Ja\", um das OAWeather debug log zu aktivieren."
@@ -269,13 +269,13 @@ msgid "Select location"
 msgstr "Wählen Sie Ihren Standort"
 
 msgid "Select the City and Press Ok"
-msgstr ""
+msgstr "Wählen Sie die Stadt aus und drücken Sie OK"
 
 msgid "Select the detail level in the detail view. You have the choice between a comprehensive presentation in a smaller font and a reduced presentation with a larger font."
-msgstr ""
+msgstr "Wählen Sie in der Detailansicht die Detailebene aus. Sie haben die Wahl zwischen einer umfassenden Darstellung in kleinerer Schriftart und einer reduzierten Darstellung mit größerer Schriftart."
 
 msgid "Select the metric unit for wind speed to be used for wind displays. This has no effect on the imperial unit 'mph'."
-msgstr ""
+msgstr "Wählen Sie die metrische Einheit für die Windgeschwindigkeit aus, die für die Windanzeige verwendet werden soll. Dies hat keinen Einfluss auf die imperiale Einheit „mph“."
 
 msgid "Select the preferred weather service to supply the weather information."
 msgstr "Wählen Sie den bevorzugten Wetterdienst aus, um die Wetterinformationen zu erhalten."
@@ -287,19 +287,19 @@ msgid "Select this option to save that last obtained weather data locally. This 
 msgstr "Wählen Sie diese Option, um die zuletzt abgerufenen Wetterdaten lokal zu speichern. Dies wird verwendet, um die Daten sofort nach dem Neustart zu initialisieren, während die aktualisierten Daten abgerufen werden."
 
 msgid "Settings"
-msgstr ""
+msgstr "Einstellungen"
 
 msgid "Setup"
-msgstr ""
+msgstr "Aufstellen"
 
 msgid "Show Weather Forecast"
 msgstr "Zeige Wettervorhersage"
 
 msgid "Show trend arrows for moon data"
-msgstr ""
+msgstr "Trendpfeile für Monddaten anzeigen"
 
 msgid "Show trend arrows for moon illumination and moon distance to see the current trend of the data."
-msgstr ""
+msgstr "Zeigen Sie Trendpfeile für Mondbeleuchtung und Mondentfernung an, um den aktuellen Trend der Daten anzuzeigen."
 
 msgid "South"
 msgstr "Süd"
@@ -327,13 +327,13 @@ msgid "Today"
 msgstr "Heute"
 
 msgid "Try refreshing or check settings"
-msgstr ""
+msgstr "Versuchen Sie es mit einer Aktualisierung oder überprüfen Sie die Einstellungen"
 
 msgid "Update"
 msgstr "Update"
 
 msgid "View details"
-msgstr ""
+msgstr "Details anzeigen"
 
 #, fuzzy
 msgid "Weather API key :"
@@ -389,19 +389,19 @@ msgid "West"
 msgstr "West"
 
 msgid "Wind speed metric unit:"
-msgstr ""
+msgstr "Metrische Einheit der Windgeschwindigkeit:"
 
 msgid "You have unsaved changes. Save before exiting?"
-msgstr ""
+msgstr "Sie haben nicht gespeicherte Änderungen. Vor dem Beenden speichern?"
 
 msgid "exit"
-msgstr ""
+msgstr "Ausfahrt"
 
 msgid "km/h"
 msgstr ""
 
 msgid "m/s"
-msgstr ""
+msgstr "MS"
 
 msgid "n/a"
 msgstr "n/a"

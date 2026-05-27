@@ -15,370 +15,370 @@ msgstr ""
 # FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
 #
 msgid "%d Minutes"
-msgstr ""
+msgstr "%d នាទី"
 
 msgid "Add"
-msgstr ""
+msgstr "បន្ថែម"
 
 msgid "Add Fav"
-msgstr ""
+msgstr "បន្ថែមចំណូលចិត្ត"
 
 msgid "Cache data"
-msgstr ""
+msgstr "ទិន្នន័យឃ្លាំងសម្ងាត់"
 
 msgid "Cache data :"
-msgstr ""
+msgstr "ទិន្នន័យឃ្លាំងសម្ងាត់៖"
 
 msgid "Celsius"
-msgstr ""
+msgstr "អង្សាសេ"
 
 msgid "Choose the icon set. You need to create an additional set here: /usr/share/enigma2/WeatherIconSets/NAME."
-msgstr ""
+msgstr "ជ្រើសរើសរូបតំណាងដែលបានកំណត់។ អ្នកត្រូវបង្កើតសំណុំបន្ថែមនៅទីនេះ៖ /usr/share/enigma2/WeatherIconSets/NAME ។"
 
 msgid "Choose whether the 'night switch' should be activated or not. Some icons are then displayed as night icons with moon."
-msgstr ""
+msgstr "ជ្រើសរើសថាតើ 'កុងតាក់ពេលយប់' គួរតែត្រូវបានធ្វើឱ្យសកម្មឬអត់។ បន្ទាប់មករូបតំណាងមួយចំនួនត្រូវបានបង្ហាញជារូបតំណាងពេលយប់ជាមួយនឹងព្រះច័ន្ទ។"
 
 msgid "Chose favorite"
-msgstr ""
+msgstr "ជ្រើសរើសសំណព្វ"
 
 msgid "City name must be at least 3 characters"
-msgstr ""
+msgstr "ឈ្មោះទីក្រុងត្រូវតែមានយ៉ាងហោចណាស់ 3 តួអក្សរ"
 
 msgid "Coordinates not available for this location"
-msgstr ""
+msgstr "កូអរដោនេមិនមានសម្រាប់ទីតាំងនេះទេ។"
 
 msgid "Current Weather"
-msgstr ""
+msgstr "អាកាសធាតុបច្ចុប្បន្ន"
 
 msgid "Day +/-"
-msgstr ""
+msgstr "ថ្ងៃ +/-"
 
 msgid "Default"
-msgstr ""
+msgstr "លំនាំដើម"
 
 msgid "Defaults"
-msgstr ""
+msgstr "លំនាំដើម"
 
 msgid "Delete"
-msgstr ""
+msgstr "លុប"
 
 msgid "Delete failed"
-msgstr ""
+msgstr "ការលុបបានបរាជ័យ"
 
 msgid "Delete {}?"
-msgstr ""
+msgstr "លុប {}?"
 
 msgid "Detail level in detail view"
-msgstr ""
+msgstr "កម្រិតលម្អិតនៅក្នុងទិដ្ឋភាពលម្អិត"
 
 msgid "Details +/-"
-msgstr ""
+msgstr "ព័ត៌មានលម្អិត +/-"
 
 msgid "Disabled"
-msgstr ""
+msgstr "ពិការ"
 
 msgid "East"
-msgstr ""
+msgstr "ខាងកើត"
 
 msgid "Edit"
-msgstr ""
+msgstr "កែសម្រួល"
 
 msgid "Edit city name"
-msgstr ""
+msgstr "កែឈ្មោះទីក្រុង"
 
 msgid "Enable Debug"
-msgstr ""
+msgstr "បើកដំណើរការបំបាត់កំហុស"
 
 msgid "Enable Debug :"
-msgstr ""
+msgstr "បើកដំណើរការបំបាត់កំហុស៖"
 
 msgid "Enabled"
-msgstr ""
+msgstr "បានបើក"
 
 msgid "Enabled :"
-msgstr ""
+msgstr "បានបើក៖"
 
 msgid "Enter a personalized API key v2.5 for use with OpenWeatherMap (https://openweathermap.org/)."
-msgstr ""
+msgstr "បញ្ចូលគន្លឹះ API ផ្ទាល់ខ្លួន v2.5 សម្រាប់ប្រើជាមួយ OpenWeatherMap (https://openweathermap.org/) ។"
 
 msgid "Enter city name (e.g. 'Rome, IT')"
-msgstr ""
+msgstr "បញ្ចូលឈ្មោះទីក្រុង (ឧ. 'រ៉ូម អាយធី')"
 
 msgid "Enter the location for your weather forecasts. To include your location, expand your favorites list with 'Manage your favorites'."
-msgstr ""
+msgstr "បញ្ចូលទីតាំងសម្រាប់ការព្យាករណ៍អាកាសធាតុរបស់អ្នក។ ដើម្បីរួមបញ្ចូលទីតាំងរបស់អ្នក ពង្រីកបញ្ជីចំណូលចិត្តរបស់អ្នកជាមួយ 'គ្រប់គ្រងចំណូលចិត្តរបស់អ្នក'។"
 
 msgid "Error adding location"
-msgstr ""
+msgstr "កំហុសក្នុងការបន្ថែមទីតាំង"
 
 msgid "Error changing day"
-msgstr ""
+msgstr "កំហុសក្នុងការផ្លាស់ប្តូរថ្ងៃ"
 
 msgid "Error processing location data"
-msgstr ""
+msgstr "កំហុសក្នុងដំណើរការទិន្នន័យទីតាំង"
 
 msgid "Error saving favorites"
-msgstr ""
+msgstr "កំហុសក្នុងការរក្សាទុកចំណូលចិត្ត"
 
 msgid "Error saving location"
-msgstr ""
+msgstr "កំហុសក្នុងការរក្សាទុកទីតាំង"
 
 msgid "Error selecting location"
-msgstr ""
+msgstr "កំហុសក្នុងការជ្រើសរើសទីតាំង"
 
 msgid "Error updating list"
-msgstr ""
+msgstr "កំហុសក្នុងការធ្វើបច្ចុប្បន្នភាពបញ្ជី"
 
 msgid "Exit"
-msgstr ""
+msgstr "ចេញ"
 
 msgid "Fahrenheit"
-msgstr ""
+msgstr "ហ្វារិនហៃ"
 
 msgid "Favorites saved successfully"
-msgstr ""
+msgstr "ចំណូលចិត្តត្រូវបានរក្សាទុកដោយជោគជ័យ"
 
 msgid "Feels like"
-msgstr ""
+msgstr "មានអារម្មណ៍ដូច"
 
 msgid "GREEN: MANAGEMENT FAVORITES | MENU: SETUP | INFO: DETAILS | HOME"
-msgstr ""
+msgstr "បៃតង៖ ចំណូលចិត្តការគ្រប់គ្រង | ម៉ឺនុយ៖ SETUP | ព័ត៌មាន៖ លម្អិត | ទំព័រដើម"
 
 msgid "Glass"
-msgstr ""
+msgstr "កញ្ចក់"
 
 msgid "Humidity"
-msgstr ""
+msgstr "សំណើម"
 
 msgid "Invalid location coordinates"
-msgstr ""
+msgstr "កូអរដោនេទីតាំងមិនត្រឹមត្រូវ"
 
 msgid "Invalid location format"
-msgstr ""
+msgstr "ទម្រង់ទីតាំងមិនត្រឹមត្រូវ"
 
 msgid "Invalid selection"
-msgstr ""
+msgstr "ការជ្រើសរើសមិនត្រឹមត្រូវ"
 
 msgid "Less details / Larger font"
-msgstr ""
+msgstr "ព័ត៌មានលម្អិតតិចជាង / ពុម្ពអក្សរធំជាង"
 
 msgid "Loading weather data..."
-msgstr ""
+msgstr "កំពុងផ្ទុកទិន្នន័យអាកាសធាតុ..."
 
 msgid "Location added successfully"
-msgstr ""
+msgstr "បានបន្ថែមទីតាំងដោយជោគជ័យ"
 
 msgid "Location added to favorites"
-msgstr ""
+msgstr "បានបន្ថែមទីតាំងទៅចំណូលចិត្ត"
 
 msgid "Location already exists"
-msgstr ""
+msgstr "ទីតាំងមានរួចហើយ"
 
 msgid "Location already in favorites"
-msgstr ""
+msgstr "ទីតាំង​នៅ​ក្នុង​ការ​ចូលចិត្ត​រួច​ហើយ​"
 
 msgid "Location deleted"
-msgstr ""
+msgstr "ទីតាំងត្រូវបានលុប"
 
 msgid "Location with similar coordinates already exists"
-msgstr ""
+msgstr "ទីតាំងដែលមានកូអរដោនេស្រដៀងគ្នាមានរួចហើយ"
 
 msgid "MSN weather"
-msgstr ""
+msgstr "អាកាសធាតុ MSN"
 
 msgid "Manage Favorites"
-msgstr ""
+msgstr "គ្រប់គ្រងចំណូលចិត្ត"
 
 msgid "Menu"
-msgstr ""
+msgstr "ម៉ឺនុយ"
 
 msgid "Metric unit for wind speed"
-msgstr ""
+msgstr "ឯកតាម៉ែត្រសម្រាប់ល្បឿនខ្យល់"
 
 msgid "More Details / Smaller font"
-msgstr ""
+msgstr "ព័ត៌មានលម្អិតបន្ថែម / ពុម្ពអក្សរតូចជាង"
 
 msgid "N/A"
-msgstr ""
+msgstr "គ្មាន"
 
 msgid "Next favorite"
-msgstr ""
+msgstr "ចំណូលចិត្តបន្ទាប់"
 
 msgid "No data"
-msgstr ""
+msgstr "គ្មានទិន្នន័យ"
 
 msgid "No locations found"
-msgstr ""
+msgstr "រកមិនឃើញទីតាំងទេ។"
 
 msgid "North"
-msgstr ""
+msgstr "ខាងជើង"
 
 msgid "Northeast"
-msgstr ""
+msgstr "ឦសាន"
 
 msgid "Northwest"
-msgstr ""
+msgstr "ភាគពាយ័ព្យ"
 
 msgid "Open-Meteo Wetter"
-msgstr ""
+msgstr "អាកាសធាតុបើកចំហ - Meteo"
 
 msgid "OpenWeatherMap"
 msgstr ""
 
 msgid "Please enter a valid city name."
-msgstr ""
+msgstr "សូមបញ្ចូលឈ្មោះទីក្រុងត្រឹមត្រូវ។"
 
 msgid "Please enter at least 3 characters"
-msgstr ""
+msgstr "សូមបញ្ចូលយ៉ាងហោចណាស់ 3 តួអក្សរ"
 
 msgid "Precipitation"
-msgstr ""
+msgstr "ទឹកភ្លៀង"
 
 msgid "Previous favorite"
-msgstr ""
+msgstr "ចំណូលចិត្តពីមុន"
 
 msgid "Refresh interval"
-msgstr ""
+msgstr "ចន្លោះពេលផ្ទុកឡើងវិញ"
 
 msgid "Refresh interval :"
-msgstr ""
+msgstr "ចន្លោះពេលផ្ទុកឡើងវិញ៖"
 
 msgid "Save"
-msgstr ""
+msgstr "រក្សាទុក"
 
 msgid "Select 'Yes' to enable add debug output to log."
-msgstr ""
+msgstr "ជ្រើសរើស 'បាទ / ចាស' ដើម្បីបើកបន្ថែមលទ្ធផលបំបាត់កំហុសដើម្បីកត់ត្រា។"
 
 msgid "Select 'Yes' to enable the addition of Weather."
-msgstr ""
+msgstr "ជ្រើសរើស 'បាទ / ចាស' ដើម្បីបើកការបន្ថែមអាកាសធាតុ។"
 
 msgid "Select location"
-msgstr ""
+msgstr "ជ្រើសរើសទីតាំង"
 
 msgid "Select the City and Press Ok"
-msgstr ""
+msgstr "ជ្រើសរើសទីក្រុងហើយចុច យល់ព្រម"
 
 msgid "Select the detail level in the detail view. You have the choice between a comprehensive presentation in a smaller font and a reduced presentation with a larger font."
-msgstr ""
+msgstr "ជ្រើសរើសកម្រិតលម្អិតនៅក្នុងទិដ្ឋភាពលម្អិត។ អ្នកមានជម្រើសរវាងការបង្ហាញដ៏ទូលំទូលាយនៅក្នុងពុម្ពអក្សរតូចជាង និងការបង្ហាញដែលកាត់បន្ថយជាមួយនឹងពុម្ពអក្សរធំជាង។"
 
 msgid "Select the metric unit for wind speed to be used for wind displays. This has no effect on the imperial unit 'mph'."
-msgstr ""
+msgstr "ជ្រើសរើសឯកតាម៉ែត្រសម្រាប់ល្បឿនខ្យល់ដែលត្រូវប្រើសម្រាប់ការបង្ហាញខ្យល់។ នេះមិនមានឥទ្ធិពលលើអង្គភាពអធិរាជ 'mph' ទេ។"
 
 msgid "Select the preferred weather service to supply the weather information."
-msgstr ""
+msgstr "ជ្រើសរើសសេវាកម្មអាកាសធាតុដែលពេញចិត្ត ដើម្បីផ្តល់ព័ត៌មានអាកាសធាតុ។"
 
 msgid "Select the temperature unit to be used for temperature displays."
-msgstr ""
+msgstr "ជ្រើសរើសឯកតាសីតុណ្ហភាពដែលត្រូវប្រើសម្រាប់ការបង្ហាញសីតុណ្ហភាព។"
 
 msgid "Select this option to save that last obtained weather data locally. This is used to initialize the data immediately after restart while updated data is being fetched."
-msgstr ""
+msgstr "ជ្រើសរើសជម្រើសនេះ ដើម្បីរក្សាទុកទិន្នន័យអាកាសធាតុដែលទទួលបានចុងក្រោយនៅក្នុងមូលដ្ឋាន។ វាត្រូវបានប្រើដើម្បីចាប់ផ្តើមទិន្នន័យភ្លាមៗបន្ទាប់ពីចាប់ផ្តើមឡើងវិញ ខណៈពេលដែលទិន្នន័យដែលបានធ្វើបច្ចុប្បន្នភាពកំពុងត្រូវបានទាញយក។"
 
 msgid "Settings"
-msgstr ""
+msgstr "ការកំណត់"
 
 msgid "Setup"
-msgstr ""
+msgstr "រៀបចំ"
 
 msgid "Show Weather Forecast"
-msgstr ""
+msgstr "បង្ហាញការព្យាករណ៍អាកាសធាតុ"
 
 msgid "Show trend arrows for moon data"
-msgstr ""
+msgstr "បង្ហាញព្រួញនិន្នាការសម្រាប់ទិន្នន័យព្រះច័ន្ទ"
 
 msgid "Show trend arrows for moon illumination and moon distance to see the current trend of the data."
-msgstr ""
+msgstr "បង្ហាញព្រួញនិន្នាការសម្រាប់ការបំភ្លឺព្រះច័ន្ទ និងចម្ងាយព្រះច័ន្ទ ដើម្បីមើលនិន្នាការបច្ចុប្បន្ននៃទិន្នន័យ។"
 
 msgid "South"
-msgstr ""
+msgstr "ខាងត្បូង"
 
 msgid "Southeast"
-msgstr ""
+msgstr "ភាគអាគ្នេយ៍"
 
 msgid "Southwest"
-msgstr ""
+msgstr "ភាគនិរតី"
 
 msgid "Specify how often Weather retrieves its data from the server. 'Once' means the data will loaded only once after a GUI or system start."
-msgstr ""
+msgstr "បញ្ជាក់ថាតើអាកាសធាតុទៅយកទិន្នន័យរបស់វាពីម៉ាស៊ីនមេញឹកញាប់ប៉ុណ្ណា។ 'ម្តង' មានន័យថាទិន្នន័យនឹងផ្ទុកតែម្តងគត់បន្ទាប់ពីការចាប់ផ្តើម GUI ឬប្រព័ន្ធ។"
 
 msgid "Standard fertig"
-msgstr ""
+msgstr "ស្តង់ដារបានបញ្ចប់"
 
 msgid "Temperature unit"
-msgstr ""
+msgstr "ឯកតាសីតុណ្ហភាព"
 
 msgid "Temperature unit :"
-msgstr ""
+msgstr "ឯកតាសីតុណ្ហភាព៖"
 
 msgid "Today"
-msgstr ""
+msgstr "ថ្ងៃនេះ"
 
 msgid "Try refreshing or check settings"
-msgstr ""
+msgstr "សាកល្បងផ្ទុកឡើងវិញ ឬពិនិត្យមើលការកំណត់"
 
 msgid "Update"
-msgstr ""
+msgstr "ធ្វើបច្ចុប្បន្នភាព"
 
 msgid "View details"
-msgstr ""
+msgstr "មើលព័ត៌មានលម្អិត"
 
 msgid "Weather API key :"
-msgstr ""
+msgstr "គន្លឹះ API អាកាសធាតុ៖"
 
 msgid "Weather API key v2.5"
-msgstr ""
+msgstr "គន្លឹះអាកាសធាតុ API v2.5"
 
 msgid "Weather Plugin"
-msgstr ""
+msgstr "កម្មវិធីជំនួយអាកាសធាតុ"
 
 msgid "Weather Plugin Detailview"
-msgstr ""
+msgstr "ទិដ្ឋភាពលម្អិតកម្មវិធីជំនួយអាកាសធាតុ"
 
 msgid "Weather city name"
-msgstr ""
+msgstr "ឈ្មោះទីក្រុងអាកាសធាតុ"
 
 msgid "Weather city name :"
-msgstr ""
+msgstr "ឈ្មោះទីក្រុងអាកាសធាតុ៖"
 
 msgid "Weather data unavailable"
-msgstr ""
+msgstr "ទិន្នន័យអាកាសធាតុមិនមានទេ។"
 
 msgid "Weather icon night switch"
-msgstr ""
+msgstr "រូបតំណាងអាកាសធាតុពេលយប់"
 
 msgid "Weather icon night switch :"
-msgstr ""
+msgstr "ការផ្លាស់ប្តូររូបតំណាងអាកាសធាតុពេលយប់៖"
 
 msgid "Weather icon set"
-msgstr ""
+msgstr "កំណត់រូបតំណាងអាកាសធាតុ"
 
 msgid "Weather icon set :"
-msgstr ""
+msgstr "កំណត់រូបតំណាងអាកាសធាតុ៖"
 
 msgid "Weather service"
-msgstr ""
+msgstr "សេវាកម្មអាកាសធាតុ"
 
 msgid "Weather service :"
-msgstr ""
+msgstr "សេវាកម្មអាកាសធាតុ៖"
 
 msgid "Weather settings"
-msgstr ""
+msgstr "ការកំណត់អាកាសធាតុ"
 
 msgid "West"
-msgstr ""
+msgstr "ខាងលិច"
 
 msgid "Wind speed metric unit:"
-msgstr ""
+msgstr "ឯកតារង្វាស់ល្បឿនខ្យល់៖"
 
 msgid "You have unsaved changes. Save before exiting?"
-msgstr ""
+msgstr "អ្នកមានការផ្លាស់ប្តូរដែលមិនបានរក្សាទុក។ រក្សាទុកមុនពេលចេញ?"
 
 msgid "exit"
-msgstr ""
+msgstr "ចេញ"
 
 msgid "km/h"
-msgstr ""
+msgstr "គីឡូម៉ែត្រ / ម៉ោង។"
 
 msgid "m/s"
 msgstr ""
 
 msgid "n/a"
-msgstr ""
+msgstr "ន/ក"

@@ -15,43 +15,43 @@ msgstr ""
 "X-Poedit-SourceCharset: UTF-8\n"
 
 msgid "%d Minutes"
-msgstr ""
+msgstr "%d minutit"
 
 msgid "Add"
-msgstr ""
+msgstr "Lisa"
 
 msgid "Add Fav"
-msgstr ""
+msgstr "Lisa lemmik"
 
 msgid "Cache data"
-msgstr ""
+msgstr "Vahemälu andmed"
 
 msgid "Cache data :"
-msgstr ""
+msgstr "Vahemälu andmed:"
 
 msgid "Celsius"
 msgstr "Celsius"
 
 msgid "Choose the icon set. You need to create an additional set here: /usr/share/enigma2/WeatherIconSets/NAME."
-msgstr ""
+msgstr "Valige ikoonikomplekt. Siin peate looma täiendava komplekti: /usr/share/enigma2/WeatherIconSets/NAME."
 
 msgid "Choose whether the 'night switch' should be activated or not. Some icons are then displayed as night icons with moon."
-msgstr ""
+msgstr "Valige, kas "öölüliti" peaks olema aktiveeritud või mitte. Mõned ikoonid kuvatakse seejärel ööikoonidena koos kuuga."
 
 msgid "Chose favorite"
-msgstr ""
+msgstr "Valis lemmiku"
 
 msgid "City name must be at least 3 characters"
-msgstr ""
+msgstr "Linna nimi peab olema vähemalt 3 tähemärki pikk"
 
 msgid "Coordinates not available for this location"
-msgstr ""
+msgstr "Selle asukoha koordinaadid pole saadaval"
 
 msgid "Current Weather"
-msgstr ""
+msgstr "Praegune ilm"
 
 msgid "Day +/-"
-msgstr ""
+msgstr "Päev +/-"
 
 #, fuzzy
 msgid "Default"
@@ -61,31 +61,31 @@ msgid "Defaults"
 msgstr "Vaikeväärtused"
 
 msgid "Delete"
-msgstr ""
+msgstr "Kustuta"
 
 msgid "Delete failed"
-msgstr ""
+msgstr "Kustutamine ebaõnnestus"
 
 msgid "Delete {}?"
-msgstr ""
+msgstr "Kas kustutada {}?"
 
 msgid "Detail level in detail view"
-msgstr ""
+msgstr "Üksikasjade tase detailvaates"
 
 msgid "Details +/-"
-msgstr ""
+msgstr "Üksikasjad +/-"
 
 msgid "Disabled"
-msgstr ""
+msgstr "Keelatud"
 
 msgid "East"
-msgstr ""
+msgstr "Ida"
 
 msgid "Edit"
-msgstr ""
+msgstr "Muuda"
 
 msgid "Edit city name"
-msgstr ""
+msgstr "Muuda linna nime"
 
 #, fuzzy
 msgid "Enable Debug"
@@ -103,233 +103,233 @@ msgid "Enabled :"
 msgstr "Kasutusel"
 
 msgid "Enter a personalized API key v2.5 for use with OpenWeatherMap (https://openweathermap.org/)."
-msgstr ""
+msgstr "OpenWeatherMapiga kasutamiseks sisestage isikupärastatud API võti v2.5 (https://openweathermap.org/)."
 
 msgid "Enter city name (e.g. 'Rome, IT')"
-msgstr ""
+msgstr "Sisestage linna nimi (nt "Rooma, IT")"
 
 msgid "Enter the location for your weather forecasts. To include your location, expand your favorites list with 'Manage your favorites'."
-msgstr ""
+msgstr "Sisestage oma ilmaprognooside asukoht. Oma asukoha lisamiseks laiendage oma lemmikute loendit valikuga „Halda oma lemmikuid”."
 
 msgid "Error adding location"
-msgstr ""
+msgstr "Viga asukoha lisamisel"
 
 msgid "Error changing day"
-msgstr ""
+msgstr "Viga päeva muutmisel"
 
 msgid "Error processing location data"
-msgstr ""
+msgstr "Viga asukohaandmete töötlemisel"
 
 msgid "Error saving favorites"
-msgstr ""
+msgstr "Viga lemmikute salvestamisel"
 
 msgid "Error saving location"
-msgstr ""
+msgstr "Viga asukoha salvestamisel"
 
 msgid "Error selecting location"
-msgstr ""
+msgstr "Viga asukoha valimisel"
 
 msgid "Error updating list"
-msgstr ""
+msgstr "Viga loendi värskendamisel"
 
 msgid "Exit"
-msgstr ""
+msgstr "Välju"
 
 msgid "Fahrenheit"
 msgstr "Fahrenheit"
 
 msgid "Favorites saved successfully"
-msgstr ""
+msgstr "Lemmikud salvestati edukalt"
 
 msgid "Feels like"
-msgstr ""
+msgstr "Tundub nagu"
 
 msgid "GREEN: MANAGEMENT FAVORITES | MENU: SETUP | INFO: DETAILS | HOME"
-msgstr ""
+msgstr "ROHELINE: JUHTIMISE LEMMIKUD | MENÜÜ: SEADISTUS | INFO: ANDMED | KODU"
 
 msgid "Glass"
-msgstr ""
+msgstr "Klaas"
 
 msgid "Humidity"
-msgstr ""
+msgstr "Niiskus"
 
 msgid "Invalid location coordinates"
-msgstr ""
+msgstr "Valed asukoha koordinaadid"
 
 msgid "Invalid location format"
-msgstr ""
+msgstr "Vale asukohavorming"
 
 msgid "Invalid selection"
-msgstr ""
+msgstr "Kehtetu valik"
 
 msgid "Less details / Larger font"
-msgstr ""
+msgstr "Vähem üksikasju / suurem font"
 
 msgid "Loading weather data..."
-msgstr ""
+msgstr "Ilmaandmete laadimine..."
 
 msgid "Location added successfully"
-msgstr ""
+msgstr "Asukoha lisamine õnnestus"
 
 msgid "Location added to favorites"
-msgstr ""
+msgstr "Asukoht lisati lemmikute hulka"
 
 msgid "Location already exists"
-msgstr ""
+msgstr "Asukoht on juba olemas"
 
 msgid "Location already in favorites"
-msgstr ""
+msgstr "Asukoht juba lemmikute hulgas"
 
 msgid "Location deleted"
-msgstr ""
+msgstr "Asukoht kustutatud"
 
 msgid "Location with similar coordinates already exists"
-msgstr ""
+msgstr "Sarnaste koordinaatidega asukoht on juba olemas"
 
 msgid "MSN weather"
-msgstr ""
+msgstr "MSN ilm"
 
 msgid "Manage Favorites"
-msgstr ""
+msgstr "Lemmikute haldamine"
 
 msgid "Menu"
-msgstr ""
+msgstr "Menüü"
 
 msgid "Metric unit for wind speed"
-msgstr ""
+msgstr "Tuule kiiruse meetermõõdustik"
 
 msgid "More Details / Smaller font"
-msgstr ""
+msgstr "Rohkem üksikasju / väiksem font"
 
 msgid "N/A"
-msgstr ""
+msgstr "Ei kehti"
 
 msgid "Next favorite"
-msgstr ""
+msgstr "Järgmine lemmik"
 
 msgid "No data"
-msgstr ""
+msgstr "Andmed puuduvad"
 
 msgid "No locations found"
-msgstr ""
+msgstr "Ühtegi asukohta ei leitud"
 
 msgid "North"
-msgstr ""
+msgstr "Põhja"
 
 msgid "Northeast"
-msgstr ""
+msgstr "Kirde"
 
 msgid "Northwest"
-msgstr ""
+msgstr "Loode"
 
 msgid "Open-Meteo Wetter"
-msgstr ""
+msgstr "Open-Meteo Ilm"
 
 msgid "OpenWeatherMap"
 msgstr ""
 
 msgid "Please enter a valid city name."
-msgstr ""
+msgstr "Sisestage kehtiv linna nimi."
 
 msgid "Please enter at least 3 characters"
-msgstr ""
+msgstr "Sisestage vähemalt 3 tähemärki"
 
 msgid "Precipitation"
-msgstr ""
+msgstr "Sademed"
 
 msgid "Previous favorite"
-msgstr ""
+msgstr "Eelmine lemmik"
 
 msgid "Refresh interval"
-msgstr ""
+msgstr "Värskendusintervall"
 
 msgid "Refresh interval :"
-msgstr ""
+msgstr "Värskendusintervall:"
 
 msgid "Save"
-msgstr ""
+msgstr "Salvesta"
 
 msgid "Select 'Yes' to enable add debug output to log."
-msgstr ""
+msgstr "Logi sisse silumisväljundi lisamise lubamiseks valige „Jah”."
 
 msgid "Select 'Yes' to enable the addition of Weather."
-msgstr ""
+msgstr "Valige "Jah", et lubada Ilma lisamine."
 
 msgid "Select location"
-msgstr ""
+msgstr "Valige asukoht"
 
 msgid "Select the City and Press Ok"
-msgstr ""
+msgstr "Valige linn ja vajutage OK"
 
 msgid "Select the detail level in the detail view. You have the choice between a comprehensive presentation in a smaller font and a reduced presentation with a larger font."
-msgstr ""
+msgstr "Valige üksikasjavaates üksikasjalikkuse tase. Teil on valida tervikliku väiksemas kirjas esitluse või suurema kirjaga vähendatud esitluse vahel."
 
 msgid "Select the metric unit for wind speed to be used for wind displays. This has no effect on the imperial unit 'mph'."
-msgstr ""
+msgstr "Valige tuulenäidikute jaoks kasutatav tuulekiiruse meetermõõdustik. See ei mõjuta impeeriumi ühikut „mph”."
 
 msgid "Select the preferred weather service to supply the weather information."
-msgstr ""
+msgstr "Valige ilmateabe edastamiseks eelistatud ilmateenus."
 
 msgid "Select the temperature unit to be used for temperature displays."
-msgstr ""
+msgstr "Valige temperatuurinäidikute jaoks kasutatav temperatuuriühik."
 
 msgid "Select this option to save that last obtained weather data locally. This is used to initialize the data immediately after restart while updated data is being fetched."
-msgstr ""
+msgstr "Valige see suvand, et salvestada viimati saadud ilmaandmed kohapeal. Seda kasutatakse andmete lähtestamiseks kohe pärast taaskäivitamist, samal ajal kui värskendatud andmeid tuuakse."
 
 msgid "Settings"
-msgstr ""
+msgstr "Seaded"
 
 msgid "Setup"
-msgstr ""
+msgstr "Seadistamine"
 
 msgid "Show Weather Forecast"
-msgstr ""
+msgstr "Näita ilmateadet"
 
 msgid "Show trend arrows for moon data"
-msgstr ""
+msgstr "Kuva kuuandmete trendi nooled"
 
 msgid "Show trend arrows for moon illumination and moon distance to see the current trend of the data."
-msgstr ""
+msgstr "Andmete praeguse trendi nägemiseks kuvage kuu valgustuse ja kuu kauguse trendi nooled."
 
 msgid "South"
-msgstr ""
+msgstr "Lõuna"
 
 msgid "Southeast"
-msgstr ""
+msgstr "Kagu"
 
 msgid "Southwest"
-msgstr ""
+msgstr "Edela"
 
 msgid "Specify how often Weather retrieves its data from the server. 'Once' means the data will loaded only once after a GUI or system start."
-msgstr ""
+msgstr "Määrake, kui sageli Weather oma andmeid serverist hangib. „Üks kord” tähendab, et andmed laaditakse pärast GUI või süsteemi käivitamist ainult üks kord."
 
 msgid "Standard fertig"
-msgstr ""
+msgstr "Standardne valmis"
 
 msgid "Temperature unit"
-msgstr ""
+msgstr "Temperatuuri ühik"
 
 msgid "Temperature unit :"
-msgstr ""
+msgstr "Temperatuuri ühik:"
 
 msgid "Today"
-msgstr ""
+msgstr "Täna"
 
 msgid "Try refreshing or check settings"
-msgstr ""
+msgstr "Proovige värskendada või kontrollige seadeid"
 
 msgid "Update"
-msgstr ""
+msgstr "Värskenda"
 
 msgid "View details"
-msgstr ""
+msgstr "Vaadake üksikasju"
 
 #, fuzzy
 msgid "Weather API key :"
 msgstr "Ilma andmed"
 
 msgid "Weather API key v2.5"
-msgstr ""
+msgstr "Ilm API võti v2.5"
 
 #, fuzzy
 msgid "Weather Plugin"
@@ -340,17 +340,17 @@ msgid "Weather Plugin Detailview"
 msgstr "Ilma andmed"
 
 msgid "Weather city name"
-msgstr ""
+msgstr "Ilma linna nimi"
 
 #, fuzzy
 msgid "Weather city name :"
 msgstr "Ilma andmed"
 
 msgid "Weather data unavailable"
-msgstr ""
+msgstr "Ilmaandmed pole saadaval"
 
 msgid "Weather icon night switch"
-msgstr ""
+msgstr "Ilmaikooni öölüliti"
 
 #, fuzzy
 msgid "Weather icon night switch :"
@@ -365,7 +365,7 @@ msgid "Weather icon set :"
 msgstr "Ilma andmed"
 
 msgid "Weather service"
-msgstr ""
+msgstr "Ilmateenistus"
 
 #, fuzzy
 msgid "Weather service :"
@@ -375,16 +375,16 @@ msgid "Weather settings"
 msgstr "Ilma andmed"
 
 msgid "West"
-msgstr ""
+msgstr "läänes"
 
 msgid "Wind speed metric unit:"
-msgstr ""
+msgstr "Tuule kiiruse mõõtühik:"
 
 msgid "You have unsaved changes. Save before exiting?"
-msgstr ""
+msgstr "Teil on salvestamata muudatusi. Kas salvestada enne väljumist?"
 
 msgid "exit"
-msgstr ""
+msgstr "väljuda"
 
 msgid "km/h"
 msgstr ""

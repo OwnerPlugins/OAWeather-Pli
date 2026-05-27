@@ -15,370 +15,370 @@ msgstr ""
 # FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
 #
 msgid "%d Minutes"
-msgstr ""
+msgstr "%d дақиқа"
 
 msgid "Add"
-msgstr ""
+msgstr "Илова"
 
 msgid "Add Fav"
-msgstr ""
+msgstr "Иловаи Fav"
 
 msgid "Cache data"
-msgstr ""
+msgstr "Маълумоти кэш"
 
 msgid "Cache data :"
-msgstr ""
+msgstr "Маълумоти кэш:"
 
 msgid "Celsius"
-msgstr ""
+msgstr "Цельсий"
 
 msgid "Choose the icon set. You need to create an additional set here: /usr/share/enigma2/WeatherIconSets/NAME."
-msgstr ""
+msgstr "Маҷмӯи нишонаҳоро интихоб кунед. Шумо бояд дар ин ҷо маҷмӯи иловагӣ эҷод кунед: /usr/share/enigma2/WeatherIconSets/NAME."
 
 msgid "Choose whether the 'night switch' should be activated or not. Some icons are then displayed as night icons with moon."
-msgstr ""
+msgstr "Интихоб кунед, ки "гузариши шабона" бояд фаъол бошад ё не. Пас аз он баъзе нишонаҳо ҳамчун нишонаҳои шабона бо моҳ нишон дода мешаванд."
 
 msgid "Chose favorite"
-msgstr ""
+msgstr "Дӯстдоштаро интихоб кунед"
 
 msgid "City name must be at least 3 characters"
-msgstr ""
+msgstr "Номи шаҳр бояд на камтар аз 3 аломат бошад"
 
 msgid "Coordinates not available for this location"
-msgstr ""
+msgstr "Координатҳо барои ин макон дастрас нестанд"
 
 msgid "Current Weather"
-msgstr ""
+msgstr "Обу ҳавои ҷорӣ"
 
 msgid "Day +/-"
-msgstr ""
+msgstr "рӯз +/-"
 
 msgid "Default"
-msgstr ""
+msgstr "Пешфарз"
 
 msgid "Defaults"
-msgstr ""
+msgstr "Пешфарзҳо"
 
 msgid "Delete"
-msgstr ""
+msgstr "Нобуд кунед"
 
 msgid "Delete failed"
-msgstr ""
+msgstr "Нест кардан натавонист"
 
 msgid "Delete {}?"
-msgstr ""
+msgstr "{} нест карда шавад?"
 
 msgid "Detail level in detail view"
-msgstr ""
+msgstr "Сатҳи тафсилот дар намуди муфассал"
 
 msgid "Details +/-"
-msgstr ""
+msgstr "Тафсилот +/-"
 
 msgid "Disabled"
-msgstr ""
+msgstr "Маъюб"
 
 msgid "East"
-msgstr ""
+msgstr "Шарқ"
 
 msgid "Edit"
-msgstr ""
+msgstr "Таҳрир"
 
 msgid "Edit city name"
-msgstr ""
+msgstr "Номи шаҳрро таҳрир кунед"
 
 msgid "Enable Debug"
-msgstr ""
+msgstr "Debug-ро фаъол созед"
 
 msgid "Enable Debug :"
-msgstr ""
+msgstr "Debug-ро фаъол созед:"
 
 msgid "Enabled"
-msgstr ""
+msgstr "Фаъол"
 
 msgid "Enabled :"
-msgstr ""
+msgstr "Фаъол:"
 
 msgid "Enter a personalized API key v2.5 for use with OpenWeatherMap (https://openweathermap.org/)."
-msgstr ""
+msgstr "Калиди фардии API v2.5-ро барои истифода бо OpenWeatherMap ворид кунед (https://openweathermap.org/)."
 
 msgid "Enter city name (e.g. 'Rome, IT')"
-msgstr ""
+msgstr "Номи шаҳрро ворид кунед (масалан, 'Rome, IT')"
 
 msgid "Enter the location for your weather forecasts. To include your location, expand your favorites list with 'Manage your favorites'."
-msgstr ""
+msgstr "Ҷойгоҳи пешгӯии обу ҳавои худро ворид кунед. Барои дохил кардани макони худ, рӯйхати дӯстдоштаҳои худро бо "Идора кардани дӯстдоштаҳои худ" васеъ кунед."
 
 msgid "Error adding location"
-msgstr ""
+msgstr "Хатогӣ ҳангоми илова кардани ҷойгиршавӣ"
 
 msgid "Error changing day"
-msgstr ""
+msgstr "Хатогӣ ҳангоми тағир додани рӯз"
 
 msgid "Error processing location data"
-msgstr ""
+msgstr "Хатогӣ дар коркарди маълумоти ҷойгиршавӣ"
 
 msgid "Error saving favorites"
-msgstr ""
+msgstr "Хатогӣ ҳангоми захира кардани дӯстдоштаҳо"
 
 msgid "Error saving location"
-msgstr ""
+msgstr "Хатогӣ ҳангоми захира кардани макон"
 
 msgid "Error selecting location"
-msgstr ""
+msgstr "Хатогӣ ҳангоми интихоби макон"
 
 msgid "Error updating list"
-msgstr ""
+msgstr "Хатогӣ дар навсозии рӯйхат"
 
 msgid "Exit"
-msgstr ""
+msgstr "Баромадгоҳ"
 
 msgid "Fahrenheit"
-msgstr ""
+msgstr "Фаренгейт"
 
 msgid "Favorites saved successfully"
-msgstr ""
+msgstr "Дӯстдоштаҳо бомуваффақият захира карда шуданд"
 
 msgid "Feels like"
-msgstr ""
+msgstr "Ҳис мекунад"
 
 msgid "GREEN: MANAGEMENT FAVORITES | MENU: SETUP | INFO: DETAILS | HOME"
-msgstr ""
+msgstr "САБЗ: дӯстдоштаи идоракунии | МЕНЮ: НАЗОР | МАЪЛУМОТ: ТАФСИЛОТ | ХОНА"
 
 msgid "Glass"
-msgstr ""
+msgstr "Шиша"
 
 msgid "Humidity"
-msgstr ""
+msgstr "Намӣ"
 
 msgid "Invalid location coordinates"
-msgstr ""
+msgstr "Координатҳои ҷойгиршавии нодуруст"
 
 msgid "Invalid location format"
-msgstr ""
+msgstr "Формати ҷойгиршавӣ нодуруст"
 
 msgid "Invalid selection"
-msgstr ""
+msgstr "Интихоби нодуруст"
 
 msgid "Less details / Larger font"
-msgstr ""
+msgstr "Тафсилоти камтар / Ҳарфи калонтар"
 
 msgid "Loading weather data..."
-msgstr ""
+msgstr "Маълумоти обу ҳаво бор карда мешавад..."
 
 msgid "Location added successfully"
-msgstr ""
+msgstr "Ҷойгиршавӣ бомуваффақият илова карда шуд"
 
 msgid "Location added to favorites"
-msgstr ""
+msgstr "Ҷойгиршавӣ ба дӯстдоштаҳо илова карда шуд"
 
 msgid "Location already exists"
-msgstr ""
+msgstr "Ҷойгир аллакай мавҷуд аст"
 
 msgid "Location already in favorites"
-msgstr ""
+msgstr "Ҷойгир аллакай дар мунтахабҳо"
 
 msgid "Location deleted"
-msgstr ""
+msgstr "Ҷойгиршавӣ нест карда шуд"
 
 msgid "Location with similar coordinates already exists"
-msgstr ""
+msgstr "Ҷойгоҳ бо координатҳои шабеҳ аллакай вуҷуд дорад"
 
 msgid "MSN weather"
-msgstr ""
+msgstr "Обу ҳавои MSN"
 
 msgid "Manage Favorites"
-msgstr ""
+msgstr "Дӯстдоштаҳоро идора кунед"
 
 msgid "Menu"
-msgstr ""
+msgstr "Меню"
 
 msgid "Metric unit for wind speed"
-msgstr ""
+msgstr "Воҳиди метрӣ барои суръати шамол"
 
 msgid "More Details / Smaller font"
-msgstr ""
+msgstr "Тафсилоти бештар / Ҳарфи хурдтар"
 
 msgid "N/A"
-msgstr ""
+msgstr "Не"
 
 msgid "Next favorite"
-msgstr ""
+msgstr "Дӯстдоштаи навбатӣ"
 
 msgid "No data"
-msgstr ""
+msgstr "Маълумот нест"
 
 msgid "No locations found"
-msgstr ""
+msgstr "Ягон макон ёфт нашуд"
 
 msgid "North"
-msgstr ""
+msgstr "Шимол"
 
 msgid "Northeast"
-msgstr ""
+msgstr "Шимолу шарк"
 
 msgid "Northwest"
-msgstr ""
+msgstr "Шимолу гарбй"
 
 msgid "Open-Meteo Wetter"
-msgstr ""
+msgstr "Обу ҳавои кушод"
 
 msgid "OpenWeatherMap"
-msgstr ""
+msgstr "Харитаи ҳавои кушод"
 
 msgid "Please enter a valid city name."
-msgstr ""
+msgstr "Лутфан номи дурусти шаҳрро ворид кунед."
 
 msgid "Please enter at least 3 characters"
-msgstr ""
+msgstr "Лутфан ҳадди аққал 3 аломат ворид кунед"
 
 msgid "Precipitation"
-msgstr ""
+msgstr "Боришот"
 
 msgid "Previous favorite"
-msgstr ""
+msgstr "Дӯстдоштаи қаблӣ"
 
 msgid "Refresh interval"
-msgstr ""
+msgstr "Фосилаи навсозӣ"
 
 msgid "Refresh interval :"
-msgstr ""
+msgstr "Фосилаи навсозӣ:"
 
 msgid "Save"
-msgstr ""
+msgstr "Захира кунед"
 
 msgid "Select 'Yes' to enable add debug output to log."
-msgstr ""
+msgstr ""Ҳа" -ро интихоб кунед, то илова кардани баромади хатогиҳоро ба сабт фаъол созед."
 
 msgid "Select 'Yes' to enable the addition of Weather."
-msgstr ""
+msgstr "Барои фаъол кардани иловаи обу ҳаво "Ҳа" -ро интихоб кунед."
 
 msgid "Select location"
-msgstr ""
+msgstr "Ҷойгирро интихоб кунед"
 
 msgid "Select the City and Press Ok"
-msgstr ""
+msgstr "Шаҳрро интихоб кунед ва Хубро пахш кунед"
 
 msgid "Select the detail level in the detail view. You have the choice between a comprehensive presentation in a smaller font and a reduced presentation with a larger font."
-msgstr ""
+msgstr "Дар намуди тафсилот сатҳи тафсилотро интихоб кунед. Шумо интихоби байни презентатсияи ҳамаҷониба бо ҳуруфи хурдтар ва презентатсияи хурдтар бо ҳуруфи калонтарро доред."
 
 msgid "Select the metric unit for wind speed to be used for wind displays. This has no effect on the imperial unit 'mph'."
-msgstr ""
+msgstr "Воҳиди метриро барои суръати шамол, ки барои намоиши шамол истифода мешавад, интихоб кунед. Ин ба воҳиди императории 'mph' таъсире надорад."
 
 msgid "Select the preferred weather service to supply the weather information."
-msgstr ""
+msgstr "Барои пешниҳоди иттилооти обу ҳаво хидмати обу ҳаворо интихоб кунед."
 
 msgid "Select the temperature unit to be used for temperature displays."
-msgstr ""
+msgstr "Воҳиди ҳароратро, ки барои намоиши ҳарорат истифода мешавад, интихоб кунед."
 
 msgid "Select this option to save that last obtained weather data locally. This is used to initialize the data immediately after restart while updated data is being fetched."
-msgstr ""
+msgstr "Барои захира кардани маълумоти охирини обу ҳаво ба таври маҳаллӣ ин интихобро интихоб кунед. Ин барои оғоз кардани маълумот дарҳол пас аз бозоғозӣ ҳангоми гирифтани маълумоти навшуда истифода мешавад."
 
 msgid "Settings"
-msgstr ""
+msgstr "Танзимотҳо"
 
 msgid "Setup"
-msgstr ""
+msgstr "Ташкил кардан"
 
 msgid "Show Weather Forecast"
-msgstr ""
+msgstr "Пешгӯии обу ҳаворо нишон диҳед"
 
 msgid "Show trend arrows for moon data"
-msgstr ""
+msgstr "Тирҳои тамоюлро барои маълумоти моҳ нишон диҳед"
 
 msgid "Show trend arrows for moon illumination and moon distance to see the current trend of the data."
-msgstr ""
+msgstr "Тирҳои тамоюлро барои равшании моҳ ва масофаи моҳ нишон диҳед, то тамоюли кунунии маълумотро бубинед."
 
 msgid "South"
-msgstr ""
+msgstr "Ҷанубӣ"
 
 msgid "Southeast"
-msgstr ""
+msgstr "Ҷанубу Шарқӣ"
 
 msgid "Southwest"
-msgstr ""
+msgstr "Ҷанубу Ғарбӣ"
 
 msgid "Specify how often Weather retrieves its data from the server. 'Once' means the data will loaded only once after a GUI or system start."
-msgstr ""
+msgstr "Муайян кунед, ки чӣ қадар вақт Обу ҳаво маълумоти худро аз сервер бармегардонад. "Як бор" маънои онро дорад, ки маълумот танҳо як маротиба пас аз оғози GUI ё система бор карда мешавад."
 
 msgid "Standard fertig"
-msgstr ""
+msgstr "Стандарт анҷом ёфт"
 
 msgid "Temperature unit"
-msgstr ""
+msgstr "Воҳиди ҳарорат"
 
 msgid "Temperature unit :"
-msgstr ""
+msgstr "Воҳиди ҳарорат:"
 
 msgid "Today"
-msgstr ""
+msgstr "Имруз"
 
 msgid "Try refreshing or check settings"
-msgstr ""
+msgstr "Кӯшиш кунед, ки танзимотро тароват диҳед ё тафтиш кунед"
 
 msgid "Update"
-msgstr ""
+msgstr "Навсозӣ"
 
 msgid "View details"
-msgstr ""
+msgstr "Тафсилотро дидан"
 
 msgid "Weather API key :"
-msgstr ""
+msgstr "Калиди API Обу ҳаво:"
 
 msgid "Weather API key v2.5"
-msgstr ""
+msgstr "Калиди обу ҳаво API v2.5"
 
 msgid "Weather Plugin"
-msgstr ""
+msgstr "Васлкунаки обу ҳаво"
 
 msgid "Weather Plugin Detailview"
-msgstr ""
+msgstr "Тафсилоти Васлкунаки обу ҳаво"
 
 msgid "Weather city name"
-msgstr ""
+msgstr "Номи обу ҳаво"
 
 msgid "Weather city name :"
-msgstr ""
+msgstr "Номи обу ҳаво:"
 
 msgid "Weather data unavailable"
-msgstr ""
+msgstr "Маълумоти обу ҳаво дастрас нест"
 
 msgid "Weather icon night switch"
-msgstr ""
+msgstr "Калиди шабонарӯзии тасвири обу ҳаво"
 
 msgid "Weather icon night switch :"
-msgstr ""
+msgstr "Калиди тасвири обу ҳаво:"
 
 msgid "Weather icon set"
-msgstr ""
+msgstr "Маҷмӯи тасвири обу ҳаво"
 
 msgid "Weather icon set :"
-msgstr ""
+msgstr "Маҷмӯи тасвири обу ҳаво:"
 
 msgid "Weather service"
-msgstr ""
+msgstr "Хадамоти обу ҳаво"
 
 msgid "Weather service :"
-msgstr ""
+msgstr "Хадамоти обу ҳаво:"
 
 msgid "Weather settings"
-msgstr ""
+msgstr "Танзимоти обу ҳаво"
 
 msgid "West"
-msgstr ""
+msgstr "Ғарб"
 
 msgid "Wind speed metric unit:"
-msgstr ""
+msgstr "Воҳиди метрии суръати шамол:"
 
 msgid "You have unsaved changes. Save before exiting?"
-msgstr ""
+msgstr "Шумо тағйироти захиранашуда доред. Пеш аз баромадан захира кунед?"
 
 msgid "exit"
-msgstr ""
+msgstr "Баромадгоҳ"
 
 msgid "km/h"
-msgstr ""
+msgstr "км/соат"
 
 msgid "m/s"
-msgstr ""
+msgstr "Бону"
 
 msgid "n/a"
-msgstr ""
+msgstr "не"

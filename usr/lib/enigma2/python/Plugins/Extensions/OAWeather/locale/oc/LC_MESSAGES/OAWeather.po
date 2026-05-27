@@ -15,364 +15,364 @@ msgstr ""
 # FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
 #
 msgid "%d Minutes"
-msgstr ""
+msgstr "%d Minutas"
 
 msgid "Add"
-msgstr ""
+msgstr "Apondre"
 
 msgid "Add Fav"
-msgstr ""
+msgstr "Ajustar Fav"
 
 msgid "Cache data"
-msgstr ""
+msgstr "Donadas de cache"
 
 msgid "Cache data :"
-msgstr ""
+msgstr "Donadas de cache :"
 
 msgid "Celsius"
 msgstr ""
 
 msgid "Choose the icon set. You need to create an additional set here: /usr/share/enigma2/WeatherIconSets/NAME."
-msgstr ""
+msgstr "Causissètz l'ensemble d'icònas. Vos cal crear un ensemble suplementari aicí : /usr/share/enigma2/WeatherIconSets/NAME."
 
 msgid "Choose whether the 'night switch' should be activated or not. Some icons are then displayed as night icons with moon."
-msgstr ""
+msgstr "Causissètz se l''interruptor de nuèch' deu èsser activat o pas. Qualques icònas son alara afichadas coma icònas de nuèch amb la luna."
 
 msgid "Chose favorite"
-msgstr ""
+msgstr "Causissètz lo favorit"
 
 msgid "City name must be at least 3 characters"
-msgstr ""
+msgstr "Lo nom de la vila deu aver al mens 3 caractèrs"
 
 msgid "Coordinates not available for this location"
-msgstr ""
+msgstr "De coordenadas pas disponiblas per aqueste emplaçament"
 
 msgid "Current Weather"
-msgstr ""
+msgstr "Temps actual"
 
 msgid "Day +/-"
-msgstr ""
+msgstr "Jorn +/-"
 
 msgid "Default"
-msgstr ""
+msgstr "Defaut"
 
 msgid "Defaults"
-msgstr ""
+msgstr "Per defaut"
 
 msgid "Delete"
-msgstr ""
+msgstr "Escafar"
 
 msgid "Delete failed"
-msgstr ""
+msgstr "La supression a fracassat"
 
 msgid "Delete {}?"
-msgstr ""
+msgstr "Escafar {}?"
 
 msgid "Detail level in detail view"
-msgstr ""
+msgstr "Nivèl de detalh dins la vista de detalh"
 
 msgid "Details +/-"
-msgstr ""
+msgstr "Detalhs +/-"
 
 msgid "Disabled"
-msgstr ""
+msgstr "Desactivat"
 
 msgid "East"
-msgstr ""
+msgstr "Èst"
 
 msgid "Edit"
-msgstr ""
+msgstr "Modificar"
 
 msgid "Edit city name"
-msgstr ""
+msgstr "Modificar lo nom de la vila"
 
 msgid "Enable Debug"
-msgstr ""
+msgstr "Activar lo desbugatge"
 
 msgid "Enable Debug :"
-msgstr ""
+msgstr "Activar lo desbugatge :"
 
 msgid "Enabled"
-msgstr ""
+msgstr "Activat"
 
 msgid "Enabled :"
-msgstr ""
+msgstr "Activat :"
 
 msgid "Enter a personalized API key v2.5 for use with OpenWeatherMap (https://openweathermap.org/)."
-msgstr ""
+msgstr "Picatz una clau API personalizada v2.5 per l'utilizar amb OpenWeatherMap (https://openweathermap.org/)."
 
 msgid "Enter city name (e.g. 'Rome, IT')"
-msgstr ""
+msgstr "Picatz lo nom de la vila (per exemple 'Rome, IT')"
 
 msgid "Enter the location for your weather forecasts. To include your location, expand your favorites list with 'Manage your favorites'."
-msgstr ""
+msgstr "Picatz l'emplaçament per vòstras previsions meteorologicas. Per inclure vòstre emplaçament, espandissètz vòstra lista de favorits amb 'Gerir vòstres favorits'."
 
 msgid "Error adding location"
-msgstr ""
+msgstr "Error a l'apondon d'emplaçament"
 
 msgid "Error changing day"
-msgstr ""
+msgstr "Error al moment de cambiar lo jorn"
 
 msgid "Error processing location data"
-msgstr ""
+msgstr "Error al tractament de las donadas d'emplaçament"
 
 msgid "Error saving favorites"
-msgstr ""
+msgstr "Error al moment de l'enregistrament dels favorits"
 
 msgid "Error saving location"
-msgstr ""
+msgstr "Error al moment de l'enregistrament de l'emplaçament"
 
 msgid "Error selecting location"
-msgstr ""
+msgstr "Error al moment de seleccionar l'emplaçament"
 
 msgid "Error updating list"
-msgstr ""
+msgstr "Error al moment de la lista de mesa a jorn"
 
 msgid "Exit"
-msgstr ""
+msgstr "Sortida"
 
 msgid "Fahrenheit"
 msgstr ""
 
 msgid "Favorites saved successfully"
-msgstr ""
+msgstr "Los favorits enregistrats amb succès"
 
 msgid "Feels like"
-msgstr ""
+msgstr "Sembla coma"
 
 msgid "GREEN: MANAGEMENT FAVORITES | MENU: SETUP | INFO: DETAILS | HOME"
-msgstr ""
+msgstr "VERD: FAVORITOS DE LA GESTION | MENU: CONFIGURACION | INFORMACION: DETALLES | OSTAL"
 
 msgid "Glass"
-msgstr ""
+msgstr "Veire"
 
 msgid "Humidity"
-msgstr ""
+msgstr "Umiditat"
 
 msgid "Invalid location coordinates"
-msgstr ""
+msgstr "Coordenadas d'emplaçament invalidas"
 
 msgid "Invalid location format"
-msgstr ""
+msgstr "Format d'emplaçament invalid"
 
 msgid "Invalid selection"
-msgstr ""
+msgstr "Seleccion invalida"
 
 msgid "Less details / Larger font"
-msgstr ""
+msgstr "Mens de detalhs / Poliça mai granda"
 
 msgid "Loading weather data..."
-msgstr ""
+msgstr "En cargament de donadas meteorologicas..."
 
 msgid "Location added successfully"
-msgstr ""
+msgstr "L'emplaçament apondut amb succès"
 
 msgid "Location added to favorites"
-msgstr ""
+msgstr "Emplaçament apondut als favorits"
 
 msgid "Location already exists"
-msgstr ""
+msgstr "L'emplaçament existís ja"
 
 msgid "Location already in favorites"
-msgstr ""
+msgstr "Emplaçament ja dins los favorits"
 
 msgid "Location deleted"
-msgstr ""
+msgstr "Emplaçament suprimit"
 
 msgid "Location with similar coordinates already exists"
-msgstr ""
+msgstr "L'emplaçament amb de coordenadas similaras existís ja"
 
 msgid "MSN weather"
-msgstr ""
+msgstr "MSN temps"
 
 msgid "Manage Favorites"
-msgstr ""
+msgstr "Gerir los favorits"
 
 msgid "Menu"
-msgstr ""
+msgstr "Menú"
 
 msgid "Metric unit for wind speed"
-msgstr ""
+msgstr "Unitat metrica per la velocitat del vent"
 
 msgid "More Details / Smaller font"
-msgstr ""
+msgstr "Mai de detalhs / Poliça mai pichona"
 
 msgid "N/A"
 msgstr ""
 
 msgid "Next favorite"
-msgstr ""
+msgstr "Favorit seguent"
 
 msgid "No data"
-msgstr ""
+msgstr "Pas de donadas"
 
 msgid "No locations found"
-msgstr ""
+msgstr "Cap d'emplaçament pas trobat"
 
 msgid "North"
-msgstr ""
+msgstr "Nòrd"
 
 msgid "Northeast"
-msgstr ""
+msgstr "Nòrd-èst"
 
 msgid "Northwest"
-msgstr ""
+msgstr "Nòrd-oèst"
 
 msgid "Open-Meteo Wetter"
-msgstr ""
+msgstr "Temps de Meteo Dubèrt"
 
 msgid "OpenWeatherMap"
 msgstr ""
 
 msgid "Please enter a valid city name."
-msgstr ""
+msgstr "Picatz un nom de vila valid."
 
 msgid "Please enter at least 3 characters"
-msgstr ""
+msgstr "Picatz al mens 3 caractèrs"
 
 msgid "Precipitation"
-msgstr ""
+msgstr "Precipitacion"
 
 msgid "Previous favorite"
-msgstr ""
+msgstr "Favorit precedent"
 
 msgid "Refresh interval"
-msgstr ""
+msgstr "Interval d'actualizacion"
 
 msgid "Refresh interval :"
-msgstr ""
+msgstr "Interval d'actualizacion :"
 
 msgid "Save"
-msgstr ""
+msgstr "Salvar"
 
 msgid "Select 'Yes' to enable add debug output to log."
-msgstr ""
+msgstr "Seleccionatz « Òc » per activar apondre una sortida de depuracion al jornal."
 
 msgid "Select 'Yes' to enable the addition of Weather."
-msgstr ""
+msgstr "Seleccionatz 'Òc' per activar l'addicion de Meteo."
 
 msgid "Select location"
-msgstr ""
+msgstr "Seleccionar l'emplaçament"
 
 msgid "Select the City and Press Ok"
-msgstr ""
+msgstr "Seleccionatz la vila e quichatz sus D'acòrdi"
 
 msgid "Select the detail level in the detail view. You have the choice between a comprehensive presentation in a smaller font and a reduced presentation with a larger font."
-msgstr ""
+msgstr "Seleccionatz lo nivèl de detalh dins la vista de detalh. Avètz la causida entre una presentacion completa dins una poliça mai pichona e una presentacion redusida amb una poliça mai granda."
 
 msgid "Select the metric unit for wind speed to be used for wind displays. This has no effect on the imperial unit 'mph'."
-msgstr ""
+msgstr "Seleccionatz l'unitat metric per la velocitat del vent per èsser utilizada pels afichatges del vent. Aquò a pas cap d'efièch sus l'unitat imperiala 'mph'."
 
 msgid "Select the preferred weather service to supply the weather information."
-msgstr ""
+msgstr "Seleccionatz lo servici meteorologic preferit per provesir las informacions meteorologicas."
 
 msgid "Select the temperature unit to be used for temperature displays."
-msgstr ""
+msgstr "Seleccionatz l'unitat de temperatura a utilizar pels afichaments de temperatura."
 
 msgid "Select this option to save that last obtained weather data locally. This is used to initialize the data immediately after restart while updated data is being fetched."
-msgstr ""
+msgstr "Seleccionatz aquesta opcion per enregistrar localament aquelas darrièras donadas meteorologicas obtengudas. Aquò es utilizat per inicializar las donadas immediatament après lo reaviada del temps que las donadas mesas a jorn son en cors de recuperacion."
 
 msgid "Settings"
-msgstr ""
+msgstr "Paramètres"
 
 msgid "Setup"
-msgstr ""
+msgstr "Metre en plaça"
 
 msgid "Show Weather Forecast"
-msgstr ""
+msgstr "Mostrar la prevision meteorologica"
 
 msgid "Show trend arrows for moon data"
-msgstr ""
+msgstr "Mostrar las sagetas de tendéncia per las donadas de la luna"
 
 msgid "Show trend arrows for moon illumination and moon distance to see the current trend of the data."
-msgstr ""
+msgstr "Mostrar las flèchas de tendéncia per l'esclairatge de la luna e la distància de la luna per veire la tendéncia actuala de las donadas."
 
 msgid "South"
-msgstr ""
+msgstr "Sud"
 
 msgid "Southeast"
-msgstr ""
+msgstr "Sud-Èst"
 
 msgid "Southwest"
-msgstr ""
+msgstr "Sud-oèst"
 
 msgid "Specify how often Weather retrieves its data from the server. 'Once' means the data will loaded only once after a GUI or system start."
-msgstr ""
+msgstr "Especificatz amb quina frequéncia Weather recupera sas donadas del servidor. 'Un còp' significa que las donadas seràn cargadas sonque un còp après una utilizacion d'interfaci utilizada o un sistèma."
 
 msgid "Standard fertig"
-msgstr ""
+msgstr "Acabat estandard"
 
 msgid "Temperature unit"
-msgstr ""
+msgstr "Unitat de temperatura"
 
 msgid "Temperature unit :"
-msgstr ""
+msgstr "Unitat de temperatura :"
 
 msgid "Today"
-msgstr ""
+msgstr "Uèi"
 
 msgid "Try refreshing or check settings"
-msgstr ""
+msgstr "Ensajatz d'actualizar o verificatz los paramètres"
 
 msgid "Update"
-msgstr ""
+msgstr "Metre al jorn"
 
 msgid "View details"
-msgstr ""
+msgstr "Veire los detalhs"
 
 msgid "Weather API key :"
-msgstr ""
+msgstr "Clau API del temps :"
 
 msgid "Weather API key v2.5"
-msgstr ""
+msgstr "Clau de l'API del temps v2.5"
 
 msgid "Weather Plugin"
-msgstr ""
+msgstr "Ensamblador Meteorologic"
 
 msgid "Weather Plugin Detailview"
-msgstr ""
+msgstr "Vista de detalhs del plugin meteorologic"
 
 msgid "Weather city name"
-msgstr ""
+msgstr "Meteo nom de la ciutat"
 
 msgid "Weather city name :"
-msgstr ""
+msgstr "Meteo nom de la ciutat :"
 
 msgid "Weather data unavailable"
-msgstr ""
+msgstr "Donadas meteorologicas pas disponiblas"
 
 msgid "Weather icon night switch"
-msgstr ""
+msgstr "Interruptor de nuèch d'icònas meteorologicas"
 
 msgid "Weather icon night switch :"
-msgstr ""
+msgstr "Interruptor de nuèch de l'icòna del temps :"
 
 msgid "Weather icon set"
-msgstr ""
+msgstr "Icònas meteorologicas establidas"
 
 msgid "Weather icon set :"
-msgstr ""
+msgstr "Ensemble d'icònas meteorologicas :"
 
 msgid "Weather service"
-msgstr ""
+msgstr "Servici meteorologic"
 
 msgid "Weather service :"
-msgstr ""
+msgstr "Servici meteorologic :"
 
 msgid "Weather settings"
-msgstr ""
+msgstr "Paramètres meteorologics"
 
 msgid "West"
-msgstr ""
+msgstr "Oèst"
 
 msgid "Wind speed metric unit:"
-msgstr ""
+msgstr "Unitat de velocitat del vent:"
 
 msgid "You have unsaved changes. Save before exiting?"
-msgstr ""
+msgstr "Avètz de modificacions pas enregistradas. Enregistrar abans de sortir?"
 
 msgid "exit"
-msgstr ""
+msgstr "sortida"
 
 msgid "km/h"
 msgstr ""

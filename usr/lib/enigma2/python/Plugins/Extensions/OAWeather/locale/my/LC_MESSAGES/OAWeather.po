@@ -15,370 +15,370 @@ msgstr ""
 # FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
 #
 msgid "%d Minutes"
-msgstr ""
+msgstr "%d မိနစ်"
 
 msgid "Add"
-msgstr ""
+msgstr "ထည့်ပါ။"
 
 msgid "Add Fav"
-msgstr ""
+msgstr "စိတ်ကြိုက်ထည့်ပါ။"
 
 msgid "Cache data"
-msgstr ""
+msgstr "ကက်ရှ်ဒေတာ"
 
 msgid "Cache data :"
-msgstr ""
+msgstr "ကက်ရှ်ဒေတာ"
 
 msgid "Celsius"
-msgstr ""
+msgstr "စင်တီဂရိတ်"
 
 msgid "Choose the icon set. You need to create an additional set here: /usr/share/enigma2/WeatherIconSets/NAME."
-msgstr ""
+msgstr "သတ်မှတ်အိုင်ကွန်ကို ရွေးပါ။ သင်သည် နောက်ထပ်အစုံတစ်ခုကို ဤနေရာတွင် ဖန်တီးရန် လိုအပ်သည်- /usr/share/enigma2/WeatherIconSets/NAME။"
 
 msgid "Choose whether the 'night switch' should be activated or not. Some icons are then displayed as night icons with moon."
-msgstr ""
+msgstr "'ညဘက်ခလုတ်' ကို အသက်သွင်းသင့်သည် သို့မဟုတ် မဖွင့်သင့်ကို ရွေးချယ်ပါ။ ထို့နောက် အချို့သော အိုင်ကွန်များကို လနှင့် ညသင်္ကေတများအဖြစ် ပြသသည်။"
 
 msgid "Chose favorite"
-msgstr ""
+msgstr "အကြိုက်ဆုံးကို ရွေးပါ။"
 
 msgid "City name must be at least 3 characters"
-msgstr ""
+msgstr "မြို့အမည်သည် အနည်းဆုံး စာလုံး 3 လုံးရှိရမည်။"
 
 msgid "Coordinates not available for this location"
-msgstr ""
+msgstr "ဤတည်နေရာအတွက် ညှိနှိုင်းချက်များကို မရရှိနိုင်ပါ။"
 
 msgid "Current Weather"
-msgstr ""
+msgstr "လက်ရှိ မိုးလေဝသ"
 
 msgid "Day +/-"
-msgstr ""
+msgstr "နေ့ +/-"
 
 msgid "Default"
-msgstr ""
+msgstr "ပုံသေ"
 
 msgid "Defaults"
-msgstr ""
+msgstr "ပုံသေ"
 
 msgid "Delete"
-msgstr ""
+msgstr "ဖျက်ပါ။"
 
 msgid "Delete failed"
-msgstr ""
+msgstr "ဖျက်၍မရပါ။"
 
 msgid "Delete {}?"
-msgstr ""
+msgstr "{} ကို ဖျက်မလား။"
 
 msgid "Detail level in detail view"
-msgstr ""
+msgstr "အသေးစိတ်အဆင့်ကို အသေးစိတ်ကြည့်ရှုပါ။"
 
 msgid "Details +/-"
-msgstr ""
+msgstr "အသေးစိတ်အချက်များ +/-"
 
 msgid "Disabled"
-msgstr ""
+msgstr "မသန်စွမ်း"
 
 msgid "East"
-msgstr ""
+msgstr "အရှေ့"
 
 msgid "Edit"
-msgstr ""
+msgstr "တည်းဖြတ်ပါ။"
 
 msgid "Edit city name"
-msgstr ""
+msgstr "မြို့အမည်ကို တည်းဖြတ်ပါ။"
 
 msgid "Enable Debug"
-msgstr ""
+msgstr "Debug ကိုဖွင့်ပါ။"
 
 msgid "Enable Debug :"
-msgstr ""
+msgstr "Debug ကိုဖွင့်ပါ"
 
 msgid "Enabled"
-msgstr ""
+msgstr "ဖွင့်ထားသည်။"
 
 msgid "Enabled :"
-msgstr ""
+msgstr "ဖွင့်ထားသည်-"
 
 msgid "Enter a personalized API key v2.5 for use with OpenWeatherMap (https://openweathermap.org/)."
-msgstr ""
+msgstr "OpenWeatherMap (https://openweathermap.org/) ဖြင့် အသုံးပြုရန်အတွက် စိတ်ကြိုက် API ကီး v2.5 ကို ထည့်သွင်းပါ။"
 
 msgid "Enter city name (e.g. 'Rome, IT')"
-msgstr ""
+msgstr "မြို့အမည်ကို ထည့်ပါ (ဥပမာ 'ရောမ၊ အိုင်တီ')"
 
 msgid "Enter the location for your weather forecasts. To include your location, expand your favorites list with 'Manage your favorites'."
-msgstr ""
+msgstr "သင်၏ရာသီဥတုခန့်မှန်းချက်များအတွက် တည်နေရာကို ထည့်သွင်းပါ။ သင့်တည်နေရာကို ထည့်သွင်းရန်အတွက် 'သင့်စိတ်ကြိုက်များကို စီမံပါ' ဖြင့် သင့်စိတ်ကြိုက်စာရင်းကို ချဲ့ထွင်ပါ။"
 
 msgid "Error adding location"
-msgstr ""
+msgstr "တည်နေရာကို ထည့်ရာတွင် အမှားအယွင်းရှိသည်။"
 
 msgid "Error changing day"
-msgstr ""
+msgstr "အမှားပြောင်းစေသည်။"
 
 msgid "Error processing location data"
-msgstr ""
+msgstr "တည်နေရာဒေတာကို လုပ်ဆောင်ရာတွင် အမှားအယွင်းရှိနေသည်။"
 
 msgid "Error saving favorites"
-msgstr ""
+msgstr "စိတ်ကြိုက်များကို သိမ်းဆည်းရာတွင် အမှားအယွင်းရှိသည်။"
 
 msgid "Error saving location"
-msgstr ""
+msgstr "တည်နေရာကို သိမ်းဆည်းရာတွင် အမှားအယွင်းရှိသည်။"
 
 msgid "Error selecting location"
-msgstr ""
+msgstr "တည်နေရာကို ရွေးရာတွင် အမှားအယွင်းရှိသည်။"
 
 msgid "Error updating list"
-msgstr ""
+msgstr "စာရင်းကို အပ်ဒိတ်လုပ်ရာတွင် အမှားအယွင်းရှိနေသည်။"
 
 msgid "Exit"
-msgstr ""
+msgstr "ထွက်ပေါက်"
 
 msgid "Fahrenheit"
-msgstr ""
+msgstr "ဖာရင်ဟိုက်"
 
 msgid "Favorites saved successfully"
-msgstr ""
+msgstr "စိတ်ကြိုက်များကို အောင်မြင်စွာ သိမ်းဆည်းပြီးပါပြီ။"
 
 msgid "Feels like"
-msgstr ""
+msgstr "ကြိုက်သလိုခံစားရတယ်။"
 
 msgid "GREEN: MANAGEMENT FAVORITES | MENU: SETUP | INFO: DETAILS | HOME"
-msgstr ""
+msgstr "အစိမ်းရောင်- စီမံခန့်ခွဲမှုအနှစ်သက်ဆုံးများ | MENU- SETUP | INFO: အသေးစိတ်အချက်အလက်များ | ပင်မ"
 
 msgid "Glass"
-msgstr ""
+msgstr "ဖန်"
 
 msgid "Humidity"
-msgstr ""
+msgstr "စိုထိုင်းဆ"
 
 msgid "Invalid location coordinates"
-msgstr ""
+msgstr "မမှန်ကန်သော တည်နေရာ သြဒိနိတ်များ"
 
 msgid "Invalid location format"
-msgstr ""
+msgstr "တည်နေရာဖော်မတ် မမှန်ကန်ပါ။"
 
 msgid "Invalid selection"
-msgstr ""
+msgstr "မမှန်ကန်သော ရွေးချယ်မှု"
 
 msgid "Less details / Larger font"
-msgstr ""
+msgstr "အသေးစိတ်အချက်များ / ပိုကြီးသောဖောင့်"
 
 msgid "Loading weather data..."
-msgstr ""
+msgstr "မိုးလေဝသဒေတာကို ဖွင့်နေသည်..."
 
 msgid "Location added successfully"
-msgstr ""
+msgstr "တည်နေရာကို အောင်မြင်စွာ ထည့်သွင်းခဲ့သည်။"
 
 msgid "Location added to favorites"
-msgstr ""
+msgstr "တည်နေရာကို စိတ်ကြိုက်များထဲသို့ ထည့်ထားသည်။"
 
 msgid "Location already exists"
-msgstr ""
+msgstr "တည်နေရာက ရှိပြီးသားပါ။"
 
 msgid "Location already in favorites"
-msgstr ""
+msgstr "တည်နေရာကို စိတ်ကြိုက်ဖြစ်နေပါပြီ။"
 
 msgid "Location deleted"
-msgstr ""
+msgstr "တည်နေရာကို ဖျက်လိုက်ပါပြီ။"
 
 msgid "Location with similar coordinates already exists"
-msgstr ""
+msgstr "အလားတူ သြဒိနိတ်များဖြင့် တည်နေရာ ရှိပြီးဖြစ်သည်။"
 
 msgid "MSN weather"
-msgstr ""
+msgstr "MSN ရာသီဥတု"
 
 msgid "Manage Favorites"
-msgstr ""
+msgstr "အကြိုက်ဆုံးများကို စီမံပါ။"
 
 msgid "Menu"
-msgstr ""
+msgstr "မီနူး"
 
 msgid "Metric unit for wind speed"
-msgstr ""
+msgstr "လေတိုက်နှုန်းအတွက် မက်ထရစ်ယူနစ်"
 
 msgid "More Details / Smaller font"
-msgstr ""
+msgstr "ပိုမိုအသေးစိတ် / သေးငယ်သောဖောင့်"
 
 msgid "N/A"
-msgstr ""
+msgstr "မရှိ"
 
 msgid "Next favorite"
-msgstr ""
+msgstr "နောက်အကြိုက်ဆုံး"
 
 msgid "No data"
-msgstr ""
+msgstr "ဒေတာမရှိပါ။"
 
 msgid "No locations found"
-msgstr ""
+msgstr "တည်နေရာမတွေ့ပါ။"
 
 msgid "North"
-msgstr ""
+msgstr "မြောက်ဦး"
 
 msgid "Northeast"
-msgstr ""
+msgstr "အရှေ့မြောက်"
 
 msgid "Northwest"
-msgstr ""
+msgstr "အနောက်မြောက်"
 
 msgid "Open-Meteo Wetter"
-msgstr ""
+msgstr "Open-Meteo မိုးလေဝသ"
 
 msgid "OpenWeatherMap"
 msgstr ""
 
 msgid "Please enter a valid city name."
-msgstr ""
+msgstr "ကျေးဇူးပြု၍ တရားဝင်မြို့အမည်ကို ထည့်ပါ။"
 
 msgid "Please enter at least 3 characters"
-msgstr ""
+msgstr "ကျေးဇူးပြု၍ အနည်းဆုံး စာလုံး 3 လုံးထည့်ပါ။"
 
 msgid "Precipitation"
-msgstr ""
+msgstr "မိုးရွာတယ်။"
 
 msgid "Previous favorite"
-msgstr ""
+msgstr "အရင်အကြိုက်"
 
 msgid "Refresh interval"
-msgstr ""
+msgstr "ကြားကာလကို ပြန်လည်စတင်ပါ။"
 
 msgid "Refresh interval :"
-msgstr ""
+msgstr "ပြန်လည်စတင်ချိန်-"
 
 msgid "Save"
-msgstr ""
+msgstr "သိမ်းဆည်းပါ။"
 
 msgid "Select 'Yes' to enable add debug output to log."
-msgstr ""
+msgstr "မှတ်တမ်းအတွက် အမှားရှာအထွက်ထည့်ခြင်းကို ဖွင့်ရန် 'Yes' ကို ရွေးပါ။"
 
 msgid "Select 'Yes' to enable the addition of Weather."
-msgstr ""
+msgstr "မိုးလေဝသ ထပ်တိုးမှုကို ဖွင့်ရန် 'Yes' ကို ရွေးပါ။"
 
 msgid "Select location"
-msgstr ""
+msgstr "တည်နေရာကို ရွေးပါ။"
 
 msgid "Select the City and Press Ok"
-msgstr ""
+msgstr "City ကိုရွေးပြီး Ok နှိပ်ပါ။"
 
 msgid "Select the detail level in the detail view. You have the choice between a comprehensive presentation in a smaller font and a reduced presentation with a larger font."
-msgstr ""
+msgstr "အသေးစိတ်မြင်ကွင်းရှိ အသေးစိတ်အဆင့်ကို ရွေးပါ။ သေးငယ်သောဖောင့်တွင် ကျယ်ကျယ်ပြန့်ပြန့်တင်ပြမှုတစ်ခုနှင့် ပိုကြီးသောဖောင့်ဖြင့် လျှော့ချတင်ပြမှုကြားတွင် သင့်တွင် ရွေးချယ်ခွင့်ရှိသည်။"
 
 msgid "Select the metric unit for wind speed to be used for wind displays. This has no effect on the imperial unit 'mph'."
-msgstr ""
+msgstr "လေတိုက်ခတ်မှုကို ပြသရန်အတွက် အသုံးပြုရန် လေတိုက်နှုန်းအတွက် မက်ထရစ်ယူနစ်ကို ရွေးချယ်ပါ။ ၎င်းသည် အင်ပါယာယူနစ် 'mph' အပေါ် သက်ရောက်မှုမရှိပါ။"
 
 msgid "Select the preferred weather service to supply the weather information."
-msgstr ""
+msgstr "မိုးလေဝသအချက်အလက်ကို ပေးဆောင်ရန် နှစ်သက်ရာ ရာသီဥတုဝန်ဆောင်မှုကို ရွေးချယ်ပါ။"
 
 msgid "Select the temperature unit to be used for temperature displays."
-msgstr ""
+msgstr "အပူချိန်ပြသမှုများအတွက် အသုံးပြုမည့် အပူချိန်ယူနစ်ကို ရွေးချယ်ပါ။"
 
 msgid "Select this option to save that last obtained weather data locally. This is used to initialize the data immediately after restart while updated data is being fetched."
-msgstr ""
+msgstr "နောက်ဆုံးရရှိထားသော မိုးလေဝသဒေတာကို စက်တွင်းတွင်သိမ်းဆည်းရန် ဤရွေးချယ်မှုကို ရွေးချယ်ပါ။ မွမ်းမံထားသောဒေတာကိုရယူနေစဉ် ပြန်လည်စတင်ပြီးနောက် ချက်ချင်းဒေတာကို အစပြုရန် ၎င်းကိုအသုံးပြုသည်။"
 
 msgid "Settings"
-msgstr ""
+msgstr "ဆက်တင်များ"
 
 msgid "Setup"
-msgstr ""
+msgstr "တည်ဆောက်သည်"
 
 msgid "Show Weather Forecast"
-msgstr ""
+msgstr "မိုးလေဝသခန့်မှန်းချက်ကိုပြသပါ။"
 
 msgid "Show trend arrows for moon data"
-msgstr ""
+msgstr "လဒေတာအတွက် ခေတ်ရေစီးကြောင်းမြှားများကို ပြပါ။"
 
 msgid "Show trend arrows for moon illumination and moon distance to see the current trend of the data."
-msgstr ""
+msgstr "ဒေတာ၏လက်ရှိလမ်းကြောင်းကိုကြည့်ရန် လရောင်တောက်ပမှုနှင့် လအကွာအဝေးအတွက် လမ်းကြောင်းပြမြှားများကို ပြပါ။"
 
 msgid "South"
-msgstr ""
+msgstr "တောင်ပိုင်း"
 
 msgid "Southeast"
-msgstr ""
+msgstr "အရှေ့တောင်"
 
 msgid "Southwest"
-msgstr ""
+msgstr "အနောက်တောင်"
 
 msgid "Specify how often Weather retrieves its data from the server. 'Once' means the data will loaded only once after a GUI or system start."
-msgstr ""
+msgstr "ရာသီဥတုသည် ဆာဗာမှ ၎င်း၏ဒေတာကို မည်မျှကြာကြာ ထုတ်ယူသည်ကို သတ်မှတ်ပါ။ 'တစ်ကြိမ်' ဆိုသည်မှာ GUI သို့မဟုတ် စနစ်စတင်ပြီးနောက် တစ်ကြိမ်သာ ဒေတာကို တင်ပေးမည်ဖြစ်သည်။"
 
 msgid "Standard fertig"
-msgstr ""
+msgstr "စံချိန်မီပြီးပါပြီ။"
 
 msgid "Temperature unit"
-msgstr ""
+msgstr "အပူချိန်ယူနစ်"
 
 msgid "Temperature unit :"
-msgstr ""
+msgstr "အပူချိန်ယူနစ်"
 
 msgid "Today"
-msgstr ""
+msgstr "ဒီနေ့"
 
 msgid "Try refreshing or check settings"
-msgstr ""
+msgstr "ပြန်လည်စတင်ကြည့်ပါ သို့မဟုတ် ဆက်တင်များကို စစ်ဆေးကြည့်ပါ။"
 
 msgid "Update"
-msgstr ""
+msgstr "အပ်ဒိတ်"
 
 msgid "View details"
-msgstr ""
+msgstr "အသေးစိတ်ကြည့်ရှုပါ။"
 
 msgid "Weather API key :"
-msgstr ""
+msgstr "မိုးလေဝသ API သော့-"
 
 msgid "Weather API key v2.5"
-msgstr ""
+msgstr "Weather API သော့ v2.5"
 
 msgid "Weather Plugin"
 msgstr ""
 
 msgid "Weather Plugin Detailview"
-msgstr ""
+msgstr "Weather Plugin အသေးစိတ်ကြည့်ရှုခြင်း။"
 
 msgid "Weather city name"
-msgstr ""
+msgstr "မိုးလေဝသမြို့အမည်"
 
 msgid "Weather city name :"
-msgstr ""
+msgstr "ရာသီဥတုမြို့အမည်"
 
 msgid "Weather data unavailable"
-msgstr ""
+msgstr "မိုးလေဝသ အချက်အလက် မရနိုင်ပါ။"
 
 msgid "Weather icon night switch"
-msgstr ""
+msgstr "မိုးလေဝသသင်္ကေတ ညဘက်ခလုတ်"
 
 msgid "Weather icon night switch :"
-msgstr ""
+msgstr "မိုးလေဝသသင်္ကေတ ညခလုတ်"
 
 msgid "Weather icon set"
-msgstr ""
+msgstr "မိုးလေဝသ အိုင်ကွန်ကို သတ်မှတ်ထားသည်။"
 
 msgid "Weather icon set :"
-msgstr ""
+msgstr "မိုးလေဝသသင်္ကေတ သတ်မှတ်သည်-"
 
 msgid "Weather service"
-msgstr ""
+msgstr "မိုးလေဝသဝန်ဆောင်မှု"
 
 msgid "Weather service :"
-msgstr ""
+msgstr "မိုးလေဝသဝန်ဆောင်မှု"
 
 msgid "Weather settings"
-msgstr ""
+msgstr "ရာသီဥတု ဆက်တင်များ"
 
 msgid "West"
-msgstr ""
+msgstr "အနောက်"
 
 msgid "Wind speed metric unit:"
-msgstr ""
+msgstr "လေတိုက်နှုန်း မက်ထရစ်ယူနစ်-"
 
 msgid "You have unsaved changes. Save before exiting?"
-msgstr ""
+msgstr "သင့်တွင် မသိမ်းဆည်းရသေးသော ပြောင်းလဲမှုများ ရှိသည်။ မထွက်ခင် သိမ်းမလား။"
 
 msgid "exit"
-msgstr ""
+msgstr "ထွက်ပေါက်"
 
 msgid "km/h"
-msgstr ""
+msgstr "ကီလိုမီတာ/နာရီ"
 
 msgid "m/s"
-msgstr ""
+msgstr "ဒေါ်"
 
 msgid "n/a"
 msgstr ""

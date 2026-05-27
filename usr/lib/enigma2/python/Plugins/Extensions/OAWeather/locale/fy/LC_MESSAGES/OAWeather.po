@@ -15,208 +15,208 @@ msgstr ""
 # FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
 #
 msgid "%d Minutes"
-msgstr ""
+msgstr "%d minuten"
 
 msgid "Add"
 msgstr ""
 
 msgid "Add Fav"
-msgstr ""
+msgstr "Fav"
 
 msgid "Cache data"
-msgstr ""
+msgstr "Cache gegevens"
 
 msgid "Cache data :"
-msgstr ""
+msgstr "Cache data:"
 
 msgid "Celsius"
 msgstr ""
 
 msgid "Choose the icon set. You need to create an additional set here: /usr/share/enigma2/WeatherIconSets/NAME."
-msgstr ""
+msgstr "Kies de ikoanenset. Jo moatte hjir in ekstra set oanmeitsje: /usr/share/enigma2/WeatherIconSets/NAME."
 
 msgid "Choose whether the 'night switch' should be activated or not. Some icons are then displayed as night icons with moon."
-msgstr ""
+msgstr "Kies of de 'nachtschakelaar' aktivearre wurde moat of net. Guon ikoanen wurde dan werjûn as nacht ikoanen mei moanne."
 
 msgid "Chose favorite"
-msgstr ""
+msgstr "Kies favorite"
 
 msgid "City name must be at least 3 characters"
-msgstr ""
+msgstr "Stêdnamme moat op syn minst 3 karakters wêze"
 
 msgid "Coordinates not available for this location"
-msgstr ""
+msgstr "Koördinaten net beskikber foar dizze lokaasje"
 
 msgid "Current Weather"
-msgstr ""
+msgstr "Aktuele Wetter"
 
 msgid "Day +/-"
-msgstr ""
+msgstr "dei +/-"
 
 msgid "Default"
-msgstr ""
+msgstr "Standert"
 
 msgid "Defaults"
-msgstr ""
+msgstr "Standerts"
 
 msgid "Delete"
-msgstr ""
+msgstr "Wiskje"
 
 msgid "Delete failed"
-msgstr ""
+msgstr "Wiskje mislearre"
 
 msgid "Delete {}?"
-msgstr ""
+msgstr "{} wiskje?"
 
 msgid "Detail level in detail view"
-msgstr ""
+msgstr "Detailnivo yn detailwerjefte"
 
 msgid "Details +/-"
 msgstr ""
 
 msgid "Disabled"
-msgstr ""
+msgstr "Utskeakele"
 
 msgid "East"
 msgstr ""
 
 msgid "Edit"
-msgstr ""
+msgstr "Bewurkje"
 
 msgid "Edit city name"
-msgstr ""
+msgstr "stêd namme bewurkje"
 
 msgid "Enable Debug"
-msgstr ""
+msgstr "Debug ynskeakelje"
 
 msgid "Enable Debug :"
-msgstr ""
+msgstr "Debug ynskeakelje:"
 
 msgid "Enabled"
-msgstr ""
+msgstr "Ynskeakele"
 
 msgid "Enabled :"
-msgstr ""
+msgstr "Ynskeakele:"
 
 msgid "Enter a personalized API key v2.5 for use with OpenWeatherMap (https://openweathermap.org/)."
-msgstr ""
+msgstr "Fier in personaliseare API-kaai yn v2.5 yn foar gebrûk mei OpenWeatherMap (https://openweathermap.org/)."
 
 msgid "Enter city name (e.g. 'Rome, IT')"
-msgstr ""
+msgstr "Fier stêdnamme yn (bygelyks 'Rome, IT')"
 
 msgid "Enter the location for your weather forecasts. To include your location, expand your favorites list with 'Manage your favorites'."
-msgstr ""
+msgstr "Fier de lokaasje yn foar jo waarberjochten. Om jo lokaasje op te nimmen, wreidzje jo favoritenlist út mei 'Behear jo favoriten'."
 
 msgid "Error adding location"
-msgstr ""
+msgstr "Flater by it tafoegjen fan lokaasje"
 
 msgid "Error changing day"
-msgstr ""
+msgstr "Flater by it feroarjen fan dei"
 
 msgid "Error processing location data"
-msgstr ""
+msgstr "Flater by it ferwurkjen fan lokaasjegegevens"
 
 msgid "Error saving favorites"
-msgstr ""
+msgstr "Flater by it bewarjen fan favoriten"
 
 msgid "Error saving location"
-msgstr ""
+msgstr "Flater by it bewarjen fan lokaasje"
 
 msgid "Error selecting location"
-msgstr ""
+msgstr "Flater by it selektearjen fan lokaasje"
 
 msgid "Error updating list"
-msgstr ""
+msgstr "Flater by it bywurkjen fan list"
 
 msgid "Exit"
-msgstr ""
+msgstr "Útgong"
 
 msgid "Fahrenheit"
 msgstr ""
 
 msgid "Favorites saved successfully"
-msgstr ""
+msgstr "Favoriten mei sukses bewarre"
 
 msgid "Feels like"
-msgstr ""
+msgstr "Fielt as"
 
 msgid "GREEN: MANAGEMENT FAVORITES | MENU: SETUP | INFO: DETAILS | HOME"
-msgstr ""
+msgstr "GREEN: MANAGEMENT FAVORITES | MENU: SETUP | INFO: DETAILS | THÚS"
 
 msgid "Glass"
-msgstr ""
+msgstr "Glês"
 
 msgid "Humidity"
-msgstr ""
+msgstr "Feuchte"
 
 msgid "Invalid location coordinates"
-msgstr ""
+msgstr "Unjildige lokaasjekoordinaten"
 
 msgid "Invalid location format"
-msgstr ""
+msgstr "Unjildige lokaasjeopmaak"
 
 msgid "Invalid selection"
-msgstr ""
+msgstr "Unjildige seleksje"
 
 msgid "Less details / Larger font"
-msgstr ""
+msgstr "Minder details / Grutter lettertype"
 
 msgid "Loading weather data..."
-msgstr ""
+msgstr "Wettergegevens laden..."
 
 msgid "Location added successfully"
-msgstr ""
+msgstr "Lokaasje mei súkses tafoege"
 
 msgid "Location added to favorites"
-msgstr ""
+msgstr "Lokaasje tafoege oan favoriten"
 
 msgid "Location already exists"
-msgstr ""
+msgstr "Lokaasje bestiet al"
 
 msgid "Location already in favorites"
-msgstr ""
+msgstr "Lokaasje al yn favoriten"
 
 msgid "Location deleted"
-msgstr ""
+msgstr "Lokaasje wiske"
 
 msgid "Location with similar coordinates already exists"
-msgstr ""
+msgstr "Lokaasje mei ferlykbere koördinaten bestiet al"
 
 msgid "MSN weather"
-msgstr ""
+msgstr "MSN Wetter"
 
 msgid "Manage Favorites"
-msgstr ""
+msgstr "Beheare Favorites"
 
 msgid "Menu"
 msgstr ""
 
 msgid "Metric unit for wind speed"
-msgstr ""
+msgstr "Metryske ienheid foar wynsnelheid"
 
 msgid "More Details / Smaller font"
-msgstr ""
+msgstr "Mear details / Lytser lettertype"
 
 msgid "N/A"
 msgstr ""
 
 msgid "Next favorite"
-msgstr ""
+msgstr "Folgjende favorite"
 
 msgid "No data"
-msgstr ""
+msgstr "Gjin gegevens"
 
 msgid "No locations found"
-msgstr ""
+msgstr "Gjin lokaasjes fûn"
 
 msgid "North"
-msgstr ""
+msgstr "Noard"
 
 msgid "Northeast"
-msgstr ""
+msgstr "Noardeastlik"
 
 msgid "Northwest"
-msgstr ""
+msgstr "Noardwest"
 
 msgid "Open-Meteo Wetter"
 msgstr ""
@@ -225,154 +225,154 @@ msgid "OpenWeatherMap"
 msgstr ""
 
 msgid "Please enter a valid city name."
-msgstr ""
+msgstr "Fier in jildige stêdnamme yn."
 
 msgid "Please enter at least 3 characters"
-msgstr ""
+msgstr "Fier op syn minst 3 tekens yn"
 
 msgid "Precipitation"
-msgstr ""
+msgstr "Nederslach"
 
 msgid "Previous favorite"
-msgstr ""
+msgstr "Foarige favorite"
 
 msgid "Refresh interval"
-msgstr ""
+msgstr "Ferfarskje ynterval"
 
 msgid "Refresh interval :"
-msgstr ""
+msgstr "Ferfarsk ynterval:"
 
 msgid "Save"
-msgstr ""
+msgstr "Rêde"
 
 msgid "Select 'Yes' to enable add debug output to log."
-msgstr ""
+msgstr "Selektearje 'Ja' om debug-útfier taheakje yn te skeakeljen om oan te melden."
 
 msgid "Select 'Yes' to enable the addition of Weather."
-msgstr ""
+msgstr "Selektearje 'Ja' om de tafoeging fan Wetter yn te skeakeljen."
 
 msgid "Select location"
-msgstr ""
+msgstr "Selektearje lokaasje"
 
 msgid "Select the City and Press Ok"
-msgstr ""
+msgstr "Selektearje de stêd en druk op Ok"
 
 msgid "Select the detail level in the detail view. You have the choice between a comprehensive presentation in a smaller font and a reduced presentation with a larger font."
-msgstr ""
+msgstr "Selektearje it detailnivo yn 'e detailwerjefte. Jo hawwe de kar tusken in wiidweidige presintaasje yn in lytser lettertype en in fermindere presintaasje mei in grutter lettertype."
 
 msgid "Select the metric unit for wind speed to be used for wind displays. This has no effect on the imperial unit 'mph'."
-msgstr ""
+msgstr "Selektearje de metryske ienheid foar wynsnelheid om te brûken foar wyndisplays. Dit hat gjin effekt op de keizerlike ienheid 'mph'."
 
 msgid "Select the preferred weather service to supply the weather information."
-msgstr ""
+msgstr "Selektearje de foarkar waartsjinst om de waarynformaasje te leverjen."
 
 msgid "Select the temperature unit to be used for temperature displays."
-msgstr ""
+msgstr "Selektearje de temperatuer ienheid dy't brûkt wurde foar temperatuer displays."
 
 msgid "Select this option to save that last obtained weather data locally. This is used to initialize the data immediately after restart while updated data is being fetched."
-msgstr ""
+msgstr "Selektearje dizze opsje om dy lêst krigen waargegevens lokaal op te slaan. Dit wurdt brûkt om de gegevens direkt nei it opstarten te inisjalisearjen wylst bywurke gegevens ophelle wurde."
 
 msgid "Settings"
-msgstr ""
+msgstr "Ynstellings"
 
 msgid "Setup"
-msgstr ""
+msgstr "Opsette"
 
 msgid "Show Weather Forecast"
-msgstr ""
+msgstr "Toan Wettervorhersage"
 
 msgid "Show trend arrows for moon data"
-msgstr ""
+msgstr "Lit trendpylken sjen foar moannegegevens"
 
 msgid "Show trend arrows for moon illumination and moon distance to see the current trend of the data."
-msgstr ""
+msgstr "Toan trendpylken foar moanneferljochting en moanneôfstân om de hjoeddeistige trend fan 'e gegevens te sjen."
 
 msgid "South"
-msgstr ""
+msgstr "Súd"
 
 msgid "Southeast"
-msgstr ""
+msgstr "Súdeast"
 
 msgid "Southwest"
-msgstr ""
+msgstr "Súdwesten"
 
 msgid "Specify how often Weather retrieves its data from the server. 'Once' means the data will loaded only once after a GUI or system start."
-msgstr ""
+msgstr "Spesifisearje hoe faak Wetter syn gegevens ophelje fan de tsjinner. 'Ien kear' betsjut dat de gegevens mar ien kear wurde laden nei in GUI of systeemstart."
 
 msgid "Standard fertig"
-msgstr ""
+msgstr "Standert klear"
 
 msgid "Temperature unit"
-msgstr ""
+msgstr "Temperatuer ienheid"
 
 msgid "Temperature unit :"
-msgstr ""
+msgstr "Temperatuer ienheid:"
 
 msgid "Today"
-msgstr ""
+msgstr "Hjoed"
 
 msgid "Try refreshing or check settings"
-msgstr ""
+msgstr "Besykje ynstellings te ferfarskjen of kontrolearje"
 
 msgid "Update"
 msgstr ""
 
 msgid "View details"
-msgstr ""
+msgstr "Besjoch details"
 
 msgid "Weather API key :"
-msgstr ""
+msgstr "Wetter API-kaai:"
 
 msgid "Weather API key v2.5"
-msgstr ""
+msgstr "Wetter API-kaai v2.5"
 
 msgid "Weather Plugin"
-msgstr ""
+msgstr "Wetter Plugin"
 
 msgid "Weather Plugin Detailview"
-msgstr ""
+msgstr "Wetter Plugin Detailview"
 
 msgid "Weather city name"
-msgstr ""
+msgstr "Wetter stêd namme"
 
 msgid "Weather city name :"
-msgstr ""
+msgstr "Wetterstêdnamme:"
 
 msgid "Weather data unavailable"
-msgstr ""
+msgstr "Wettergegevens net beskikber"
 
 msgid "Weather icon night switch"
-msgstr ""
+msgstr "Wetter ikoan nacht switch"
 
 msgid "Weather icon night switch :"
-msgstr ""
+msgstr "Wetterpictogram nachtskeakel:"
 
 msgid "Weather icon set"
-msgstr ""
+msgstr "Wetterpictogram set"
 
 msgid "Weather icon set :"
-msgstr ""
+msgstr "Wetterpictogram set:"
 
 msgid "Weather service"
-msgstr ""
+msgstr "Wettertsjinst"
 
 msgid "Weather service :"
-msgstr ""
+msgstr "Wettertsjinst:"
 
 msgid "Weather settings"
-msgstr ""
+msgstr "Wetter ynstellings"
 
 msgid "West"
 msgstr ""
 
 msgid "Wind speed metric unit:"
-msgstr ""
+msgstr "Windsnelheid metryske ienheid:"
 
 msgid "You have unsaved changes. Save before exiting?"
-msgstr ""
+msgstr "Jo hawwe net bewarre feroarings. Bewarje foardat jo útgean?"
 
 msgid "exit"
-msgstr ""
+msgstr "útgong"
 
 msgid "km/h"
 msgstr ""

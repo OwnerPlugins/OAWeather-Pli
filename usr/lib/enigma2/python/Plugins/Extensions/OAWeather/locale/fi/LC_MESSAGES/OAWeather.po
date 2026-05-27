@@ -21,10 +21,10 @@ msgid "%d Minutes"
 msgstr "%d minuuttia"
 
 msgid "Add"
-msgstr ""
+msgstr "Lisätä"
 
 msgid "Add Fav"
-msgstr ""
+msgstr "Lisää suosikki"
 
 msgid "Cache data"
 msgstr "Välimuisti"
@@ -43,19 +43,19 @@ msgid "Choose whether the 'night switch' should be activated or not. Some icons 
 msgstr "Valitse, otetaanko 'yökytkin' käyttöön vai ei. Jotkut ikonit näytetään sitten yöikoneina kuun kanssa."
 
 msgid "Chose favorite"
-msgstr ""
+msgstr "Valitse suosikki"
 
 msgid "City name must be at least 3 characters"
-msgstr ""
+msgstr "Kaupungin nimessä on oltava vähintään 3 merkkiä"
 
 msgid "Coordinates not available for this location"
-msgstr ""
+msgstr "Koordinaatteja ei ole saatavilla tälle sijainnille"
 
 msgid "Current Weather"
 msgstr "Tämänhetkinen sää"
 
 msgid "Day +/-"
-msgstr ""
+msgstr "päivä +/-"
 
 msgid "Default"
 msgstr "Oletus"
@@ -64,19 +64,19 @@ msgid "Defaults"
 msgstr "Oletukset"
 
 msgid "Delete"
-msgstr ""
+msgstr "Poistaa"
 
 msgid "Delete failed"
-msgstr ""
+msgstr "Poistaminen epäonnistui"
 
 msgid "Delete {}?"
-msgstr ""
+msgstr "Poistetaanko {}?"
 
 msgid "Detail level in detail view"
-msgstr ""
+msgstr "Yksityiskohtataso yksityiskohtanäkymässä"
 
 msgid "Details +/-"
-msgstr ""
+msgstr "Tiedot +/-"
 
 msgid "Disabled"
 msgstr "Pois käytöstä"
@@ -85,7 +85,7 @@ msgid "East"
 msgstr "Idästä"
 
 msgid "Edit"
-msgstr ""
+msgstr "Muokata"
 
 #, fuzzy
 msgid "Edit city name"
@@ -110,10 +110,10 @@ msgid "Enter a personalized API key v2.5 for use with OpenWeatherMap (https://op
 msgstr "Anna henkilökohtainen API-avain käytettäväksi OpenWeatherMapin kanssa (https://openweathermap.org/)."
 
 msgid "Enter city name (e.g. 'Rome, IT')"
-msgstr ""
+msgstr "Anna kaupungin nimi (esim. "Rooma, IT")"
 
 msgid "Enter the location for your weather forecasts. To include your location, expand your favorites list with 'Manage your favorites'."
-msgstr ""
+msgstr "Anna sääennustesi sijainti. Jos haluat sisällyttää sijaintisi, laajenna suosikkiluetteloasi valitsemalla Hallinnoi suosikkejasi."
 
 #, fuzzy
 msgid "Error adding location"
@@ -124,104 +124,104 @@ msgid "Error changing day"
 msgstr "Virhe haettaessa kaupunkitunnusta"
 
 msgid "Error processing location data"
-msgstr ""
+msgstr "Virhe käsiteltäessä sijaintitietoja"
 
 msgid "Error saving favorites"
-msgstr ""
+msgstr "Virhe tallennettaessa suosikkeja"
 
 #, fuzzy
 msgid "Error saving location"
 msgstr "Virhe säätiedoissa"
 
 msgid "Error selecting location"
-msgstr ""
+msgstr "Virhe valittaessa sijaintia"
 
 #, fuzzy
 msgid "Error updating list"
 msgstr "Virhe haettaessa kaupunkitunnusta"
 
 msgid "Exit"
-msgstr ""
+msgstr "Poistu"
 
 msgid "Fahrenheit"
 msgstr "Fahrenheit"
 
 msgid "Favorites saved successfully"
-msgstr ""
+msgstr "Suosikit tallennettu onnistuneesti"
 
 msgid "Feels like"
 msgstr "Tuntuu kuin"
 
 msgid "GREEN: MANAGEMENT FAVORITES | MENU: SETUP | INFO: DETAILS | HOME"
-msgstr ""
+msgstr "VIHREÄ: JOHDON SUOSIKIT | VALIKKO: ASETUKSET | INFO: TIEDOT | KOTIIN"
 
 msgid "Glass"
-msgstr ""
+msgstr "Lasi"
 
 msgid "Humidity"
 msgstr "Kosteus"
 
 msgid "Invalid location coordinates"
-msgstr ""
+msgstr "Virheelliset sijaintikoordinaatit"
 
 msgid "Invalid location format"
-msgstr ""
+msgstr "Virheellinen sijainnin muoto"
 
 #, fuzzy
 msgid "Invalid selection"
 msgstr "Sijainnin valinta"
 
 msgid "Less details / Larger font"
-msgstr ""
+msgstr "Vähemmän yksityiskohtia / suurempi fontti"
 
 msgid "Loading weather data..."
-msgstr ""
+msgstr "Ladataan säätietoja..."
 
 msgid "Location added successfully"
-msgstr ""
+msgstr "Sijainti lisätty onnistuneesti"
 
 msgid "Location added to favorites"
-msgstr ""
+msgstr "Sijainti lisätty suosikkeihin"
 
 msgid "Location already exists"
-msgstr ""
+msgstr "Sijainti on jo olemassa"
 
 msgid "Location already in favorites"
-msgstr ""
+msgstr "Sijainti jo suosikeissa"
 
 #, fuzzy
 msgid "Location deleted"
 msgstr "Sijainnin valinta"
 
 msgid "Location with similar coordinates already exists"
-msgstr ""
+msgstr "Sijainti, jolla on samanlaiset koordinaatit, on jo olemassa"
 
 msgid "MSN weather"
 msgstr "MSN sää"
 
 msgid "Manage Favorites"
-msgstr ""
+msgstr "Hallinnoi suosikkeja"
 
 msgid "Menu"
-msgstr ""
+msgstr "Valikko"
 
 msgid "Metric unit for wind speed"
-msgstr ""
+msgstr "Metrinen yksikkö tuulen nopeudelle"
 
 msgid "More Details / Smaller font"
-msgstr ""
+msgstr "Lisätietoja / Pienempi fontti"
 
 msgid "N/A"
-msgstr ""
+msgstr "Ei käytössä"
 
 msgid "Next favorite"
-msgstr ""
+msgstr "Seuraava suosikki"
 
 msgid "No data"
-msgstr ""
+msgstr "Ei dataa"
 
 msgid "No locations found"
-msgstr ""
+msgstr "Paikkoja ei löytynyt"
 
 msgid "North"
 msgstr "Pohjoisesta"
@@ -243,13 +243,13 @@ msgid "Please enter a valid city name."
 msgstr "Sää-kaupungin nimi"
 
 msgid "Please enter at least 3 characters"
-msgstr ""
+msgstr "Kirjoita vähintään 3 merkkiä"
 
 msgid "Precipitation"
 msgstr "Sateen tod.näköisyys"
 
 msgid "Previous favorite"
-msgstr ""
+msgstr "Edellinen suosikki"
 
 msgid "Refresh interval"
 msgstr "Päivitysväli"
@@ -259,7 +259,7 @@ msgid "Refresh interval :"
 msgstr "Päivitysväli"
 
 msgid "Save"
-msgstr ""
+msgstr "Tallentaa"
 
 msgid "Select 'Yes' to enable add debug output to log."
 msgstr "Valitse 'Kyllä', jos haluat lisätä tapahtumat debug-lokiin."
@@ -272,13 +272,13 @@ msgid "Select location"
 msgstr "Valitse sijaintisi"
 
 msgid "Select the City and Press Ok"
-msgstr ""
+msgstr "Valitse kaupunki ja paina Ok"
 
 msgid "Select the detail level in the detail view. You have the choice between a comprehensive presentation in a smaller font and a reduced presentation with a larger font."
-msgstr ""
+msgstr "Valitse yksityiskohtataso tietonäkymästä. Voit valita kattavan esityksen pienemmällä kirjasimella tai supistetun esityksen suuremmalla fontilla."
 
 msgid "Select the metric unit for wind speed to be used for wind displays. This has no effect on the imperial unit 'mph'."
-msgstr ""
+msgstr "Valitse tuulen nopeuden metriyksikkö, jota käytetään tuulinäytöissä. Tällä ei ole vaikutusta keisarilliseen yksikköön "mph"."
 
 msgid "Select the preferred weather service to supply the weather information."
 msgstr "Valitse haluamasi sääpalvelun toimittamat säätiedot."
@@ -290,19 +290,19 @@ msgid "Select this option to save that last obtained weather data locally. This 
 msgstr "Valitse tämä vaihtoehto tallentaaksesi viimeksi hankitut säätiedot paikallisesti. Tätä käytetään tietojen alustamiseen välittömästi uudelleenkäynnistyksen jälkeen, kun päivitettyjä tietoja haetaan."
 
 msgid "Settings"
-msgstr ""
+msgstr "Asetukset"
 
 msgid "Setup"
-msgstr ""
+msgstr "Asennus"
 
 msgid "Show Weather Forecast"
 msgstr "Näytä sääennuste"
 
 msgid "Show trend arrows for moon data"
-msgstr ""
+msgstr "Näytä trendinuolet kuutiedoille"
 
 msgid "Show trend arrows for moon illumination and moon distance to see the current trend of the data."
-msgstr ""
+msgstr "Näytä kuun valaistuksen ja kuun etäisyyden trendinuolet nähdäksesi datan nykyisen trendin."
 
 msgid "South"
 msgstr "Etelästä"
@@ -317,7 +317,7 @@ msgid "Specify how often Weather retrieves its data from the server. 'Once' mean
 msgstr "Määritä, kuinka usein Sää hakee tietonsa palvelimelta. 'Kerran' tarkoittaa, että tiedot ladataan vain kerran graafisen käyttöliittymän tai järjestelmän käynnistyksen jälkeen."
 
 msgid "Standard fertig"
-msgstr ""
+msgstr "Vakiovalmis"
 
 msgid "Temperature unit"
 msgstr "Lämpötilayksikkö"
@@ -330,13 +330,13 @@ msgid "Today"
 msgstr "Tänään"
 
 msgid "Try refreshing or check settings"
-msgstr ""
+msgstr "Yritä päivittää tai tarkista asetukset"
 
 msgid "Update"
 msgstr "Päivitetty"
 
 msgid "View details"
-msgstr ""
+msgstr "Näytä tiedot"
 
 #, fuzzy
 msgid "Weather API key :"
@@ -392,13 +392,13 @@ msgid "West"
 msgstr "Lännestä"
 
 msgid "Wind speed metric unit:"
-msgstr ""
+msgstr "Tuulen nopeuden mittayksikkö:"
 
 msgid "You have unsaved changes. Save before exiting?"
-msgstr ""
+msgstr "Sinulla on tallentamattomia muutoksia. Tallennetaanko ennen poistumista?"
 
 msgid "exit"
-msgstr ""
+msgstr "poistu"
 
 msgid "km/h"
 msgstr ""

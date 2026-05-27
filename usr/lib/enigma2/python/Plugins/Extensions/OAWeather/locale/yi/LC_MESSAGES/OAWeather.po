@@ -15,367 +15,367 @@ msgstr ""
 # FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
 #
 msgid "%d Minutes"
-msgstr ""
+msgstr "%d מינוטן"
 
 msgid "Add"
-msgstr ""
+msgstr "לייג"
 
 msgid "Add Fav"
-msgstr ""
+msgstr "לייג פאַוו"
 
 msgid "Cache data"
-msgstr ""
+msgstr "קאַש דאַטן"
 
 msgid "Cache data :"
-msgstr ""
+msgstr "קאַש דאַטן:"
 
 msgid "Celsius"
-msgstr ""
+msgstr "סעלסיוס"
 
 msgid "Choose the icon set. You need to create an additional set here: /usr/share/enigma2/WeatherIconSets/NAME."
-msgstr ""
+msgstr "קלייַבן די ייקאַן שטעלן. איר דאַרפֿן צו שאַפֿן אַן נאָך גאַנג דאָ: /usr/share/enigma2/WeatherIconSets/NAME."
 
 msgid "Choose whether the 'night switch' should be activated or not. Some icons are then displayed as night icons with moon."
-msgstr ""
+msgstr "קלייַבן צי די 'נאַכט באַשטימען' זאָל זיין אַקטיווייטיד אָדער נישט. עטלעכע ייקאַנז זענען דעמאָלט געוויזן ווי נאַכט ייקאַנז מיט לבנה."
 
 msgid "Chose favorite"
-msgstr ""
+msgstr "אויסדערוויילט באַליבט"
 
 msgid "City name must be at least 3 characters"
-msgstr ""
+msgstr "שטאָט נאָמען מוזן זיין בייַ מינדסטער 3 אותיות"
 
 msgid "Coordinates not available for this location"
-msgstr ""
+msgstr "קאָאָרדינאַטעס ניט בנימצא פֿאַר דעם אָרט"
 
 msgid "Current Weather"
-msgstr ""
+msgstr "קראַנט וועטער"
 
 msgid "Day +/-"
-msgstr ""
+msgstr "טאָג +/-"
 
 msgid "Default"
-msgstr ""
+msgstr "פעליקייַט"
 
 msgid "Defaults"
-msgstr ""
+msgstr "דיפאָלץ"
 
 msgid "Delete"
-msgstr ""
+msgstr "ויסמעקן"
 
 msgid "Delete failed"
-msgstr ""
+msgstr "ויסמעקן ניט אַנדערש"
 
 msgid "Delete {}?"
-msgstr ""
+msgstr "ויסמעקן {}?"
 
 msgid "Detail level in detail view"
-msgstr ""
+msgstr "דעטאַל מדרגה אין דעטאַל מיינונג"
 
 msgid "Details +/-"
-msgstr ""
+msgstr "דעטאַילס +/-"
 
 msgid "Disabled"
-msgstr ""
+msgstr "פאַרקריפּלט"
 
 msgid "East"
-msgstr ""
+msgstr "מזרח"
 
 msgid "Edit"
-msgstr ""
+msgstr "רעדאַגירן"
 
 msgid "Edit city name"
-msgstr ""
+msgstr "רעדאַגירן שטאָט נאָמען"
 
 msgid "Enable Debug"
-msgstr ""
+msgstr "געבן דיבוג"
 
 msgid "Enable Debug :"
-msgstr ""
+msgstr "געבן דיבוג:"
 
 msgid "Enabled"
-msgstr ""
+msgstr "ענאַבלעד"
 
 msgid "Enabled :"
-msgstr ""
+msgstr "ענייבאַלד:"
 
 msgid "Enter a personalized API key v2.5 for use with OpenWeatherMap (https://openweathermap.org/)."
-msgstr ""
+msgstr "אַרייַן אַ פערזענליכען אַפּי שליסל וו2.5 פֿאַר נוצן מיט OpenWeatherMap (https://openweathermap.org/)."
 
 msgid "Enter city name (e.g. 'Rome, IT')"
-msgstr ""
+msgstr "אַרייַן שטאָט נאָמען (למשל 'רוים, עס')"
 
 msgid "Enter the location for your weather forecasts. To include your location, expand your favorites list with 'Manage your favorites'."
-msgstr ""
+msgstr "אַרייַן די אָרט פֿאַר דיין וועטער פאָרקאַסץ. צו אַרייַננעמען דיין אָרט, יקספּאַנד דיין פאַוואָריטעס רשימה מיט 'פירן דיין פאַוואָריטעס'."
 
 msgid "Error adding location"
-msgstr ""
+msgstr "טעות צו לייגן אָרט"
 
 msgid "Error changing day"
-msgstr ""
+msgstr "טעות טשאַנגינג טאָג"
 
 msgid "Error processing location data"
-msgstr ""
+msgstr "טעות פּראַסעסינג אָרט דאַטן"
 
 msgid "Error saving favorites"
-msgstr ""
+msgstr "טעות אין שפּאָרן פאַוואָריטעס"
 
 msgid "Error saving location"
-msgstr ""
+msgstr "טעות אין היטן אָרט"
 
 msgid "Error selecting location"
-msgstr ""
+msgstr "טעות סאַלעקטינג אָרט"
 
 msgid "Error updating list"
-msgstr ""
+msgstr "טעות אַפּדייט רשימה"
 
 msgid "Exit"
-msgstr ""
+msgstr "אַרויסגאַנג"
 
 msgid "Fahrenheit"
-msgstr ""
+msgstr "פאַהרענהעיט"
 
 msgid "Favorites saved successfully"
-msgstr ""
+msgstr "פאַוואָריטעס געראטעוועט הצלחה"
 
 msgid "Feels like"
-msgstr ""
+msgstr "פילז ווי"
 
 msgid "GREEN: MANAGEMENT FAVORITES | MENU: SETUP | INFO: DETAILS | HOME"
-msgstr ""
+msgstr "גרין: פאַרוואַלטונג פאַוואָריטעס | מעניו: סעטאַפּ | אינפֿאָרמאַציע: דעטאַילס | היים"
 
 msgid "Glass"
-msgstr ""
+msgstr "גלאז"
 
 msgid "Humidity"
-msgstr ""
+msgstr "הומידיטי"
 
 msgid "Invalid location coordinates"
-msgstr ""
+msgstr "אומגילטיק אָרט קאָואָרדאַנאַץ"
 
 msgid "Invalid location format"
-msgstr ""
+msgstr "אומגילטיק אָרט פֿאָרמאַט"
 
 msgid "Invalid selection"
-msgstr ""
+msgstr "ניט גילטיק סעלעקציע"
 
 msgid "Less details / Larger font"
-msgstr ""
+msgstr "ווייניקער דעטאַילס / גרעסערע שריפֿט"
 
 msgid "Loading weather data..."
-msgstr ""
+msgstr "לאָדן וועטער דאַטן..."
 
 msgid "Location added successfully"
-msgstr ""
+msgstr "אָרט צוגעגעבן הצלחה"
 
 msgid "Location added to favorites"
-msgstr ""
+msgstr "אָרט צוגעגעבן צו פאַוואָריטעס"
 
 msgid "Location already exists"
-msgstr ""
+msgstr "אָרט שוין יגזיסץ"
 
 msgid "Location already in favorites"
-msgstr ""
+msgstr "אָרט שוין אין פאַוואָריטעס"
 
 msgid "Location deleted"
-msgstr ""
+msgstr "אָרט אויסגעמעקט"
 
 msgid "Location with similar coordinates already exists"
-msgstr ""
+msgstr "אָרט מיט ענלעך קאָואָרדאַנאַץ יגזיסץ שוין"
 
 msgid "MSN weather"
-msgstr ""
+msgstr "MSN וועטער"
 
 msgid "Manage Favorites"
-msgstr ""
+msgstr "פירן פאַוואָריטעס"
 
 msgid "Menu"
-msgstr ""
+msgstr "מעניו"
 
 msgid "Metric unit for wind speed"
-msgstr ""
+msgstr "מעטריק אַפּאַראַט פֿאַר ווינט גיכקייַט"
 
 msgid "More Details / Smaller font"
-msgstr ""
+msgstr "מער דעטאַילס / קלענערער שריפֿט"
 
 msgid "N/A"
 msgstr ""
 
 msgid "Next favorite"
-msgstr ""
+msgstr "ווייַטער באַליבט"
 
 msgid "No data"
-msgstr ""
+msgstr "קיין דאַטן"
 
 msgid "No locations found"
-msgstr ""
+msgstr "קיין לאָוקיישאַנז געפונען"
 
 msgid "North"
-msgstr ""
+msgstr "צפון"
 
 msgid "Northeast"
-msgstr ""
+msgstr "צאָפנ - מיזרעך"
 
 msgid "Northwest"
-msgstr ""
+msgstr "נאָרטוועסט"
 
 msgid "Open-Meteo Wetter"
-msgstr ""
+msgstr "עפֿן-מעטעאָ וועטער"
 
 msgid "OpenWeatherMap"
 msgstr ""
 
 msgid "Please enter a valid city name."
-msgstr ""
+msgstr "ביטע אַרייַן אַ גילטיק שטאָט נאָמען."
 
 msgid "Please enter at least 3 characters"
-msgstr ""
+msgstr "ביטע אַרייַן בייַ מינדסטער 3 אותיות"
 
 msgid "Precipitation"
-msgstr ""
+msgstr "אָפּזאַץ"
 
 msgid "Previous favorite"
-msgstr ""
+msgstr "פרייַערדיק באַליבט"
 
 msgid "Refresh interval"
-msgstr ""
+msgstr "דערפרישן מעהאַלעך"
 
 msgid "Refresh interval :"
-msgstr ""
+msgstr "דערפרישן ינטערוואַל:"
 
 msgid "Save"
-msgstr ""
+msgstr "היט"
 
 msgid "Select 'Yes' to enable add debug output to log."
-msgstr ""
+msgstr "סעלעקטירן 'יא' צו געבן צוגעבן דיבאַג רעזולטאַט צו קלאָץ."
 
 msgid "Select 'Yes' to enable the addition of Weather."
-msgstr ""
+msgstr "סעלעקטירן 'יא' צו געבן די אַדישאַן פון וועטער."
 
 msgid "Select location"
-msgstr ""
+msgstr "אויסקלייַבן אָרט"
 
 msgid "Select the City and Press Ok"
-msgstr ""
+msgstr "אויסקלייַבן די שטאָט און דריקן OK"
 
 msgid "Select the detail level in the detail view. You have the choice between a comprehensive presentation in a smaller font and a reduced presentation with a larger font."
-msgstr ""
+msgstr "אויסקלייַבן די דעטאַל מדרגה אין די דעטאַל מיינונג. איר האָבן די ברירה צווישן אַ פולשטענדיק פּרעזענטירונג אין אַ קלענערער שריפֿט און אַ רידוסט פּרעזענטירונג מיט אַ גרעסערע שריפֿט."
 
 msgid "Select the metric unit for wind speed to be used for wind displays. This has no effect on the imperial unit 'mph'."
-msgstr ""
+msgstr "אויסקלייַבן די מעטריק אַפּאַראַט פֿאַר ווינט גיכקייַט צו זיין געוויינט פֿאַר ווינט דיספּלייז. דאס האט קיין ווירקונג אויף די ימפּעריאַל אַפּאַראַט 'מ.פ.ש'."
 
 msgid "Select the preferred weather service to supply the weather information."
-msgstr ""
+msgstr "אויסקלייַבן די בילכער וועטער דינסט צו צושטעלן די וועטער אינפֿאָרמאַציע."
 
 msgid "Select the temperature unit to be used for temperature displays."
-msgstr ""
+msgstr "אויסקלייַבן די טעמפּעראַטור אַפּאַראַט צו זיין געוויינט פֿאַר טעמפּעראַטור דיספּלייז."
 
 msgid "Select this option to save that last obtained weather data locally. This is used to initialize the data immediately after restart while updated data is being fetched."
-msgstr ""
+msgstr "אויסקלייַבן דעם אָפּציע צו ראַטעווען די לעצטע באקומען וועטער דאַטן לאָוקאַלי. דעם איז גענוצט צו ינישאַלייז די דאַטן מיד נאָך ריסטאַרט בשעת דערהייַנטיקט דאַטן זענען פעטשט."
 
 msgid "Settings"
-msgstr ""
+msgstr "סעטטינגס"
 
 msgid "Setup"
-msgstr ""
+msgstr "סעטאַפּ"
 
 msgid "Show Weather Forecast"
-msgstr ""
+msgstr "ווייַזן וועטער פאָרעקאַסט"
 
 msgid "Show trend arrows for moon data"
-msgstr ""
+msgstr "ווייַזן גאַנג אַראָוז פֿאַר לעוואָנע דאַטן"
 
 msgid "Show trend arrows for moon illumination and moon distance to see the current trend of the data."
-msgstr ""
+msgstr "ווייַזן גאַנג אַראָוז פֿאַר לבנה ילומאַניישאַן און לעוואָנע דיסטאַנסע צו זען דעם קראַנט גאַנג פון די דאַטן."
 
 msgid "South"
-msgstr ""
+msgstr "דרום"
 
 msgid "Southeast"
-msgstr ""
+msgstr "סאָוטהעאַסט"
 
 msgid "Southwest"
-msgstr ""
+msgstr "סאַוטוועסט"
 
 msgid "Specify how often Weather retrieves its data from the server. 'Once' means the data will loaded only once after a GUI or system start."
-msgstr ""
+msgstr "ספּעציפיצירן ווי אָפט וועטער ריטריווז זיין דאַטן פון די סערווער. 'אַמאָל' מיטל אַז די דאַטן וועט זיין לאָודיד בלויז אַמאָל נאָך אַ GUI אָדער סיסטעם אָנהייב."
 
 msgid "Standard fertig"
-msgstr ""
+msgstr "נאָרמאַל פאַרטיק"
 
 msgid "Temperature unit"
-msgstr ""
+msgstr "טעמפּעראַטור אַפּאַראַט"
 
 msgid "Temperature unit :"
-msgstr ""
+msgstr "טעמפּעראַטור אַפּאַראַט:"
 
 msgid "Today"
-msgstr ""
+msgstr "היינט"
 
 msgid "Try refreshing or check settings"
-msgstr ""
+msgstr "פּרוּווט רעפרעשינג אָדער טשעק סעטטינגס"
 
 msgid "Update"
-msgstr ""
+msgstr "דערהייַנטיקן"
 
 msgid "View details"
-msgstr ""
+msgstr "זען דעטאַילס"
 
 msgid "Weather API key :"
-msgstr ""
+msgstr "וועטער API שליסל:"
 
 msgid "Weather API key v2.5"
-msgstr ""
+msgstr "וועטער אַפּי שליסל v2.5"
 
 msgid "Weather Plugin"
-msgstr ""
+msgstr "וועטער פּלוגין"
 
 msgid "Weather Plugin Detailview"
-msgstr ""
+msgstr "וועטער פּלוגין דעטאַילוויעוו"
 
 msgid "Weather city name"
-msgstr ""
+msgstr "וועטער שטאָט נאָמען"
 
 msgid "Weather city name :"
-msgstr ""
+msgstr "וועטער שטאָט נאָמען:"
 
 msgid "Weather data unavailable"
-msgstr ""
+msgstr "וועטער דאַטן ניט בנימצא"
 
 msgid "Weather icon night switch"
-msgstr ""
+msgstr "וועטער ייקאַן נאַכט באַשטימען"
 
 msgid "Weather icon night switch :"
-msgstr ""
+msgstr "וועטער ייקאַן נאַכט באַשטימען:"
 
 msgid "Weather icon set"
-msgstr ""
+msgstr "וועטער ייקאַן שטעלן"
 
 msgid "Weather icon set :"
-msgstr ""
+msgstr "וועטער בילדל סעט:"
 
 msgid "Weather service"
-msgstr ""
+msgstr "וועטער דינסט"
 
 msgid "Weather service :"
-msgstr ""
+msgstr "וועטער דינסט:"
 
 msgid "Weather settings"
-msgstr ""
+msgstr "וועטער סעטטינגס"
 
 msgid "West"
-msgstr ""
+msgstr "מערב"
 
 msgid "Wind speed metric unit:"
-msgstr ""
+msgstr "ווינט גיכקייַט מעטריק אַפּאַראַט:"
 
 msgid "You have unsaved changes. Save before exiting?"
-msgstr ""
+msgstr "איר האָט נישט געראטעוועט ענדערונגען. ראַטעווען איידער אַרויסגאַנג?"
 
 msgid "exit"
-msgstr ""
+msgstr "אַרויסגאַנג"
 
 msgid "km/h"
-msgstr ""
+msgstr "קילאמעטער/ה"
 
 msgid "m/s"
 msgstr ""

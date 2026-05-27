@@ -15,370 +15,370 @@ msgstr ""
 # FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
 #
 msgid "%d Minutes"
-msgstr ""
+msgstr "%d րոպե"
 
 msgid "Add"
-msgstr ""
+msgstr "Ավելացնել"
 
 msgid "Add Fav"
-msgstr ""
+msgstr "Ավելացնել սիրելի"
 
 msgid "Cache data"
-msgstr ""
+msgstr "Քեշի տվյալները"
 
 msgid "Cache data :"
-msgstr ""
+msgstr "Քեշի տվյալներ."
 
 msgid "Celsius"
-msgstr ""
+msgstr "Ցելսիուս"
 
 msgid "Choose the icon set. You need to create an additional set here: /usr/share/enigma2/WeatherIconSets/NAME."
-msgstr ""
+msgstr "Ընտրեք պատկերակների հավաքածու: Այստեղ անհրաժեշտ է ստեղծել լրացուցիչ հավաքածու՝ /usr/share/enigma2/WeatherIconSets/NAME:"
 
 msgid "Choose whether the 'night switch' should be activated or not. Some icons are then displayed as night icons with moon."
-msgstr ""
+msgstr "Ընտրեք՝ «գիշերային անջատիչը» պետք է ակտիվացվի, թե ոչ: Որոշ սրբապատկերներ այնուհետև ցուցադրվում են որպես գիշերային պատկերակներ լուսնի հետ:"
 
 msgid "Chose favorite"
-msgstr ""
+msgstr "Ընտրիր սիրելի"
 
 msgid "City name must be at least 3 characters"
-msgstr ""
+msgstr "Քաղաքի անունը պետք է լինի առնվազն 3 նիշ"
 
 msgid "Coordinates not available for this location"
-msgstr ""
+msgstr "Կոորդինատները հասանելի չեն այս վայրի համար"
 
 msgid "Current Weather"
-msgstr ""
+msgstr "Ընթացիկ եղանակ"
 
 msgid "Day +/-"
-msgstr ""
+msgstr "Օր +/-"
 
 msgid "Default"
-msgstr ""
+msgstr "Կանխադրված"
 
 msgid "Defaults"
-msgstr ""
+msgstr "Կանխադրվածներ"
 
 msgid "Delete"
-msgstr ""
+msgstr "Ջնջել"
 
 msgid "Delete failed"
-msgstr ""
+msgstr "Չհաջողվեց ջնջել"
 
 msgid "Delete {}?"
-msgstr ""
+msgstr "Ջնջե՞լ {}-ը:"
 
 msgid "Detail level in detail view"
-msgstr ""
+msgstr "Մանրամասների մակարդակը մանրամասն դիտման մեջ"
 
 msgid "Details +/-"
-msgstr ""
+msgstr "Մանրամասն +/-"
 
 msgid "Disabled"
-msgstr ""
+msgstr "Հաշմանդամ"
 
 msgid "East"
-msgstr ""
+msgstr "Արևելք"
 
 msgid "Edit"
-msgstr ""
+msgstr "Խմբագրել"
 
 msgid "Edit city name"
-msgstr ""
+msgstr "Խմբագրել քաղաքի անունը"
 
 msgid "Enable Debug"
-msgstr ""
+msgstr "Միացնել վրիպազերծումը"
 
 msgid "Enable Debug :"
-msgstr ""
+msgstr "Միացնել վրիպազերծումը."
 
 msgid "Enabled"
-msgstr ""
+msgstr "Միացված է"
 
 msgid "Enabled :"
-msgstr ""
+msgstr "Միացված է."
 
 msgid "Enter a personalized API key v2.5 for use with OpenWeatherMap (https://openweathermap.org/)."
-msgstr ""
+msgstr "Մուտքագրեք անհատականացված API բանալի v2.5՝ OpenWeatherMap-ի հետ օգտագործելու համար (https://openweathermap.org/):"
 
 msgid "Enter city name (e.g. 'Rome, IT')"
-msgstr ""
+msgstr "Մուտքագրեք քաղաքի անունը (օրինակ՝ «Rome, IT»)"
 
 msgid "Enter the location for your weather forecasts. To include your location, expand your favorites list with 'Manage your favorites'."
-msgstr ""
+msgstr "Մուտքագրեք ձեր եղանակի կանխատեսումների վայրը: Ձեր գտնվելու վայրը ներառելու համար ընդլայնեք ձեր ընտրյալների ցանկը՝ «Կառավարեք ձեր ընտրյալները»:"
 
 msgid "Error adding location"
-msgstr ""
+msgstr "Չհաջողվեց ավելացնել տեղադրությունը"
 
 msgid "Error changing day"
-msgstr ""
+msgstr "Օրը փոխելու սխալ"
 
 msgid "Error processing location data"
-msgstr ""
+msgstr "Տեղադրության տվյալների մշակման սխալ"
 
 msgid "Error saving favorites"
-msgstr ""
+msgstr "Չհաջողվեց պահել ընտրյալները"
 
 msgid "Error saving location"
-msgstr ""
+msgstr "Չհաջողվեց պահել տեղադրությունը"
 
 msgid "Error selecting location"
-msgstr ""
+msgstr "Տեղադրության ընտրության սխալ"
 
 msgid "Error updating list"
-msgstr ""
+msgstr "Ցուցակի թարմացման սխալ"
 
 msgid "Exit"
-msgstr ""
+msgstr "Ելք"
 
 msgid "Fahrenheit"
-msgstr ""
+msgstr "Ֆարենհեյթ"
 
 msgid "Favorites saved successfully"
-msgstr ""
+msgstr "Ընտրյալները հաջողությամբ պահպանվեցին"
 
 msgid "Feels like"
-msgstr ""
+msgstr "Զգում է"
 
 msgid "GREEN: MANAGEMENT FAVORITES | MENU: SETUP | INFO: DETAILS | HOME"
-msgstr ""
+msgstr "Կանաչ. ԿԱՌԱՎԱՐՄԱՆ ՖԱՎՈՐԻՏՆԵՐ | ՄԵՆՅՈՒ՝ SETUP | ԻՆՖՈ՝ ՄԱՆՐԱՄԱՍՆԵՐ | ՏՈՒՆ"
 
 msgid "Glass"
-msgstr ""
+msgstr "Ապակի"
 
 msgid "Humidity"
-msgstr ""
+msgstr "Խոնավություն"
 
 msgid "Invalid location coordinates"
-msgstr ""
+msgstr "Տեղադրության անվավեր կոորդինատներ"
 
 msgid "Invalid location format"
-msgstr ""
+msgstr "Տեղադրության անվավեր ձևաչափ"
 
 msgid "Invalid selection"
-msgstr ""
+msgstr "Անվավեր ընտրություն"
 
 msgid "Less details / Larger font"
-msgstr ""
+msgstr "Ավելի քիչ մանրամասներ / Ավելի մեծ տառատեսակ"
 
 msgid "Loading weather data..."
-msgstr ""
+msgstr "Եղանակի տվյալների բեռնում..."
 
 msgid "Location added successfully"
-msgstr ""
+msgstr "Տեղադրությունը հաջողությամբ ավելացվեց"
 
 msgid "Location added to favorites"
-msgstr ""
+msgstr "Գտնվելու վայրը ավելացվել է ընտրյալներին"
 
 msgid "Location already exists"
-msgstr ""
+msgstr "Տեղադրությունն արդեն գոյություն ունի"
 
 msgid "Location already in favorites"
-msgstr ""
+msgstr "Տեղադրությունն արդեն ընտրյալների մեջ է"
 
 msgid "Location deleted"
-msgstr ""
+msgstr "Տեղադրությունը ջնջվել է"
 
 msgid "Location with similar coordinates already exists"
-msgstr ""
+msgstr "Նման կոորդինատներով տեղ արդեն գոյություն ունի"
 
 msgid "MSN weather"
-msgstr ""
+msgstr "MSN եղանակ"
 
 msgid "Manage Favorites"
-msgstr ""
+msgstr "Կառավարեք ընտրյալները"
 
 msgid "Menu"
-msgstr ""
+msgstr "Մենյու"
 
 msgid "Metric unit for wind speed"
-msgstr ""
+msgstr "Քամու արագության մետրային միավոր"
 
 msgid "More Details / Smaller font"
-msgstr ""
+msgstr "Լրացուցիչ մանրամասներ / Ավելի փոքր տառատեսակ"
 
 msgid "N/A"
 msgstr ""
 
 msgid "Next favorite"
-msgstr ""
+msgstr "Հաջորդ սիրելին"
 
 msgid "No data"
-msgstr ""
+msgstr "Տվյալներ չկան"
 
 msgid "No locations found"
-msgstr ""
+msgstr "Ոչ մի տեղ չի գտնվել"
 
 msgid "North"
-msgstr ""
+msgstr "Հյուսիսային"
 
 msgid "Northeast"
-msgstr ""
+msgstr "Հյուսիս-արևելք"
 
 msgid "Northwest"
-msgstr ""
+msgstr "Հյուսիսարևմտյան"
 
 msgid "Open-Meteo Wetter"
-msgstr ""
+msgstr "Open-Meteo Եղանակ"
 
 msgid "OpenWeatherMap"
 msgstr ""
 
 msgid "Please enter a valid city name."
-msgstr ""
+msgstr "Խնդրում ենք մուտքագրել վավեր քաղաքի անունը:"
 
 msgid "Please enter at least 3 characters"
-msgstr ""
+msgstr "Խնդրում ենք մուտքագրել առնվազն 3 նիշ"
 
 msgid "Precipitation"
-msgstr ""
+msgstr "Տեղումներ"
 
 msgid "Previous favorite"
-msgstr ""
+msgstr "Նախորդ սիրելի"
 
 msgid "Refresh interval"
-msgstr ""
+msgstr "Թարմացման ընդմիջում"
 
 msgid "Refresh interval :"
-msgstr ""
+msgstr "Թարմացման ընդմիջում."
 
 msgid "Save"
-msgstr ""
+msgstr "Պահպանել"
 
 msgid "Select 'Yes' to enable add debug output to log."
-msgstr ""
+msgstr "Ընտրեք «Այո»՝ մատյանում վրիպազերծման ելք ավելացնելու համար:"
 
 msgid "Select 'Yes' to enable the addition of Weather."
-msgstr ""
+msgstr "Ընտրեք «Այո»՝ եղանակի ավելացումը միացնելու համար:"
 
 msgid "Select location"
-msgstr ""
+msgstr "Ընտրեք գտնվելու վայրը"
 
 msgid "Select the City and Press Ok"
-msgstr ""
+msgstr "Ընտրեք Քաղաքը և սեղմեք Ok"
 
 msgid "Select the detail level in the detail view. You have the choice between a comprehensive presentation in a smaller font and a reduced presentation with a larger font."
-msgstr ""
+msgstr "Ընտրեք մանրամասների մակարդակը մանրամասն տեսքում: Դուք ունեք ընտրություն ավելի փոքր տառատեսակով համապարփակ ներկայացման և ավելի մեծ տառատեսակով կրճատված ներկայացման միջև:"
 
 msgid "Select the metric unit for wind speed to be used for wind displays. This has no effect on the imperial unit 'mph'."
-msgstr ""
+msgstr "Ընտրեք քամու արագության մետրային միավորը, որն օգտագործվում է քամու ցուցադրման համար: Սա ոչ մի ազդեցություն չի թողնում կայսերական միավորի «մ/ժ»-ի վրա:"
 
 msgid "Select the preferred weather service to supply the weather information."
-msgstr ""
+msgstr "Եղանակի մասին տեղեկությունները տրամադրելու համար ընտրեք եղանակային նախընտրելի ծառայությունը:"
 
 msgid "Select the temperature unit to be used for temperature displays."
-msgstr ""
+msgstr "Ընտրեք ջերմաստիճանի միավորը, որն օգտագործվում է ջերմաստիճանի ցուցադրման համար:"
 
 msgid "Select this option to save that last obtained weather data locally. This is used to initialize the data immediately after restart while updated data is being fetched."
-msgstr ""
+msgstr "Ընտրեք այս տարբերակը՝ վերջին ստացված եղանակի տվյալները տեղում պահելու համար: Սա օգտագործվում է վերագործարկվելուց անմիջապես հետո տվյալները սկզբնավորելու համար, մինչ թարմացված տվյալները առբերվում են:"
 
 msgid "Settings"
-msgstr ""
+msgstr "Կարգավորումներ"
 
 msgid "Setup"
-msgstr ""
+msgstr "Կարգավորում"
 
 msgid "Show Weather Forecast"
-msgstr ""
+msgstr "Ցույց տալ եղանակի կանխատեսումը"
 
 msgid "Show trend arrows for moon data"
-msgstr ""
+msgstr "Ցույց տալ միտումների սլաքները լուսնի տվյալների համար"
 
 msgid "Show trend arrows for moon illumination and moon distance to see the current trend of the data."
-msgstr ""
+msgstr "Ցույց տալ միտումների սլաքները լուսնի լուսավորության և լուսնի հեռավորության համար՝ տվյալների ընթացիկ միտումը տեսնելու համար:"
 
 msgid "South"
-msgstr ""
+msgstr "Հարավ"
 
 msgid "Southeast"
-msgstr ""
+msgstr "Հարավարևելյան"
 
 msgid "Southwest"
-msgstr ""
+msgstr "Հարավարևմտյան"
 
 msgid "Specify how often Weather retrieves its data from the server. 'Once' means the data will loaded only once after a GUI or system start."
-msgstr ""
+msgstr "Նշեք, թե որքան հաճախ է Weather-ն առբերում իր տվյալները սերվերից: «Մի անգամ» նշանակում է, որ տվյալները կբեռնվեն միայն մեկ անգամ՝ GUI-ի կամ համակարգի գործարկումից հետո:"
 
 msgid "Standard fertig"
-msgstr ""
+msgstr "Ստանդարտ ավարտված է"
 
 msgid "Temperature unit"
-msgstr ""
+msgstr "Ջերմաստիճանի միավոր"
 
 msgid "Temperature unit :"
-msgstr ""
+msgstr "Ջերմաստիճանի միավոր."
 
 msgid "Today"
-msgstr ""
+msgstr "Այսօր"
 
 msgid "Try refreshing or check settings"
-msgstr ""
+msgstr "Փորձեք թարմացնել կամ ստուգել կարգավորումները"
 
 msgid "Update"
-msgstr ""
+msgstr "Թարմացնել"
 
 msgid "View details"
-msgstr ""
+msgstr "Դիտել մանրամասները"
 
 msgid "Weather API key :"
-msgstr ""
+msgstr "Եղանակի API բանալի."
 
 msgid "Weather API key v2.5"
-msgstr ""
+msgstr "Եղանակի API բանալի v2.5"
 
 msgid "Weather Plugin"
-msgstr ""
+msgstr "Եղանակի հավելված"
 
 msgid "Weather Plugin Detailview"
-msgstr ""
+msgstr "Եղանակի պլագինի մանրամասն դիտում"
 
 msgid "Weather city name"
-msgstr ""
+msgstr "Եղանակի քաղաքի անվանումը"
 
 msgid "Weather city name :"
-msgstr ""
+msgstr "Եղանակի քաղաքի անվանումը."
 
 msgid "Weather data unavailable"
-msgstr ""
+msgstr "Եղանակի տվյալներն անհասանելի են"
 
 msgid "Weather icon night switch"
-msgstr ""
+msgstr "Եղանակի պատկերակ գիշերային անջատիչ"
 
 msgid "Weather icon night switch :"
-msgstr ""
+msgstr "Եղանակի պատկերակ գիշերային անջատիչ."
 
 msgid "Weather icon set"
-msgstr ""
+msgstr "Եղանակի պատկերակների հավաքածու"
 
 msgid "Weather icon set :"
-msgstr ""
+msgstr "Եղանակի պատկերակների հավաքածու."
 
 msgid "Weather service"
-msgstr ""
+msgstr "Եղանակի սպասարկում"
 
 msgid "Weather service :"
-msgstr ""
+msgstr "Եղանակի սպասարկում."
 
 msgid "Weather settings"
-msgstr ""
+msgstr "Եղանակի կարգավորումներ"
 
 msgid "West"
-msgstr ""
+msgstr "Արեւմուտք"
 
 msgid "Wind speed metric unit:"
-msgstr ""
+msgstr "Քամու արագության չափման միավոր."
 
 msgid "You have unsaved changes. Save before exiting?"
-msgstr ""
+msgstr "Դուք չպահված փոփոխություններ ունեք: Պահե՞լ նախքան դուրս գալը:"
 
 msgid "exit"
-msgstr ""
+msgstr "ելք"
 
 msgid "km/h"
-msgstr ""
+msgstr "կմ/ժ"
 
 msgid "m/s"
-msgstr ""
+msgstr "մ/վրկ"
 
 msgid "n/a"
-msgstr ""
+msgstr "հ/հ"

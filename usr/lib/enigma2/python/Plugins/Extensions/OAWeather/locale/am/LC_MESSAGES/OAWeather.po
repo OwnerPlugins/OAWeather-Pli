@@ -15,370 +15,370 @@ msgstr ""
 # FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
 #
 msgid "%d Minutes"
-msgstr ""
+msgstr "%d ደቂቃዎች"
 
 msgid "Add"
-msgstr ""
+msgstr "አክል"
 
 msgid "Add Fav"
-msgstr ""
+msgstr "Fav አክል"
 
 msgid "Cache data"
-msgstr ""
+msgstr "የመሸጎጫ ውሂብ"
 
 msgid "Cache data :"
-msgstr ""
+msgstr "የመሸጎጫ ውሂብ;"
 
 msgid "Celsius"
-msgstr ""
+msgstr "ሴልሺየስ"
 
 msgid "Choose the icon set. You need to create an additional set here: /usr/share/enigma2/WeatherIconSets/NAME."
-msgstr ""
+msgstr "የአዶውን ስብስብ ይምረጡ። እዚህ ተጨማሪ ስብስብ መፍጠር አለብህ፡ /usr/share/enigma2/WeatherIconSets/NAME።"
 
 msgid "Choose whether the 'night switch' should be activated or not. Some icons are then displayed as night icons with moon."
-msgstr ""
+msgstr "'የሌሊት ማብሪያ / ማጥፊያ' እንዲነቃ ወይም እንደማይነቃ ይምረጡ። አንዳንድ አዶዎች ከጨረቃ ጋር እንደ የምሽት አዶዎች ይታያሉ።"
 
 msgid "Chose favorite"
-msgstr ""
+msgstr "ተወዳጅ ምረጥ"
 
 msgid "City name must be at least 3 characters"
-msgstr ""
+msgstr "የከተማ ስም ቢያንስ 3 ቁምፊዎች መሆን አለበት።"
 
 msgid "Coordinates not available for this location"
-msgstr ""
+msgstr "መጋጠሚያዎች ለዚህ አካባቢ አይገኙም።"
 
 msgid "Current Weather"
-msgstr ""
+msgstr "የአሁኑ የአየር ሁኔታ"
 
 msgid "Day +/-"
-msgstr ""
+msgstr "ቀን +/-"
 
 msgid "Default"
-msgstr ""
+msgstr "ነባሪ"
 
 msgid "Defaults"
-msgstr ""
+msgstr "ነባሪዎች"
 
 msgid "Delete"
-msgstr ""
+msgstr "ሰርዝ"
 
 msgid "Delete failed"
-msgstr ""
+msgstr "መሰረዝ አልተሳካም።"
 
 msgid "Delete {}?"
-msgstr ""
+msgstr "ይሰረዝ {}?"
 
 msgid "Detail level in detail view"
-msgstr ""
+msgstr "የዝርዝር ደረጃ በዝርዝር እይታ"
 
 msgid "Details +/-"
-msgstr ""
+msgstr "ዝርዝሮች +/-"
 
 msgid "Disabled"
-msgstr ""
+msgstr "ተሰናክሏል።"
 
 msgid "East"
-msgstr ""
+msgstr "ምስራቅ"
 
 msgid "Edit"
-msgstr ""
+msgstr "አርትዕ"
 
 msgid "Edit city name"
-msgstr ""
+msgstr "የከተማውን ስም ያርትዑ"
 
 msgid "Enable Debug"
-msgstr ""
+msgstr "ማረም አንቃ"
 
 msgid "Enable Debug :"
-msgstr ""
+msgstr "ማረም አንቃ፡"
 
 msgid "Enabled"
-msgstr ""
+msgstr "ነቅቷል"
 
 msgid "Enabled :"
-msgstr ""
+msgstr "ነቅቷል፡"
 
 msgid "Enter a personalized API key v2.5 for use with OpenWeatherMap (https://openweathermap.org/)."
-msgstr ""
+msgstr "ከOpenWeatherMap (https://openweathermap.org/) ጋር ለመጠቀም ግላዊ የሆነ የኤፒአይ ቁልፍ v2.5 ያስገቡ።"
 
 msgid "Enter city name (e.g. 'Rome, IT')"
-msgstr ""
+msgstr "የከተማ ስም አስገባ (ለምሳሌ 'Rome IT')"
 
 msgid "Enter the location for your weather forecasts. To include your location, expand your favorites list with 'Manage your favorites'."
-msgstr ""
+msgstr "የአየር ሁኔታ ትንበያዎን ቦታ ያስገቡ። አካባቢህን ለማካተት የተወዳጆችህን ዝርዝር በ'ተወዳጆችህን አስተዳድር' አስፋ።"
 
 msgid "Error adding location"
-msgstr ""
+msgstr "አካባቢ ማከል ላይ ስህተት"
 
 msgid "Error changing day"
-msgstr ""
+msgstr "ቀን መቀየር ላይ ስህተት"
 
 msgid "Error processing location data"
-msgstr ""
+msgstr "የአካባቢ ውሂብን ማካሄድ ላይ ስህተት"
 
 msgid "Error saving favorites"
-msgstr ""
+msgstr "ተወዳጆችን ማስቀመጥ ላይ ስህተት"
 
 msgid "Error saving location"
-msgstr ""
+msgstr "አካባቢን በማስቀመጥ ላይ ስህተት"
 
 msgid "Error selecting location"
-msgstr ""
+msgstr "ቦታ መምረጥ ላይ ስህተት"
 
 msgid "Error updating list"
-msgstr ""
+msgstr "ዝርዝርን በማዘመን ላይ ስህተት"
 
 msgid "Exit"
-msgstr ""
+msgstr "ውጣ"
 
 msgid "Fahrenheit"
-msgstr ""
+msgstr "ፋራናይት"
 
 msgid "Favorites saved successfully"
-msgstr ""
+msgstr "ተወዳጆች በተሳካ ሁኔታ ተቀምጠዋል"
 
 msgid "Feels like"
-msgstr ""
+msgstr "የሚሰማው"
 
 msgid "GREEN: MANAGEMENT FAVORITES | MENU: SETUP | INFO: DETAILS | HOME"
-msgstr ""
+msgstr "አረንጓዴ፡ የአስተዳደር ተወዳጆች | ማውጫ፡ አዘጋጅ | መረጃ፡ ዝርዝሮች | ቤት"
 
 msgid "Glass"
-msgstr ""
+msgstr "ብርጭቆ"
 
 msgid "Humidity"
-msgstr ""
+msgstr "እርጥበት"
 
 msgid "Invalid location coordinates"
-msgstr ""
+msgstr "ልክ ያልሆኑ የአካባቢ መጋጠሚያዎች"
 
 msgid "Invalid location format"
-msgstr ""
+msgstr "ልክ ያልሆነ የአካባቢ ቅርጸት"
 
 msgid "Invalid selection"
-msgstr ""
+msgstr "ልክ ያልሆነ ምርጫ"
 
 msgid "Less details / Larger font"
-msgstr ""
+msgstr "ያነሱ ዝርዝሮች / ትልቅ ቅርጸ-ቁምፊ"
 
 msgid "Loading weather data..."
-msgstr ""
+msgstr "የአየር ሁኔታ መረጃን በመጫን ላይ..."
 
 msgid "Location added successfully"
-msgstr ""
+msgstr "አካባቢ በተሳካ ሁኔታ ታክሏል።"
 
 msgid "Location added to favorites"
-msgstr ""
+msgstr "አካባቢ ወደ ተወዳጆች ታክሏል።"
 
 msgid "Location already exists"
-msgstr ""
+msgstr "አካባቢ አስቀድሞ አለ።"
 
 msgid "Location already in favorites"
-msgstr ""
+msgstr "አካባቢ አስቀድሞ በተወዳጆች ውስጥ ነው።"
 
 msgid "Location deleted"
-msgstr ""
+msgstr "አካባቢ ተሰርዟል።"
 
 msgid "Location with similar coordinates already exists"
-msgstr ""
+msgstr "ተመሳሳይ መጋጠሚያዎች ያለው ቦታ አስቀድሞ አለ።"
 
 msgid "MSN weather"
-msgstr ""
+msgstr "የኤምኤስኤን የአየር ሁኔታ"
 
 msgid "Manage Favorites"
-msgstr ""
+msgstr "ተወዳጆችን አስተዳድር"
 
 msgid "Menu"
-msgstr ""
+msgstr "ምናሌ"
 
 msgid "Metric unit for wind speed"
-msgstr ""
+msgstr "ለንፋስ ፍጥነት ሜትሪክ አሃድ"
 
 msgid "More Details / Smaller font"
-msgstr ""
+msgstr "ተጨማሪ ዝርዝሮች / ትንሽ ቅርጸ-ቁምፊ"
 
 msgid "N/A"
-msgstr ""
+msgstr "ኤን/ኤ"
 
 msgid "Next favorite"
-msgstr ""
+msgstr "ቀጣይ ተወዳጅ"
 
 msgid "No data"
-msgstr ""
+msgstr "ምንም ውሂብ የለም"
 
 msgid "No locations found"
-msgstr ""
+msgstr "ምንም አካባቢዎች አልተገኙም።"
 
 msgid "North"
-msgstr ""
+msgstr "ሰሜን"
 
 msgid "Northeast"
-msgstr ""
+msgstr "ሰሜን ምስራቅ"
 
 msgid "Northwest"
-msgstr ""
+msgstr "ሰሜን ምእራብ"
 
 msgid "Open-Meteo Wetter"
-msgstr ""
+msgstr "ክፍት-Meteo የአየር ሁኔታ"
 
 msgid "OpenWeatherMap"
-msgstr ""
+msgstr "የአየር ሁኔታ ካርታን ይክፈቱ"
 
 msgid "Please enter a valid city name."
-msgstr ""
+msgstr "እባክዎ የሚሰራ የከተማ ስም ያስገቡ።"
 
 msgid "Please enter at least 3 characters"
-msgstr ""
+msgstr "እባክዎ ቢያንስ 3 ቁምፊዎችን ያስገቡ"
 
 msgid "Precipitation"
-msgstr ""
+msgstr "ዝናብ"
 
 msgid "Previous favorite"
-msgstr ""
+msgstr "የቀድሞ ተወዳጅ"
 
 msgid "Refresh interval"
-msgstr ""
+msgstr "ክፍተት አድስ"
 
 msgid "Refresh interval :"
-msgstr ""
+msgstr "የአድስ ክፍተት፡"
 
 msgid "Save"
-msgstr ""
+msgstr "አስቀምጥ"
 
 msgid "Select 'Yes' to enable add debug output to log."
-msgstr ""
+msgstr "ወደ መግባቱ የስህተት ውፅዓት ለመጨመር 'አዎ'ን ይምረጡ።"
 
 msgid "Select 'Yes' to enable the addition of Weather."
-msgstr ""
+msgstr "የአየር ሁኔታ መጨመርን ለማንቃት 'አዎ' የሚለውን ይምረጡ።"
 
 msgid "Select location"
-msgstr ""
+msgstr "ቦታ ይምረጡ"
 
 msgid "Select the City and Press Ok"
-msgstr ""
+msgstr "ከተማውን ይምረጡ እና እሺን ይጫኑ"
 
 msgid "Select the detail level in the detail view. You have the choice between a comprehensive presentation in a smaller font and a reduced presentation with a larger font."
-msgstr ""
+msgstr "በዝርዝር እይታ ውስጥ የዝርዝር ደረጃውን ይምረጡ. በትንሽ ቅርጸ-ቁምፊ እና በተቀነሰ ቅርጸ-ቁምፊ መካከል ባለው አጠቃላይ አቀራረብ መካከል ምርጫ አለዎት።"
 
 msgid "Select the metric unit for wind speed to be used for wind displays. This has no effect on the imperial unit 'mph'."
-msgstr ""
+msgstr "ለንፋስ ማሳያዎች የሚውለውን የንፋስ ፍጥነት መለኪያውን ይምረጡ። ይህ በንጉሠ ነገሥቱ ክፍል 'mph' ላይ ምንም ተጽእኖ የለውም."
 
 msgid "Select the preferred weather service to supply the weather information."
-msgstr ""
+msgstr "የአየር ሁኔታ መረጃን ለማቅረብ ተመራጭ የአየር ሁኔታ አገልግሎትን ይምረጡ።"
 
 msgid "Select the temperature unit to be used for temperature displays."
-msgstr ""
+msgstr "ለሙቀት ማሳያዎች የሚውለውን የሙቀት መጠን ይምረጡ።"
 
 msgid "Select this option to save that last obtained weather data locally. This is used to initialize the data immediately after restart while updated data is being fetched."
-msgstr ""
+msgstr "የመጨረሻውን የአየር ሁኔታ መረጃ በአገር ውስጥ ለማስቀመጥ ይህንን አማራጭ ይምረጡ። ይህ የዘመነ ውሂብ እየመጣ እያለ እንደገና ከተጀመረ በኋላ ወዲያውኑ ውሂቡን ለማስጀመር ይጠቅማል።"
 
 msgid "Settings"
-msgstr ""
+msgstr "ቅንብሮች"
 
 msgid "Setup"
-msgstr ""
+msgstr "ማዋቀር"
 
 msgid "Show Weather Forecast"
-msgstr ""
+msgstr "የአየር ሁኔታ ትንበያን አሳይ"
 
 msgid "Show trend arrows for moon data"
-msgstr ""
+msgstr "ለጨረቃ ውሂብ የአዝማሚያ ቀስቶችን አሳይ"
 
 msgid "Show trend arrows for moon illumination and moon distance to see the current trend of the data."
-msgstr ""
+msgstr "የአሁኑን የውሂብ አዝማሚያ ለማየት ለጨረቃ ብርሃን እና ለጨረቃ ርቀት የአዝማሚያ ቀስቶችን አሳይ።"
 
 msgid "South"
-msgstr ""
+msgstr "ደቡብ"
 
 msgid "Southeast"
-msgstr ""
+msgstr "ደቡብ ምስራቅ"
 
 msgid "Southwest"
-msgstr ""
+msgstr "ደቡብ ምዕራብ"
 
 msgid "Specify how often Weather retrieves its data from the server. 'Once' means the data will loaded only once after a GUI or system start."
-msgstr ""
+msgstr "የአየር ሁኔታ ምን ያህል ጊዜ ውሂቡን ከአገልጋዩ እንደሚያወጣ ይግለጹ። 'አንድ ጊዜ' ማለት ውሂቡ የሚጫነው GUI ወይም ስርዓት ከጀመረ በኋላ አንድ ጊዜ ብቻ ነው።"
 
 msgid "Standard fertig"
-msgstr ""
+msgstr "መደበኛ ተጠናቅቋል"
 
 msgid "Temperature unit"
-msgstr ""
+msgstr "የሙቀት መለኪያ"
 
 msgid "Temperature unit :"
-msgstr ""
+msgstr "የሙቀት መለኪያ;"
 
 msgid "Today"
-msgstr ""
+msgstr "ዛሬ"
 
 msgid "Try refreshing or check settings"
-msgstr ""
+msgstr "ለማደስ ይሞክሩ ወይም ቅንብሮችን ያረጋግጡ"
 
 msgid "Update"
-msgstr ""
+msgstr "አዘምን"
 
 msgid "View details"
-msgstr ""
+msgstr "ዝርዝሮችን ይመልከቱ"
 
 msgid "Weather API key :"
-msgstr ""
+msgstr "የአየር ሁኔታ ኤፒአይ ቁልፍ"
 
 msgid "Weather API key v2.5"
-msgstr ""
+msgstr "የአየር ሁኔታ ኤፒአይ ቁልፍ v2.5"
 
 msgid "Weather Plugin"
-msgstr ""
+msgstr "የአየር ሁኔታ ፕለጊን።"
 
 msgid "Weather Plugin Detailview"
-msgstr ""
+msgstr "የአየር ሁኔታ ተሰኪ ዝርዝር እይታ"
 
 msgid "Weather city name"
-msgstr ""
+msgstr "የአየር ሁኔታ የከተማ ስም"
 
 msgid "Weather city name :"
-msgstr ""
+msgstr "የአየር ሁኔታ ከተማ ስም;"
 
 msgid "Weather data unavailable"
-msgstr ""
+msgstr "የአየር ሁኔታ መረጃ አይገኝም"
 
 msgid "Weather icon night switch"
-msgstr ""
+msgstr "የአየር ሁኔታ አዶ የምሽት መቀየሪያ"
 
 msgid "Weather icon night switch :"
-msgstr ""
+msgstr "የአየር ሁኔታ አዶ የምሽት መቀየሪያ;"
 
 msgid "Weather icon set"
-msgstr ""
+msgstr "የአየር ሁኔታ አዶ ተዘጋጅቷል"
 
 msgid "Weather icon set :"
-msgstr ""
+msgstr "የአየር ሁኔታ አዶ ተዘጋጅቷል;"
 
 msgid "Weather service"
-msgstr ""
+msgstr "የአየር ሁኔታ አገልግሎት"
 
 msgid "Weather service :"
-msgstr ""
+msgstr "የአየር ሁኔታ አገልግሎት;"
 
 msgid "Weather settings"
-msgstr ""
+msgstr "የአየር ሁኔታ ቅንብሮች"
 
 msgid "West"
-msgstr ""
+msgstr "ምዕራብ"
 
 msgid "Wind speed metric unit:"
-msgstr ""
+msgstr "የንፋስ ፍጥነት መለኪያ አሃድ፡-"
 
 msgid "You have unsaved changes. Save before exiting?"
-msgstr ""
+msgstr "ያልተቀመጡ ለውጦች አሉዎት። ከመውጣትዎ በፊት ይቆጥቡ?"
 
 msgid "exit"
-msgstr ""
+msgstr "መውጣት"
 
 msgid "km/h"
-msgstr ""
+msgstr "ኪሜ በሰአት"
 
 msgid "m/s"
-msgstr ""
+msgstr "ሜ/ሰ"
 
 msgid "n/a"
 msgstr ""

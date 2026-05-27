@@ -15,370 +15,370 @@ msgstr ""
 # FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
 #
 msgid "%d Minutes"
-msgstr ""
+msgstr "%d წუთი"
 
 msgid "Add"
-msgstr ""
+msgstr "დამატება"
 
 msgid "Add Fav"
-msgstr ""
+msgstr "დაამატეთ ფავორიტი"
 
 msgid "Cache data"
-msgstr ""
+msgstr "ქეში მონაცემები"
 
 msgid "Cache data :"
-msgstr ""
+msgstr "ქეში მონაცემები:"
 
 msgid "Celsius"
-msgstr ""
+msgstr "ცელსიუსი"
 
 msgid "Choose the icon set. You need to create an additional set here: /usr/share/enigma2/WeatherIconSets/NAME."
-msgstr ""
+msgstr "აირჩიეთ ხატების ნაკრები. თქვენ უნდა შექმნათ დამატებითი ნაკრები აქ: /usr/share/enigma2/WeatherIconSets/NAME."
 
 msgid "Choose whether the 'night switch' should be activated or not. Some icons are then displayed as night icons with moon."
-msgstr ""
+msgstr "აირჩიეთ „ღამის ჩამრთველი“ უნდა იყოს ჩართული თუ არა. ზოგიერთი ხატი შემდეგ გამოჩნდება, როგორც ღამის ხატები მთვარესთან ერთად."
 
 msgid "Chose favorite"
-msgstr ""
+msgstr "აირჩიე ფავორიტი"
 
 msgid "City name must be at least 3 characters"
-msgstr ""
+msgstr "ქალაქის სახელი უნდა შედგებოდეს მინიმუმ 3 სიმბოლოსგან"
 
 msgid "Coordinates not available for this location"
-msgstr ""
+msgstr "კოორდინატები მიუწვდომელია ამ მდებარეობისთვის"
 
 msgid "Current Weather"
-msgstr ""
+msgstr "მიმდინარე ამინდი"
 
 msgid "Day +/-"
-msgstr ""
+msgstr "დღე +/-"
 
 msgid "Default"
-msgstr ""
+msgstr "ნაგულისხმევი"
 
 msgid "Defaults"
-msgstr ""
+msgstr "ნაგულისხმევი"
 
 msgid "Delete"
-msgstr ""
+msgstr "წაშლა"
 
 msgid "Delete failed"
-msgstr ""
+msgstr "წაშლა ვერ მოხერხდა"
 
 msgid "Delete {}?"
-msgstr ""
+msgstr "წაშალოთ {}?"
 
 msgid "Detail level in detail view"
-msgstr ""
+msgstr "დეტალების დონე დეტალურ ხედში"
 
 msgid "Details +/-"
-msgstr ""
+msgstr "დეტალები +/-"
 
 msgid "Disabled"
-msgstr ""
+msgstr "გამორთულია"
 
 msgid "East"
-msgstr ""
+msgstr "აღმოსავლეთი"
 
 msgid "Edit"
-msgstr ""
+msgstr "რედაქტირება"
 
 msgid "Edit city name"
-msgstr ""
+msgstr "ქალაქის სახელის რედაქტირება"
 
 msgid "Enable Debug"
-msgstr ""
+msgstr "გამართვის ჩართვა"
 
 msgid "Enable Debug :"
-msgstr ""
+msgstr "გამართვის ჩართვა:"
 
 msgid "Enabled"
-msgstr ""
+msgstr "ჩართულია"
 
 msgid "Enabled :"
-msgstr ""
+msgstr "ჩართულია:"
 
 msgid "Enter a personalized API key v2.5 for use with OpenWeatherMap (https://openweathermap.org/)."
-msgstr ""
+msgstr "შეიყვანეთ პერსონალიზებული API გასაღები v2.5 OpenWeatherMap-თან გამოსაყენებლად (https://openweathermap.org/)."
 
 msgid "Enter city name (e.g. 'Rome, IT')"
-msgstr ""
+msgstr "შეიყვანეთ ქალაქის სახელი (მაგ. „Rome, IT“)"
 
 msgid "Enter the location for your weather forecasts. To include your location, expand your favorites list with 'Manage your favorites'."
-msgstr ""
+msgstr "შეიყვანეთ ადგილმდებარეობა თქვენი ამინდის პროგნოზისთვის. თქვენი მდებარეობის ჩასართავად, გააფართოვეთ თქვენი ფავორიტების სია „მართეთ თქვენი რჩეულები“."
 
 msgid "Error adding location"
-msgstr ""
+msgstr "შეცდომა მდებარეობის დამატებისას"
 
 msgid "Error changing day"
-msgstr ""
+msgstr "შეცდომა დღის შეცვლისას"
 
 msgid "Error processing location data"
-msgstr ""
+msgstr "მდებარეობის მონაცემების დამუშავების შეცდომა"
 
 msgid "Error saving favorites"
-msgstr ""
+msgstr "შეცდომა რჩეულების შენახვისას"
 
 msgid "Error saving location"
-msgstr ""
+msgstr "შეცდომა მდებარეობის შენახვისას"
 
 msgid "Error selecting location"
-msgstr ""
+msgstr "შეცდომა მდებარეობის არჩევისას"
 
 msgid "Error updating list"
-msgstr ""
+msgstr "შეცდომა სიის განახლებისას"
 
 msgid "Exit"
-msgstr ""
+msgstr "გასვლა"
 
 msgid "Fahrenheit"
-msgstr ""
+msgstr "ფარენჰაიტი"
 
 msgid "Favorites saved successfully"
-msgstr ""
+msgstr "რჩეულები წარმატებით შენახულია"
 
 msgid "Feels like"
-msgstr ""
+msgstr "იგრძნობა"
 
 msgid "GREEN: MANAGEMENT FAVORITES | MENU: SETUP | INFO: DETAILS | HOME"
-msgstr ""
+msgstr "მწვანე: მენეჯმენტის ფავორიტები | მენიუ: SETUP | ინფორმაცია: დეტალები | მთავარი"
 
 msgid "Glass"
-msgstr ""
+msgstr "შუშა"
 
 msgid "Humidity"
-msgstr ""
+msgstr "ტენიანობა"
 
 msgid "Invalid location coordinates"
-msgstr ""
+msgstr "მდებარეობის არასწორი კოორდინატები"
 
 msgid "Invalid location format"
-msgstr ""
+msgstr "მდებარეობის არასწორი ფორმატი"
 
 msgid "Invalid selection"
-msgstr ""
+msgstr "არასწორი შერჩევა"
 
 msgid "Less details / Larger font"
-msgstr ""
+msgstr "ნაკლები დეტალები / უფრო დიდი შრიფტი"
 
 msgid "Loading weather data..."
-msgstr ""
+msgstr "ამინდის მონაცემების ჩატვირთვა..."
 
 msgid "Location added successfully"
-msgstr ""
+msgstr "მდებარეობა წარმატებით დაემატა"
 
 msgid "Location added to favorites"
-msgstr ""
+msgstr "მდებარეობა დაემატა რჩეულებს"
 
 msgid "Location already exists"
-msgstr ""
+msgstr "მდებარეობა უკვე არსებობს"
 
 msgid "Location already in favorites"
-msgstr ""
+msgstr "მდებარეობა უკვე რჩეულებშია"
 
 msgid "Location deleted"
-msgstr ""
+msgstr "მდებარეობა წაშლილია"
 
 msgid "Location with similar coordinates already exists"
-msgstr ""
+msgstr "მსგავსი კოორდინატებით მდებარეობა უკვე არსებობს"
 
 msgid "MSN weather"
-msgstr ""
+msgstr "MSN ამინდი"
 
 msgid "Manage Favorites"
-msgstr ""
+msgstr "ფავორიტების მართვა"
 
 msgid "Menu"
-msgstr ""
+msgstr "მენიუ"
 
 msgid "Metric unit for wind speed"
-msgstr ""
+msgstr "მეტრული ერთეული ქარის სიჩქარისთვის"
 
 msgid "More Details / Smaller font"
-msgstr ""
+msgstr "დამატებითი დეტალები / უფრო მცირე შრიფტი"
 
 msgid "N/A"
 msgstr ""
 
 msgid "Next favorite"
-msgstr ""
+msgstr "შემდეგი საყვარელი"
 
 msgid "No data"
-msgstr ""
+msgstr "მონაცემები არ არის"
 
 msgid "No locations found"
-msgstr ""
+msgstr "მდებარეობები ვერ მოიძებნა"
 
 msgid "North"
-msgstr ""
+msgstr "ჩრდილოეთი"
 
 msgid "Northeast"
-msgstr ""
+msgstr "ჩრდილო-აღმოსავლეთი"
 
 msgid "Northwest"
-msgstr ""
+msgstr "ჩრდილო-დასავლეთი"
 
 msgid "Open-Meteo Wetter"
-msgstr ""
+msgstr "ღია-მეტეო ამინდი"
 
 msgid "OpenWeatherMap"
 msgstr ""
 
 msgid "Please enter a valid city name."
-msgstr ""
+msgstr "გთხოვთ, შეიყვანოთ ქალაქის სწორი სახელი."
 
 msgid "Please enter at least 3 characters"
-msgstr ""
+msgstr "გთხოვთ შეიყვანოთ მინიმუმ 3 სიმბოლო"
 
 msgid "Precipitation"
-msgstr ""
+msgstr "ნალექები"
 
 msgid "Previous favorite"
-msgstr ""
+msgstr "წინა ფავორიტი"
 
 msgid "Refresh interval"
-msgstr ""
+msgstr "განახლების ინტერვალი"
 
 msgid "Refresh interval :"
-msgstr ""
+msgstr "განახლების ინტერვალი:"
 
 msgid "Save"
-msgstr ""
+msgstr "შენახვა"
 
 msgid "Select 'Yes' to enable add debug output to log."
-msgstr ""
+msgstr "აირჩიეთ „დიახ“, რათა ჩართოთ გამართვის გამომავალი ჟურნალში დამატება."
 
 msgid "Select 'Yes' to enable the addition of Weather."
-msgstr ""
+msgstr "აირჩიეთ „დიახ“ ამინდის დამატების ჩასართავად."
 
 msgid "Select location"
-msgstr ""
+msgstr "აირჩიეთ ადგილმდებარეობა"
 
 msgid "Select the City and Press Ok"
-msgstr ""
+msgstr "აირჩიეთ ქალაქი და დააჭირეთ OK"
 
 msgid "Select the detail level in the detail view. You have the choice between a comprehensive presentation in a smaller font and a reduced presentation with a larger font."
-msgstr ""
+msgstr "აირჩიეთ დეტალების დონე დეტალების ხედში. თქვენ გაქვთ არჩევანი ყოვლისმომცველ პრეზენტაციას შორის უფრო მცირე შრიფტით და შემცირებულ პრეზენტაციას შორის უფრო დიდი შრიფტით."
 
 msgid "Select the metric unit for wind speed to be used for wind displays. This has no effect on the imperial unit 'mph'."
-msgstr ""
+msgstr "აირჩიეთ ქარის სიჩქარის მეტრიკული ერთეული, რომელიც გამოიყენება ქარის ჩვენებისთვის. ეს არ ახდენს გავლენას იმპერიულ ერთეულზე "mph"."
 
 msgid "Select the preferred weather service to supply the weather information."
-msgstr ""
+msgstr "აირჩიეთ სასურველი ამინდის სერვისი ამინდის შესახებ ინფორმაციის მიწოდებისთვის."
 
 msgid "Select the temperature unit to be used for temperature displays."
-msgstr ""
+msgstr "აირჩიეთ ტემპერატურის ერთეული, რომელიც გამოიყენება ტემპერატურის ჩვენებისთვის."
 
 msgid "Select this option to save that last obtained weather data locally. This is used to initialize the data immediately after restart while updated data is being fetched."
-msgstr ""
+msgstr "აირჩიეთ ეს ვარიანტი, რათა შეინახოთ ბოლო მიღებული ამინდის მონაცემები ადგილობრივად. ეს გამოიყენება მონაცემთა ინიციალიზაციისთვის გადატვირთვისთანავე, სანამ განახლებული მონაცემების მიღება ხდება."
 
 msgid "Settings"
-msgstr ""
+msgstr "პარამეტრები"
 
 msgid "Setup"
-msgstr ""
+msgstr "დაყენება"
 
 msgid "Show Weather Forecast"
-msgstr ""
+msgstr "ამინდის პროგნოზის ჩვენება"
 
 msgid "Show trend arrows for moon data"
-msgstr ""
+msgstr "ტენდენციის ისრების ჩვენება მთვარის მონაცემებისთვის"
 
 msgid "Show trend arrows for moon illumination and moon distance to see the current trend of the data."
-msgstr ""
+msgstr "აჩვენეთ ტენდენციის ისრები მთვარის განათებისთვის და მთვარის მანძილით, რათა ნახოთ მონაცემთა მიმდინარე ტენდენცია."
 
 msgid "South"
-msgstr ""
+msgstr "სამხრეთი"
 
 msgid "Southeast"
-msgstr ""
+msgstr "სამხრეთ-აღმოსავლეთი"
 
 msgid "Southwest"
-msgstr ""
+msgstr "სამხრეთ-დასავლეთი"
 
 msgid "Specify how often Weather retrieves its data from the server. 'Once' means the data will loaded only once after a GUI or system start."
-msgstr ""
+msgstr "მიუთითეთ, რამდენად ხშირად იტვირთება Weather სერვერიდან თავის მონაცემებს. „ერთხელ“ ნიშნავს, რომ მონაცემები ჩაიტვირთება მხოლოდ ერთხელ GUI-ს ან სისტემის დაწყების შემდეგ."
 
 msgid "Standard fertig"
-msgstr ""
+msgstr "სტანდარტული დასრულებული"
 
 msgid "Temperature unit"
-msgstr ""
+msgstr "ტემპერატურის ერთეული"
 
 msgid "Temperature unit :"
-msgstr ""
+msgstr "ტემპერატურის ერთეული:"
 
 msgid "Today"
-msgstr ""
+msgstr "დღეს"
 
 msgid "Try refreshing or check settings"
-msgstr ""
+msgstr "სცადეთ განახლება ან შეამოწმეთ პარამეტრები"
 
 msgid "Update"
-msgstr ""
+msgstr "განახლება"
 
 msgid "View details"
-msgstr ""
+msgstr "დეტალების ნახვა"
 
 msgid "Weather API key :"
-msgstr ""
+msgstr "ამინდის API გასაღები:"
 
 msgid "Weather API key v2.5"
-msgstr ""
+msgstr "ამინდის API გასაღები v2.5"
 
 msgid "Weather Plugin"
-msgstr ""
+msgstr "ამინდის მოდული"
 
 msgid "Weather Plugin Detailview"
-msgstr ""
+msgstr "ამინდის მოდულის დეტალური მიმოხილვა"
 
 msgid "Weather city name"
-msgstr ""
+msgstr "ამინდის ქალაქის სახელი"
 
 msgid "Weather city name :"
-msgstr ""
+msgstr "ამინდის ქალაქის სახელი:"
 
 msgid "Weather data unavailable"
-msgstr ""
+msgstr "ამინდის მონაცემები მიუწვდომელია"
 
 msgid "Weather icon night switch"
-msgstr ""
+msgstr "ამინდის ხატულა ღამის ჩამრთველი"
 
 msgid "Weather icon night switch :"
-msgstr ""
+msgstr "ამინდის ხატულა ღამის ჩამრთველი:"
 
 msgid "Weather icon set"
-msgstr ""
+msgstr "ამინდის ხატების ნაკრები"
 
 msgid "Weather icon set :"
-msgstr ""
+msgstr "ამინდის ხატების ნაკრები:"
 
 msgid "Weather service"
-msgstr ""
+msgstr "ამინდის სერვისი"
 
 msgid "Weather service :"
-msgstr ""
+msgstr "ამინდის სერვისი:"
 
 msgid "Weather settings"
-msgstr ""
+msgstr "ამინდის პარამეტრები"
 
 msgid "West"
-msgstr ""
+msgstr "დასავლეთი"
 
 msgid "Wind speed metric unit:"
-msgstr ""
+msgstr "ქარის სიჩქარის სამეტრული ერთეული:"
 
 msgid "You have unsaved changes. Save before exiting?"
-msgstr ""
+msgstr "თქვენ გაქვთ შენახული ცვლილებები. შეინახოთ გასვლამდე?"
 
 msgid "exit"
-msgstr ""
+msgstr "გასასვლელი"
 
 msgid "km/h"
-msgstr ""
+msgstr "კმ/სთ"
 
 msgid "m/s"
-msgstr ""
+msgstr "მ/წმ"
 
 msgid "n/a"
-msgstr ""
+msgstr "ნ/ა"

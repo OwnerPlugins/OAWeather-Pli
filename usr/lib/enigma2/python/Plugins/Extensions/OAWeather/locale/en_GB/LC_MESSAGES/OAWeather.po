@@ -219,7 +219,7 @@ msgid "Northwest"
 msgstr ""
 
 msgid "Open-Meteo Wetter"
-msgstr ""
+msgstr "Open-Meteo Weather"
 
 msgid "OpenWeatherMap"
 msgstr ""
@@ -300,7 +300,7 @@ msgid "Specify how often Weather retrieves its data from the server. 'Once' mean
 msgstr ""
 
 msgid "Standard fertig"
-msgstr ""
+msgstr "Standard finished"
 
 msgid "Temperature unit"
 msgstr ""

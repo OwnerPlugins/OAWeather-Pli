@@ -15,370 +15,370 @@ msgstr ""
 # FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
 #
 msgid "%d Minutes"
-msgstr ""
+msgstr "%d 分鐘"
 
 msgid "Add"
-msgstr ""
+msgstr "添加"
 
 msgid "Add Fav"
-msgstr ""
+msgstr "新增收藏夾"
 
 msgid "Cache data"
-msgstr ""
+msgstr "快取數據"
 
 msgid "Cache data :"
-msgstr ""
+msgstr "快取資料："
 
 msgid "Celsius"
-msgstr ""
+msgstr "攝氏度"
 
 msgid "Choose the icon set. You need to create an additional set here: /usr/share/enigma2/WeatherIconSets/NAME."
-msgstr ""
+msgstr "選擇圖標集。您需要在此處建立一個附加集：/usr/share/enigma2/WeatherIconSets/NAME。"
 
 msgid "Choose whether the 'night switch' should be activated or not. Some icons are then displayed as night icons with moon."
-msgstr ""
+msgstr "選擇是否應啟動“夜間開關”。然後，某些圖示會顯示為帶有月亮的夜間圖示。"
 
 msgid "Chose favorite"
-msgstr ""
+msgstr "選擇最喜歡的"
 
 msgid "City name must be at least 3 characters"
-msgstr ""
+msgstr "城市名稱必須至少 3 個字符"
 
 msgid "Coordinates not available for this location"
-msgstr ""
+msgstr "該位置沒有可用的座標"
 
 msgid "Current Weather"
-msgstr ""
+msgstr "目前天氣"
 
 msgid "Day +/-"
-msgstr ""
+msgstr "日+/-"
 
 msgid "Default"
-msgstr ""
+msgstr "預設"
 
 msgid "Defaults"
-msgstr ""
+msgstr "預設值"
 
 msgid "Delete"
-msgstr ""
+msgstr "刪除"
 
 msgid "Delete failed"
-msgstr ""
+msgstr "刪除失敗"
 
 msgid "Delete {}?"
-msgstr ""
+msgstr "刪除 {}？"
 
 msgid "Detail level in detail view"
-msgstr ""
+msgstr "詳細視圖中的詳細級別"
 
 msgid "Details +/-"
-msgstr ""
+msgstr "詳情+/-"
 
 msgid "Disabled"
-msgstr ""
+msgstr "殘障人士"
 
 msgid "East"
-msgstr ""
+msgstr "東方"
 
 msgid "Edit"
-msgstr ""
+msgstr "編輯"
 
 msgid "Edit city name"
-msgstr ""
+msgstr "編輯城市名稱"
 
 msgid "Enable Debug"
-msgstr ""
+msgstr "啟用偵錯"
 
 msgid "Enable Debug :"
-msgstr ""
+msgstr "啟用調試："
 
 msgid "Enabled"
-msgstr ""
+msgstr "啟用"
 
 msgid "Enabled :"
-msgstr ""
+msgstr "已啟用："
 
 msgid "Enter a personalized API key v2.5 for use with OpenWeatherMap (https://openweathermap.org/)."
-msgstr ""
+msgstr "輸入個人化 API 金鑰 v2.5 以與 OpenWeatherMap (https://openweathermap.org/) 一起使用。"
 
 msgid "Enter city name (e.g. 'Rome, IT')"
-msgstr ""
+msgstr "輸入城市名稱（例如“義大利羅馬”）"
 
 msgid "Enter the location for your weather forecasts. To include your location, expand your favorites list with 'Manage your favorites'."
-msgstr ""
+msgstr "輸入天氣預報的位置。若要包含您的位置，請使用「管理您的收藏夾」展開您的收藏清單。"
 
 msgid "Error adding location"
-msgstr ""
+msgstr "新增位置時出錯"
 
 msgid "Error changing day"
-msgstr ""
+msgstr "更改日期時出錯"
 
 msgid "Error processing location data"
-msgstr ""
+msgstr "處理位置資料時出錯"
 
 msgid "Error saving favorites"
-msgstr ""
+msgstr "保存收藏夾時出錯"
 
 msgid "Error saving location"
-msgstr ""
+msgstr "儲存位置時發生錯誤"
 
 msgid "Error selecting location"
-msgstr ""
+msgstr "選擇位置時出錯"
 
 msgid "Error updating list"
-msgstr ""
+msgstr "更新清單時出錯"
 
 msgid "Exit"
-msgstr ""
+msgstr "出口"
 
 msgid "Fahrenheit"
-msgstr ""
+msgstr "華氏度"
 
 msgid "Favorites saved successfully"
-msgstr ""
+msgstr "收藏保存成功"
 
 msgid "Feels like"
-msgstr ""
+msgstr "感覺就像"
 
 msgid "GREEN: MANAGEMENT FAVORITES | MENU: SETUP | INFO: DETAILS | HOME"
-msgstr ""
+msgstr "綠色：管理層的最愛 |選單：設定|資訊：詳細資訊|家"
 
 msgid "Glass"
-msgstr ""
+msgstr "玻璃"
 
 msgid "Humidity"
-msgstr ""
+msgstr "濕度"
 
 msgid "Invalid location coordinates"
-msgstr ""
+msgstr "位置座標無效"
 
 msgid "Invalid location format"
-msgstr ""
+msgstr "位置格式無效"
 
 msgid "Invalid selection"
-msgstr ""
+msgstr "選擇無效"
 
 msgid "Less details / Larger font"
-msgstr ""
+msgstr "更少的細節/更大的字體"
 
 msgid "Loading weather data..."
-msgstr ""
+msgstr "正在載入天氣資料..."
 
 msgid "Location added successfully"
-msgstr ""
+msgstr "位置添加成功"
 
 msgid "Location added to favorites"
-msgstr ""
+msgstr "位置已新增至收藏夾"
 
 msgid "Location already exists"
-msgstr ""
+msgstr "位置已存在"
 
 msgid "Location already in favorites"
-msgstr ""
+msgstr "位置已在收藏夾中"
 
 msgid "Location deleted"
-msgstr ""
+msgstr "地點已刪除"
 
 msgid "Location with similar coordinates already exists"
-msgstr ""
+msgstr "具有相似座標的位置已存在"
 
 msgid "MSN weather"
-msgstr ""
+msgstr "MSN 天氣"
 
 msgid "Manage Favorites"
-msgstr ""
+msgstr "管理收藏夾"
 
 msgid "Menu"
-msgstr ""
+msgstr "選單"
 
 msgid "Metric unit for wind speed"
-msgstr ""
+msgstr "風速的公制單位"
 
 msgid "More Details / Smaller font"
-msgstr ""
+msgstr "更多詳細資訊/較小的字體"
 
 msgid "N/A"
-msgstr ""
+msgstr "不適用"
 
 msgid "Next favorite"
-msgstr ""
+msgstr "下一個最愛"
 
 msgid "No data"
-msgstr ""
+msgstr "無數據"
 
 msgid "No locations found"
-msgstr ""
+msgstr "沒有找到地點"
 
 msgid "North"
-msgstr ""
+msgstr "北"
 
 msgid "Northeast"
-msgstr ""
+msgstr "東北"
 
 msgid "Northwest"
-msgstr ""
+msgstr "西北"
 
 msgid "Open-Meteo Wetter"
-msgstr ""
+msgstr "Open-Meteo 天氣"
 
 msgid "OpenWeatherMap"
-msgstr ""
+msgstr "打開天氣地圖"
 
 msgid "Please enter a valid city name."
-msgstr ""
+msgstr "請輸入有效的城市名稱。"
 
 msgid "Please enter at least 3 characters"
-msgstr ""
+msgstr "請輸入至少3個字符"
 
 msgid "Precipitation"
-msgstr ""
+msgstr "沉澱"
 
 msgid "Previous favorite"
-msgstr ""
+msgstr "上一個最愛"
 
 msgid "Refresh interval"
-msgstr ""
+msgstr "刷新間隔"
 
 msgid "Refresh interval :"
-msgstr ""
+msgstr "刷新間隔："
 
 msgid "Save"
-msgstr ""
+msgstr "節省"
 
 msgid "Select 'Yes' to enable add debug output to log."
-msgstr ""
+msgstr "選擇“是”以啟用將偵錯輸出新增至日誌。"
 
 msgid "Select 'Yes' to enable the addition of Weather."
-msgstr ""
+msgstr "選擇“是”以啟用新增天氣。"
 
 msgid "Select location"
-msgstr ""
+msgstr "選擇地點"
 
 msgid "Select the City and Press Ok"
-msgstr ""
+msgstr "選擇城市並按確定"
 
 msgid "Select the detail level in the detail view. You have the choice between a comprehensive presentation in a smaller font and a reduced presentation with a larger font."
-msgstr ""
+msgstr "在詳細視圖中選擇詳細層級。您可以選擇使用較小字體的綜合簡報和使用較大字體的簡化簡報。"
 
 msgid "Select the metric unit for wind speed to be used for wind displays. This has no effect on the imperial unit 'mph'."
-msgstr ""
+msgstr "選擇用於風顯示的風速公制單位。這對英制單位「mph」沒有影響。"
 
 msgid "Select the preferred weather service to supply the weather information."
-msgstr ""
+msgstr "選擇首選天氣服務來提供天氣資訊。"
 
 msgid "Select the temperature unit to be used for temperature displays."
-msgstr ""
+msgstr "選擇用於溫度顯示的溫度單位。"
 
 msgid "Select this option to save that last obtained weather data locally. This is used to initialize the data immediately after restart while updated data is being fetched."
-msgstr ""
+msgstr "選擇此選項可將上次取得的天氣資料儲存在本地。這用於在重新啟動後立即初始化數據，同時獲取更新的數據。"
 
 msgid "Settings"
-msgstr ""
+msgstr "設定"
 
 msgid "Setup"
-msgstr ""
+msgstr "設定"
 
 msgid "Show Weather Forecast"
-msgstr ""
+msgstr "顯示天氣預報"
 
 msgid "Show trend arrows for moon data"
-msgstr ""
+msgstr "顯示月球數據的趨勢箭頭"
 
 msgid "Show trend arrows for moon illumination and moon distance to see the current trend of the data."
-msgstr ""
+msgstr "顯示月球光照度和月球距離的趨勢箭頭，以查看數據的當前趨勢。"
 
 msgid "South"
-msgstr ""
+msgstr "南"
 
 msgid "Southeast"
-msgstr ""
+msgstr "東南"
 
 msgid "Southwest"
-msgstr ""
+msgstr "西南"
 
 msgid "Specify how often Weather retrieves its data from the server. 'Once' means the data will loaded only once after a GUI or system start."
-msgstr ""
+msgstr "指定天氣從伺服器檢索資料的頻率。 「一次」表示資料在 GUI 或系統啟動後僅載入一次。"
 
 msgid "Standard fertig"
-msgstr ""
+msgstr "標準成品"
 
 msgid "Temperature unit"
-msgstr ""
+msgstr "溫度單位"
 
 msgid "Temperature unit :"
-msgstr ""
+msgstr "溫度單位："
 
 msgid "Today"
-msgstr ""
+msgstr "今天"
 
 msgid "Try refreshing or check settings"
-msgstr ""
+msgstr "嘗試刷新或檢查設置"
 
 msgid "Update"
-msgstr ""
+msgstr "更新"
 
 msgid "View details"
-msgstr ""
+msgstr "看詳情"
 
 msgid "Weather API key :"
-msgstr ""
+msgstr "天氣 API 金鑰："
 
 msgid "Weather API key v2.5"
-msgstr ""
+msgstr "天氣 API 金鑰 v2.5"
 
 msgid "Weather Plugin"
-msgstr ""
+msgstr "天氣插件"
 
 msgid "Weather Plugin Detailview"
-msgstr ""
+msgstr "天氣插件詳細圖"
 
 msgid "Weather city name"
-msgstr ""
+msgstr "天氣城市名稱"
 
 msgid "Weather city name :"
-msgstr ""
+msgstr "天氣城市名稱："
 
 msgid "Weather data unavailable"
-msgstr ""
+msgstr "天氣資料不可用"
 
 msgid "Weather icon night switch"
-msgstr ""
+msgstr "天氣圖示夜間開關"
 
 msgid "Weather icon night switch :"
-msgstr ""
+msgstr "天氣圖示夜間開關："
 
 msgid "Weather icon set"
-msgstr ""
+msgstr "天氣圖示集"
 
 msgid "Weather icon set :"
-msgstr ""
+msgstr "天氣圖示集："
 
 msgid "Weather service"
-msgstr ""
+msgstr "氣象服務"
 
 msgid "Weather service :"
-msgstr ""
+msgstr "氣象服務："
 
 msgid "Weather settings"
-msgstr ""
+msgstr "天氣設定"
 
 msgid "West"
-msgstr ""
+msgstr "西方"
 
 msgid "Wind speed metric unit:"
-msgstr ""
+msgstr "風速公制單位："
 
 msgid "You have unsaved changes. Save before exiting?"
-msgstr ""
+msgstr "您有未儲存的變更。退出前保存嗎？"
 
 msgid "exit"
-msgstr ""
+msgstr "出口"
 
 msgid "km/h"
-msgstr ""
+msgstr "公里/小時"
 
 msgid "m/s"
-msgstr ""
+msgstr "多發性硬化症"
 
 msgid "n/a"
-msgstr ""
+msgstr "不適用"

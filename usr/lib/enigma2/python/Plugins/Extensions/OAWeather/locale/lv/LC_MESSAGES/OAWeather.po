@@ -16,364 +16,364 @@ msgstr ""
 # FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
 #
 msgid "%d Minutes"
-msgstr ""
+msgstr "%d minūtes"
 
 msgid "Add"
-msgstr ""
+msgstr "Pievienot"
 
 msgid "Add Fav"
-msgstr ""
+msgstr "Pievienot iecienītāko"
 
 msgid "Cache data"
-msgstr ""
+msgstr "Kešatmiņas dati"
 
 msgid "Cache data :"
-msgstr ""
+msgstr "Kešatmiņas dati:"
 
 msgid "Celsius"
-msgstr ""
+msgstr "Celsija"
 
 msgid "Choose the icon set. You need to create an additional set here: /usr/share/enigma2/WeatherIconSets/NAME."
-msgstr ""
+msgstr "Izvēlieties ikonu kopu. Šeit ir jāizveido papildu kopa: /usr/share/enigma2/WeatherIconSets/NAME."
 
 msgid "Choose whether the 'night switch' should be activated or not. Some icons are then displayed as night icons with moon."
-msgstr ""
+msgstr "Izvēlieties, vai "nakts slēdzis" ir jāaktivizē vai nē. Dažas ikonas pēc tam tiek parādītas kā nakts ikonas ar mēnesi."
 
 msgid "Chose favorite"
-msgstr ""
+msgstr "Izvēlējās iecienītāko"
 
 msgid "City name must be at least 3 characters"
-msgstr ""
+msgstr "Pilsētas nosaukumam ir jābūt vismaz 3 rakstzīmēm"
 
 msgid "Coordinates not available for this location"
-msgstr ""
+msgstr "Koordinātas šai vietai nav pieejamas"
 
 msgid "Current Weather"
-msgstr ""
+msgstr "Pašreizējie laikapstākļi"
 
 msgid "Day +/-"
-msgstr ""
+msgstr "diena +/-"
 
 msgid "Default"
-msgstr ""
+msgstr "Noklusējums"
 
 msgid "Defaults"
-msgstr ""
+msgstr "Noklusējumi"
 
 msgid "Delete"
-msgstr ""
+msgstr "Dzēst"
 
 msgid "Delete failed"
-msgstr ""
+msgstr "Dzēst neizdevās"
 
 msgid "Delete {}?"
-msgstr ""
+msgstr "Vai dzēst {}?"
 
 msgid "Detail level in detail view"
-msgstr ""
+msgstr "Detaļas līmenis detalizētajā skatā"
 
 msgid "Details +/-"
-msgstr ""
+msgstr "Sīkāka informācija +/-"
 
 msgid "Disabled"
-msgstr ""
+msgstr "Atspējots"
 
 msgid "East"
-msgstr ""
+msgstr "Austrumi"
 
 msgid "Edit"
-msgstr ""
+msgstr "Rediģēt"
 
 msgid "Edit city name"
-msgstr ""
+msgstr "Rediģēt pilsētas nosaukumu"
 
 msgid "Enable Debug"
-msgstr ""
+msgstr "Iespējot atkļūdošanu"
 
 msgid "Enable Debug :"
-msgstr ""
+msgstr "Iespējot atkļūdošanu:"
 
 msgid "Enabled"
-msgstr ""
+msgstr "Iespējots"
 
 msgid "Enabled :"
-msgstr ""
+msgstr "Iespējots:"
 
 msgid "Enter a personalized API key v2.5 for use with OpenWeatherMap (https://openweathermap.org/)."
-msgstr ""
+msgstr "Ievadiet personalizētu API atslēgu v2.5 lietošanai kopā ar OpenWeatherMap (https://openweathermap.org/)."
 
 msgid "Enter city name (e.g. 'Rome, IT')"
-msgstr ""
+msgstr "Ievadiet pilsētas nosaukumu (piem., "Roma, IT")"
 
 msgid "Enter the location for your weather forecasts. To include your location, expand your favorites list with 'Manage your favorites'."
-msgstr ""
+msgstr "Ievadiet savu laika prognožu atrašanās vietu. Lai iekļautu savu atrašanās vietu, paplašiniet savu izlases sarakstu ar "Pārvaldīt savus izlases"."
 
 msgid "Error adding location"
-msgstr ""
+msgstr "Pievienojot atrašanās vietu, radās kļūda"
 
 msgid "Error changing day"
-msgstr ""
+msgstr "Mainot dienu, radās kļūda"
 
 msgid "Error processing location data"
-msgstr ""
+msgstr "Apstrādājot atrašanās vietas datus, radās kļūda"
 
 msgid "Error saving favorites"
-msgstr ""
+msgstr "Saglabājot izlasi, radās kļūda"
 
 msgid "Error saving location"
-msgstr ""
+msgstr "Saglabājot atrašanās vietu, radās kļūda"
 
 msgid "Error selecting location"
-msgstr ""
+msgstr "Izvēloties atrašanās vietu, radās kļūda"
 
 msgid "Error updating list"
-msgstr ""
+msgstr "Atjauninot sarakstu, radās kļūda"
 
 msgid "Exit"
-msgstr ""
+msgstr "Iziet"
 
 msgid "Fahrenheit"
-msgstr ""
+msgstr "Fārenheita"
 
 msgid "Favorites saved successfully"
-msgstr ""
+msgstr "Izlase ir veiksmīgi saglabāta"
 
 msgid "Feels like"
-msgstr ""
+msgstr "Jūtos kā"
 
 msgid "GREEN: MANAGEMENT FAVORITES | MENU: SETUP | INFO: DETAILS | HOME"
-msgstr ""
+msgstr "ZAĻĀ: VADĪBAS FAVORĪTI | IZVĒLNE: IESTATĪJUMI | INFORMĀCIJA: INFORMĀCIJA | MĀJAS"
 
 msgid "Glass"
-msgstr ""
+msgstr "Stikls"
 
 msgid "Humidity"
-msgstr ""
+msgstr "Mitrums"
 
 msgid "Invalid location coordinates"
-msgstr ""
+msgstr "Nederīgas atrašanās vietas koordinātas"
 
 msgid "Invalid location format"
-msgstr ""
+msgstr "Nederīgs atrašanās vietas formāts"
 
 msgid "Invalid selection"
-msgstr ""
+msgstr "Nederīga atlase"
 
 msgid "Less details / Larger font"
-msgstr ""
+msgstr "Mazāk detaļu / lielāks fonts"
 
 msgid "Loading weather data..."
-msgstr ""
+msgstr "Notiek laikapstākļu datu ielāde..."
 
 msgid "Location added successfully"
-msgstr ""
+msgstr "Atrašanās vieta ir veiksmīgi pievienota"
 
 msgid "Location added to favorites"
-msgstr ""
+msgstr "Atrašanās vieta pievienota izlasei"
 
 msgid "Location already exists"
-msgstr ""
+msgstr "Atrašanās vieta jau pastāv"
 
 msgid "Location already in favorites"
-msgstr ""
+msgstr "Atrašanās vieta jau ir izlasē"
 
 msgid "Location deleted"
-msgstr ""
+msgstr "Atrašanās vieta dzēsta"
 
 msgid "Location with similar coordinates already exists"
-msgstr ""
+msgstr "Atrašanās vieta ar līdzīgām koordinātām jau pastāv"
 
 msgid "MSN weather"
-msgstr ""
+msgstr "MSN laikapstākļi"
 
 msgid "Manage Favorites"
-msgstr ""
+msgstr "Pārvaldīt izlasi"
 
 msgid "Menu"
-msgstr ""
+msgstr "Izvēlne"
 
 msgid "Metric unit for wind speed"
-msgstr ""
+msgstr "Vēja ātruma metriskā mērvienība"
 
 msgid "More Details / Smaller font"
-msgstr ""
+msgstr "Sīkāka informācija / Mazāks fonts"
 
 msgid "N/A"
 msgstr ""
 
 msgid "Next favorite"
-msgstr ""
+msgstr "Nākamais favorīts"
 
 msgid "No data"
-msgstr ""
+msgstr "Nav datu"
 
 msgid "No locations found"
-msgstr ""
+msgstr "Nav atrasta neviena atrašanās vieta"
 
 msgid "North"
-msgstr ""
+msgstr "Ziemeļi"
 
 msgid "Northeast"
-msgstr ""
+msgstr "Ziemeļaustrumi"
 
 msgid "Northwest"
-msgstr ""
+msgstr "Ziemeļrietumi"
 
 msgid "Open-Meteo Wetter"
-msgstr ""
+msgstr "Open-Meteo Weather"
 
 msgid "OpenWeatherMap"
 msgstr ""
 
 msgid "Please enter a valid city name."
-msgstr ""
+msgstr "Lūdzu, ievadiet derīgu pilsētas nosaukumu."
 
 msgid "Please enter at least 3 characters"
-msgstr ""
+msgstr "Lūdzu, ievadiet vismaz 3 rakstzīmes"
 
 msgid "Precipitation"
-msgstr ""
+msgstr "Nokrišņi"
 
 msgid "Previous favorite"
-msgstr ""
+msgstr "Iepriekšējais favorīts"
 
 msgid "Refresh interval"
-msgstr ""
+msgstr "Atsvaidzināšanas intervāls"
 
 msgid "Refresh interval :"
-msgstr ""
+msgstr "Atsvaidzināšanas intervāls:"
 
 msgid "Save"
-msgstr ""
+msgstr "Saglabāt"
 
 msgid "Select 'Yes' to enable add debug output to log."
-msgstr ""
+msgstr "Atlasiet “Jā”, lai iespējotu atkļūdošanas izvades pievienošanu žurnālam."
 
 msgid "Select 'Yes' to enable the addition of Weather."
-msgstr ""
+msgstr "Atlasiet “Jā”, lai iespējotu laikapstākļu pievienošanu."
 
 msgid "Select location"
-msgstr ""
+msgstr "Izvēlieties atrašanās vietu"
 
 msgid "Select the City and Press Ok"
-msgstr ""
+msgstr "Izvēlieties pilsētu un nospiediet Labi"
 
 msgid "Select the detail level in the detail view. You have the choice between a comprehensive presentation in a smaller font and a reduced presentation with a larger font."
-msgstr ""
+msgstr "Detaļas skatā atlasiet detalizācijas līmeni. Jums ir iespēja izvēlēties starp visaptverošu prezentāciju mazākā fontā vai samazinātu prezentāciju ar lielāku fontu."
 
 msgid "Select the metric unit for wind speed to be used for wind displays. This has no effect on the imperial unit 'mph'."
-msgstr ""
+msgstr "Izvēlieties vēja ātruma metrisko mērvienību, ko izmantot vēja displejiem. Tas neietekmē impērijas vienību “mph”."
 
 msgid "Select the preferred weather service to supply the weather information."
-msgstr ""
+msgstr "Izvēlieties vēlamo laikapstākļu pakalpojumu, lai sniegtu informāciju par laikapstākļiem."
 
 msgid "Select the temperature unit to be used for temperature displays."
-msgstr ""
+msgstr "Izvēlieties temperatūras mērvienību, kas jāizmanto temperatūras displejiem."
 
 msgid "Select this option to save that last obtained weather data locally. This is used to initialize the data immediately after restart while updated data is being fetched."
-msgstr ""
+msgstr "Atlasiet šo opciju, lai lokāli saglabātu pēdējos iegūtos laikapstākļu datus. To izmanto, lai inicializētu datus tūlīt pēc restartēšanas, kamēr tiek iegūti atjauninātie dati."
 
 msgid "Settings"
-msgstr ""
+msgstr "Iestatījumi"
 
 msgid "Setup"
-msgstr ""
+msgstr "Iestatīšana"
 
 msgid "Show Weather Forecast"
-msgstr ""
+msgstr "Rādīt laika prognozi"
 
 msgid "Show trend arrows for moon data"
-msgstr ""
+msgstr "Rādīt tendenču bultiņas mēness datiem"
 
 msgid "Show trend arrows for moon illumination and moon distance to see the current trend of the data."
-msgstr ""
+msgstr "Rādīt tendenču bultiņas mēness apgaismojumam un mēness attālumam, lai redzētu pašreizējo datu tendenci."
 
 msgid "South"
-msgstr ""
+msgstr "Dienvidi"
 
 msgid "Southeast"
-msgstr ""
+msgstr "Dienvidaustrumi"
 
 msgid "Southwest"
-msgstr ""
+msgstr "Dienvidrietumi"
 
 msgid "Specify how often Weather retrieves its data from the server. 'Once' means the data will loaded only once after a GUI or system start."
-msgstr ""
+msgstr "Norādiet, cik bieži Weather izgūst savus datus no servera. “Vienreiz” nozīmē, ka dati tiks ielādēti tikai vienu reizi pēc GUI vai sistēmas palaišanas."
 
 msgid "Standard fertig"
-msgstr ""
+msgstr "Standarta pabeigts"
 
 msgid "Temperature unit"
-msgstr ""
+msgstr "Temperatūras mērvienība"
 
 msgid "Temperature unit :"
-msgstr ""
+msgstr "Temperatūras mērvienība:"
 
 msgid "Today"
-msgstr ""
+msgstr "Šodien"
 
 msgid "Try refreshing or check settings"
-msgstr ""
+msgstr "Mēģiniet atsvaidzināt vai pārbaudiet iestatījumus"
 
 msgid "Update"
-msgstr ""
+msgstr "Atjaunināt"
 
 msgid "View details"
-msgstr ""
+msgstr "Skatīt detalizētu informāciju"
 
 msgid "Weather API key :"
-msgstr ""
+msgstr "Laikapstākļu API atslēga:"
 
 msgid "Weather API key v2.5"
-msgstr ""
+msgstr "Laikapstākļu API atslēga v2.5"
 
 msgid "Weather Plugin"
-msgstr ""
+msgstr "Laika spraudnis"
 
 msgid "Weather Plugin Detailview"
-msgstr ""
+msgstr "Laika spraudņa detalizētais skats"
 
 msgid "Weather city name"
-msgstr ""
+msgstr "Laikapstākļu pilsētas nosaukums"
 
 msgid "Weather city name :"
-msgstr ""
+msgstr "Laikapstākļu pilsētas nosaukums:"
 
 msgid "Weather data unavailable"
-msgstr ""
+msgstr "Laikapstākļu dati nav pieejami"
 
 msgid "Weather icon night switch"
-msgstr ""
+msgstr "Laikapstākļu ikonas nakts slēdzis"
 
 msgid "Weather icon night switch :"
-msgstr ""
+msgstr "Laikapstākļu ikonas nakts slēdzis:"
 
 msgid "Weather icon set"
-msgstr ""
+msgstr "Laikapstākļu ikonu kopa"
 
 msgid "Weather icon set :"
-msgstr ""
+msgstr "Laikapstākļu ikonu komplekts:"
 
 msgid "Weather service"
-msgstr ""
+msgstr "Laikapstākļu serviss"
 
 msgid "Weather service :"
-msgstr ""
+msgstr "Laikapstākļu dienests:"
 
 msgid "Weather settings"
-msgstr ""
+msgstr "Laikapstākļu iestatījumi"
 
 msgid "West"
-msgstr ""
+msgstr "Rietumi"
 
 msgid "Wind speed metric unit:"
-msgstr ""
+msgstr "Vēja ātruma mērvienība:"
 
 msgid "You have unsaved changes. Save before exiting?"
-msgstr ""
+msgstr "Jums ir nesaglabātas izmaiņas. Vai saglabāt pirms iziešanas?"
 
 msgid "exit"
-msgstr ""
+msgstr "iziet"
 
 msgid "km/h"
 msgstr ""

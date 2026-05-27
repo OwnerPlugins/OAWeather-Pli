@@ -15,43 +15,43 @@ msgstr ""
 # FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
 #
 msgid "%d Minutes"
-msgstr ""
+msgstr "%d Minuti"
 
 msgid "Add"
-msgstr ""
+msgstr "Żid"
 
 msgid "Add Fav"
-msgstr ""
+msgstr "Żid Fav"
 
 msgid "Cache data"
 msgstr ""
 
 msgid "Cache data :"
-msgstr ""
+msgstr "Data tal-cache:"
 
 msgid "Celsius"
 msgstr ""
 
 msgid "Choose the icon set. You need to create an additional set here: /usr/share/enigma2/WeatherIconSets/NAME."
-msgstr ""
+msgstr "Agħżel is-sett tal-ikoni. Għandek bżonn toħloq sett addizzjonali hawn: /usr/share/enigma2/WeatherIconSets/NAME."
 
 msgid "Choose whether the 'night switch' should be activated or not. Some icons are then displayed as night icons with moon."
-msgstr ""
+msgstr "Agħżel jekk il-'night switch' għandux jiġi attivat jew le. Xi ikoni mbagħad jintwerew bħala ikoni bil-lejl bil-qamar."
 
 msgid "Chose favorite"
-msgstr ""
+msgstr "Għażel favorit"
 
 msgid "City name must be at least 3 characters"
-msgstr ""
+msgstr "L-isem tal-belt għandu jkun mill-inqas 3 karattri"
 
 msgid "Coordinates not available for this location"
-msgstr ""
+msgstr "Koordinati mhux disponibbli għal dan il-post"
 
 msgid "Current Weather"
-msgstr ""
+msgstr "Temp kurrenti"
 
 msgid "Day +/-"
-msgstr ""
+msgstr "Jum +/-"
 
 msgid "Default"
 msgstr ""
@@ -60,217 +60,217 @@ msgid "Defaults"
 msgstr ""
 
 msgid "Delete"
-msgstr ""
+msgstr "Ħassar"
 
 msgid "Delete failed"
-msgstr ""
+msgstr "Ħassar falla"
 
 msgid "Delete {}?"
-msgstr ""
+msgstr "Ħassar {}?"
 
 msgid "Detail level in detail view"
-msgstr ""
+msgstr "Livell tad-dettall fid-dettall"
 
 msgid "Details +/-"
-msgstr ""
+msgstr "Dettalji +/-"
 
 msgid "Disabled"
-msgstr ""
+msgstr "B'diżabilità"
 
 msgid "East"
-msgstr ""
+msgstr "Lvant"
 
 msgid "Edit"
-msgstr ""
+msgstr "Editja"
 
 msgid "Edit city name"
-msgstr ""
+msgstr "Editja l-isem tal-belt"
 
 msgid "Enable Debug"
-msgstr ""
+msgstr "Ippermetti Debug"
 
 msgid "Enable Debug :"
-msgstr ""
+msgstr "Ippermetti Debug:"
 
 msgid "Enabled"
-msgstr ""
+msgstr "Ippermettiet"
 
 msgid "Enabled :"
-msgstr ""
+msgstr "Ippermettiet:"
 
 msgid "Enter a personalized API key v2.5 for use with OpenWeatherMap (https://openweathermap.org/)."
-msgstr ""
+msgstr "Daħħal API key personalizzata v2.5 għall-użu ma' OpenWeatherMap (https://openweathermap.org/)."
 
 msgid "Enter city name (e.g. 'Rome, IT')"
-msgstr ""
+msgstr "Daħħal l-isem tal-belt (eż. 'Ruma, IT')"
 
 msgid "Enter the location for your weather forecasts. To include your location, expand your favorites list with 'Manage your favorites'."
-msgstr ""
+msgstr "Daħħal il-post għat-tbassir tat-temp tiegħek. Biex tinkludi l-lokalità tiegħek, espandi l-lista tal-favoriti tiegħek bi 'Immaniġġja l-favoriti tiegħek'."
 
 msgid "Error adding location"
-msgstr ""
+msgstr "Żball billi żżid il-post"
 
 msgid "Error changing day"
-msgstr ""
+msgstr "Żball meta tbiddel il-ġurnata"
 
 msgid "Error processing location data"
-msgstr ""
+msgstr "Żball fl-ipproċessar tad-dejta tal-post"
 
 msgid "Error saving favorites"
-msgstr ""
+msgstr "Żball fl-issejvjar tal-favoriti"
 
 msgid "Error saving location"
-msgstr ""
+msgstr "Żball fl-iffrankar tal-post"
 
 msgid "Error selecting location"
-msgstr ""
+msgstr "Żball fl-għażla tal-post"
 
 msgid "Error updating list"
-msgstr ""
+msgstr "Żball fl-aġġornament tal-lista"
 
 msgid "Exit"
-msgstr ""
+msgstr "Ħruġ"
 
 msgid "Fahrenheit"
 msgstr ""
 
 msgid "Favorites saved successfully"
-msgstr ""
+msgstr "Il-favoriti ġew salvati b'suċċess"
 
 msgid "Feels like"
-msgstr ""
+msgstr "Tħoss bħal"
 
 msgid "GREEN: MANAGEMENT FAVORITES | MENU: SETUP | INFO: DETAILS | HOME"
-msgstr ""
+msgstr "AĦDAR: FAVORITI TAL-ĠESTJONI | MENU: SETUP | INFO: DETTALJI | HOME"
 
 msgid "Glass"
-msgstr ""
+msgstr "Ħġieġ"
 
 msgid "Humidity"
-msgstr ""
+msgstr "Umdità"
 
 msgid "Invalid location coordinates"
-msgstr ""
+msgstr "Koordinati tal-post invalidi"
 
 msgid "Invalid location format"
-msgstr ""
+msgstr "Format tal-post mhux validu"
 
 msgid "Invalid selection"
-msgstr ""
+msgstr "Għażla mhux valida"
 
 msgid "Less details / Larger font"
-msgstr ""
+msgstr "Inqas dettalji / Font akbar"
 
 msgid "Loading weather data..."
-msgstr ""
+msgstr "Tagħbija data tat-temp..."
 
 msgid "Location added successfully"
-msgstr ""
+msgstr "Post miżjud b'suċċess"
 
 msgid "Location added to favorites"
-msgstr ""
+msgstr "Post miżjud mal-favoriti"
 
 msgid "Location already exists"
-msgstr ""
+msgstr "Post diġà jeżisti"
 
 msgid "Location already in favorites"
-msgstr ""
+msgstr "Post diġà fil-favoriti"
 
 msgid "Location deleted"
-msgstr ""
+msgstr "Post imħassra"
 
 msgid "Location with similar coordinates already exists"
-msgstr ""
+msgstr "Post b'koordinati simili diġà jeżisti"
 
 msgid "MSN weather"
-msgstr ""
+msgstr "MSN temp"
 
 msgid "Manage Favorites"
-msgstr ""
+msgstr "Immaniġġja l-Favoriti"
 
 msgid "Menu"
 msgstr ""
 
 msgid "Metric unit for wind speed"
-msgstr ""
+msgstr "Unità metrika għall-veloċità tar-riħ"
 
 msgid "More Details / Smaller font"
-msgstr ""
+msgstr "Aktar Dettalji / Font iżgħar"
 
 msgid "N/A"
 msgstr ""
 
 msgid "Next favorite"
-msgstr ""
+msgstr "Il-favorit li jmiss"
 
 msgid "No data"
-msgstr ""
+msgstr "Ebda data"
 
 msgid "No locations found"
-msgstr ""
+msgstr "Ma nstab l-ebda post"
 
 msgid "North"
-msgstr ""
+msgstr "Tramuntana"
 
 msgid "Northeast"
-msgstr ""
+msgstr "Grigal"
 
 msgid "Northwest"
-msgstr ""
+msgstr "Majjistral"
 
 msgid "Open-Meteo Wetter"
-msgstr ""
+msgstr "Open-Meteo Temp"
 
 msgid "OpenWeatherMap"
 msgstr ""
 
 msgid "Please enter a valid city name."
-msgstr ""
+msgstr "Jekk jogħġbok daħħal isem tal-belt validu."
 
 msgid "Please enter at least 3 characters"
-msgstr ""
+msgstr "Jekk jogħġbok daħħal mill-inqas 3 karattri"
 
 msgid "Precipitation"
-msgstr ""
+msgstr "Preċipitazzjoni"
 
 msgid "Previous favorite"
-msgstr ""
+msgstr "Favorit ta' qabel"
 
 msgid "Refresh interval"
-msgstr ""
+msgstr "Aġġorna l-intervall"
 
 msgid "Refresh interval :"
-msgstr ""
+msgstr "Intervall ta' aġġornar:"
 
 msgid "Save"
-msgstr ""
+msgstr "Ħlief"
 
 msgid "Select 'Yes' to enable add debug output to log."
-msgstr ""
+msgstr "Agħżel 'Iva' biex tippermetti żid output debug għall-log."
 
 msgid "Select 'Yes' to enable the addition of Weather."
-msgstr ""
+msgstr "Agħżel 'Iva' biex tippermetti ż-żieda tat-Temp."
 
 msgid "Select location"
-msgstr ""
+msgstr "Agħżel il-post"
 
 msgid "Select the City and Press Ok"
-msgstr ""
+msgstr "Agħżel il-Belt u Agħfas Ok"
 
 msgid "Select the detail level in the detail view. You have the choice between a comprehensive presentation in a smaller font and a reduced presentation with a larger font."
-msgstr ""
+msgstr "Agħżel il-livell tad-dettall fil-veduta tad-dettall. Għandek l-għażla bejn preżentazzjoni komprensiva b'tipa iżgħar u preżentazzjoni mnaqqsa b'tipa akbar."
 
 msgid "Select the metric unit for wind speed to be used for wind displays. This has no effect on the imperial unit 'mph'."
-msgstr ""
+msgstr "Agħżel l-unità metrika għall-veloċità tar-riħ li għandha tintuża għall-wiri tar-riħ. Dan m'għandu l-ebda effett fuq l-unità imperjali 'mph'."
 
 msgid "Select the preferred weather service to supply the weather information."
-msgstr ""
+msgstr "Agħżel is-servizz tat-temp preferut biex tipprovdi l-informazzjoni dwar it-temp."
 
 msgid "Select the temperature unit to be used for temperature displays."
-msgstr ""
+msgstr "Agħżel l-unità tat-temperatura li għandha tintuża għall-wiri tat-temperatura."
 
 msgid "Select this option to save that last obtained weather data locally. This is used to initialize the data immediately after restart while updated data is being fetched."
-msgstr ""
+msgstr "Agħżel din l-għażla biex issalva l-aħħar data tat-temp miksuba lokalment. Dan jintuża biex id-dejta tiġi inizjalizzata immedjatament wara l-bidu mill-ġdid waqt li tkun qed tinġibed id-dejta aġġornata."
 
 msgid "Settings"
 msgstr ""
@@ -279,100 +279,100 @@ msgid "Setup"
 msgstr ""
 
 msgid "Show Weather Forecast"
-msgstr ""
+msgstr "Uri Tbassir tat-Temp"
 
 msgid "Show trend arrows for moon data"
-msgstr ""
+msgstr "Uri l-vleġeġ tat-tendenza għad-dejta tal-qamar"
 
 msgid "Show trend arrows for moon illumination and moon distance to see the current trend of the data."
-msgstr ""
+msgstr "Uri l-vleġeġ tat-tendenza għall-illuminazzjoni tal-qamar u d-distanza tal-qamar biex tara t-tendenza attwali tad-dejta."
 
 msgid "South"
-msgstr ""
+msgstr "Nofsinhar"
 
 msgid "Southeast"
-msgstr ""
+msgstr "Xlokk"
 
 msgid "Southwest"
-msgstr ""
+msgstr "Lbiċ"
 
 msgid "Specify how often Weather retrieves its data from the server. 'Once' means the data will loaded only once after a GUI or system start."
-msgstr ""
+msgstr "Speċifika kemm-il darba Weather jirkupra d-dejta tiegħu mis-server. 'Darba' tfisser li d-dejta titgħabba darba biss wara li tibda GUI jew sistema."
 
 msgid "Standard fertig"
-msgstr ""
+msgstr "Standard lest"
 
 msgid "Temperature unit"
-msgstr ""
+msgstr "Unità tat-temperatura"
 
 msgid "Temperature unit :"
-msgstr ""
+msgstr "Unità tat-temperatura:"
 
 msgid "Today"
-msgstr ""
+msgstr "Illum"
 
 msgid "Try refreshing or check settings"
-msgstr ""
+msgstr "Ipprova aġġorna jew iċċekkja s-settings"
 
 msgid "Update"
-msgstr ""
+msgstr "Aġġornament"
 
 msgid "View details"
-msgstr ""
+msgstr "Ara d-dettalji"
 
 msgid "Weather API key :"
-msgstr ""
+msgstr "Ċavetta API tat-temp:"
 
 msgid "Weather API key v2.5"
-msgstr ""
+msgstr "Ċavetta API tat-temp v2.5"
 
 msgid "Weather Plugin"
-msgstr ""
+msgstr "Plugin tat-Temp"
 
 msgid "Weather Plugin Detailview"
-msgstr ""
+msgstr "Dettalja tal-Plugin tat-Temp"
 
 msgid "Weather city name"
-msgstr ""
+msgstr "Isem il-belt tat-temp"
 
 msgid "Weather city name :"
-msgstr ""
+msgstr "Isem il-belt tat-temp:"
 
 msgid "Weather data unavailable"
-msgstr ""
+msgstr "Dejta tat-temp mhux disponibbli"
 
 msgid "Weather icon night switch"
-msgstr ""
+msgstr "Swiċċ tal-lejl tal-ikona tat-temp"
 
 msgid "Weather icon night switch :"
-msgstr ""
+msgstr "Swiċċ bil-lejl tal-ikona tat-temp:"
 
 msgid "Weather icon set"
-msgstr ""
+msgstr "Sett ta' ikoni tat-temp"
 
 msgid "Weather icon set :"
-msgstr ""
+msgstr "Sett ta' ikoni tat-temp:"
 
 msgid "Weather service"
-msgstr ""
+msgstr "Servizz tat-temp"
 
 msgid "Weather service :"
-msgstr ""
+msgstr "Servizz tat-temp:"
 
 msgid "Weather settings"
-msgstr ""
+msgstr "Issettjar tat-temp"
 
 msgid "West"
-msgstr ""
+msgstr "Punent"
 
 msgid "Wind speed metric unit:"
-msgstr ""
+msgstr "Unità metrika tal-veloċità tar-riħ:"
 
 msgid "You have unsaved changes. Save before exiting?"
-msgstr ""
+msgstr "Għandek bidliet mhux salvati. Ħlief qabel ma toħroġ?"
 
 msgid "exit"
-msgstr ""
+msgstr "ħruġ"
 
 msgid "km/h"
 msgstr ""
