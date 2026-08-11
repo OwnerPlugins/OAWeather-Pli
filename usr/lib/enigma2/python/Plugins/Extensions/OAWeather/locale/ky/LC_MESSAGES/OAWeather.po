@@ -36,7 +36,7 @@ msgid "Choose the icon set. You need to create an additional set here: /usr/shar
 msgstr "Белгилер топтомун тандаңыз. Бул жерде кошумча топтом түзүшүңүз керек: /usr/share/enigma2/WeatherIconSets/NAME."
 
 msgid "Choose whether the 'night switch' should be activated or not. Some icons are then displayed as night icons with moon."
-msgstr ""Түнкү өчүргүчтү" иштетүү керекпи же жокпу, тандаңыз. Кээ бир иконалар ай менен түнкү иконалар катары көрсөтүлөт."
+msgstr "\\\\\\\"Түнкү өчүргүчтү\\\\\\\" иштетүү керекпи же жокпу, тандаңыз. Кээ бир иконалар ай менен түнкү иконалар катары көрсөтүлөт."
 
 msgid "Chose favorite"
 msgstr "Сүйүктүү танда"
@@ -105,7 +105,7 @@ msgid "Enter city name (e.g. 'Rome, IT')"
 msgstr "Шаардын атын киргизиңиз (мис. 'Рим, IT')"
 
 msgid "Enter the location for your weather forecasts. To include your location, expand your favorites list with 'Manage your favorites'."
-msgstr "Аба ырайын болжолдоо үчүн жайгашкан жерди киргизиңиз. Жайгашкан жериңизди кошуу үчүн, "Сүйүктүүлөрүңүздү башкаруу" менен сүйүктүүлөрдүн тизмесин кеңейтиңиз."
+msgstr "Аба ырайын болжолдоо үчүн жайгашкан жерди киргизиңиз. Жайгашкан жериңизди кошуу үчүн, \\\\\\\"Сүйүктүүлөрүңүздү башкаруу\\\\\\\" менен сүйүктүүлөрдүн тизмесин кеңейтиңиз."
 
 msgid "Error adding location"
 msgstr "Жайгашкан жерди кошууда ката кетти"
@@ -246,10 +246,10 @@ msgid "Save"
 msgstr "Сактоо"
 
 msgid "Select 'Yes' to enable add debug output to log."
-msgstr "Журналга мүчүлүштүктөрдү оңдоо натыйжасын кошуу үчүн "Ооба" дегенди тандаңыз."
+msgstr "Журналга мүчүлүштүктөрдү оңдоо натыйжасын кошуу үчүн \\\\\\\"Ооба\\\\\\\" дегенди тандаңыз."
 
 msgid "Select 'Yes' to enable the addition of Weather."
-msgstr "Аба ырайын кошууну иштетүү үчүн "Ооба" дегенди тандаңыз."
+msgstr "Аба ырайын кошууну иштетүү үчүн \\\\\\\"Ооба\\\\\\\" дегенди тандаңыз."
 
 msgid "Select location"
 msgstr "Жайгашкан жерди тандаңыз"
@@ -261,7 +261,7 @@ msgid "Select the detail level in the detail view. You have the choice between a
 msgstr "Деталдардын көрүнүшүндө детал деңгээлин тандаңыз. Сизде кичирээк шрифттеги комплекстүү презентация менен чоңураак шрифт менен кыскартылган презентациянын ортосунда тандоо бар."
 
 msgid "Select the metric unit for wind speed to be used for wind displays. This has no effect on the imperial unit 'mph'."
-msgstr "Шамал дисплейлери үчүн колдонула турган шамалдын ылдамдыгы үчүн метрикалык бирдикти тандаңыз. Бул императордук бирдик "mph" эч кандай таасир этпейт."
+msgstr "Шамал дисплейлери үчүн колдонула турган шамалдын ылдамдыгы үчүн метрикалык бирдикти тандаңыз. Бул императордук бирдик \\\\\\\"mph\\\\\\\" эч кандай таасир этпейт."
 
 msgid "Select the preferred weather service to supply the weather information."
 msgstr "Аба ырайы тууралуу маалымат берүү үчүн тандалган аба ырайы кызматын тандаңыз."

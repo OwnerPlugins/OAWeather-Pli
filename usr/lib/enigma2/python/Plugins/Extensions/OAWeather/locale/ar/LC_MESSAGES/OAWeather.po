@@ -104,10 +104,10 @@ msgid "Enter a personalized API key v2.5 for use with OpenWeatherMap (https://op
 msgstr "أدخل مفتاح API مخصص للاستخدام مع OpenWeatherMap (https://openweathermap.org/)."
 
 msgid "Enter city name (e.g. 'Rome, IT')"
-msgstr "أدخل اسم المدينة (على سبيل المثال، "روما، تكنولوجيا المعلومات")"
+msgstr "أدخل اسم المدينة (على سبيل المثال، \\\\\\\"روما، تكنولوجيا المعلومات\\\\\\\")"
 
 msgid "Enter the location for your weather forecasts. To include your location, expand your favorites list with 'Manage your favorites'."
-msgstr "أدخل الموقع لتوقعات الطقس الخاصة بك. لتضمين موقعك، قم بتوسيع قائمة المفضلة لديك باستخدام "إدارة المفضلة"."
+msgstr "أدخل الموقع لتوقعات الطقس الخاصة بك. لتضمين موقعك، قم بتوسيع قائمة المفضلة لديك باستخدام \\\\\\\"إدارة المفضلة\\\\\\\"."
 
 #, fuzzy
 msgid "Error adding location"

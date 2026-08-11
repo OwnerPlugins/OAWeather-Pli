@@ -5,25 +5,6 @@
 #
 #, fuzzy
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 msgid "%d Minutes"
 msgstr ""
 

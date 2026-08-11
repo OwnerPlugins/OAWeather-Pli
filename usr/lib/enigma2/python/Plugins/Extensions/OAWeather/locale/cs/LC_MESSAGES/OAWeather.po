@@ -263,11 +263,11 @@ msgstr "Uložit"
 
 #, fuzzy
 msgid "Select 'Yes' to enable add debug output to log."
-msgstr "Výběrem možnosti \"Ano\" povolíte přidání aplikace MetrixWeather na obrazovku informačního panelu."
+msgstr "Výběrem možnosti \\\\\\\\\\\\\\\"Ano\\\\\\\\\\\\\\\" povolíte přidání aplikace MetrixWeather na obrazovku informačního panelu."
 
 #, fuzzy
 msgid "Select 'Yes' to enable the addition of Weather."
-msgstr "Výběrem možnosti \"Ano\" povolíte přidání aplikace MetrixWeather na obrazovku informačního panelu."
+msgstr "Výběrem možnosti \\\\\\\\\\\\\\\"Ano\\\\\\\\\\\\\\\" povolíte přidání aplikace MetrixWeather na obrazovku informačního panelu."
 
 #, fuzzy
 msgid "Select location"

@@ -103,7 +103,7 @@ msgid "Enter a personalized API key v2.5 for use with OpenWeatherMap (https://op
 msgstr "Увядзіце персаналізаваны ключ API v2.5 для выкарыстання з OpenWeatherMap (https://openweathermap.org/)."
 
 msgid "Enter city name (e.g. 'Rome, IT')"
-msgstr "Увядзіце назву горада (напрыклад, "Рым, IT")"
+msgstr "Увядзіце назву горада (напрыклад, \\\\\\\"Рым, IT\\\\\\\")"
 
 msgid "Enter the location for your weather forecasts. To include your location, expand your favorites list with 'Manage your favorites'."
 msgstr "Увядзіце месца для вашых прагнозаў надвор'я. Каб уключыць сваё месцазнаходжанне, разгарніце спіс абраных з дапамогай «Кіраваць абранымі»."
@@ -262,7 +262,7 @@ msgid "Select the detail level in the detail view. You have the choice between a
 msgstr "Выберыце ўзровень дэталізацыі ў дэталёвым праглядзе. У вас ёсць выбар паміж усёабдымнай прэзентацыяй з меншым шрыфтам і паменшанай прэзентацыяй з больш буйным шрыфтам."
 
 msgid "Select the metric unit for wind speed to be used for wind displays. This has no effect on the imperial unit 'mph'."
-msgstr "Выберыце метрычную адзінку хуткасці ветру, якая будзе выкарыстоўвацца для адлюстравання ветру. Гэта не мае ніякага ўплыву на імперскую адзінку "міль/гадзіну"."
+msgstr "Выберыце метрычную адзінку хуткасці ветру, якая будзе выкарыстоўвацца для адлюстравання ветру. Гэта не мае ніякага ўплыву на імперскую адзінку \\\\\\\"міль/гадзіну\\\\\\\"."
 
 msgid "Select the preferred weather service to supply the weather information."
 msgstr "Выберыце патрэбную службу надвор'я для прадастаўлення інфармацыі пра надвор'е."

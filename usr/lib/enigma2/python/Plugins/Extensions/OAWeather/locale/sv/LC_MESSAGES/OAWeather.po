@@ -103,10 +103,10 @@ msgid "Enter a personalized API key v2.5 for use with OpenWeatherMap (https://op
 msgstr "Ange en personlig API-nyckel v2.5 för användning med OpenWeatherMap (https://openweathermap.org/)."
 
 msgid "Enter city name (e.g. 'Rome, IT')"
-msgstr "Ange stadsnamn (t.ex. "Rom, IT")"
+msgstr "Ange stadsnamn (t.ex. \\\\\\\"Rom, IT\\\\\\\")"
 
 msgid "Enter the location for your weather forecasts. To include your location, expand your favorites list with 'Manage your favorites'."
-msgstr "Ange platsen för dina väderprognoser. För att inkludera din plats utökar du din favoritlista med "Hantera dina favoriter"."
+msgstr "Ange platsen för dina väderprognoser. För att inkludera din plats utökar du din favoritlista med \\\\\\\"Hantera dina favoriter\\\\\\\"."
 
 msgid "Error adding location"
 msgstr "Det gick inte att lägga till plats"
@@ -247,10 +247,10 @@ msgid "Save"
 msgstr "Spara"
 
 msgid "Select 'Yes' to enable add debug output to log."
-msgstr "Välj "Ja" för att aktivera lägg till felsökningsutdata i loggen."
+msgstr "Välj \\\\\\\"Ja\\\\\\\" för att aktivera lägg till felsökningsutdata i loggen."
 
 msgid "Select 'Yes' to enable the addition of Weather."
-msgstr "Välj "Ja" för att aktivera tillägg av Väder."
+msgstr "Välj \\\\\\\"Ja\\\\\\\" för att aktivera tillägg av Väder."
 
 msgid "Select location"
 msgstr "Välj plats"
@@ -298,7 +298,7 @@ msgid "Southwest"
 msgstr "Sydväst"
 
 msgid "Specify how often Weather retrieves its data from the server. 'Once' means the data will loaded only once after a GUI or system start."
-msgstr "Ange hur ofta Weather hämtar sin data från servern. "En gång" betyder att data endast laddas en gång efter att ett GUI eller system startar."
+msgstr "Ange hur ofta Weather hämtar sin data från servern. \\\\\\\"En gång\\\\\\\" betyder att data endast laddas en gång efter att ett GUI eller system startar."
 
 msgid "Standard fertig"
 msgstr "Standard färdig"

@@ -110,7 +110,7 @@ msgid "Enter city name (e.g. 'Rome, IT')"
 msgstr "Skriv inn bynavn (f.eks. Roma, IT)"
 
 msgid "Enter the location for your weather forecasts. To include your location, expand your favorites list with 'Manage your favorites'."
-msgstr "Angi plasseringen for værmeldingene dine. For å inkludere posisjonen din, utvide favorittlisten din med "Administrer favorittene dine"."
+msgstr "Angi plasseringen for værmeldingene dine. For å inkludere posisjonen din, utvide favorittlisten din med \\\\\\\"Administrer favorittene dine\\\\\\\"."
 
 msgid "Error adding location"
 msgstr "Feil ved å legge til plassering"
@@ -251,10 +251,10 @@ msgid "Save"
 msgstr "Spare"
 
 msgid "Select 'Yes' to enable add debug output to log."
-msgstr "Velg "Ja" for å aktivere legg til feilsøkingsutdata i loggen."
+msgstr "Velg \\\\\\\"Ja\\\\\\\" for å aktivere legg til feilsøkingsutdata i loggen."
 
 msgid "Select 'Yes' to enable the addition of Weather."
-msgstr "Velg "Ja" for å aktivere tillegg av Vær."
+msgstr "Velg \\\\\\\"Ja\\\\\\\" for å aktivere tillegg av Vær."
 
 #, fuzzy
 msgid "Select location"
@@ -303,7 +303,7 @@ msgid "Southwest"
 msgstr "Sørvest"
 
 msgid "Specify how often Weather retrieves its data from the server. 'Once' means the data will loaded only once after a GUI or system start."
-msgstr "Angi hvor ofte Weather henter dataene sine fra serveren. "En gang" betyr at dataene lastes bare én gang etter en GUI eller systemstart."
+msgstr "Angi hvor ofte Weather henter dataene sine fra serveren. \\\\\\\"En gang\\\\\\\" betyr at dataene lastes bare én gang etter en GUI eller systemstart."
 
 msgid "Standard fertig"
 msgstr "Standard ferdig"
