@@ -110,7 +110,7 @@ msgid "Enter a personalized API key v2.5 for use with OpenWeatherMap (https://op
 msgstr "Anna henkilökohtainen API-avain käytettäväksi OpenWeatherMapin kanssa (https://openweathermap.org/)."
 
 msgid "Enter city name (e.g. 'Rome, IT')"
-msgstr "Anna kaupungin nimi (esim. \\\\\\\"Rooma, IT\\\\\\\")"
+msgstr "Anna kaupungin nimi (esim. \\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\"Rooma, IT\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\")"
 
 msgid "Enter the location for your weather forecasts. To include your location, expand your favorites list with 'Manage your favorites'."
 msgstr "Anna sääennustesi sijainti. Jos haluat sisällyttää sijaintisi, laajenna suosikkiluetteloasi valitsemalla Hallinnoi suosikkejasi."
@@ -278,7 +278,7 @@ msgid "Select the detail level in the detail view. You have the choice between a
 msgstr "Valitse yksityiskohtataso tietonäkymästä. Voit valita kattavan esityksen pienemmällä kirjasimella tai supistetun esityksen suuremmalla fontilla."
 
 msgid "Select the metric unit for wind speed to be used for wind displays. This has no effect on the imperial unit 'mph'."
-msgstr "Valitse tuulen nopeuden metriyksikkö, jota käytetään tuulinäytöissä. Tällä ei ole vaikutusta keisarilliseen yksikköön \\\\\\\"mph\\\\\\\"."
+msgstr "Valitse tuulen nopeuden metriyksikkö, jota käytetään tuulinäytöissä. Tällä ei ole vaikutusta keisarilliseen yksikköön \\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\"mph\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\"."
 
 msgid "Select the preferred weather service to supply the weather information."
 msgstr "Valitse haluamasi sääpalvelun toimittamat säätiedot."

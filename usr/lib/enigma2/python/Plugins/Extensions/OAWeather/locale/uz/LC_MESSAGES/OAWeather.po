@@ -36,7 +36,7 @@ msgid "Choose the icon set. You need to create an additional set here: /usr/shar
 msgstr "Belgilar to'plamini tanlang. Bu yerda qoʻshimcha toʻplam yaratishingiz kerak: /usr/share/enigma2/WeatherIconSets/NAME."
 
 msgid "Choose whether the 'night switch' should be activated or not. Some icons are then displayed as night icons with moon."
-msgstr "\\\\\\\"Tungi o'tish\\\\\\\" faollashtiriladimi yoki yo'qligini tanlang. Keyin ba'zi piktogrammalar oy bilan tungi piktogramma sifatida ko'rsatiladi."
+msgstr "\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\"Tungi o'tish\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\" faollashtiriladimi yoki yo'qligini tanlang. Keyin ba'zi piktogrammalar oy bilan tungi piktogramma sifatida ko'rsatiladi."
 
 msgid "Chose favorite"
 msgstr "Sevimlini tanlang"
@@ -249,7 +249,7 @@ msgid "Select 'Yes' to enable add debug output to log."
 msgstr "Jurnalga disk raskadrovka chiqishini qo‘shishni yoqish uchun “Ha” ni tanlang."
 
 msgid "Select 'Yes' to enable the addition of Weather."
-msgstr "Ob-havo qo'shilishini yoqish uchun \\\\\\\"Ha\\\\\\\" ni tanlang."
+msgstr "Ob-havo qo'shilishini yoqish uchun \\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\"Ha\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\" ni tanlang."
 
 msgid "Select location"
 msgstr "Joyni tanlang"
@@ -261,7 +261,7 @@ msgid "Select the detail level in the detail view. You have the choice between a
 msgstr "Tafsilotlar ko'rinishida tafsilotlar darajasini tanlang. Sizda kichikroq shriftdagi keng qamrovli taqdimot va kattaroq shriftli qisqartirilgan taqdimot o'rtasida tanlov mavjud."
 
 msgid "Select the metric unit for wind speed to be used for wind displays. This has no effect on the imperial unit 'mph'."
-msgstr "Shamol ko'rsatkichlari uchun shamol tezligi uchun metrik birlikni tanlang. Bu imperatorning \\\\\\\"mph\\\\\\\" birligiga ta'sir qilmaydi."
+msgstr "Shamol ko'rsatkichlari uchun shamol tezligi uchun metrik birlikni tanlang. Bu imperatorning \\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\"mph\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\" birligiga ta'sir qilmaydi."
 
 msgid "Select the preferred weather service to supply the weather information."
 msgstr "Ob-havo ma'lumotlarini taqdim etish uchun afzal qilingan ob-havo xizmatini tanlang."
@@ -297,7 +297,7 @@ msgid "Southwest"
 msgstr "Janubi-g'arbiy"
 
 msgid "Specify how often Weather retrieves its data from the server. 'Once' means the data will loaded only once after a GUI or system start."
-msgstr "Ob-havo maʼlumotlarini serverdan qanchalik tez-tez olishini belgilang. \\\\\\\"Bir marta\\\\\\\" ma'lumotlar GUI yoki tizim ishga tushirilgandan keyin faqat bir marta yuklanishini anglatadi."
+msgstr "Ob-havo maʼlumotlarini serverdan qanchalik tez-tez olishini belgilang. \\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\"Bir marta\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\" ma'lumotlar GUI yoki tizim ishga tushirilgandan keyin faqat bir marta yuklanishini anglatadi."
 
 msgid "Standard fertig"
 msgstr "Standart yakunlandi"

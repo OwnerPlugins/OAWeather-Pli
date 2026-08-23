@@ -113,7 +113,7 @@ msgid "Enter city name (e.g. 'Rome, IT')"
 msgstr "Fut emrin e qytetit (p.sh. 'Rome, IT')"
 
 msgid "Enter the location for your weather forecasts. To include your location, expand your favorites list with 'Manage your favorites'."
-msgstr "Vendosni vendndodhjen për parashikimet tuaja të motit. Për të përfshirë vendndodhjen tuaj, zgjeroni listën tuaj të të preferuarave me \\\\\\\"Menaxho të preferuarat e tua\\\\\\\"."
+msgstr "Vendosni vendndodhjen për parashikimet tuaja të motit. Për të përfshirë vendndodhjen tuaj, zgjeroni listën tuaj të të preferuarave me \\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\"Menaxho të preferuarat e tua\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\"."
 
 msgid "Error adding location"
 msgstr "Gabim gjatë shtimit të vendndodhjes"
@@ -306,7 +306,7 @@ msgid "Southwest"
 msgstr "Jugperëndimore"
 
 msgid "Specify how often Weather retrieves its data from the server. 'Once' means the data will loaded only once after a GUI or system start."
-msgstr "Specifikoni sa shpesh Weather i merr të dhënat e tij nga serveri. \\\\\\\"Një herë\\\\\\\" do të thotë që të dhënat do të ngarkohen vetëm një herë pas fillimit të një GUI ose sistemi."
+msgstr "Specifikoni sa shpesh Weather i merr të dhënat e tij nga serveri. \\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\"Një herë\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\" do të thotë që të dhënat do të ngarkohen vetëm një herë pas fillimit të një GUI ose sistemi."
 
 msgid "Standard fertig"
 msgstr "Standard i përfunduar"

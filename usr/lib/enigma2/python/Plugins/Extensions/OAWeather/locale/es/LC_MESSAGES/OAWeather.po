@@ -267,11 +267,11 @@ msgstr "Ahorrar"
 
 #, fuzzy
 msgid "Select 'Yes' to enable add debug output to log."
-msgstr "Seleccione \\\\\\\\\\\\\\\"Sí\\\\\\\\\\\\\\\" para activar la adición de MetrixWeather a la pantalla de la barra de información."
+msgstr "Seleccione \\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\"Sí\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\" para activar la adición de MetrixWeather a la pantalla de la barra de información."
 
 #, fuzzy
 msgid "Select 'Yes' to enable the addition of Weather."
-msgstr "Seleccione \\\\\\\\\\\\\\\"Sí\\\\\\\\\\\\\\\" para activar la adición de MetrixWeather a la pantalla de la barra de información."
+msgstr "Seleccione \\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\"Sí\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\" para activar la adición de MetrixWeather a la pantalla de la barra de información."
 
 #, fuzzy
 msgid "Select location"
@@ -321,7 +321,7 @@ msgstr "Suroeste"
 
 #, fuzzy
 msgid "Specify how often Weather retrieves its data from the server. 'Once' means the data will loaded only once after a GUI or system start."
-msgstr "Especifique la frecuencia con la que MetrixWeather recupera sus datos del servidor. Una vez\\\\\\\\\\\\\\\" significa que los datos se cargarán sólo una vez después de un inicio de la GUI o del sistema."
+msgstr "Especifique la frecuencia con la que MetrixWeather recupera sus datos del servidor. Una vez\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\" significa que los datos se cargarán sólo una vez después de un inicio de la GUI o del sistema."
 
 msgid "Standard fertig"
 msgstr "Acabado estándar"

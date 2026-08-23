@@ -109,10 +109,10 @@ msgid "Enter a personalized API key v2.5 for use with OpenWeatherMap (https://op
 msgstr "Inserisci una chiave API personalizzata da utilizzare con OpenWeatherMap (https://openweathermap.org/)."
 
 msgid "Enter city name (e.g. 'Rome, IT')"
-msgstr "Inserisci il nome della città (ad esempio \\\\\\\\\\\\\\\"Roma, IT\\\\\\\\\\\\\\\")"
+msgstr "Inserisci il nome della città (ad esempio \\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\"Roma, IT\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\")"
 
 msgid "Enter the location for your weather forecasts. To include your location, expand your favorites list with 'Manage your favorites'."
-msgstr "Inserisci la località per le tue previsioni meteo. Per includere la tua posizione, espandi l'elenco dei preferiti con \\\\\\\"Gestisci i tuoi preferiti\\\\\\\"."
+msgstr "Inserisci la località per le tue previsioni meteo. Per includere la tua posizione, espandi l'elenco dei preferiti con \\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\"Gestisci i tuoi preferiti\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\"."
 
 msgid "Error adding location"
 msgstr "Errore durante l'aggiunta della posizione"
@@ -269,7 +269,7 @@ msgid "Select the detail level in the detail view. You have the choice between a
 msgstr "Selezionare il livello di dettaglio nella visualizzazione dei dettagli. Puoi scegliere tra una presentazione completa con un carattere più piccolo e una presentazione ridotta con un carattere più grande."
 
 msgid "Select the metric unit for wind speed to be used for wind displays. This has no effect on the imperial unit 'mph'."
-msgstr "Selezionare l'unità metrica per la velocità del vento da utilizzare per la visualizzazione del vento. Ciò non ha alcun effetto sull'unità imperiale \\\\\\\"mph\\\\\\\"."
+msgstr "Selezionare l'unità metrica per la velocità del vento da utilizzare per la visualizzazione del vento. Ciò non ha alcun effetto sull'unità imperiale \\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\"mph\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\"."
 
 msgid "Select the preferred weather service to supply the weather information."
 msgstr "Seleziona il servizio meteo preferito per fornire le informazioni meteo."

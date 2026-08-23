@@ -106,7 +106,7 @@ msgid "Enter city name (e.g. 'Rome, IT')"
 msgstr "Unesite naziv grada (npr. 'Rim, IT')"
 
 msgid "Enter the location for your weather forecasts. To include your location, expand your favorites list with 'Manage your favorites'."
-msgstr "Unesite lokaciju za svoju vremensku prognozu. Da biste uključili svoju lokaciju, proširite svoj popis favorita pomoću opcije \\\\\\\"Upravljajte svojim favoritima\\\\\\\"."
+msgstr "Unesite lokaciju za svoju vremensku prognozu. Da biste uključili svoju lokaciju, proširite svoj popis favorita pomoću opcije \\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\"Upravljajte svojim favoritima\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\"."
 
 msgid "Error adding location"
 msgstr "Pogreška pri dodavanju lokacije"

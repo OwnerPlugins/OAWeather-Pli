@@ -36,7 +36,7 @@ msgid "Choose the icon set. You need to create an additional set here: /usr/shar
 msgstr "Trieu el conjunt d'icones. Heu de crear un conjunt addicional aquí: /usr/share/enigma2/WeatherIconSets/NAME."
 
 msgid "Choose whether the 'night switch' should be activated or not. Some icons are then displayed as night icons with moon."
-msgstr "Trieu si l'\\\\\\\"interruptor nocturn\\\\\\\" s'ha d'activar o no. Algunes icones es mostren com a icones nocturnes amb la lluna."
+msgstr "Trieu si l'\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\"interruptor nocturn\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\" s'ha d'activar o no. Algunes icones es mostren com a icones nocturnes amb la lluna."
 
 msgid "Chose favorite"
 msgstr "Trieu preferit"
@@ -102,10 +102,10 @@ msgid "Enter a personalized API key v2.5 for use with OpenWeatherMap (https://op
 msgstr "Introduïu una clau API personalitzada v2.5 per utilitzar-la amb OpenWeatherMap (https://openweathermap.org/)."
 
 msgid "Enter city name (e.g. 'Rome, IT')"
-msgstr "Introduïu el nom de la ciutat (p. ex., \\\\\\\"Roma, IT\\\\\\\")"
+msgstr "Introduïu el nom de la ciutat (p. ex., \\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\"Roma, IT\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\")"
 
 msgid "Enter the location for your weather forecasts. To include your location, expand your favorites list with 'Manage your favorites'."
-msgstr "Introduïu la ubicació de les vostres previsions meteorològiques. Per incloure la teva ubicació, amplia la teva llista de preferits amb \\\\\\\"Gestiona els teus favorits\\\\\\\"."
+msgstr "Introduïu la ubicació de les vostres previsions meteorològiques. Per incloure la teva ubicació, amplia la teva llista de preferits amb \\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\"Gestiona els teus favorits\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\"."
 
 msgid "Error adding location"
 msgstr "S'ha produït un error en afegir la ubicació"
@@ -246,10 +246,10 @@ msgid "Save"
 msgstr "Desa"
 
 msgid "Select 'Yes' to enable add debug output to log."
-msgstr "Seleccioneu \\\\\\\"Sí\\\\\\\" per habilitar afegir sortida de depuració al registre."
+msgstr "Seleccioneu \\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\"Sí\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\" per habilitar afegir sortida de depuració al registre."
 
 msgid "Select 'Yes' to enable the addition of Weather."
-msgstr "Seleccioneu \\\\\\\"Sí\\\\\\\" per activar l'afegit del temps."
+msgstr "Seleccioneu \\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\"Sí\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\" per activar l'afegit del temps."
 
 msgid "Select location"
 msgstr "Seleccioneu la ubicació"
@@ -297,7 +297,7 @@ msgid "Southwest"
 msgstr "Sud-oest"
 
 msgid "Specify how often Weather retrieves its data from the server. 'Once' means the data will loaded only once after a GUI or system start."
-msgstr "Especifiqueu la freqüència amb què Weather recupera les seves dades del servidor. \\\\\\\"Una vegada\\\\\\\" significa que les dades només es carregaran una vegada després de l'inici d'una GUI o del sistema."
+msgstr "Especifiqueu la freqüència amb què Weather recupera les seves dades del servidor. \\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\"Una vegada\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\" significa que les dades només es carregaran una vegada després de l'inici d'una GUI o del sistema."
 
 msgid "Standard fertig"
 msgstr "Acabat estàndard"

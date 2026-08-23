@@ -36,7 +36,7 @@ msgid "Choose the icon set. You need to create an additional set here: /usr/shar
 msgstr "Valige ikoonikomplekt. Siin peate looma täiendava komplekti: /usr/share/enigma2/WeatherIconSets/NAME."
 
 msgid "Choose whether the 'night switch' should be activated or not. Some icons are then displayed as night icons with moon."
-msgstr "Valige, kas \\\\\\\"öölüliti\\\\\\\" peaks olema aktiveeritud või mitte. Mõned ikoonid kuvatakse seejärel ööikoonidena koos kuuga."
+msgstr "Valige, kas \\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\"öölüliti\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\" peaks olema aktiveeritud või mitte. Mõned ikoonid kuvatakse seejärel ööikoonidena koos kuuga."
 
 msgid "Chose favorite"
 msgstr "Valis lemmiku"
@@ -106,7 +106,7 @@ msgid "Enter a personalized API key v2.5 for use with OpenWeatherMap (https://op
 msgstr "OpenWeatherMapiga kasutamiseks sisestage isikupärastatud API võti v2.5 (https://openweathermap.org/)."
 
 msgid "Enter city name (e.g. 'Rome, IT')"
-msgstr "Sisestage linna nimi (nt \\\\\\\"Rooma, IT\\\\\\\")"
+msgstr "Sisestage linna nimi (nt \\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\"Rooma, IT\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\")"
 
 msgid "Enter the location for your weather forecasts. To include your location, expand your favorites list with 'Manage your favorites'."
 msgstr "Sisestage oma ilmaprognooside asukoht. Oma asukoha lisamiseks laiendage oma lemmikute loendit valikuga „Halda oma lemmikuid”."
@@ -253,7 +253,7 @@ msgid "Select 'Yes' to enable add debug output to log."
 msgstr "Logi sisse silumisväljundi lisamise lubamiseks valige „Jah”."
 
 msgid "Select 'Yes' to enable the addition of Weather."
-msgstr "Valige \\\\\\\"Jah\\\\\\\", et lubada Ilma lisamine."
+msgstr "Valige \\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\"Jah\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\", et lubada Ilma lisamine."
 
 msgid "Select location"
 msgstr "Valige asukoht"

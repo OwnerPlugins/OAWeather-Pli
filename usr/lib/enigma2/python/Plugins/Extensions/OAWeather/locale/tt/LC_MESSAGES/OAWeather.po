@@ -261,7 +261,7 @@ msgid "Select the detail level in the detail view. You have the choice between a
 msgstr "Деталь күренештә деталь дәрәҗәсен сайлагыз. Сездә кечерәк шрифттагы комплекслы презентация белән зуррак шрифт белән кыскартылган презентация арасында сайлау мөмкинлеге бар."
 
 msgid "Select the metric unit for wind speed to be used for wind displays. This has no effect on the imperial unit 'mph'."
-msgstr "Windил күрсәтү өчен кулланыла торган җил тизлеге өчен метрик берәмлекне сайлагыз. Бу империя берәмлегенә \\\\\\\"миль\\\\\\\" тәэсир итми."
+msgstr "Windил күрсәтү өчен кулланыла торган җил тизлеге өчен метрик берәмлекне сайлагыз. Бу империя берәмлегенә \\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\"миль\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\" тәэсир итми."
 
 msgid "Select the preferred weather service to supply the weather information."
 msgstr "Weatherава торышы турында мәгълүмат бирү өчен өстенлекле һава торышын сайлагыз."
